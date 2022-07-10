@@ -1,0 +1,53 @@
+body {
+  font-family: 'Albert Sans', sans-serif;
+}
+
+.contentContainer {
+  margin-top: 70px !important;
+}
+
+.addressTag {
+  color: #C04024;
+  text-decoration: none;
+  padding-top: 5px;
+  font-size: 18px;
+}
+
+.socialMediaLinks {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
+  margin-left: -30px;
+}
+
+.fontSize36 {
+  font-size: 36px;
+}
+
+.fontSize25 {
+  font-size: 25px;
+}
+
+.whatsappColor {
+  color: #25D366;
+}
+
+.youtubeColor {
+  color: #ff0000;
+}
+
+.linkedinColor {
+  color: #0077b5;
+}
+
+.twitterColor {
+  color: #1da1f2;
+}
+
+.gmailColor {
+  color: #BB001B;
+}
+
+.infoSection {
+  padding-top: 40px;
+}
