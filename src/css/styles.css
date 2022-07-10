@@ -15,39 +15,56 @@ body {
 
 .socialMediaLinks {
   display: flex;
-  justify-content: space-evenly;
+  /* justify-content: space-evenly; */
   padding-top: 20px;
-  margin-left: -30px;
+  /* margin-left: -30px; */
+}
+
+.paddingLeft10 {
+  padding-left: 10px;
+}
+
+.profileName {
+  font-size: 35px;
 }
 
 .fontSize36 {
   font-size: 36px;
 }
 
-.fontSize25 {
-  font-size: 25px;
-}
-
-.whatsappColor {
-  color: #25D366;
-}
-
-.youtubeColor {
-  color: #ff0000;
+.profileDesc {
+  font-size: 23px;
 }
 
 .linkedinColor {
-  color: #0077b5;
+  background-color: #463EE3;
+  border-color: #463EE3;
 }
 
 .twitterColor {
-  color: #1da1f2;
+  background-color: #0077b5;
+  border-color: #0077b5;
 }
 
 .gmailColor {
-  color: #BB001B;
+  background-color: #BB001B;
+  border-color: #BB001B;
+}
+
+.scholarColor {
+  background-color: #7C7C79;
+  border-color: #7C7C79;
 }
 
 .infoSection {
   padding-top: 40px;
+}
+
+.buttonLineHeight {
+  line-height: 1 !important;
+}
+
+.curriculumVitae {
+  background-color: #4F8C1C !important;
+  border-color: #4F8C1C !important;
 }

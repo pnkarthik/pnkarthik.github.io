@@ -9,18 +9,18 @@ const Home = () => {
         <div class="row col-12 p-0 m-0">
           <div class="col-md-4"><img src={ProfileImage} alt="" width="215px" height="300px" /></div>
           <div class="d-flex flex-column col-md-6">
-            <span class="fontSize36">P. N. Karthik</span>
-            <span class="fontSize25">Research Fellow,</span>
-            <span class="fontSize25">Institute of Data Science,</span>
-            <span class="fontSize25">National University of Singapore</span>
+            <span class="profileName">P. N. Karthik</span>
+            <span class="profileDesc">Research Fellow,</span>
+            <span class="profileDesc">Institute of Data Science,</span>
+            <span class="profileDesc">National University of Singapore</span>
             <a href="https://goo.gl/maps/XJmF4WL223HnTcrWA" target="_blank" class="addressTag" rel="noopener noreferrer">06-12, Block E4, Engineering Drive 3,
               National University of Singapore
               Singapore 117583</a>
             <div class="fa-2xl socialMediaLinks">
-              <a href="mailto:karthik@nus.edu.sg"><i class="fa fa-envelope gmailColor"></i></a>
-              <a href="https://www.linkedin.com/in/pnkarthik/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin linkedinColor"></i></a>
-              <a href="https://www.youtube.com/channel/UCK2ogVOxtEXzCmMWT4DsaNw" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-youtube youtubeColor"></i></a>
-              <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4lrq7BxwkcnHZtGOnaSDEMBKjl2L2R9_V87cSPMkeXAuIS1GhjaxhV_xHcvmneVgkm1U9TA8Q2NH3mW3H4pbhjxzjV2Xgouv7sD7Kbl4l8JoFYOcw&user=D39u7bkAAAAJ" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-graduation-cap"></i></a>
+              <a href="mailto:karthik@nus.edu.sg"><button type="button" className="btn btn-primary buttonLineHeight gmailColor">email me</button></a>
+              <a href="https://www.linkedin.com/in/pnkarthik/" target="_blank" rel="noopener noreferrer" className="paddingLeft10"><button type="button" className="btn btn-primary buttonLineHeight linkedinColor">linkedin</button></a>
+              <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4lrq7BxwkcnHZtGOnaSDEMBKjl2L2R9_V87cSPMkeXAuIS1GhjaxhV_xHcvmneVgkm1U9TA8Q2NH3mW3H4pbhjxzjV2Xgouv7sD7Kbl4l8JoFYOcw&user=D39u7bkAAAAJ" target="_blank" rel="noopener noreferrer" className="paddingLeft10"><button type="button" className="btn btn-primary buttonLineHeight scholarColor">scholar</button></a>
+              <a href={process.env.PUBLIC_URL + '/cv/pnkarthik-cv.pdf'} target="_blank" rel="noopener noreferrer" className="paddingLeft10"><button type="button" className="btn btn-primary buttonLineHeight curriculumVitae">cv</button></a>
             </div>
           </div>
           <div>
