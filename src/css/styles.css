@@ -2,6 +2,15 @@ body {
   font-family: 'Albert Sans', sans-serif;
 }
 
+a {
+  color: #C04024;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #C04024;
+}
+
 .contentContainer {
   margin-top: 70px !important;
 }
@@ -13,11 +22,14 @@ body {
   font-size: 18px;
 }
 
+.addressTag:hover {
+  color: #C04024;
+}
+
 .socialMediaLinks {
   display: flex;
-  /* justify-content: space-evenly; */
   padding-top: 20px;
-  /* margin-left: -30px; */
+  white-space: nowrap;
 }
 
 .paddingLeft10 {
@@ -33,25 +45,20 @@ body {
 }
 
 .profileDesc {
-  font-size: 23px;
+  font-size: 21px;
 }
 
-.linkedinColor {
+.linkedinColor, .linkedinColor:hover {
   background-color: #463EE3;
   border-color: #463EE3;
 }
 
-.twitterColor {
-  background-color: #0077b5;
-  border-color: #0077b5;
+.gmailColor, .gmailColor:hover {
+  background-color: #ec971f;
+  border-color: #ec971f;
 }
 
-.gmailColor {
-  background-color: #BB001B;
-  border-color: #BB001B;
-}
-
-.scholarColor {
+.scholarColor, .scholarColor:hover {
   background-color: #7C7C79;
   border-color: #7C7C79;
 }
@@ -62,9 +69,72 @@ body {
 
 .buttonLineHeight {
   line-height: 1 !important;
+  font-size: 13px;
 }
 
 .curriculumVitae {
   background-color: #4F8C1C !important;
   border-color: #4F8C1C !important;
+}
+
+.sectionContainer {
+  padding-top: 30px;
+  align-items: baseline;
+}
+
+.contentFontSize {
+  font-size: 16px;
+}
+
+.headingBar {
+  color: red;
+  border-radius: 10px;
+  height: 10px !important;
+  opacity: 1 !important;
+  margin: 0;
+}
+
+.headingFontSize {
+  font-size: 28px;
+}
+
+.dateColor {
+  background-color: brown !important;
+  font-size: 11px;
+}
+
+.alignBaseline {
+  align-items: baseline;
+}
+
+.badgePadding {
+  padding-right: 10px;
+}
+
+.boldColor {
+  color: blue;
+}
+
+.contentPadding {
+  padding-right: 10px;
+}
+
+.newsContainer {
+  align-items: baseline;
+  padding-bottom: 8px;
+}
+
+.newsContentPadding {
+  padding-left: 10px;
+}
+
+@media only screen and (min-width: 1780px) {
+  .dateContainer {
+    flex: 0 0 auto;
+    width: 8.33333333%;
+  }
+}
+
+.nav-item {
+  padding-left: 10px !important;
 }

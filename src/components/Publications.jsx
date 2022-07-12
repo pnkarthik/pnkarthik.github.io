@@ -3,9 +3,9 @@ import "../css/styles.css";
 
 const Publications = () => {
   return (
-    <div class="contentContainer">
-      <div class="container col-md-6">
-        <span class="fontSize36">Publications</span>
+    <div className="contentContainer">
+      <div className="container col-md-6">
+        <span className="fontSize36">Publications</span>
       </div>
     </div>
   );
