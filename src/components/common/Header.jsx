@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
@@ -9,12 +10,12 @@ const Header = () => {
         </button>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <div className="navbar-nav ms-auto">
-            <a className="nav-item nav-link" href="/">Home</a>
-            <a className="nav-item nav-link" href="/">Bio</a>
-            <a className="nav-item nav-link" href="/publications">Publications</a>
-            <a className="nav-item nav-link" href="/">Talks/Seminars</a>
+            <Link to="/" className="nav-item nav-link">Home</Link>
+            {/* <a className="nav-item nav-link" href="/">Bio</a> */}
+            <Link to="/publications" className="nav-item nav-link">Publications</Link>
+            {/* <a className="nav-item nav-link" href="/">Talks/Seminars</a>
             <a className="nav-item nav-link" href="/">Teaching</a>
-            <a className="nav-item nav-link" href="/">Blogs</a>
+            <a className="nav-item nav-link" href="/">Blogs</a> */}
           </div>
         </div>
       </nav>
