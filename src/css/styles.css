@@ -1,5 +1,5 @@
 body {
-  font-family: 'Albert Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 a {
@@ -137,4 +137,20 @@ a:hover {
 
 .nav-item {
   padding-left: 10px !important;
+}
+
+.nameFontColor, .nameFontColor:hover {
+  color: green;
+}
+
+.abstractMargin {
+  margin-right: 10px;
+}
+
+.abstractContentPadding {
+  padding-top: 10px;
+}
+
+.abstractBadge:hover {
+  cursor: pointer;
 }

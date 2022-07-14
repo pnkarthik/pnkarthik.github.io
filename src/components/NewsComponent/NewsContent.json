@@ -16,7 +16,7 @@
   },
   {
     "date":"13 Dec 2021",
-    "content": "Won the <span class=\"boldColor\"><strong>first place</strong></span> under the Electronics and Communication Engineering category in the 100 seconds competition organised by INAE Kanpur Chapter.",
+    "content": "Won the <span class=\"boldColor\">first place</span> under the Electronics and Communication Engineering category in the 100 seconds competition organised by INAE Kanpur Chapter.",
     "badgesData": [
       {
         "badgeName": "certificate",
@@ -52,11 +52,11 @@
     ]
   },
   {
-    "date": "4 Aug 2021",
+    "date": "04 Aug 2021",
     "content": "Accepted to the Institute of Data Science, National University of Singapore, as a Research Fellow."
   },
   {
-    "date":"23 June 2021",
+    "date":"23 Jun 2021",
     "content": "Presented my PhD colloquium talk via Microsoft Teams.",
     "badgesData": [
       {
@@ -80,11 +80,11 @@
     "content": "My paper with Rajesh Sundaresan, titled <em>Detecting an Odd Restless Arm with a Trembling Hand</em>, accepted for publication in the IEEE Transactions on Information Theory."
   },
   {
-    "date": "6 Feb 2021",
+    "date": "06 Feb 2021",
     "content": "New <a href=\"https://karthikpn.com/raman-and-his-inner-clock/\" target=\"_blank\" rel=\"noopener noreferrer\">blog post</a> on Sir C. V. Raman’s sense of time."
   },
   {
-    "date": "20 June 2020",
+    "date": "20 Jun 2020",
     "content": "My paper with Rajesh Sundaresan, titled <em>Learning to Detect an Odd Markov Arm</em>, published in the July issue of the IEEE Transactions on Information Theory.",
     "badgesData": [
       {
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "date":"09 June 2020",
+    "date":"09 Jun 2020",
     "content": "Video and slides of the virtual presentation for ISIT 2020 now up on the website.",
     "badgesData": [
       {

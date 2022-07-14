@@ -7,7 +7,7 @@ import {
 import Bio from "./Bio";
 import Header from "./common/Header";
 import Home from "./Home";
-import Publications from "./Publications";
+import Publications from "./PublicationsComponent";
 
 const App = () => {
   return (

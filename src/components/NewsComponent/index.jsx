@@ -11,6 +11,7 @@ const NewsContent = () => {
         badgeColor = "#6495ED";
         break;
       case 'paper':
+      case 'thesis':
         badgeColor = "#9FE2BF";
         break;
       case 'xplore':
@@ -18,7 +19,6 @@ const NewsContent = () => {
         break;
       case 'slides':
       case 'certificate':
-      case 'thesis':
         badgeColor = "#BDB76B";
         break;
       case 'video':
@@ -40,7 +40,7 @@ const NewsContent = () => {
         {NewsData.map((d, index) => {
           return (
             <div key={index} className="d-flex flex-row newsContainer">
-              <div className="badge rounded-pill dateColor col-sm-2 col-4 dateContainer p-1">{d.date}</div>
+              <div className="badge rounded-pill dateColor col-sm-2 col- dateContainer p-1">{d.date}</div>
               <span className="contentFontSize newsContentPadding">
                 <span dangerouslySetInnerHTML={ {__html: DOMPurify.sanitize(d.content)} } className="contentPadding"></span>
                 {d.badgesData && d.badgesData.map((badge, index) => {
