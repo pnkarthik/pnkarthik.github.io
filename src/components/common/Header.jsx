@@ -10,7 +10,7 @@ const Header = () => {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <div className="navbar-nav ms-auto">
             <a className="nav-item nav-link" href="/">Home</a>
-            <a className="nav-item nav-link" href="/bio">Bio</a>
+            <a className="nav-item nav-link" href="/">Bio</a>
             <a className="nav-item nav-link" href="/publications">Publications</a>
             <a className="nav-item nav-link" href="/">Talks/Seminars</a>
             <a className="nav-item nav-link" href="/">Teaching</a>
