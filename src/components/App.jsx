@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  BrowserRouter as Router,
+  HashRouter,
   Routes,
   Route,
 } from "react-router-dom";
@@ -11,7 +11,7 @@ import Publications from "./Publications";
 
 const App = () => {
   return (
-    <Router>
+    <HashRouter>
       <Header />
       <div className="contentContainer">
         <div className="container col-md-12 col-lg-8">
@@ -22,7 +22,7 @@ const App = () => {
           </Routes>
         </div>
       </div>
-    </Router>
+    </HashRouter>
   );
 };
 
