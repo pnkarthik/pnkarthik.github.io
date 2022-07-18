@@ -19,7 +19,7 @@ a:hover {
   color: #C04024;
   text-decoration: none;
   padding-top: 5px;
-  font-size: 18px;
+  /* font-size: 18px; */
 }
 
 .addressTag:hover {
@@ -153,4 +153,16 @@ a:hover {
 
 .abstractBadge:hover {
   cursor: pointer;
+}
+
+.seminarDateMargin {
+  margin-right: 10px;
+}
+
+.seminarsContainerPadding {
+  padding-bottom: 10px;
+}
+
+.seminarsContentPadding {
+  padding: 5px 0px;
 }

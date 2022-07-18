@@ -4,10 +4,11 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
-import Bio from "./Bio";
+// import Bio from "./Bio";
 import Header from "./common/Header";
 import Home from "./Home";
-import Publications from "./Publications";
+import Publications from "./PublicationsComponent/index";
+import TalksAndSeminars from "./TalksAndSeminars";
 
 const App = () => {
   return (
@@ -18,7 +19,8 @@ const App = () => {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/publications" element={<Publications />} />
-            <Route path="/bio" element={<Bio />} />
+            <Route path="/talksAndSeminars" element={<TalksAndSeminars />} />
+            {/* <Route path="/bio" element={<Bio />} /> */}
           </Routes>
         </div>
       </div>
