@@ -9,6 +9,7 @@ import Header from "./common/Header";
 import Home from "./Home";
 import Publications from "./PublicationsComponent/index";
 import TalksAndSeminars from "./TalksAndSeminars";
+import TeachingComponent from "./TeachingComponent";
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
             <Route path="/" element={<Home />} />
             <Route path="/publications" element={<Publications />} />
             <Route path="/talksAndSeminars" element={<TalksAndSeminars />} />
+            <Route path="/teaching" element={<TeachingComponent />} />
             {/* <Route path="/bio" element={<Bio />} /> */}
           </Routes>
         </div>

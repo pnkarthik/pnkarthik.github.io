@@ -15,7 +15,6 @@ const TalksAndSeminars = () => {
               </div>
               <div className="col-md-10">
                 <span className="headingFontSize">{year}</span>
-                {/* <ul> */}
                   {data[year].map((d, index1) => {
                     return (
                       <div key={index1} className="seminarsContentPadding">
@@ -31,7 +30,6 @@ const TalksAndSeminars = () => {
                       </div>
                     )
                   })}
-                {/* </ul> */}
               </div>
             </div>
           );

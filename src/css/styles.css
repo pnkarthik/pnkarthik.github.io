@@ -166,3 +166,33 @@ a:hover {
 .seminarsContentPadding {
   padding: 5px 0px;
 }
+
+.noteTitlePadding {
+  padding-right: 10px;
+}
+
+.tableCellPadding {
+  padding: 10px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tr { 
+  border: solid;
+  border-width: 1px 0;
+}
+
+.tablePadding {
+  margin-top: 10px;
+}
+
+.notesTitle {
+  padding-top: 10px;
+  font-size: 24px;
+}
+
+.teachingCourse {
+  font-size: 21px;
+}
