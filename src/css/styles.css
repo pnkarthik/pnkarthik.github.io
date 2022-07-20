@@ -196,3 +196,11 @@ tr {
 .teachingCourse {
   font-size: 21px;
 }
+
+.eduElementPadding {
+  padding-bottom: 10px;
+}
+
+.logoImagePadding {
+  margin-right: 30px;
+}

@@ -3,10 +3,11 @@ import "../../css/styles.css";
 import data from "./Publications.json";
 import Publication from "./Publication";
 import { getBadgeColor } from "../../utility";
+import { MathJax } from "better-react-mathjax";
 
 const Publications = () => {
   return (
-    <>
+    <MathJax>
       <div className="row alignBaseline">
         <div className="col-md-2">
           <hr className="headingBar col-md-8" />
@@ -17,7 +18,7 @@ const Publications = () => {
         </div>
       </div>
       <Publication heading="Preprints" data={data.preprints} getBadgeColor={getBadgeColor} />
-      <div className="row alignBaseline">
+      <div className="row alignBaseline" id="thesis">
         <div className="col-md-2">
           <hr className="headingBar col-md-8" />
         </div>
@@ -83,7 +84,7 @@ const Publications = () => {
       </div>
       <Publication heading="Journal Publications" data={data.journals} getBadgeColor={getBadgeColor} />
       <Publication heading="Conference Publications" data={data.conferencePublications} getBadgeColor={getBadgeColor} />
-    </>
+    </MathJax>
   );
 };
 

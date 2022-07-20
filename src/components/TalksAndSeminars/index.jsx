@@ -3,10 +3,11 @@ import data from "./TalksAndSeminarsData.json";
 import "../../css/styles.css";
 import parse from 'html-react-parser';
 import { getBadgeColor } from "../../utility";
+import { MathJax } from "better-react-mathjax";
 
 const TalksAndSeminars = () => {
   return (
-    <div>
+    <MathJax>
         {Object.keys(data).sort().reverse().map((year, index) => {
           return (
             <div className="row alignBaseline seminarsContainerPadding" key={index}>
@@ -18,7 +19,7 @@ const TalksAndSeminars = () => {
                   {data[year].map((d, index1) => {
                     return (
                       <div key={index1} className="seminarsContentPadding">
-                        <span class="badge rounded-pill dateColor seminarDateMargin col-sm-2 col-4 dateContainer">{d.date}</span>
+                        <span class="badge rounded-pill dateColor seminarDateMargin">{d.date}</span>
                         <span className="contentPadding">{parse(d.title)}</span>
                         {d.badgesData && d.badgesData.map((badge, index) => {
                           return (
@@ -34,7 +35,7 @@ const TalksAndSeminars = () => {
             </div>
           );
         })}
-    </div>
+    </MathJax>
   );
 };
 
