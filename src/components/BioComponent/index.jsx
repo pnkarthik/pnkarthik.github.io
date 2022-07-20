@@ -2,7 +2,7 @@ import React from "react";
 import "../../css/styles.css";
 import data from "./Bio.json";
 import parse from 'html-react-parser';
-// import { getBadgeColor} from "../../utility"
+import { getBadgeColor} from "../../utility";
 
 const Bio = () => {
   return (
@@ -92,8 +92,17 @@ const Bio = () => {
           <ul>
             {data.awardsAndHonors.map((d, index) => {
               return (
-                <li key={index}>{d.title}</li>
-              );
+                <div>
+                  <li key={index}>
+                    <span className="contentPadding">{d.title}</span> 
+                    {d.badgesData && d.badgesData.map((badge, index) => {
+                    return (
+                      <a key={index} href={badge.link} target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge rounded-pill" style={{ backgroundColor: getBadgeColor(badge.badgeName) }}>{badge.badgeDisplayName}</span></a>
+                    )
+                  })} 
+                  </li> 
+                </div>
+               );
             })}
           </ul>
         </div>

@@ -60,12 +60,24 @@
     }
   ],
   "awardsAndHonors": [
-    {"title": "Winner of the '100 Seconds' competition (under the 'Electronics and Communication Engineering' category) organised by INAE Kanpur Chapter"},
-    {"title": "Best paper award at the 2020 EECS Research Students’ Symposium, IISc"},
-    {"title": "Best 3-minute presentation at the ECE Students’ Seminar Series, Dept. of ECE, IISc"},
-    {"title": "Ranked in the top 0.01% in the 2015 Graduate Aptitude Test in Engineering (GATE)"},
-    {"title": "Infineon India scholarship for securing the 2nd rank in the 2011 Visvesvaraya Technological University examinations, Dec. 2011"},
-    {"title": "Ranked in the top 0.02% in the 2010 Karnataka Common Entrance Test (KCET)"}
+    {"title": "Winner of the '100 Seconds' competition (under the 'Electronics and Communication Engineering' category) organised by INAE Kanpur Chapter",
+    "badgesData": [
+      {
+        "badgeName": "certificate",
+        "link": "https://karthikpn.com/wp-content/uploads/2021/12/INAE-100-seconds.pdf",
+        "badgeDisplayName": "certificate"
+      },
+      {
+        "badgeName": "video",
+        "link": "https://youtu.be/f9IxTny5FXU",
+        "badgeDisplayName": "100 seconds video"
+      }
+    ]},
+    {"title": "Best paper award at the 2020 EECS Research Students’ Symposium, Indian Institute of Science"},
+    {"title": "Best 3-minute presentation at the ECE Students’ Seminar Series, Department of Electrical Communication Engineering, Indian Institute of Science"},
+    {"title": "Secured rank 136 (among the top 0.01%) in the 2015 Graduate Aptitude Test in Engineering (GATE)"},
+    {"title": "Infineon India scholarship for securing rank 2 in the 2011 Visvesvaraya Technological University examinations"},
+    {"title": "Secured rank 23 (among the top 0.02%) in the 2010 Karnataka Common Entrance Test (KCET)"}
   ],
   "professionalService": [
     {"title": "Reviewer, IEEE Transactions on Information Theory"},
