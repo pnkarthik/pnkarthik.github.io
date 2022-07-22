@@ -1,5 +1,4 @@
 import React from "react";
-// import SocialShare from "../common/SocialShare";
 
 const RamanAndHisInnerClock = () => {
   return (
@@ -8,7 +7,6 @@ const RamanAndHisInnerClock = () => {
         <span className="blogTitle">Taming the Mind: Raman and his "Inner" Clock</span><br />
         <span className="badge rounded-pill dateColor p-1 blogDateMargin">06 Feb 2021</span>
       </div>
-      {/* <SocialShare title="Taming the Mind: Raman and his inner Clock" shareImage="https://karthikpn.com/wp-content/uploads/2021/02/Gilivindu_sceenshot-1024x491.png" /> */}
       <div className="blogContent">
         <p className="dropCap">
           This blog post is about an epoch-making event that brought to light the time-sense of a famous Nobel laureate. This blog post is about a man whose brain kept count of every passing second even with eyes closed. This blog post is about a man with an “inner” clock. This blog post is about <a href="https://en.wikipedia.org/wiki/C._V._Raman" target="_blank" rel="noopener noreferrer">Sir C. V. Raman</a>.
@@ -61,13 +59,13 @@ const RamanAndHisInnerClock = () => {
           <li>
             In <a href="https://www.youtube.com/watch?v=5s6qXazh6h8" target="_blank" rel="noopener noreferrer">this video</a>, Dr. Karajagi narrates the above incident in his unique narration style. The Kannada version of this video, which is more captivating to watch and listen to, is provided below.
             <div className="videoPadding">
-              <video controls src="https://karthikpn.com/wp-content/uploads/2021/02/Karajagi_narrating_Ramans_Story.mp4" className="w-100"></video>
+              <video controls src="../wp-content/uploads/2021/02/Karajagi_narrating_Ramans_Story.mp4" className="w-100"></video>
             </div>
           </li>
           <li>
             The <em>Gilivindu</em> program can be clearly seen in the below snapshot of AIR’s program list from the year 1957.
             <figure className="videoPadding">
-              <img src="https://karthikpn.com/wp-content/uploads/2021/02/Gilivindu_sceenshot-1024x491.png" alt="" className="w-100" />
+              <img src="../wp-content/uploads/2021/02/Gilivindu_sceenshot-1024x491.png" alt="" className="w-100" />
               <div className="text-center">
                 <figcaption><em>Pic courtesy: <a href="https://worldradiohistory.com/INTERNATIONAL/Indian-Listener/50s/The-Indian-Listener-1957-26-05-1957.pdf" target="_blank" rel="noopener noreferrer">This document</a></em></figcaption>
               </div>
