@@ -3,7 +3,7 @@
     {
       "date": "Mar 2022",
       "title": "<em>Behind the Scenes of $Ax=b$: Axioms and an Open Question</em>",
-      "description": "<span>A talk given to <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Prof. Vincent Tan</a>‘s research group</span>",
+      "description": "<span>A talk given to Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Tan</a>‘s research group</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -22,7 +22,7 @@
     {
       "date": "Nov 2021",
       "title": "<em>Sequential Controlled Sensing to Detect an Anomalous Process</em>",
-      "description": "<span>PhD defence, Department of ECE, IISc (conducted online via Microsoft Teams)</span>",
+      "description": "<span>Ph.D. defence, Department of ECE, IISc (conducted online via Microsoft Teams)</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -107,7 +107,7 @@
     {
       "date": "Jun 2021",
       "title": "<em>Sequential Controlled Sensing to Detect an Anomalous Process</em>",
-      "description": "<span>PhD colloquium talk, Department of ECE, IISc (conducted online via Microsoft Teams)</span>",
+      "description": "<span>Ph.D. colloquium talk, Department of ECE, IISc (conducted online via Microsoft Teams)</span>",
       "badgesData": [
         {
           "badgeName": "slides",

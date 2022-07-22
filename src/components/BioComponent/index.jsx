@@ -94,7 +94,7 @@ const Bio = () => {
               return (
                 <div>
                   <li key={index}>
-                    <span className="contentPadding">{d.title}</span> 
+                    <span className="contentPadding">{parse(d.title)}</span> 
                     {d.badgesData && d.badgesData.map((badge, index) => {
                     return (
                       <a key={index} href={badge.link} target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge rounded-pill" style={{ backgroundColor: getBadgeColor(badge.badgeName) }}>{badge.badgeDisplayName}</span></a>

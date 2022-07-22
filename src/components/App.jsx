@@ -11,6 +11,9 @@ import Publications from "./PublicationsComponent/index";
 import TalksAndSeminars from "./TalksAndSeminars";
 import TeachingComponent from "./TeachingComponent";
 import { MathJaxContext } from "better-react-mathjax";
+import BlogsComponent from "./BlogsComponent";
+import RamanAndHisInnerClock from "./BlogsComponent/RamanAndHisInnerClockBlog";
+import PhdLifeBlog from "./BlogsComponent/PhdLifeBlog";
 
 const App = () => {
   const config = {
@@ -27,6 +30,21 @@ const App = () => {
       ]
     }
   };
+
+  document.addEventListener("scroll", () => {
+    var mybutton = document.getElementById("myBtn");
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
+    }
+  });
+
+  const goToTop = () => {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  };
+
   return (
     <MathJaxContext version={3} config={config}>
       <HashRouter>
@@ -39,9 +57,13 @@ const App = () => {
                 <Route path="/talksAndSeminars" element={<TalksAndSeminars />} />
                 <Route path="/teaching" element={<TeachingComponent />} />
                 <Route path="/bio" element={<Bio />} />
+                <Route path="/blogs" element={<BlogsComponent />} />
+                <Route path="/blogs/raman-and-his-inner-clock" element={<RamanAndHisInnerClock />} />
+                <Route path="/blogs/what-1756-days-of-phd-life-has-taught-me" element={<PhdLifeBlog />} />
               </Routes>
             </div>
           </div>
+          <button type="button" onClick={() => goToTop()} id="myBtn" className="topButton"><i class="fas fa-angle-up"></i></button>
       </HashRouter>
     </MathJaxContext>
   );
