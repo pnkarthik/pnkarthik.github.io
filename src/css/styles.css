@@ -281,3 +281,7 @@ tr {
 .subHeadingFontSize {
   font-size: 26px;
 }
+
+.breakWord {
+  word-break: break-all;
+}

@@ -71,6 +71,11 @@
           "badgeName": "arxiv",
           "link": "https://arxiv.org/abs/2005.06255",
           "badgeDisplayName": "arxiv"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2021/08/Detecting_an_Odd_Restless_Markov_Arm_With_a_Trembling_Hand.pdf",
+          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -91,6 +96,11 @@
           "badgeName": "arxiv",
           "link": "https://arxiv.org/abs/1904.11361",
           "badgeDisplayName": "arxiv"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2020/07/Learning_to_Detect_an_Odd_Markov_Arm.pdf",
+          "badgeDisplayName": "pdf"
         }
       ]
     }
@@ -108,6 +118,11 @@
           "badgeName": "xplore",
           "link": "https://ieeexplore.ieee.org/document/9518083",
           "badgeDisplayName": "xplore"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2021/07/1583.pdf",
+          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -123,6 +138,11 @@
           "badgeName": "xplore",
           "link": "https://ieeexplore.ieee.org/document/9174397",
           "badgeDisplayName": "xplore"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2020/06/0002813.pdf",
+          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -138,6 +158,11 @@
           "badgeName": "xplore",
           "link": "https://ieeexplore.ieee.org/document/8849807",
           "badgeDisplayName": "xplore"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2019/07/Learning_to_Detect_an_Odd_Markov_Arm.pdf",
+          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -153,6 +178,16 @@
           "badgeName": "xplore",
           "link": "https://ieeexplore.ieee.org/document/8599980",
           "badgeDisplayName": "xplore"
+        },
+        {
+          "badgeName": "arxiv",
+          "link": "https://arxiv.org/abs/1701.06347",
+          "badgeDisplayName": "arxiv"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2018/02/On_The_Equivalence_of_Projections_in_Relative_-_Entropy_and_Rnyi_Divergence.pdf",
+          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -168,6 +203,11 @@
           "badgeName": "xplore",
           "link": "https://ieeexplore.ieee.org/document/7561174",
           "badgeDisplayName": "xplore"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2016/03/Model-based_interference_cartography_and_visualization.pdf",
+          "badgeDisplayName": "pdf"
         }
       ]
     }

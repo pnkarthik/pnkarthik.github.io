@@ -26,7 +26,7 @@ const TeachingComponent = () => {
                     </tr>
                     <tr>
                       <td className="tableCellPadding">Course website</td>
-                      <td className="tableCellPadding">{parse(d.courseWebsite)}</td>
+                      <td className="tableCellPadding breakWord">{parse(d.courseWebsite)}</td>
                     </tr>
                     <tr>
                       <td className="tableCellPadding">Term</td>
