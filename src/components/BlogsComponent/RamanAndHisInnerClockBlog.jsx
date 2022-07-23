@@ -57,15 +57,12 @@ const RamanAndHisInnerClock = () => {
         <ul>
           <li>I learned about the above incident while listening to <a href="https://www.youtube.com/playlist?list=PL_3ZCwRXK9ug4r75ogSFvwWsnKWC8XjC2" target="_blank" rel="noopener noreferrer">this playlist</a> on motivational talks for students given by Dr. Gururaj Karajagi, an exemplary speaker.</li>
           <li>
-            In <a href="https://www.youtube.com/watch?v=5s6qXazh6h8" target="_blank" rel="noopener noreferrer">this video</a>, Dr. Karajagi narrates the above incident in his unique narration style. The Kannada version of this video, which is more captivating to watch and listen to, is provided below.
-            <div className="videoPadding">
-              <video controls src="../wp-content/uploads/2021/02/Karajagi_narrating_Ramans_Story.mp4" className="w-100"></video>
-            </div>
+            In <a href="https://www.youtube.com/watch?v=5s6qXazh6h8" target="_blank" rel="noopener noreferrer">this video</a>, Dr. Karajagi narrates the above incident in his unique narration style.
           </li>
           <li>
             The <em>Gilivindu</em> program can be clearly seen in the below snapshot of AIR’s program list from the year 1957.
             <figure className="videoPadding">
-              <img src="../wp-content/uploads/2021/02/Gilivindu_sceenshot-1024x491.png" alt="" className="w-100" />
+              <img src="../media/2021/02/Gilivindu_sceenshot-1024x491.png" alt="" className="w-100" />
               <div className="text-center">
                 <figcaption><em>Pic courtesy: <a href="https://worldradiohistory.com/INTERNATIONAL/Indian-Listener/50s/The-Indian-Listener-1957-26-05-1957.pdf" target="_blank" rel="noopener noreferrer">This document</a></em></figcaption>
               </div>

@@ -274,6 +274,10 @@ tr {
   background-color: red;
   color: white;
   cursor: pointer;
-  padding: 15px;
+  padding: 10px 15px;
   border-radius: 4px;
+}
+
+.subHeadingFontSize {
+  font-size: 26px;
 }

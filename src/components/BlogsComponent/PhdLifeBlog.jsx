@@ -47,7 +47,7 @@ const PhdLifeBlog = () => {
           <p>Having said this, without further ado, I present below four life lessons from Ph.D. <em>in the way I have learnt them</em>.</p>
         </div>
         <div>
-          <p className="headingFontSize">Good researchers are not necessarily good teachers</p>
+          <p className="subHeadingFontSize">Good researchers are not necessarily good teachers</p>
           <p>
             Having been exposed to some of the best teachers at school, when I landed in IISc, I had to muster enough courage to see experts failing miserably to connect with amateurs.
             A case that has lasted fresh in my mind is a gruelling lecture, after which the only words I found the students whispering amongst themselves were those of how the lecturer had lost the students to follow the lecture mid-way. However, this is only half the truth.
@@ -62,7 +62,7 @@ const PhdLifeBlog = () => {
           </p>
         </div>
         <div>
-          <p className="headingFontSize">The best researchers store information in their heads in a unique way</p>
+          <p className="subHeadingFontSize">The best researchers store information in their heads in a unique way</p>
           <p>
             This is a lesson that I learnt only when I was half-way into Ph.D.. A distinguishing trait of some of the best researchers with whom I have interacted is their ability to compress and store information in their heads in a form that is readily accessible to them. Let me elaborate.
           </p>
@@ -74,7 +74,7 @@ const PhdLifeBlog = () => {
           <p>The world would be a much better place for researchers if only secret arts such as the one mentioned above get passed on from one generation to the next.</p>
         </div>
         <div>
-          <p className="headingFontSize">Quality answers matter, not quick answers</p>
+          <p className="subHeadingFontSize">Quality answers matter, not quick answers</p>
           <p>
             A key component of research life is attending research presentations (or talks, as they are more popularly referred to) from fellow researchers as a means of getting to know the latest happenings.
             During the early years of Ph.D., I could not help but pay attention to the <em>not so important matters that one ought to take away from a research talk</em>: a silent comment that passed through my head about the dressing sense of the speaker, the ease with which even the seemingly novice speakers responded swiftly to questions posed at them, the aesthetics of the presentation slides, etc.
@@ -91,7 +91,7 @@ const PhdLifeBlog = () => {
           <p>Clearly enough, I did not see this aspect of a research talk during the early years of Ph.D.</p>
         </div>
         <div>
-          <p className="headingFontSize">You may have been a topper all your life, but research may not be your cup of tea</p>
+          <p className="subHeadingFontSize">You may have been a topper all your life, but research may not be your cup of tea</p>
           <p>
             In my interactions with many fellow students at IISc, I have often heard stories about how puzzling it is for students, who at one point in time of their lives had aced through the multitude of exams and tests at school and college, to realise how clueless they find themselves in most lectures at IISc, not having an iota of clue about what the lecturer is saying.
           </p>

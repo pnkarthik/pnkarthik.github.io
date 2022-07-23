@@ -20,7 +20,7 @@
     "badgesData": [
       {
         "badgeName": "certificate",
-        "link": "../wp-content/uploads/2021/12/INAE-100-seconds.pdf",
+        "link": "../media/2021/12/INAE-100-seconds.pdf",
         "badgeDisplayName": "certificate"
       },
       {
@@ -36,7 +36,7 @@
     "badgesData": [
       {
         "badgeName": "slides",
-        "link": "../wp-content/uploads/2021/11/thesis-defence.pdf",
+        "link": "../media/2021/11/thesis-defence.pdf",
         "badgeDisplayName": "slides"
       },
       {
@@ -46,7 +46,7 @@
       },
       {
         "badgeName": "thesis",
-        "link": "../wp-content/uploads/2021/11/main.pdf",
+        "link": "../media/2021/11/main.pdf",
         "badgeDisplayName": "thesis"
       }
     ]
@@ -61,7 +61,7 @@
     "badgesData": [
       {
         "badgeName": "slides",
-        "link": "../wp-content/uploads/2021/06/thesis-colloquium.pdf",
+        "link": "../media/2021/06/thesis-colloquium.pdf",
         "badgeDisplayName": "slides"
       },
       {
@@ -89,7 +89,7 @@
     "badgesData": [
       {
         "badgeName": "paper",
-        "link": "../wp-content/uploads/2020/06/TIT_learning_to_detect_an_odd_markov_arm.pdf",
+        "link": "../media/2020/06/TIT_learning_to_detect_an_odd_markov_arm.pdf",
         "badgeDisplayName": "paper"
       },
       {
@@ -105,12 +105,12 @@
     "badgesData": [
       {
         "badgeName": "slides",
-        "link": "../wp-content/uploads/2020/06/ISIT2020_Karthik_Sundaresan.pdf",
+        "link": "../media/2020/06/ISIT2020_Karthik_Sundaresan.pdf",
         "badgeDisplayName": "slides"
       },
       {
         "badgeName": "video",
-        "link": "../wp-content/uploads/2020/06/ISIT2020_Karthik_Sundaresan.mp4",
+        "link": "https://www.youtube.com/watch?v=ZTV5VtCLrdQ",
         "badgeDisplayName": "video"
       }
     ]

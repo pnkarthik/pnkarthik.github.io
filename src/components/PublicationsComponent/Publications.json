@@ -47,7 +47,7 @@
       "badgesData": [
         {
           "badgeName": "draft",
-          "link": "../wp-content/uploads/2020/05/CsiszarPaperISIT2019.pdf",
+          "link": "../media/2020/05/CsiszarPaperISIT2019.pdf",
           "badgeDisplayName": "draft"
         }
       ]
@@ -66,6 +66,11 @@
           "badgeName": "xplore",
           "link": "https://ieeexplore.ieee.org/document/9410612",
           "badgeDisplayName": "xplore"
+        },
+        {
+          "badgeName": "arxiv",
+          "link": "https://arxiv.org/abs/2005.06255",
+          "badgeDisplayName": "arxiv"
         }
       ]
     },
@@ -81,6 +86,11 @@
           "badgeName": "xplore",
           "link": "https://ieeexplore.ieee.org/document/8990074",
           "badgeDisplayName": "xplore"
+        },
+        {
+          "badgeName": "arxiv",
+          "link": "https://arxiv.org/abs/1904.11361",
+          "badgeDisplayName": "arxiv"
         }
       ]
     }
