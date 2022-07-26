@@ -21,10 +21,10 @@ const Bio = () => {
                 </div>
                 <div className="d-flex flex-column">
                   <span>
-                    <span className="contentPadding">{parse(d.collegeName)}</span>
+                    <span className="contentPadding">{d.description}</span>
                     <div className="badge rounded-pill dateColor p-1">{d.year}</div>
                   </span>
-                  <span>{d.description}</span>
+                  <span>{parse(d.collegeName)}</span>
                   {d.department && (
                     <span>Department: <a href="https://ece.iisc.ac.in" target="_blank" rel="noopener noreferrer">{d.department}</a></span>
                   )}
@@ -34,11 +34,13 @@ const Bio = () => {
                   {d.thesisTitle && (
                     <span>
                       <span>Thesis: {d.thesisTitle}</span>
-                      {/* <a href="#/publications/#thesis" target="_self" rel="noopener noreferrer" className="badgePadding"><span className="badge rounded-pill" style={{ backgroundColor: getBadgeColor("weblink") }}>thesis</span></a> */}
                     </span>
                   )}
                   {d.major && (
                     <span>Major: {d.major}</span>
+                  )}
+                  {d.gpa && (
+                    <span>GPA: {parse(d.gpa)}</span>
                   )}
                 </div>
               </div>
@@ -71,7 +73,7 @@ const Bio = () => {
                     <span>Supervisor: {parse(d.supervisor)}</span>
                   )}
                   {d.mentor && (
-                    <span>Mentors: {parse(d.mentor)}</span>
+                    <span>{d.noOfMentors > 1 ? "Mentors" : "Mentor"}: {parse(d.mentor)}</span>
                   )}
                   {d.courseInstructor && (
                     <span>Course Instructors: {parse(d.courseInstructor)}</span>

@@ -22,7 +22,7 @@
     {
       "date": "Nov 2021",
       "title": "<em>Sequential Controlled Sensing to Detect an Anomalous Process</em>",
-      "description": "<span>Ph.D. defence, Department of ECE, IISc (conducted online via Microsoft Teams)</span>",
+      "description": "<span>Ph.D. defence, Department of Electrical Communication Engineering, Indian Institute of Science</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -56,7 +56,7 @@
     {
       "date": "Oct 2021",
       "title": "<em>GATE: A Pathway to Research</em>",
-      "description": "<span>An online interactive session on the Graduate Aptitude Test in Engineering (GATE) as a pathway to undertaking research, organised by the <a href=\"https://eecs.iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Division of EECS</a>, IISc</span>",
+      "description": "<span>An online interactive session on the Graduate Aptitude Test in Engineering (GATE) as a pathway to undertaking research, organised by the <a href=\"https://eecs.iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Division of EECS</a>, Indian Institute of Science</span>",
       "badgesData": [
         {
           "badgeName": "video",
@@ -68,7 +68,7 @@
     {
       "date": "Sep 2021",
       "title": "<em>Information Geometry and Its Applications to Statistics</em>",
-      "description": "<span>A lecture for the students of IISc</span>",
+      "description": "<span>A lecture for the students of Indian Institute of Science</span>",
       "badgesData": [
         {
           "badgeName": "notes",
@@ -107,7 +107,7 @@
     {
       "date": "Jun 2021",
       "title": "<em>Sequential Controlled Sensing to Detect an Anomalous Process</em>",
-      "description": "<span>Ph.D. colloquium talk, Department of ECE, IISc (conducted online via Microsoft Teams)</span>",
+      "description": "<span>Ph.D. colloquium talk, Department of Electrical Communication Engineering, Indian Institute of Science</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -138,7 +138,7 @@
     {
       "date": "Sep 2020",
       "title": "<em>Probability in Real-Life: Example Applications from Visual Neuroscience, Colour Blindness Detection and Covid-19 Outbreak Modelling</em>",
-      "description": "<span>A talk presented virtually to the 5th semester students and the faculty of the Department of ECE, RV College of Engineering</span>",
+      "description": "<span>A talk presented virtually to the 5th semester students and the faculty of the Department of Electrical Communication Engineering, RV College of Engineering</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -155,7 +155,7 @@
     {
       "date": "Jul 2020",
       "title": "<em>Odd Arm Identification in Multi-armed Bandits with Markov Observations</em>",
-      "description": "<span><a href=\"https://eecs.iisc.ac.in/EECS2020/index.php\" target=\"_blank\" rel=\"noopener noreferrer\">EECS Research Students Symposium</a>, IISc, virtual presentation<br/>Secured the <span class=\"boldColor\">best paper award</span> under the “Signal Processing, Communication Networks & Information Theory” track</span>",
+      "description": "<span><a href=\"https://eecs.iisc.ac.in/EECS2020/index.php\" target=\"_blank\" rel=\"noopener noreferrer\">EECS Research Students Symposium</a>, Indian Institute of Science, virtual presentation<br/>Secured the <span class=\"boldColor\">best paper award</span> under the “Signal Processing, Communication Networks & Information Theory” track</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -194,7 +194,7 @@
     {
       "date": "May 2020",
       "title": "<em>Visual Search with a Trembling Hand: An Analysis of Odd Arm Identification in Restless Multi-armed Bandits</em>",
-      "description": "<span>Centre for Networked Intelligence, IISc</span>",
+      "description": "<span>Centre for Networked Intelligence, Indian Institute of Science</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -211,7 +211,7 @@
     {
       "date": "Jan 2020",
       "title": "<em>On Detecting an Anomalous Arm in a Multi-armed Bandit with Markov Observations.</em>",
-      "description": "<span>STCS Symposium, TIFR Mumbai</span>",
+      "description": "<span>STCS Symposium, School of Theory and Computer Science, Tata Institute of Fundamental Research, Mumbai</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -237,7 +237,7 @@
     {
       "date": "Dec 2019",
       "title": "<em>Learning to Detect an Odd Markov Arm</em>",
-      "description": "<span>Lectures on Probability and Stochastic Processes (LPS) XIV, ISI Delhi</span>",
+      "description": "<span>Lectures on Probability and Stochastic Processes (LPS) XIV, Indian Statistical Institute Delhi</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -254,7 +254,7 @@
     {
       "date": "Nov 2019",
       "title": "<em>On Detecting An Anomalous Arm in Multi-armed Bandits with Markov Observations</em>",
-      "description": "<span>Networks Seminar, Robert Bosch Centre for Cyber Physical Systems, IISc</span>",
+      "description": "<span>Networks Seminar, Robert Bosch Centre for Cyber Physical Systems, Indian Institute of Science</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -276,7 +276,7 @@
     {
       "date": "Aug 2019",
       "title": "<em>Learning to Detect an Odd Markov Arm</em>",
-      "description": "<span>Joint Telematics Group (JTG) Summer School, IIT Madras</span>",
+      "description": "<span>Joint Telematics Group (JTG) Summer School, Indian Institute of Technology Madras</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -288,7 +288,7 @@
     {
       "date": "Aug 2019",
       "title": "<em>Learning to Detect an Odd Markov Arm</em>",
-      "description": "<span>ICTS Program on Advances in Applied Probability, ICTS</span>",
+      "description": "<span>ICTS Program on Advances in Applied Probability, International Centre for Theoretical Sciences</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -324,7 +324,7 @@
     {
       "date": "Feb 2019",
       "title": "<em>$Ax=b$: A Familiar Setup, Axioms and An Open Question</em>",
-      "description": "<span>ECE Students’ Seminar Series, IISc</span>",
+      "description": "<span>Electrical Communication Engineering Students’ Seminar Series, Indian Institute of Science</span>",
       "badgesData": [
         {
           "badgeName": "video",
@@ -348,7 +348,7 @@
     {
       "date": "Feb 2018",
       "title": "<em>On the Equivalence of Projections in Relative $\\alpha$-Entropy and Rényi Divergence</em>",
-      "description": "<span>National Conference on Communications (NCC), IIT Hyderabad</span>",
+      "description": "<span>National Conference on Communications (NCC), Indian Institute of Technology Hyderabad</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -362,7 +362,7 @@
     {
       "date": "Dec 2017",
       "title": "<em>On the Equivalence of Projections in Relative $\\alpha$-Entropy and Rényi Divergence</em>",
-      "description": "<span>Lectures on Probability and Stochastic Processes (LPS) XII, ISI Kolkata</span>",
+      "description": "<span>Lectures on Probability and Stochastic Processes (LPS) XII, Indian Statistical Institute Kolkata</span>",
       "badgesData": [
         {
           "badgeName": "slides",
