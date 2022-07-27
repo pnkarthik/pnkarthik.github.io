@@ -32,7 +32,7 @@ const Home = () => {
               where I am supervised by Prof. <a href="https://vyftan.github.io/index.html" target="_blank" rel="noopener noreferrer">Vincent Y. F. Tan.</a> Prior to joining NUS, I obtained the M.Tech Research and Ph.D. dual degree from the <a href="https://ece.iisc.ac.in" target="_blank" rel="noopener noreferrer">Department of Electrical Communication Engineering</a> at the <a href="https://iisc.ac.in" target="_blank" rel="noopener noreferrer">Indian Institute of Science</a> (IISc), Bengaluru, with Prof. <a href="https://ece.iisc.ac.in/~rajeshs/" target="_blank" rel="noopener noreferrer">Rajesh Sundaresan</a> as my supervisor.
               Much earlier to joining the dual degree programme, I worked as a Project Assistant in Prof. <a href="https://ece.iisc.ac.in/~cmurthy/doku.php?id=home" target="_blank" rel="noopener noreferrer">Chandra R. Murthy</a>'s lab.
               It was during this stint at IISc that Prof. Chandra introduced me to the world of research and subsequently motivated me to take up Ph.D. studies. I am truly grateful to Prof. Chandra for nurturing the seed that would later germinate and embrace the wonderful world that research is.
-              I also hold a Bachelor of Engineering degree in Electronics and Communications from <a href="https://rvce.edu.in/" target="_blank" rel="noopener noreferrer">Rashtreeya Vidyalaya College of Engineering</a>.
+              I also hold a Bachelor of Engineering degree in Electronics and Communications from <a href="https://rvce.edu.in/" target="_blank" rel="noopener noreferrer">R V College of Engineering</a>.
             </p>
           </p>
         </div>

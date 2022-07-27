@@ -16,8 +16,10 @@ const TeachingComponent = () => {
             <div className="col-md-10">
               <span className="headingFontSize">{d.year}</span>
               <div>
-                <span className="badge rounded-pill dateColor seminarDateMargin">{d.courseMonth}</span>
-                <span className="contentPadding">{parse(d.title)}</span><br />
+                <div className="d-flex align-items-center">
+                  <span className="badge rounded-pill dateColor seminarDateMargin">{d.courseMonth}</span>
+                  <span className="contentPadding">{parse(d.title)}</span>
+                </div>
                 <table border={1} className="tablePadding">
                   <tbody>
                     <tr>

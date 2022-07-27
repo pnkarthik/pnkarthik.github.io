@@ -11,7 +11,7 @@
       "gpa": "7.00/8.00"
     },
     {
-      "collegeName": "<a href=\"https://www.rvce.edu.in/\" target=\"_blank\" rel=\"noopener noreferrer\">Rashtreeya Vidyalaya College of Engineering</a>",
+      "collegeName": "<a href=\"https://www.rvce.edu.in/\" target=\"_blank\" rel=\"noopener noreferrer\">R V College of Engineering</a>",
       "description": "Bachelor of Engineering",
       "major" : "Electronics and Communications",
       "year": "Aug 2010 - Jul 2014",
@@ -42,8 +42,8 @@
       "year": "Nov 2019 - Mar 2020",
       "place": "Bengaluru, Karnataka, India",
       "imageUrl": "../images/netradyneLogo.jpeg",
-      "noOfMentors": 2,
-      "mentor": "<a href=\"https://www.linkedin.com/in/vpratik/\" target=\"_blank\" rel=\"noopener noreferrer\">Pratik Verma</a> and Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>"
+      "noOfMentors": 3,
+      "mentor": "<a href=\"https://www.linkedin.com/in/vpratik/\" target=\"_blank\" rel=\"noopener noreferrer\">Pratik Verma</a>, Dr. <a href=\"https://www.linkedin.com/in/ajeesh-sahadevan/?originalSubdomain=in\" target=\"_blank\" rel=\"noopener noreferrer\">Ajeesh Sahadevan</a>, and Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>"
     },
     {
       "title": "Graduate Teaching Assistant",
