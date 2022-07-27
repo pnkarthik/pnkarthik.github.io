@@ -49,7 +49,7 @@ const PhdLifeBlog = () => {
         <div>
           <p className="subHeadingFontSize">Good researchers are not necessarily good teachers</p>
           <p>
-            Having been exposed to some of the best teachers at school, when I landed in IISc, I had to muster enough courage to see experts failing miserably to connect with amateurs.
+            Having been exposed to some of the best teachers at school, when I landed in Indian Institute of Science, I had to muster enough courage to see experts failing miserably to connect with amateurs.
             A case that has lasted fresh in my mind is a gruelling lecture, after which the only words I found the students whispering amongst themselves were those of how the lecturer had lost the students to follow the lecture mid-way. However, this is only half the truth.
           </p>
           <p>
@@ -93,7 +93,7 @@ const PhdLifeBlog = () => {
         <div>
           <p className="subHeadingFontSize">You may have been a topper all your life, but research may not be your cup of tea</p>
           <p>
-            In my interactions with many fellow students at IISc, I have often heard stories about how puzzling it is for students, who at one point in time of their lives had aced through the multitude of exams and tests at school and college, to realise how clueless they find themselves in most lectures at IISc, not having an iota of clue about what the lecturer is saying.
+            In my interactions with many fellow students at Indian Institute of Science, I have often heard stories about how puzzling it is for students, who at one point in time of their lives had aced through the multitude of exams and tests at school and college, to realise how clueless they find themselves in most lectures at Indian Institute of Science, not having an iota of clue about what the lecturer is saying.
           </p>
           <p>
             The reasons for not following lectures may be aplenty: not having the requisite background, lack of effort from the lecturer’s end towards keeping the students engaged, etc.

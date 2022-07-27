@@ -2,19 +2,21 @@
   "education": [
     {
       "collegeName": "<a href=\"https://iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Indian Institute of Science</a>",
-      "description": "M.Tech Research and Ph.D. Dual Degree",
+      "description": "Ph.D. and M.Sc. Engg.",
       "department": "Electrical Communication Engineering",
       "supervisor": "<span>Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a></span>",
       "thesisTitle": "Sequential Controlled Sensing to Detect an Anomalous Process",
       "year": "Jul 2015 - Nov 2021",
-      "imageUrl": "../images/iiscLogo.jpeg"
+      "imageUrl": "../images/iiscLogo.jpeg",
+      "gpa": "7.00/8.00"
     },
     {
       "collegeName": "<a href=\"https://www.rvce.edu.in/\" target=\"_blank\" rel=\"noopener noreferrer\">Rashtreeya Vidyalaya College of Engineering</a>",
       "description": "Bachelor of Engineering",
-      "major" : "Electronics and Communications Engineering",
-      "year": "Aug 2010 - Jun 2014",
-      "imageUrl": "../images/rvLogo.jpeg"
+      "major" : "Electronics and Communications",
+      "year": "Aug 2010 - Jul 2014",
+      "imageUrl": "../images/rvLogo.jpeg",
+      "gpa": "9.72/10.00 (<span class=\"boldColor\">Rank 2</span> among 140 students)"
     }
   ],
   "experience": [
@@ -40,6 +42,7 @@
       "year": "Nov 2019 - Mar 2020",
       "place": "Bengaluru, Karnataka, India",
       "imageUrl": "../images/netradyneLogo.jpeg",
+      "noOfMentors": 2,
       "mentor": "<a href=\"https://www.linkedin.com/in/vpratik/\" target=\"_blank\" rel=\"noopener noreferrer\">Pratik Verma</a> and Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>"
     },
     {
@@ -53,10 +56,19 @@
     {
       "title": "Project Assistant",
       "collegeName": "<a href=\"https://iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Indian Institute of Science</a>",
-      "year": "Aug 2014 - Jul 2015",
+      "year": "Aug 2014 - Jun 2015",
       "place": "Bengaluru, Karnataka, India",
       "imageUrl": "../images/iiscLogo.jpeg",
       "supervisor": "Prof. <a href=\"https://ece.iisc.ac.in/~cmurthy/doku.php?id=home\" target=\"_blank\" rel=\"noopener noreferrer\">Chandra R. Murthy</a>"
+    },
+    {
+      "title": "Project Trainee",
+      "collegeName": "<a href=\"https://kssrdi.karnataka.gov.in/english\" target=\"_blank\" rel=\"noopener noreferrer\">Karnatake State Sericulture Research and Development Institute</a>",
+      "year": "Aug - Dec 2013",
+      "place": "Bengaluru, Karnataka, India",
+      "imageUrl": "../images/kssrdiLogo.jpeg",
+      "noOfMentors": 1,
+      "mentor": "Prof. <a href=\"https://rvce.edu.in/ec-govindrajum\" target=\"_blank\" rel=\"noopener noreferrer\">M. Govinda Raju</a>"
     }
   ],
   "awardsAndHonors": [
@@ -76,7 +88,7 @@
         "badgeDisplayName": "certificate"
       }
     ]},
-    {"title": "Best 3-minute presentation at the ECE Students’ Seminar Series, Department of Electrical Communication Engineering, Indian Institute of Science"},
+    {"title": "Best 3-minute presentation at the Electrical Communication Engineering Students’ Seminar Series, Department of Electrical Communication Engineering, Indian Institute of Science"},
     {"title": "Secured rank 136 (among the top 0.01%) in the 2015 Graduate Aptitude Test in Engineering (GATE)"},
     {"title": "Infineon India scholarship for securing rank 2 in the 2011 Visvesvaraya Technological University examinations"},
     {"title": "Secured rank 23 (among the top 0.02%) in the 2010 Karnataka Common Entrance Test (KCET)"}
