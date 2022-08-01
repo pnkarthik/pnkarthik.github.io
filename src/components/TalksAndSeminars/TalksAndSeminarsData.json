@@ -311,8 +311,8 @@
     },
     {
       "date": "Jun 2019",
-      "title": "<em>A Short Course on Probability and Random Processe</em>",
-      "description": "<span>RV College of Engineering</span>",
+      "title": "<em>A Short Course on Probability and Random Processes</em>",
+      "description": "<span><a href=\"https://rvce.edu.in/\" target=\"_blank\" rel=\"noopener noreferrer\">R V College of Engineering</a></span>",
       "badgesData": [
         {
           "badgeName": "thesis",
@@ -324,7 +324,7 @@
     {
       "date": "Feb 2019",
       "title": "<em>$Ax=b$: A Familiar Setup, Axioms and An Open Question</em>",
-      "description": "<span>Electrical Communication Engineering Students’ Seminar Series, Indian Institute of Science</span>",
+      "description": "<span><a href=\"https://ece.iisc.ac.in/~myna/seminar/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">ECE Students’ Seminar Series</a>, Indian Institute of Science</span>",
       "badgesData": [
         {
           "badgeName": "video",
