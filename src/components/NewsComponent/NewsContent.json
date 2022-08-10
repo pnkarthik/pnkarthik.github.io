@@ -61,7 +61,7 @@
   },
   {
     "date":"23 Jun 2021",
-    "content": "Presented my Ph.D. colloquium talk via Microsoft Teams.",
+    "content": "Presented my Ph.D. colloquium talk.",
     "badgesData": [
       {
         "badgeName": "slides",
@@ -71,13 +71,13 @@
       {
         "badgeName": "video",
         "link": "https://youtu.be/K4mDnbY03a4",
-        "badgeDisplayName": "teams recording"
+        "badgeDisplayName": "video"
       }
     ]
   },
   {
     "date": "30 Apr 2021",
-    "content": "My paper with Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>, titled <em>Learning to Detect an Odd Restless Markov Arm</em>, accepted for presentation in the 2021 IEEE International Symposium on Information Theory (ISIT)."
+    "content": "My paper with Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>, titled <em>Learning to Detect an Odd Restless Markov Arm</em>, accepted for presentation at the 2021 IEEE International Symposium on Information Theory."
   },
   {
     "date": "11 Apr 2021",
@@ -105,7 +105,7 @@
   },
   {
     "date":"09 Jun 2020",
-    "content": "Video and slides of the virtual presentation for ISIT 2020 now up on the website.",
+    "content": "Video and slides of the virtual presentation for the 2020 IEEE Interational Symposium on Information Theory now up on the website.",
     "badgesData": [
       {
         "badgeName": "slides",
