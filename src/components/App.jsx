@@ -27,7 +27,16 @@ const App = () => {
       displayMath: [
         ["$$", "$$"],
         ["\\[", "\\]"]
-      ]
+      ],
+      macros: {
+        textsc: ['\\style{font-variant-caps: small-caps}{\\text{#1}}', 1]
+      }
+    },
+    chtml: {
+      mtextFont: "serif",
+    },
+    svg: {
+      mtextFont: "serif"
     }
   };
 

@@ -2,6 +2,10 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+mjx-utext {
+  width: 100% !important;
+}
+
 a {
   color: #C04024;
   text-decoration: none;
