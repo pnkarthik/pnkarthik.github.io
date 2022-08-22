@@ -1,5 +1,16 @@
 [
   {
+    "date": "22 Aug 2022",
+    "content": "Posted a paper on <em>Almost Cost-Free Communication in Federated Best Arm Identification</em>. Joint work with colleague <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a> and postdoc supervisor Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>.",
+    "badgesData": [
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2208.09215",
+        "badgeDisplayName": "arxiv"
+      }
+    ]
+  },
+  {
     "date": "01 Aug 2022",
     "content": "My paper with colleague <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a> and postdoc supervisor Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>, titled <em>Best Restless Markov Arm Identification</em>, accepted for presentation at the <a href=\"https://itw2022.in\" target=\"_blank\" rel=\"noopener noreferrer\">IEEE Information Theory Workshop 2022</a> (to be held in Nov 2022 at the Indian Institute of Technology, Mumbai)."
   },
