@@ -1,5 +1,16 @@
 [
   {
+    "date": "17 Oct 2022",
+    "content": "Posted a paper on <em>Federated Best Arm Identification with Heterogeneous Clients</em>. Joint work with <a>Chen Zhirui</a>, postdoc supervisor Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>, and Prof. <a href=\"https://scholar.google.com/citations?user=99AJNXEAAAAJ&hl=en\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Yeow Meng Chee</a>.",
+    "badgesData": [
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2210.07780",
+        "badgeDisplayName": "arxiv"
+      }
+    ]
+  },
+  {
     "date": "22 Aug 2022",
     "content": "Posted a paper on <em>Almost Cost-Free Communication in Federated Best Arm Identification</em>. Joint work with colleague <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a> and postdoc supervisor Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>.",
     "badgesData": [
