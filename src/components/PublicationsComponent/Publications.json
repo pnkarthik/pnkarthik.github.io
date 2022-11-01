@@ -140,9 +140,16 @@
       "id": "itw2022",
       "title": "<em>Best Restless Markov Arm Identification</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>Karthik Periyapattana Narayana Prasad</strong></a>,  <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
-      "status":"Accepted for presentation at the IEEE International Information Theory Workshop 2022, Nov 2022.",
+      "status":"Proceedings of the IEEE International Information Theory Workshop (ITW), 2022.",
       "hasAbstract": true,
-      "abstract": "<p>We study the problem of best arm identification in multi-armed bandits when each arm is an ergodic Markov process that evolves whether or not the arm is selected (<em>restless</em> arms). The evolution of each arm's Markov process is governed by its transition probability matrix (TPM). A decision entity that knows the set of arm TPMs but not the exact mapping of the TPMs to the arms, wishes to find the index of the best arm as quickly as possible, subject to an upper bound on the error probability. We derive an asymptotic lower bound on the expected time required to find the best arm, where the asymptotics is as the error probability vanishes. Also, we design a policy that, for an input parameter $R,$ forcibly selects an arm that has not been selected for $R$ consecutive time instants, and achieves an upper bound that is monotonically non-increasing in $R$. Showing that, in general, the lower bound and the limiting value of the upper bounds as $R \\to\\infty$ match, appears to be difficult and remains open. These bounds are, however, shown to match in the special case when the TPM of each arm has identical rows, i.e., the arms yield independent and identically distributed  observations.</p>"
+      "abstract": "<p>We study the problem of best arm identification in multi-armed bandits when each arm is an ergodic Markov process that evolves whether or not the arm is selected (<em>restless</em> arms). The evolution of each arm's Markov process is governed by its transition probability matrix (TPM). A decision entity that knows the set of arm TPMs but not the exact mapping of the TPMs to the arms, wishes to find the index of the best arm as quickly as possible, subject to an upper bound on the error probability. We derive an asymptotic lower bound on the expected time required to find the best arm, where the asymptotics is as the error probability vanishes. Also, we design a policy that, for an input parameter $R,$ forcibly selects an arm that has not been selected for $R$ consecutive time instants, and achieves an upper bound that is monotonically non-increasing in $R$. Showing that, in general, the lower bound and the limiting value of the upper bounds as $R \\to\\infty$ match, appears to be difficult and remains open. These bounds are, however, shown to match in the special case when the TPM of each arm has identical rows, i.e., the arms yield independent and identically distributed  observations.</p>",
+      "badgesData": [
+        {
+          "badgeName": "paper",
+          "link": "../media/2022/10/1570803352.pdf",
+          "badgeDisplayName": "pdf"
+        }
+      ]
     },
     {
       "id": "cp1",
