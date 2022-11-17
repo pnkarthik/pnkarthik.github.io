@@ -43,7 +43,7 @@ const Home = () => {
         </div>
         <div className="col-md-10">
           <div className="headingFontSize">Research Interests</div>
-          <p className="contentFontSize">Markov decision problems, statistical learning, multi-armed bandits, statistical inference, stochastic adaptive control, optimal stopping problems</p>
+          <p className="contentFontSize">Markov decision problems, statistical learning, multi-armed bandits, statistical inference, stochastic adaptive control, optimal stopping problems, federated learning</p>
         </div>
       </div>
       <NewsComponent />
