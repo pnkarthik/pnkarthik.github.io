@@ -16,21 +16,6 @@
       ]
     },
     {
-      "id": "aaai2023",
-      "title": "<em>Almost Cost-Free Communication in Federated Best Arm Identification</em>",
-      "authors": "<a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
-      "status":"Submitted, Aug 2022",
-      "hasAbstract": true,
-      "abstract": "<p>We study the problem of best arm identification in a federated learning multi-armed bandit setup with a central server and multiple clients. Each client is associated with a multi-armed bandit in which each arm yields <em>i.i.d.</em> rewards following a Gaussian distribution with an unknown mean and known variance. The set of arms is assumed to be the same at all the  clients. We define two notions of best arm$-$local and global. The local best arm at a client is the arm with the largest mean among the arms local to the client, whereas the global best arm is the arm with the largest  average mean across all the clients. We assume that each client can only observe the rewards from its local arms  and thereby estimate its local best arm. The clients communicate with a central server on  uplinks that entail a cost of $C\\ge0$ units per usage per uplink. The global best arm is estimated at the server. The goal is to identify the local best arms and the global best arm with minimal total cost, defined as the sum of the total number of arm selections at all the clients and the total communication cost, subject to an upper bound on the error probability. We propose a novel algorithm $\\textsc{FedElim}$  that is based on successive elimination and communicates only in exponential time steps, and obtain a high probability  instance-dependent upper bound on its total cost. The key takeaway from our paper is that for any $C\\geq 0$ and error probabilities sufficiently small, the total number of arm selections (resp. the total cost) under $\\textsc{FedElim}$ is at most $2$ (resp. $3$) times the maximum total number of arm selections under its variant that communicates in every time step. Additionally, we show that the latter is optimal in expectation up to a constant factor, thereby demonstrating that communication is almost cost-free in $\\textsc{FedElim}$. We numerically validate the efficacy of  $\\textsc{FedElim}$ on two synthetic datasets and the MovieLens dataset.</p>",
-      "badgesData": [
-        {
-          "badgeName": "arxiv",
-          "link": "https://arxiv.org/abs/2208.09215",
-          "badgeDisplayName": "arxiv"
-        }
-      ]
-    },
-    {
       "id": "pp1",
       "title": "<em>Best Arm Identification in Restless Markov Multi-Armed Bandits</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
@@ -137,10 +122,25 @@
   ],
   "conferencePublications": [
     {
+      "id": "aaai2023",
+      "title": "<em>Almost Cost-Free Communication in Federated Best Arm Identification</em>",
+      "authors": "<a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
+      "status": "Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.",
+      "hasAbstract": true,
+      "abstract": "<p>We study the problem of best arm identification in a federated learning multi-armed bandit setup with a central server and multiple clients. Each client is associated with a multi-armed bandit in which each arm yields <em>i.i.d.</em> rewards following a Gaussian distribution with an unknown mean and known variance. The set of arms is assumed to be the same at all the  clients. We define two notions of best arm$-$local and global. The local best arm at a client is the arm with the largest mean among the arms local to the client, whereas the global best arm is the arm with the largest  average mean across all the clients. We assume that each client can only observe the rewards from its local arms  and thereby estimate its local best arm. The clients communicate with a central server on  uplinks that entail a cost of $C\\ge0$ units per usage per uplink. The global best arm is estimated at the server. The goal is to identify the local best arms and the global best arm with minimal total cost, defined as the sum of the total number of arm selections at all the clients and the total communication cost, subject to an upper bound on the error probability. We propose a novel algorithm $\\textsc{FedElim}$  that is based on successive elimination and communicates only in exponential time steps, and obtain a high probability  instance-dependent upper bound on its total cost. The key takeaway from our paper is that for any $C\\geq 0$ and error probabilities sufficiently small, the total number of arm selections (resp. the total cost) under $\\textsc{FedElim}$ is at most $2$ (resp. $3$) times the maximum total number of arm selections under its variant that communicates in every time step. Additionally, we show that the latter is optimal in expectation up to a constant factor, thereby demonstrating that communication is almost cost-free in $\\textsc{FedElim}$. We numerically validate the efficacy of  $\\textsc{FedElim}$ on two synthetic datasets and the MovieLens dataset.</p>",
+      "badgesData": [
+        {
+          "badgeName": "arxiv",
+          "link": "https://arxiv.org/abs/2208.09215",
+          "badgeDisplayName": "arxiv"
+        }
+      ]
+    },
+    {
       "id": "itw2022",
       "title": "<em>Best Restless Markov Arm Identification</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>Karthik Periyapattana Narayana Prasad</strong></a>,  <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
-      "status":"Proceedings of the IEEE International Information Theory Workshop (ITW), 2022.",
+      "status": "Proceedings of the IEEE International Information Theory Workshop (ITW), 2022.",
       "hasAbstract": true,
       "abstract": "<p>We study the problem of best arm identification in multi-armed bandits when each arm is an ergodic Markov process that evolves whether or not the arm is selected (<em>restless</em> arms). The evolution of each arm's Markov process is governed by its transition probability matrix (TPM). A decision entity that knows the set of arm TPMs but not the exact mapping of the TPMs to the arms, wishes to find the index of the best arm as quickly as possible, subject to an upper bound on the error probability. We derive an asymptotic lower bound on the expected time required to find the best arm, where the asymptotics is as the error probability vanishes. Also, we design a policy that, for an input parameter $R,$ forcibly selects an arm that has not been selected for $R$ consecutive time instants, and achieves an upper bound that is monotonically non-increasing in $R$. Showing that, in general, the lower bound and the limiting value of the upper bounds as $R \\to\\infty$ match, appears to be difficult and remains open. These bounds are, however, shown to match in the special case when the TPM of each arm has identical rows, i.e., the arms yield independent and identically distributed  observations.</p>",
       "badgesData": [
