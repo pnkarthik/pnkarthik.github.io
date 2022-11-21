@@ -2,7 +2,7 @@
   "education": [
     {
       "collegeName": "<a href=\"https://iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Indian Institute of Science</a>",
-      "description": "Doctor of Philosophy",
+      "description": "Doctor of Philosophy and Master of Science (Engineering)",
       "department": "Electrical Communication Engineering",
       "supervisor": "<span>Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a></span>",
       "thesisTitle": "Sequential Controlled Sensing to Detect an Anomalous Process",
