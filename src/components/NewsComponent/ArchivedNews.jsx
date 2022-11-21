@@ -4,18 +4,18 @@ import NewsData from "./NewsContent.json";
 import { getBadgeColor } from "../../utility";
 import parse from 'html-react-parser';
 
-const NewsContent = () => {
+const ArchivedNews = () => {
   return (
     <div className="row alignBaseline">
       <div className="col-md-2">
         <hr className="headingBar col-md-8" />
       </div>
       <div className="col-md-10">
-        <div className="headingFontSize">News (<a href="#/archivedNews" target="_blank" rel="noopener noreferrer">Archived</a>)</div>
+        <div className="headingFontSize">Archived News</div>
         {NewsData.map((d, index) => {
           return (
             <>
-              {!d.isArchived && (
+             {d.isArchived && (
                 <div key={index} className="d-flex flex-row newsContainer">
                   <div className="badge rounded-pill dateColor p-1">{d.date}</div>
                   <span className="contentFontSize newsContentPadding">
@@ -27,8 +27,8 @@ const NewsContent = () => {
                     })}
                   </span>
                 </div>
-              )}
-           </>
+             )}
+            </>
           )
         })}
       </div>
@@ -36,4 +36,4 @@ const NewsContent = () => {
   );
 };
 
-export default NewsContent;
+export default ArchivedNews;

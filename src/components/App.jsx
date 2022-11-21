@@ -14,6 +14,7 @@ import { MathJaxContext } from "better-react-mathjax";
 import BlogsComponent from "./BlogsComponent";
 import RamanAndHisInnerClock from "./BlogsComponent/RamanAndHisInnerClockBlog";
 import PhdLifeBlog from "./BlogsComponent/PhdLifeBlog";
+import ArchivedNews from "./NewsComponent/ArchivedNews";
 
 const App = () => {
   const config = {
@@ -69,6 +70,7 @@ const App = () => {
                 <Route path="/blogs" element={<BlogsComponent />} />
                 <Route path="/blogs/raman-and-his-inner-clock" element={<RamanAndHisInnerClock />} />
                 <Route path="/blogs/what-1756-days-of-phd-life-has-taught-me" element={<PhdLifeBlog />} />
+                <Route path="/archivedNews" element={<ArchivedNews />} />
               </Routes>
             </div>
           </div>

@@ -8,7 +8,8 @@
         "link": "https://arxiv.org/abs/2210.07780",
         "badgeDisplayName": "arxiv"
       }
-    ]
+    ],
+    "isArchived": false
   },
   {
     "date": "22 Aug 2022",
@@ -19,7 +20,8 @@
         "link": "https://arxiv.org/abs/2208.09215",
         "badgeDisplayName": "arxiv"
       }
-    ]
+    ],
+    "isArchived": false
   },
   {
     "date": "01 Aug 2022",
@@ -34,11 +36,13 @@
         "link": "https://arxiv.org/abs/2203.15236",
         "badgeDisplayName": "arxiv"
       }
-    ]
+    ],
+    "isArchived": false
   },
   {
     "date": "20 Dec 2021",
-    "content": "Joined the <a href=\"https://ids.nus.edu.sg/\" target=\"_blank\" rel=\"noopener noreferrer\">Institute of Data Science</a> of the <a href=\"https://www.nus.edu.sg/\" target=\"_blank\" rel=\"noopener noreferrer\">National University of Singapore</a> as a Research Fellow."
+    "content": "Joined the <a href=\"https://ids.nus.edu.sg/\" target=\"_blank\" rel=\"noopener noreferrer\">Institute of Data Science</a> of the <a href=\"https://www.nus.edu.sg/\" target=\"_blank\" rel=\"noopener noreferrer\">National University of Singapore</a> as a Research Fellow.",
+    "isArchived": true
   },
   {
     "date":"13 Dec 2021",
@@ -54,7 +58,8 @@
         "link": "https://youtu.be/f9IxTny5FXU",
         "badgeDisplayName": "100 seconds video"
       }
-    ]
+    ],
+    "isArchived": true
   },
   {
     "date":"08 Nov 2021",
@@ -75,11 +80,13 @@
         "link": "../media/2021/11/main.pdf",
         "badgeDisplayName": "thesis"
       }
-    ]
+    ],
+    "isArchived": true
   },
   {
     "date": "04 Aug 2021",
-    "content": "Accepted to the Institute of Data Science, National University of Singapore, as a Research Fellow."
+    "content": "Accepted to the Institute of Data Science, National University of Singapore, as a Research Fellow.",
+    "isArchived": true
   },
   {
     "date":"23 Jun 2021",
@@ -95,19 +102,23 @@
         "link": "https://youtu.be/K4mDnbY03a4",
         "badgeDisplayName": "video"
       }
-    ]
+    ],
+    "isArchived": true
   },
   {
     "date": "30 Apr 2021",
-    "content": "My paper with Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>, titled <em>Learning to Detect an Odd Restless Markov Arm</em>, accepted for presentation at the 2021 IEEE International Symposium on Information Theory."
+    "content": "My paper with Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>, titled <em>Learning to Detect an Odd Restless Markov Arm</em>, accepted for presentation at the 2021 IEEE International Symposium on Information Theory.",
+    "isArchived": true
   },
   {
     "date": "11 Apr 2021",
-    "content": "My paper with Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>, titled <em>Detecting an Odd Restless Arm with a Trembling Hand</em>, accepted for publication in the IEEE Transactions on Information Theory."
+    "content": "My paper with Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>, titled <em>Detecting an Odd Restless Arm with a Trembling Hand</em>, accepted for publication in the IEEE Transactions on Information Theory.",
+    "isArchived": true
   },
   {
     "date": "06 Feb 2021",
-    "content": "New <a href=\"#/blogs/raman-and-his-inner-clock/\" target=\"_blank\" rel=\"noopener noreferrer\">blog post</a> on Sir C. V. Raman’s sense of time."
+    "content": "New <a href=\"#/blogs/raman-and-his-inner-clock/\" target=\"_blank\" rel=\"noopener noreferrer\">blog post</a> on Sir C. V. Raman’s sense of time.",
+    "isArchived": true
   },
   {
     "date": "20 Jun 2020",
@@ -123,7 +134,8 @@
         "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8990074",
         "badgeDisplayName": "xplore"
       }
-    ]
+    ],
+    "isArchived": true
   },
   {
     "date":"09 Jun 2020",
@@ -139,6 +151,7 @@
         "link": "https://www.youtube.com/watch?v=ZTV5VtCLrdQ",
         "badgeDisplayName": "video"
       }
-    ]
+    ],
+    "isArchived": true
   }
 ]
