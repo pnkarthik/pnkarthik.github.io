@@ -1,6 +1,23 @@
 {
   "2022": [
     {
+      "date": "Nov 2022",
+      "title": "<em>Best Restless Markov Arm Identification</em>",
+      "description": "<span>2022 IEEE Information Theory Workshop, Mumbai, India",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2022/11/itw2022-karthik-srinivas-tan.pdf",
+          "badgeDisplayName": "slides"
+        },
+        {
+          "badgeName": "keynote",
+          "link": "../media/2022/11/itw2022-karthik-srinivas-tan.key",
+          "badgeDisplayName": "keynote"
+        }
+      ]
+    },
+    {
       "date": "Mar 2022",
       "title": "<em>Behind the Scenes of $Ax=b$: Axioms and an Open Question</em>",
       "description": "<span>A talk given to Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Tan</a>‘s research group</span>",

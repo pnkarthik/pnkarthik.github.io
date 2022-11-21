@@ -16,21 +16,6 @@
       ]
     },
     {
-      "id": "aaai2023",
-      "title": "<em>Almost Cost-Free Communication in Federated Best Arm Identification</em>",
-      "authors": "<a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
-      "status":"Submitted, Aug 2022",
-      "hasAbstract": true,
-      "abstract": "<p>We study the problem of best arm identification in a federated learning multi-armed bandit setup with a central server and multiple clients. Each client is associated with a multi-armed bandit in which each arm yields <em>i.i.d.</em> rewards following a Gaussian distribution with an unknown mean and known variance. The set of arms is assumed to be the same at all the  clients. We define two notions of best arm$-$local and global. The local best arm at a client is the arm with the largest mean among the arms local to the client, whereas the global best arm is the arm with the largest  average mean across all the clients. We assume that each client can only observe the rewards from its local arms  and thereby estimate its local best arm. The clients communicate with a central server on  uplinks that entail a cost of $C\\ge0$ units per usage per uplink. The global best arm is estimated at the server. The goal is to identify the local best arms and the global best arm with minimal total cost, defined as the sum of the total number of arm selections at all the clients and the total communication cost, subject to an upper bound on the error probability. We propose a novel algorithm $\\textsc{FedElim}$  that is based on successive elimination and communicates only in exponential time steps, and obtain a high probability  instance-dependent upper bound on its total cost. The key takeaway from our paper is that for any $C\\geq 0$ and error probabilities sufficiently small, the total number of arm selections (resp. the total cost) under $\\textsc{FedElim}$ is at most $2$ (resp. $3$) times the maximum total number of arm selections under its variant that communicates in every time step. Additionally, we show that the latter is optimal in expectation up to a constant factor, thereby demonstrating that communication is almost cost-free in $\\textsc{FedElim}$. We numerically validate the efficacy of  $\\textsc{FedElim}$ on two synthetic datasets and the MovieLens dataset.</p>",
-      "badgesData": [
-        {
-          "badgeName": "arxiv",
-          "link": "https://arxiv.org/abs/2208.09215",
-          "badgeDisplayName": "arxiv"
-        }
-      ]
-    },
-    {
       "id": "pp1",
       "title": "<em>Best Arm Identification in Restless Markov Multi-Armed Bandits</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
@@ -137,18 +122,40 @@
   ],
   "conferencePublications": [
     {
+      "id": "aaai2023",
+      "title": "<em>Almost Cost-Free Communication in Federated Best Arm Identification</em>",
+      "authors": "<a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
+      "status": "Proceedings of the 37th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023.",
+      "hasAbstract": true,
+      "abstract": "<p>We study the problem of best arm identification in a federated learning multi-armed bandit setup with a central server and multiple clients. Each client is associated with a multi-armed bandit in which each arm yields <em>i.i.d.</em> rewards following a Gaussian distribution with an unknown mean and known variance. The set of arms is assumed to be the same at all the  clients. We define two notions of best arm$-$local and global. The local best arm at a client is the arm with the largest mean among the arms local to the client, whereas the global best arm is the arm with the largest  average mean across all the clients. We assume that each client can only observe the rewards from its local arms  and thereby estimate its local best arm. The clients communicate with a central server on  uplinks that entail a cost of $C\\ge0$ units per usage per uplink. The global best arm is estimated at the server. The goal is to identify the local best arms and the global best arm with minimal total cost, defined as the sum of the total number of arm selections at all the clients and the total communication cost, subject to an upper bound on the error probability. We propose a novel algorithm $\\textsc{FedElim}$  that is based on successive elimination and communicates only in exponential time steps, and obtain a high probability  instance-dependent upper bound on its total cost. The key takeaway from our paper is that for any $C\\geq 0$ and error probabilities sufficiently small, the total number of arm selections (resp. the total cost) under $\\textsc{FedElim}$ is at most $2$ (resp. $3$) times the maximum total number of arm selections under its variant that communicates in every time step. Additionally, we show that the latter is optimal in expectation up to a constant factor, thereby demonstrating that communication is almost cost-free in $\\textsc{FedElim}$. We numerically validate the efficacy of  $\\textsc{FedElim}$ on two synthetic datasets and the MovieLens dataset.</p>",
+      "badgesData": [
+        {
+          "badgeName": "arxiv",
+          "link": "https://arxiv.org/abs/2208.09215",
+          "badgeDisplayName": "arxiv"
+        }
+      ]
+    },
+    {
       "id": "itw2022",
       "title": "<em>Best Restless Markov Arm Identification</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>Karthik Periyapattana Narayana Prasad</strong></a>,  <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
-      "status":"Accepted for presentation at the IEEE International Information Theory Workshop 2022, Nov 2022.",
+      "status": "Proceedings of the IEEE International Information Theory Workshop (<strong>ITW</strong>), 2022.",
       "hasAbstract": true,
-      "abstract": "<p>We study the problem of best arm identification in multi-armed bandits when each arm is an ergodic Markov process that evolves whether or not the arm is selected (<em>restless</em> arms). The evolution of each arm's Markov process is governed by its transition probability matrix (TPM). A decision entity that knows the set of arm TPMs but not the exact mapping of the TPMs to the arms, wishes to find the index of the best arm as quickly as possible, subject to an upper bound on the error probability. We derive an asymptotic lower bound on the expected time required to find the best arm, where the asymptotics is as the error probability vanishes. Also, we design a policy that, for an input parameter $R,$ forcibly selects an arm that has not been selected for $R$ consecutive time instants, and achieves an upper bound that is monotonically non-increasing in $R$. Showing that, in general, the lower bound and the limiting value of the upper bounds as $R \\to\\infty$ match, appears to be difficult and remains open. These bounds are, however, shown to match in the special case when the TPM of each arm has identical rows, i.e., the arms yield independent and identically distributed  observations.</p>"
+      "abstract": "<p>We study the problem of best arm identification in multi-armed bandits when each arm is an ergodic Markov process that evolves whether or not the arm is selected (<em>restless</em> arms). The evolution of each arm's Markov process is governed by its transition probability matrix (TPM). A decision entity that knows the set of arm TPMs but not the exact mapping of the TPMs to the arms, wishes to find the index of the best arm as quickly as possible, subject to an upper bound on the error probability. We derive an asymptotic lower bound on the expected time required to find the best arm, where the asymptotics is as the error probability vanishes. Also, we design a policy that, for an input parameter $R,$ forcibly selects an arm that has not been selected for $R$ consecutive time instants, and achieves an upper bound that is monotonically non-increasing in $R$. Showing that, in general, the lower bound and the limiting value of the upper bounds as $R \\to\\infty$ match, appears to be difficult and remains open. These bounds are, however, shown to match in the special case when the TPM of each arm has identical rows, i.e., the arms yield independent and identically distributed  observations.</p>",
+      "badgesData": [
+        {
+          "badgeName": "paper",
+          "link": "../media/2022/10/1570803352.pdf",
+          "badgeDisplayName": "pdf"
+        }
+      ]
     },
     {
       "id": "cp1",
       "title": "<em>Learning to Detect an Odd Restless Markov Arm</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
-      "status":"Proceedings of the IEEE International Symposium on Information Theory (ISIT), pp. 1457-1462, 2021",
+      "status":"Proceedings of the IEEE International Symposium on Information Theory (<strong>ISIT</strong>), pp. 1457-1462, 2021",
       "hasAbstract": true,
       "abstract": "<p>This paper studies the problem of identifying an anomalous arm in a multi-armed bandit when each arm is a finite-state Markov process and the arms are restless. Here, anomaly means that the transition probability matrix (TPM) of one of the arms (the odd arm) is different from the common TPM of each of the non-odd arms. The TPMs are unknown to a decision entity that wishes to find the index of the odd arm as quickly as possible, subject to an upper bound on the error probability. We derive an asymptotic lower bound on the expected time required to find the odd arm index, where the asymptotics is as the error probability vanishes. Further, we devise a policy based on the principle of certainty equivalence, and demonstrate that under a continuous selection assumption and a regularity assumption on the TPMs, the policy achieves the lower bound asymptotically. Our achievability analysis is based on resolving the identifiability problem in the context of a certain countable-state controlled Markov process.</p>",
       "badgesData": [
@@ -168,7 +175,7 @@
       "id": "cp2",
       "title": "<em>Detecting an Odd Restless Markov Arm with a Trembling Hand</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
-      "status":"Proceedings of the IEEE International Symposium on Information Theory (ISIT), pp. 2795-2800, 2020",
+      "status":"Proceedings of the IEEE International Symposium on Information Theory (<strong>ISIT</strong>), pp. 2795-2800, 2020",
       "hasAbstract": true,
       "abstract": "<p>Consider a multi-armed bandit whose arms are independent Markov processes on a common underlying state space. The transition probability matrix of one of the arms (the odd arm) is different from the common transition probability matrix of all the other arms. The goal is to identify the odd arm as quickly as possible while keeping the probability of decision error small. We study the case of restless Markov observations and identify an asymptotic lower bound on the expected stopping time for a decision with vanishing error probability. We then propose a sequential test and show that the asymptotic behaviour of its expected stopping time comes arbitrarily close to that of the lower bound. Prior works dealt with iid arms and rested Markov arms, whereas our work deals with restless Markov arms.</p>",
       "badgesData": [
@@ -188,7 +195,7 @@
       "id": "cp3",
       "title": "<em>Learning to Detect an Odd Markov</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
-      "status":"Proceedings of the IEEE International Symposium on Information Theory (ISIT), pp. 2554-2558, 2019",
+      "status":"Proceedings of the IEEE International Symposium on Information Theory (<strong>ISIT</strong>), pp. 2554-2558, 2019",
       "hasAbstract": true,
       "abstract": "<p>A multi-armed bandit with finitely many arms is studied when each arm is a homogeneous Markov process on an underlying finite state space. The transition law of one of the arms, referred to as the odd arm, is different from the common transition law of all other arms. A learner, who has no knowledge of the above transition laws, has to devise a sequential test to identify the index of the odd arm as quickly as possible, subject to an upper bound on the probability of error. For this problem, we derive an asymptotic lower bound on the expected stopping time of any sequential test of the learner, where the asymptotics is as the probability of error vanishes. Furthermore, we propose a sequential test, and show that the asymptotic behaviour of its expected stopping time comes arbitrarily close to that of the lower bound. Prior works deal with iid arms, whereas our work deals with Markov arms.</p>",
       "badgesData": [
@@ -208,7 +215,7 @@
       "id": "cp4",
       "title": "<em>On The Equivalence of Projections in Relative $\\alpha$-Entropy and Renyi Divergence</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
-      "status":"Proceedings of the 24th National Conference on Communications (NCC), pp. 1-6, 2018",
+      "status":"Proceedings of the 24th National Conference on Communications (<strong>NCC</strong>), pp. 1-6, 2018",
       "hasAbstract": true,
       "abstract": "<p>The aim of this work is to establish that two recently published projection theorems, one dealing with a parametric generalization of relative entropy and another dealing with Rényi divergence, are equivalent under a correspondence on the space of probability measures. Further, we demonstrate that the associated “Pythagorean” theorems are equivalent under this correspondence. Finally, we apply Eguchi's method of obtaining Riemannian metrics from general divergence functions to show that the geometry arising from the above divergences are equivalent under the aforementioned correspondence.</p>",
       "badgesData": [
@@ -233,7 +240,7 @@
       "id": "cp5",
       "title": "<em>Model-Based Interference Cartography and Visualization</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://scholar.google.com/citations?&user=8Dom1fMAAAAJ&view_op=list_works&authuser=1&sortby=pubdate\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Raksha Ramakrishna</a>, <a href=\"https://sites.google.com/view/geethujoseph/home\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Geethu Joseph</a>, <a href=\"https://ece.iisc.ac.in/~cmurthy/doku.php?id=home\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Chandra R. Murthy</a>, Joyson Sebastian, and <a href=\"https://ece.iisc.ac.in/~nextgenwrl/Neelesh.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Neelesh B. Mehta</a>",
-      "status":"Proceedings of the 23rd National Conference on Communications (NCC), pp. 1-6, 2016",
+      "status":"Proceedings of the 23rd National Conference on Communications (<strong>NCC</strong>), pp. 1-6, 2016",
       "hasAbstract": true,
       "abstract": "<p>In this work, we present a tool to construct and visualize the spatio-temporal variations of power. A dataset of real-world power measurements is collected over a geographical area of interest. Relevant parameters of the environment such as the path loss exponent and the decorrelation time of the lognormal shadow fading are extracted from the dataset. Also, the average powers measured at a finite set of known locations are interpolated to obtain the average power distribution over the area. Using the parameters of the lognormal shadow fading, synthetic data with the same temporal behavior of the dataset is generated, and multiplied with the average power distribution. The resulting spatio-temporal power map is displayed on the screen through a graphical user interface developed in-house. The proposed approaches for interpolation and parameter extraction are validated using test datasets generated using the well-accepted modified Gudmundson model for the spatio-temporal correlation of lognormal shadow fading. We also undertake a comparative study of three different interpolation techniques: linear interpolation, inverse distance weighing and ordinary kriging. Further, we compare a model-based approach with a model-free approach for interpolation, and find that model-based ordinary kriging provides the best mean absolute percentage error performance.</p>",
       "badgesData": [

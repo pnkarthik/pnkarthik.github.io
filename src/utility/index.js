@@ -26,6 +26,9 @@ const getBadgeColor = (badgeName) => {
     case 'abstract':
       badgeColor = "#E59866";
       break;
+    case 'keynote':
+      badgeColor = "#1F6712";
+      break;  
     default :
       badgeColor = '';
   }

@@ -32,7 +32,7 @@ const Publication = (props) => {
                   </div>
                 )}
                 <span>{parse(d.authors)}</span><br />
-                <span>{d.status}</span>
+                <span>{parse(d.status)}</span>
               </li>
             )
           })}
