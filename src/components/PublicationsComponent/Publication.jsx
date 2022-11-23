@@ -10,7 +10,7 @@ const Publication = (props) => {
       </div>
       <div className="col-md-10">
         <p className="headingFontSize">{props.heading}</p>
-        <ul>
+        <ol>
           {props.data.map((d, index) => {
             return (
               <li key={index}>
@@ -36,7 +36,7 @@ const Publication = (props) => {
               </li>
             )
           })}
-        </ul>
+        </ol>
       </div>
     </div>
   );
