@@ -16,21 +16,6 @@
       ]
     },
     {
-      "id": "pp1",
-      "title": "<em>Best Arm Identification in Restless Markov Multi-Armed Bandits</em>",
-      "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
-      "status":"Submitted to the IEEE Transactions on Information Theory, Mar 2022",
-      "hasAbstract": true,
-      "abstract": "<p>We study the problem of identifying the best arm in a multi-armed bandit environment when each arm is a time-homogeneous and ergodic discrete-time Markov process on a common, finite state space. The state evolution on each arm is governed by the arm's transition probability matrix (TPM). A decision entity that knows the set of arm TPMs but not the exact mapping of the TPMs to the arms, wishes to find the index of the best arm as quickly as possible, subject to an upper bound on the error probability. The decision entity selects one arm at a time sequentially, and all the unselected arms continue to undergo state evolution <em>restless</em> arms). For this problem, we derive the first-known problem instance-dependent asymptotic lower bound on the growth rate of the expected time required to find the index of the best arm, where the asymptotics is as the error probability vanishes. Further, we propose a sequential policy that, for an input parameter $R$, forcibly selects an arm that has not been selected for $R$ consecutive time instants. We show that this policy achieves an upper bound that depends on $R$ and is monotonically non-increasing as $R\\to\\infty$. The question of whether, in general, the limiting value of the upper bound as $R\\to\\infty$ matches with the lower bound, remains open. We identify a special case in which the upper and the lower bounds match. Prior works on best arm identification have dealt with (a) independent and identically distributed observations from the arms, and (b) rested Markov arms, whereas our work deals with the more difficult setting of restless Markov arms.</p>",
-      "badgesData": [
-        {
-          "badgeName": "arxiv",
-          "link": "https://arxiv.org/abs/2203.15236",
-          "badgeDisplayName": "arxiv"
-        }
-      ]
-    },
-    {
       "id": "pp2",
       "title": "<em>The Bus Priority Lane In Bengaluru: A Study of its Effectiveness and Driver Stress</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://www.nihesh.com\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Nihesh Rathod</a>, Sarath Yasodharan, Wilson Lobo, <a href=\"https://www.linkedin.com/in/ajeesh-sahadevan/?originalSubdomain=in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Ajeesh Sahadevan</a>, <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a> and <a href=\"https://www.linkedin.com/in/vpratik/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Pratik Verma</a>",
@@ -41,7 +26,7 @@
       "id": "pp3",
       "title": "<em>Learning to Detect an Odd Restless Markov Arm with a Trembling Hand</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
-      "status":"Submitted to the Journal of Machine Learning Research, Jan 2022",
+      "status":"Draft",
       "hasAbstract": true,
       "abstract": "<p>This paper studies the problem of finding an anomalous arm in a multi-armed bandit when (a) each arm is a finite-state Markov process, and (b) the arms are restless. Here, anomaly means that the transition probability matrix (TPM) of one of the arms (the odd arm) is different from the common TPM of each of the non-odd arms. The TPMs are unknown to a decision entity that wishes to find the index of the odd arm as quickly as possible, subject to an upper bound on the error probability. We derive a problem instance-specific asymptotic lower bound on the expected time required to find the odd arm index, where the asymptotics is as the error probability vanishes. Further, we devise a policy based on the principle of certainty equivalence, and demonstrate that under a continuous selection assumption and a certain regularity assumption on the TPMs, the policy achieves the lower bound arbitrarily closely. Thus, while the lower bound is shown for all problem instances, the upper bound is shown only for those problem instances satisfying the continuous selection and the regularity assumptions. Our achievability analysis is based on resolving the identifiability problem in the context of a certain lifted countable-state controlled Markov process.</p>",
       "badgesData": [
@@ -69,6 +54,21 @@
     }
   ],
   "journals": [
+    {
+      "id": "restless-bai",
+      "title": "<em>Best Arm Identification in Restless Markov Multi-Armed Bandits</em>",
+      "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
+      "status":"IEEE Transactions on Information Theory, 2022+",
+      "hasAbstract": true,
+      "abstract": "<p>We study the problem of identifying the best arm in a multi-armed bandit environment when each arm is a time-homogeneous and ergodic discrete-time Markov process on a common, finite state space. The state evolution on each arm is governed by the arm's transition probability matrix (TPM). A decision entity that knows the set of arm TPMs but not the exact mapping of the TPMs to the arms, wishes to find the index of the best arm as quickly as possible, subject to an upper bound on the error probability. The decision entity selects one arm at a time sequentially, and all the unselected arms continue to undergo state evolution <em>restless</em> arms). For this problem, we derive the first-known problem instance-dependent asymptotic lower bound on the growth rate of the expected time required to find the index of the best arm, where the asymptotics is as the error probability vanishes. Further, we propose a sequential policy that, for an input parameter $R$, forcibly selects an arm that has not been selected for $R$ consecutive time instants. We show that this policy achieves an upper bound that depends on $R$ and is monotonically non-increasing as $R\\to\\infty$. The question of whether, in general, the limiting value of the upper bound as $R\\to\\infty$ matches with the lower bound, remains open. We identify a special case in which the upper and the lower bounds match. Prior works on best arm identification have dealt with (a) independent and identically distributed observations from the arms, and (b) rested Markov arms, whereas our work deals with the more difficult setting of restless Markov arms.</p>",
+      "badgesData": [
+        {
+          "badgeName": "arxiv",
+          "link": "https://arxiv.org/abs/2203.15236",
+          "badgeDisplayName": "arxiv"
+        }
+      ]
+    },
     {
       "id": "j1",
       "title": "<em>Detecting an Odd Restless Markov Arm with a Trembling Hand</em>",
@@ -144,6 +144,11 @@
       "hasAbstract": true,
       "abstract": "<p>We study the problem of best arm identification in multi-armed bandits when each arm is an ergodic Markov process that evolves whether or not the arm is selected (<em>restless</em> arms). The evolution of each arm's Markov process is governed by its transition probability matrix (TPM). A decision entity that knows the set of arm TPMs but not the exact mapping of the TPMs to the arms, wishes to find the index of the best arm as quickly as possible, subject to an upper bound on the error probability. We derive an asymptotic lower bound on the expected time required to find the best arm, where the asymptotics is as the error probability vanishes. Also, we design a policy that, for an input parameter $R,$ forcibly selects an arm that has not been selected for $R$ consecutive time instants, and achieves an upper bound that is monotonically non-increasing in $R$. Showing that, in general, the lower bound and the limiting value of the upper bounds as $R \\to\\infty$ match, appears to be difficult and remains open. These bounds are, however, shown to match in the special case when the TPM of each arm has identical rows, i.e., the arms yield independent and identically distributed  observations.</p>",
       "badgesData": [
+        {
+          "badgeName": "xplore",
+          "link": "https://ieeexplore.ieee.org/document/9965908",
+          "badgeDisplayName": "xplore"
+        },
         {
           "badgeName": "paper",
           "link": "../media/2022/10/1570803352.pdf",

@@ -7,7 +7,7 @@ const getBadgeColor = (badgeName) => {
     case 'paper':
     case 'draft':
     case 'notes':
-      badgeColor = "#9FE2BF";
+      badgeColor = "#4F8C1C";
       break;
     case 'xplore':
       badgeColor = "#DE3163";
@@ -15,7 +15,7 @@ const getBadgeColor = (badgeName) => {
     case 'slides':
     case 'certificate':
     case 'thesis':
-      badgeColor = "#BDB76B";
+      badgeColor = "#e59866";
       break;
     case 'video':
       badgeColor = "#DDA0DD";
