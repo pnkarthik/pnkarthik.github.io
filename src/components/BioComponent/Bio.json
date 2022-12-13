@@ -30,13 +30,6 @@
       "imageUrl": "../images/nusLogo.jpeg"
     },
     {
-      "title": "Research Associate - 1",
-      "collegeName": "<a href=\"https://iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Indian Institute of Science</a>",
-      "year": "Nov 2021 - Dec 2021",
-      "place": "Bengaluru, Karnataka, India",
-      "imageUrl": "../images/iiscLogo.jpeg"
-    },
-    {
       "title": "Intern",
       "collegeName": "<a href=\"https://www.netradyne.com/india\" target=\"_blank\" rel=\"noopener noreferrer\">Netradyne Technology India Pvt Ltd</a>",
       "year": "Nov 2019 - Mar 2020",
@@ -60,15 +53,6 @@
       "place": "Bengaluru, Karnataka, India",
       "imageUrl": "../images/iiscLogo.jpeg",
       "supervisor": "Prof. <a href=\"https://ece.iisc.ac.in/~cmurthy/doku.php?id=home\" target=\"_blank\" rel=\"noopener noreferrer\">Chandra R. Murthy</a>"
-    },
-    {
-      "title": "Project Trainee",
-      "collegeName": "<a href=\"https://kssrdi.karnataka.gov.in/english\" target=\"_blank\" rel=\"noopener noreferrer\">Karnatake State Sericulture Research and Development Institute</a>",
-      "year": "Aug - Dec 2013",
-      "place": "Bengaluru, Karnataka, India",
-      "imageUrl": "../images/kssrdiLogo.jpeg",
-      "noOfMentors": 1,
-      "mentor": "Prof. <a href=\"https://rvce.edu.in/ec-govindrajum\" target=\"_blank\" rel=\"noopener noreferrer\">M. Govinda Raju</a>"
     }
   ],
   "awardsAndHonors": [
@@ -94,9 +78,11 @@
     {"title": "Secured rank 23 (among the top 0.02%) in the 2010 Karnataka Common Entrance Test (KCET)"}
   ],
   "professionalService": [
-    {"title": "Reviewer, IEEE Transactions on Information Theory"},
-    {"title": "Reviewer, IEEE Transactions on Signal Processing"},
-    {"title": "Reviewer, Entropy Journal"},
+    {"title": "Reviewer, IEEE Transactions on Information Theory (T-IT)"},
+    {"title": "Reviewer, IEEE Transactions on Signal Processing (TSP)"},
+    {"title": "Reviewer, Entropy"},
+    {"title": "Reviewer, Sadhana"},
+    {"title": "Reviewer, Journal on Selected Areas in Communications (JSAC)"},
     {"title": "Reviewer, IEEE International Symposium on Information Theory (ISIT)"},
     {"title": "Reviewer, National Conference on Communications (NCC)"}
   ]
