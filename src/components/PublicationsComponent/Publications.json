@@ -26,7 +26,7 @@
       "id": "pp3",
       "title": "<em>Learning to Detect an Odd Restless Markov Arm with a Trembling Hand</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
-      "status":"Draft",
+      "status": "",
       "hasAbstract": true,
       "abstract": "<p>This paper studies the problem of finding an anomalous arm in a multi-armed bandit when (a) each arm is a finite-state Markov process, and (b) the arms are restless. Here, anomaly means that the transition probability matrix (TPM) of one of the arms (the odd arm) is different from the common TPM of each of the non-odd arms. The TPMs are unknown to a decision entity that wishes to find the index of the odd arm as quickly as possible, subject to an upper bound on the error probability. We derive a problem instance-specific asymptotic lower bound on the expected time required to find the odd arm index, where the asymptotics is as the error probability vanishes. Further, we devise a policy based on the principle of certainty equivalence, and demonstrate that under a continuous selection assumption and a certain regularity assumption on the TPMs, the policy achieves the lower bound arbitrarily closely. Thus, while the lower bound is shown for all problem instances, the upper bound is shown only for those problem instances satisfying the continuous selection and the regularity assumptions. Our achievability analysis is based on resolving the identifiability problem in the context of a certain lifted countable-state controlled Markov process.</p>",
       "badgesData": [
@@ -41,8 +41,8 @@
       "id": "pp4",
       "title": "<em>Axiomatic Characterisation of Projection Rules: An Open Question</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
-      "status":"Draft",
       "hasAbstract": true,
+      "status": "",
       "abstract": "<p>This paper studies the close interplay between two commonly used approaches for describing projection rules: (a) function-minimisation approach, and (b) axiomatic approach. As one of the findings of this study, this paper reports an interesting connection that the topic of conservative vector fields has with the axiomatic approach for describing projection rules. This leads to a question on conservative vector fields that is of independent mathematical interest. While answers to this question are known only in a few instances, a general solution to this question is currently not available. Contrary to papers that present concrete results in connection with a selected problem, the main purpose of this paper is to bring to light the above mathematical question.</p>",
       "badgesData": [
         {
