@@ -58,13 +58,13 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 }
 
 .linkedinColor, .linkedinColor:hover {
-  background-color: #463EE3;
-  border-color: #463EE3;
+  background-color: #6495ED;
+  border-color: #6495ED;
 }
 
 .gmailColor, .gmailColor:hover {
-  background-color: #ec971f;
-  border-color: #ec971f;
+  background-color: #E59866;
+  border-color: #E59866;
 }
 
 .scholarColor, .scholarColor:hover {
@@ -149,7 +149,7 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 }
 
 .nameFontColor, .nameFontColor:hover {
-  color: green;
+  color: black;
 }
 
 .abstractMargin {
@@ -288,4 +288,29 @@ tr {
 
 .breakWord {
   word-break: break-all;
+}
+
+.readMore {
+  position: absolute;
+  bottom: 10px;
+}
+
+.blogCardMargin {
+  margin-right: 10px;
+}
+
+.readMoreBtn {
+  background-color: red;
+}
+
+.textWhite {
+  color: white;
+}
+
+.card-text {
+  margin-bottom: 3rem;
+}
+
+.cardBorder {
+  border: 2px solid rgba(0,0,0,.125);
 }

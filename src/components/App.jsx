@@ -34,7 +34,7 @@ const App = () => {
       }
     },
     chtml: {
-      mtextFont: "serif",
+      mtextFont: "sans-serif",
     },
     svg: {
       mtextFont: "serif"

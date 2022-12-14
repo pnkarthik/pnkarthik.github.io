@@ -16,11 +16,11 @@ const Publication = (props) => {
               <li key={index}>
                 <span className="contentPadding">{parse(d.title)}</span>
                 {d.hasAbstract && (
-                  <span className="badge rounded-pill abstractBadge abstractMargin" data-bs-toggle="collapse" data-bs-target={`#${d.id}`} aria-expanded="false" aria-controls="publication" style={{ backgroundColor: props.getBadgeColor("abstract") }}>abstract</span>
+                  <span className="badge abstractBadge abstractMargin" data-bs-toggle="collapse" data-bs-target={`#${d.id}`} aria-expanded="false" aria-controls="publication" style={{ backgroundColor: props.getBadgeColor(0) }}>abstract</span>
                 )}
                 {d.badgesData && d.badgesData.map((badge, index) => {
                   return (
-                    <a key={index} href={badge.link} target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge rounded-pill" style={{ backgroundColor: props.getBadgeColor(badge.badgeName) }}>{badge.badgeDisplayName}</span></a>
+                    <a key={index} href={badge.link} target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge" style={{ backgroundColor: props.getBadgeColor(index + 1) }}>{badge.badgeDisplayName}</span></a>
                   )
                 })}
                 <br />
