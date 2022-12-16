@@ -2,11 +2,25 @@
   {
     "date": "11 Dec 2022",
     "content": "Paper titled <em>Best Arm Identification in Restless Markov Multi-Armed Bandits</em> accepted for publication in the IEEE Transactions on Information Theory. Based on joint work with colleague <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a> and postdoc supervisor Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>.",
+    "badgesData": [
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2203.15236",
+        "badgeDisplayName": "arxiv"
+      }
+    ],
     "isArchived": false
   },
   {
     "date": "19 Nov 2022",
     "content": "Paper titled <em>Almost Cost-Free Communication in Federated Best Arm Identification</em> accepted for presentation at the <a href=\"https://aaai.org/Conferences/AAAI-23/\" target=\"_blank\" rel=\"noopener noreferrer\">37th AAAI Conference on Artificial Intelligence</a> (AAAI 2023). This is joint work with colleague <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a> and postdoc supervisor Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>. Acceptance ratio $= 1721/8777 \\approx 19.6\\%$.",
+    "badgesData": [
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2208.09215",
+        "badgeDisplayName": "arxiv"
+      }
+    ],
     "isArchived": false
   },
   {
@@ -52,7 +66,19 @@
   },
   {
     "date": "01 Aug 2022",
-    "content": "My paper with colleague <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a> and postdoc supervisor Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>, titled <em>Best Restless Markov Arm Identification</em>, accepted for presentation at the <a href=\"https://itw2022.in\" target=\"_blank\" rel=\"noopener noreferrer\">IEEE Information Theory Workshop 2022</a> (to be held in Nov 2022 at the Indian Institute of Technology, Mumbai)."
+    "content": "My paper with colleague <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a> and postdoc supervisor Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>, titled <em>Best Restless Markov Arm Identification</em>, accepted for presentation at the <a href=\"https://itw2022.in\" target=\"_blank\" rel=\"noopener noreferrer\">IEEE Information Theory Workshop 2022</a> (to be held in Nov 2022 at the Indian Institute of Technology, Mumbai).",
+    "badgesData": [
+      {
+        "badgeName": "xplore",
+        "link": "https://ieeexplore.ieee.org/document/9965908",
+        "badgeDisplayName": "xplore"
+      },
+      {
+        "badgeName": "paper",
+        "link": "../media/2022/10/1570803352.pdf",
+        "badgeDisplayName": "pdf"
+      }
+   ]
   },
   {
     "date": "31 Mar 2022",

@@ -20,7 +20,7 @@
     {
       "date": "Mar 2022",
       "title": "<em>Behind the Scenes of $Ax=b$: Axioms and an Open Question</em>",
-      "description": "<span>A talk given to Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Tan</a>‘s research group</span>",
+      "description": "<span>A talk given to Prof. Vincent Tan‘s research group</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -56,7 +56,7 @@
     {
       "date": "Oct 2021",
       "title": "<em>Finding a Markov Anomaly Quickly and Accurately</em>",
-      "description": "<span>Secured the <span class=\"boldColor\">first place</span> under “Electronics and Communication Engineering” category in the <a href=\"https://drive.google.com/drive/folders/1ym3GB05XDHRbjU3mGJaIz4v37Z-Qj4xI\" target=\"_blank\" rel=\"noopener noreferrer\">100 seconds competition</a> organised by the Kanpur Chapter of INAE</span>",
+      "description": "A video entry for the 100 seconds competition organised by the Kanpur Chapter of INAE </br> <span class=\"boldColor\"> <br /> First place</span> under “Electronics and Communication Engineering” category",
       "badgesData": [
         {
           "badgeName": "video",
@@ -73,7 +73,7 @@
     {
       "date": "Oct 2021",
       "title": "<em>GATE: A Pathway to Research</em>",
-      "description": "<span>An online interactive session on the Graduate Aptitude Test in Engineering (GATE) as a pathway to undertaking research, organised by the <a href=\"https://eecs.iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Division of EECS</a>, Indian Institute of Science</span>",
+      "description": "<span>An online interactive session on the Graduate Aptitude Test in Engineering (GATE) as a pathway to undertaking research, organised by the Division of EECS, Indian Institute of Science</span>",
       "badgesData": [
         {
           "badgeName": "video",
@@ -141,7 +141,7 @@
     {
       "date": "May 2021",
       "title": "<em>Crack Open the GATE</em>",
-      "description": "<span>A session conducted for the students of <a href=\"https://rvce.edu.in/\" target=\"_blank\" rel=\"noopener noreferrer\">R V College of Engineering</a> to educate them about the Graduate Aptitude Test in Engineering (GATE)<br /> Other speakers in the video: <a href=\"https://www.linkedin.com/in/dheeraj-prasanna-166385112/\" target=\"_blank\" rel=\"noopener noreferrer\">Dheeraj Prasanna</a>, <a href=\"https://www.linkedin.com/in/abhishek-g-1610a0119/\" target=\"_blank\" rel=\"noopener noreferrer\">Abhishek G</a></span>",
+      "description": "<span>A session conducted for the students of R V College of Engineering to educate them about GATE exam <br /> Other speakers in the video: <a href=\"https://www.linkedin.com/in/dheeraj-prasanna-166385112/\" target=\"_blank\" rel=\"noopener noreferrer\">Dheeraj Prasanna</a>, <a href=\"https://www.linkedin.com/in/abhishek-g-1610a0119/\" target=\"_blank\" rel=\"noopener noreferrer\">Abhishek G</a></span>",
       "badgesData": [
         {
           "badgeName": "video",
@@ -155,7 +155,7 @@
     {
       "date": "Sep 2020",
       "title": "<em>Probability in Real-Life: Example Applications from Visual Neuroscience, Colour Blindness Detection and Covid-19 Outbreak Modelling</em>",
-      "description": "<span>A talk presented virtually to the 5th semester students and the faculty of the Department of Electronics and Communication Engineering, <a href=\"https://rvce.edu.in/\" target=\"_blank\" rel=\"noopener noreferrer\">R V College of Engineering</a></span>",
+      "description": "<span>A talk presented virtually to the 5th semester students and the faculty of the Department of Electronics and Communication Engineering, R V College of Engineering</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -172,7 +172,7 @@
     {
       "date": "Jul 2020",
       "title": "<em>Odd Arm Identification in Multi-armed Bandits with Markov Observations</em>",
-      "description": "<span><a href=\"https://eecs.iisc.ac.in/EECS2020/index.php\" target=\"_blank\" rel=\"noopener noreferrer\">EECS Research Students Symposium</a>, Indian Institute of Science, virtual presentation<br/>Secured the <span class=\"boldColor\">best paper award</span> under the “Signal Processing, Communication Networks & Information Theory” track</span>",
+      "description": "<span>EECS Research Students Symposium, Indian Institute of Science, virtual presentation<br/> <span class=\"boldColor\">Best paper award</span> under the “Signal Processing, Communication Networks & Information Theory” track</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -242,7 +242,7 @@
     {
       "date": "Dec 2019",
       "title": "<em>Search in Research: The Importance of the Theory of Probability in Real-Life</em>",
-      "description": "<span><a href=\"https://rvce.edu.in/\" target=\"_blank\" rel=\"noopener noreferrer\">R V College of Engineering</a></span>",
+      "description": "<span>R V College of Engineering</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -305,7 +305,7 @@
     {
       "date": "Aug 2019",
       "title": "<em>Learning to Detect an Odd Markov Arm</em>",
-      "description": "<span>ICTS Program on Advances in Applied Probability, International Centre for Theoretical Sciences</span>",
+      "description": "<span>ICTS Program on Advances in Applied Probability, International Centre for Theoretical Sciences, Bangalore</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -329,7 +329,7 @@
     {
       "date": "Jun 2019",
       "title": "<em>A Short Course on Probability and Random Processes</em>",
-      "description": "<span><a href=\"https://rvce.edu.in/\" target=\"_blank\" rel=\"noopener noreferrer\">R V College of Engineering</a></span>",
+      "description": "<span>R V College of Engineering</span>",
       "badgesData": [
         {
           "badgeName": "thesis",
