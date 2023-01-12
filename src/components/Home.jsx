@@ -5,8 +5,8 @@ import NewsComponent from "./NewsComponent";
 const Home = () => {
   return (
     <div className="row col-12 p-0 m-0">
-      <div className="col-md-4 col-xxl-3"><img src={process.env.PUBLIC_URL + '/images/profile.jpg'} alt="" width="240px" height="240px" /></div>
-      <div className="d-flex flex-column col-md-8 col-xxl-6">
+      <div className="col-md-5 col-xxl-4"><img src={process.env.PUBLIC_URL + '/images/profile.jpg'} alt="" width="240px" height="240px" /></div>
+      <div className="d-flex flex-column col-md-7 col-xxl-6">
         <span className="profileName">P. N. Karthik</span>
         <span className="profileDesc">Research Fellow,</span>
         <span className="profileDesc">Institute of Data Science,</span>
