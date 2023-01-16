@@ -1,4 +1,23 @@
 {
+  "2023": [
+    {
+      "date": "Jan 2023",
+      "title": "<em>Almost Cost-Free Communication in Federated Best Arm Identification</em>",
+      "description": "<span>Invited talk, Workshop on Information Theory and Data Science, Institute for Mathematical Sciences, National University of Singapore",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2023/01/ims-workshop-2023.pdf",
+          "badgeDisplayName": "slides"
+        },
+        {
+          "badgeName": "keynote",
+          "link": "../media/2023/01/ims-workshop-2023.key",
+          "badgeDisplayName": "keynote"
+        }
+      ]
+    }
+  ],
   "2022": [
     {
       "date": "Nov 2022",

@@ -1,5 +1,22 @@
 [
   {
+    "date": "16 Jan 2023",
+    "content": "Delivered an invited talk at the <a href=\"https://ims.nus.edu.sg/events/information-theory-and-data-science-workshop/\" target=\"_blank\" rel=\"noopener noreferrer\">Workshop on Information Theory and Data Science</a>, <a href=\"https://ims.nus.edu.sg\" target=\"_blank\" rel=\"noopener noreferrer\">Institute for Mathematical Sciences</a>, National University of Singapore.",
+    "badgesData": [
+      {
+        "badgeName": "slides",
+        "link": "../media/2023/01/ims-workshop-2023.pdf",
+        "badgeDisplayName": "slides"
+      },
+      {
+        "badgeName": "keynote",
+        "link": "../media/2023/01/ims-workshop-2023.key",
+        "badgeDisplayName": "keynote"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "11 Dec 2022",
     "content": "Paper titled <em>Best Arm Identification in Restless Markov Multi-Armed Bandits</em> accepted for publication in the IEEE Transactions on Information Theory. Based on joint work with colleague <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a> and postdoc supervisor Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>.",
     "badgesData": [
