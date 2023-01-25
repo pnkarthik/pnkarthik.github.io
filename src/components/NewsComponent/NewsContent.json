@@ -24,6 +24,11 @@
         "badgeName": "arxiv",
         "link": "https://arxiv.org/abs/2203.15236",
         "badgeDisplayName": "arxiv"
+      },
+      {
+        "badgeName": "xplore",
+        "link": "https://ieeexplore.ieee.org/document/9994751",
+        "badgeDisplayName": "xplore"
       }
     ],
     "isArchived": false
