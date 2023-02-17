@@ -1,5 +1,17 @@
 [
   {
+    "date": "11 Feb 2023",
+    "content": "Presented a poster at the <a href=\"https://aaai.org/Conferences/AAAI-23/\" target=\"_blank\" rel=\"noopener noreferrer\">37th AAAI Conference on Artificial Intelligence</a> (AAAI 2023).",
+    "badgesData": [
+      {
+        "badgeName": "poster",
+        "link": "../media/2023/02/AAAI-2023-poster.pdf",
+        "badgeDisplayName": "pdf"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "16 Jan 2023",
     "content": "Delivered an invited talk at the <a href=\"https://ims.nus.edu.sg/events/information-theory-and-data-science-workshop/\" target=\"_blank\" rel=\"noopener noreferrer\">Workshop on Information Theory and Data Science</a>, <a href=\"https://ims.nus.edu.sg\" target=\"_blank\" rel=\"noopener noreferrer\">Institute for Mathematical Sciences</a>, National University of Singapore.",
     "badgesData": [

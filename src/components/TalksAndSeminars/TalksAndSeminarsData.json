@@ -1,6 +1,18 @@
 {
   "2023": [
     {
+      "date": "Feb 2023",
+      "title": "<em>Almost Cost-Free Communication in Federated Best Arm Identification</em>",
+      "description": "<span>Poster presentation, 37th AAAI conference on Artificial Intelligence, Washington D.C., United States of America.",
+      "badgesData": [
+        {
+          "badgeName": "poster",
+          "link": "../media/2023/02/AAAI-2023-poster.pdf",
+          "badgeDisplayName": "pdf"
+        }
+      ]
+    },
+    {
       "date": "Jan 2023",
       "title": "<em>Almost Cost-Free Communication in Federated Best Arm Identification</em>",
       "description": "<span>Invited talk, Workshop on Information Theory and Data Science, Institute for Mathematical Sciences, National University of Singapore",
