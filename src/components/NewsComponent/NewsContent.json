@@ -1,5 +1,17 @@
 [
   {
+    "date": "23 Mar 2023",
+    "content": "Presented my recent work on <em>Best Arm Identification with Limited Precision Sampling</em> to Prof. Vincent Tan<a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">'s research group at NUS.",
+    "badgesData": [
+      {
+        "badgeName": "slides",
+        "link": "../media/2023/03/NUS-Mar-2023.pdf",
+        "badgeDisplayName": "slides"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "11 Feb 2023",
     "content": "Presented a poster at the <a href=\"https://aaai.org/Conferences/AAAI-23/\" target=\"_blank\" rel=\"noopener noreferrer\">37th AAAI Conference on Artificial Intelligence</a> (AAAI 2023) in Washington D.C..",
     "badgesData": [
@@ -84,7 +96,7 @@
         "badgeDisplayName": "arxiv"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "22 Aug 2022",
@@ -96,7 +108,7 @@
         "badgeDisplayName": "arxiv"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "01 Aug 2022",
@@ -124,7 +136,7 @@
         "badgeDisplayName": "arxiv"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "20 Dec 2021",
