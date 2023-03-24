@@ -1,6 +1,18 @@
 {
   "2023": [
     {
+      "date": "Mar 2023",
+      "title": "<em>Best Arm Identification with Limited Precision Sampling</em>",
+      "description": "<span>A talk given to Prof. Vincent Tan‘s research group at NUS",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2023/03/NUS-Mar-2023.pdf",
+          "badgeDisplayName": "slides"
+        }
+      ]
+    },
+    {
       "date": "Feb 2023",
       "title": "<em>Almost Cost-Free Communication in Federated Best Arm Identification</em>",
       "description": "<span>Poster presentation, 37th AAAI conference on Artificial Intelligence, Washington D.C..",
