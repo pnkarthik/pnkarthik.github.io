@@ -15,7 +15,7 @@
     {
       "date": "Feb 2023",
       "title": "<em>Almost Cost-Free Communication in Federated Best Arm Identification</em>",
-      "description": "<span>Poster presentation, 37th AAAI conference on Artificial Intelligence, Washington D.C..",
+      "description": "<span>Poster presentation, AAAI 2023, Washington D.C., USA.",
       "badgesData": [
         {
           "badgeName": "poster",
@@ -46,7 +46,7 @@
     {
       "date": "Nov 2022",
       "title": "<em>Best Restless Markov Arm Identification</em>",
-      "description": "<span>IEEE Information Theory Workshop, Mumbai, India",
+      "description": "<span>ITW 2022, Mumbai, India",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -82,7 +82,7 @@
     {
       "date": "Nov 2021",
       "title": "<em>Sequential Controlled Sensing to Detect an Anomalous Process</em>",
-      "description": "<span>Ph.D. defence, Department of Electrical Communication Engineering, Indian Institute of Science</span>",
+      "description": "<span>Ph.D. defence, Department of ECE, Indian Institute of Science</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -145,7 +145,7 @@
     {
       "date": "Jul 2021",
       "title": "<em>Learning to Detect an Odd Restless Markov Arm</em>",
-      "description": "<span>IEEE International Symposium on Information Theory, virtual conference</span>",
+      "description": "<span>ISIT 2021</span>",
       "badgesData": [
         {
           "badgeName": "video",
@@ -167,7 +167,7 @@
     {
       "date": "Jun 2021",
       "title": "<em>Sequential Controlled Sensing to Detect an Anomalous Process</em>",
-      "description": "<span>Ph.D. colloquium talk, Department of Electrical Communication Engineering, Indian Institute of Science</span>",
+      "description": "<span>Ph.D. colloquium, Department of ECE, Indian Institute of Science</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -215,7 +215,7 @@
     {
       "date": "Jul 2020",
       "title": "<em>Odd Arm Identification in Multi-armed Bandits with Markov Observations</em>",
-      "description": "<span>EECS Research Students Symposium, Indian Institute of Science, virtual presentation<br/> <span class=\"boldColor\">Best paper award</span> under the “Signal Processing, Communication Networks & Information Theory” track</span>",
+      "description": "<span>EECS Research Students' Symposium, Indian Institute of Science, virtual presentation<br/> <span class=\"boldColor\">Best paper award</span> under the “Signal Processing, Communication Networks & Information Theory” track</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -237,7 +237,7 @@
     {
       "date": "Jun 2020",
       "title": "<em>Detecting an Odd Restless Markov Arm with a Trembling Hand</em>",
-      "description": "<span>IEEE International Symposium on Information Theory, virtual conference</span>",
+      "description": "<span>ISIT 2020</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -320,16 +320,6 @@
           "badgeName": "slides",
           "link": "../media/2020/07/networks_seminar_Nov13.pdf",
           "badgeDisplayName": "slides"
-        },
-        {
-          "badgeName": "video",
-          "link": "../media/2020/07/problem_setup_gif_rested.m4v",
-          "badgeDisplayName": "Rested arms animation"
-        },
-        {
-          "badgeName": "video",
-          "link": "../media/2020/07/problem_setup_gif_restless.m4v",
-          "badgeDisplayName": "Restless arms animation"
         }
       ]
     },
@@ -360,7 +350,7 @@
     {
       "date": "Jul 2019",
       "title": "<em>Learning to Detect an Odd Markov Arm</em>",
-      "description": "<span>IEEE International Symposium on Information Theory, Paris, France</span>",
+      "description": "<span>ISIT 2019, Paris, France</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -384,7 +374,7 @@
     {
       "date": "Feb 2019",
       "title": "<em>$Ax=b$: A Familiar Setup, Axioms and An Open Question</em>",
-      "description": "<span><a href=\"https://ece.iisc.ac.in/~myna/seminar/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">ECE Students’ Seminar Series</a>, Indian Institute of Science</span>",
+      "description": "<span>ECE Students’ Seminar Series, Indian Institute of Science</span>",
       "badgesData": [
         {
           "badgeName": "video",
@@ -393,13 +383,8 @@
         },
         {
           "badgeName": "slides",
-          "link": "../media/2020/05/KarthikSSS.pdf",
-          "badgeDisplayName": "3-min slides"
-        },
-        {
-          "badgeName": "slides",
           "link": "../media/2020/05/KarthikSSSMain.pdf",
-          "badgeDisplayName": "main talk slides"
+          "badgeDisplayName": "slides"
         }
       ]
     }
@@ -408,7 +393,7 @@
     {
       "date": "Feb 2018",
       "title": "<em>On the Equivalence of Projections in Relative $\\alpha$-Entropy and Rényi Divergence</em>",
-      "description": "<span>National Conference on Communications, Indian Institute of Technology, Hyderabad</span>",
+      "description": "<span>NCC 2018, IIT Hyderabad</span>",
       "badgesData": [
         {
           "badgeName": "slides",
@@ -422,7 +407,7 @@
     {
       "date": "Dec 2017",
       "title": "<em>On the Equivalence of Projections in Relative $\\alpha$-Entropy and Rényi Divergence</em>",
-      "description": "<span>Lectures on Probability and Stochastic Processes XII, Indian Statistical Institute, Kolkata</span>",
+      "description": "<span>LPS XII, ISI Kolkata</span>",
       "badgesData": [
         {
           "badgeName": "slides",

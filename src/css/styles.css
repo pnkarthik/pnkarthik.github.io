@@ -149,7 +149,7 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 }
 
 .nameFontColor, .nameFontColor:hover {
-  color: #1c45c8;
+  color: #3c9792;
 }
 
 .abstractMargin {
@@ -257,7 +257,7 @@ tr {
 }
 
 .blogSeparator {
-  background: #d9d9d9;
+  background: #bcb6b6;
   border: 0;
   height: 1px;
   border-top: 1px solid;

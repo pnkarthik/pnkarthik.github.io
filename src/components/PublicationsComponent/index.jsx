@@ -76,8 +76,7 @@ const Publications = () => {
                   </p>
                 </div>
               </div>
-              <a href="/" rel="noopener noreferrer" class="nameFontColor"><strong>Karthik Periyapattana Narayanaprasad</strong></a><br />
-              <span><a href="https://ece.iisc.ac.in" target="_blank" rel="noopener noreferrer">Department of Electrical Communication Engineering</a>, <a href="https://iisc.ac.in" target="_blank" rel="noopener noreferrer">Indian Institute of Science</a>, Nov 2021</span><br />
+              <span><a href="https://ece.iisc.ac.in" target="_blank" rel="noopener noreferrer">Department of ECE</a>, <a href="https://iisc.ac.in" target="_blank" rel="noopener noreferrer">Indian Institute of Science</a>, Nov 2021</span><br />
             </li>
           </ul>
         </div>
