@@ -28,7 +28,7 @@ const BlogsComponent = () => {
           <div className="card d-flex flex-column col-md-4 blogCardMargin cardBorder">
             <div className="card-body">
               <div className="headingFontSize">{d.title}</div>
-              <div className="card-subtitle badge rounded-pill dateColor p-1 blogDateMargin">{d.date}</div>
+              <div className="card-subtitle badge dateColor p-1 blogDateMargin">{d.date}</div>
               <div className="card-text">{d.initialContent}</div>
               <a href={d.blogLink} className="card-link readMore" target="_blank" rel="noopener noreferrer"><button type="button" className="btn readMoreBtn"><span className="textWhite">Read More</span></button></a>
               {/* <a href="#" class="card-link">Another link</a> */}

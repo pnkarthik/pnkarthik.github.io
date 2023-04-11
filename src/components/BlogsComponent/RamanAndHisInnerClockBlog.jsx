@@ -5,7 +5,7 @@ const RamanAndHisInnerClock = () => {
     <div className="col-lg-8 offset-lg-2">
       <div className="text-center">
         <span className="blogTitle">Taming the Mind: Raman and his "Inner" Clock</span><br />
-        <span className="badge rounded-pill dateColor p-1 blogDateMargin">06 Feb 2021</span>
+        <span className="badge dateColor p-1 blogDateMargin">06 Feb 2021</span>
       </div>
       <div className="blogContent">
         <p className="dropCap">

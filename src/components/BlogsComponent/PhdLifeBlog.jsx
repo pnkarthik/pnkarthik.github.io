@@ -5,7 +5,7 @@ const PhdLifeBlog = () => {
     <div className="col-lg-8 offset-lg-2">
       <div className="text-center">
         <span className="blogTitle">What 1756 Days of Ph.D. Life Has Taught Me</span><br />
-        <span className="badge rounded-pill dateColor p-1 blogDateMargin">23 May 2020</span>
+        <span className="badge dateColor p-1 blogDateMargin">23 May 2020</span>
       </div>
       <div className="blogContent">
         <p className="dropCap">

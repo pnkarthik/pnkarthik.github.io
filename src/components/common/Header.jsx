@@ -15,12 +15,12 @@ const Header = () => {
 
   return (
     <>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+      <nav className="navbar navbar-expand-lg navbar-light fixed-top navbar-background">
         <button ref={navButton} className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
         <div ref={linksContainerRef} className="collapse navbar-collapse" id="navbarSupportedContent">
-          <div className="navbar-nav ms-auto">
+          <div className="navbar-nav navbar-margin">
             <a className="nav-item nav-link" onClick={() => { collapseNav(); scrollToTop(); }} href="/">Home</a>
             <a className="nav-item nav-link" onClick={() => { collapseNav(); scrollToTop(); }} href="#/bio">Bio</a>
             <a className="nav-item nav-link" onClick={() => { collapseNav(); scrollToTop(); }} href="#/publications">Publications</a>

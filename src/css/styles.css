@@ -1,9 +1,45 @@
 body {
   font-family: 'Source Sans Pro', sans-serif;
+  background-color: #ebe7e7;
+  /* font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; */
+}
+
+html {
+  font-size: 1.15em;
 }
 
 mjx-utext {
   width: 100% !important;
+}
+
+.navbar-margin {
+  margin: auto;
+  font-size: 1.2em;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 1.2em;
+}
+
+.navbar-background {
+  background-color: #abacad !important;
+}
+
+.navbar-light:hover .navbar-nav:hover .nav-link:hover {
+  color: #C04024;
+}
+
+.profile {
+  padding: 30px 10px;
+  position: relative;
+  margin-right: 20px;
+}
+
+.profileImage {
+  border-radius: 50%;
+  max-width: 175px;
+  height: auto;
+  object-fit: cover;
 }
 
 a {
@@ -22,6 +58,7 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 
 .contentContainer {
   margin-top: 70px !important;
+  background-color: #ebe7e7;
 }
 
 .addressTag {
@@ -39,6 +76,7 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
   display: flex;
   padding-top: 20px;
   white-space: nowrap;
+  margin: 0 auto;
 }
 
 .paddingLeft10 {
@@ -46,7 +84,9 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 }
 
 .profileName {
-  font-size: 35px;
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 10px;
 }
 
 .fontSize36 {
@@ -54,21 +94,24 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 }
 
 .profileDesc {
-  font-size: 21px;
+  font-size: 1.1em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  line-height: 1.3em;
 }
 
 .linkedinColor, .linkedinColor:hover {
-  background-color: #6495ED;
+  color: #6495ED;
   border-color: #6495ED;
 }
 
 .gmailColor, .gmailColor:hover {
-  background-color: #E59866;
-  border-color: #E59866;
+  color: #E59866;
+  /* border-color: #E59866; */
 }
 
 .scholarColor, .scholarColor:hover {
-  background-color: #7C7C79;
+  color: #7C7C79;
   border-color: #7C7C79;
 }
 
@@ -82,17 +125,13 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 }
 
 .curriculumVitae {
-  background-color: #4F8C1C !important;
+  color: #4F8C1C !important;
   border-color: #4F8C1C !important;
 }
 
 .sectionContainer {
   padding-top: 30px;
   align-items: baseline;
-}
-
-.contentFontSize {
-  font-size: 16px;
 }
 
 .headingBar {
@@ -104,12 +143,13 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 }
 
 .headingFontSize {
-  font-size: 28px;
+  font-size: 1.5em;
 }
 
 .dateColor {
-  background-color: brown !important;
-  font-size: 11px;
+  color: brown !important;
+  font-size: 0.75em;
+  border: 2px solid brown;
 }
 
 .alignBaseline {
@@ -198,7 +238,7 @@ tr {
 }
 
 .notesTitle {
-  padding-top: 10px;
+  padding-top: 25px;
   font-size: 24px;
 }
 
@@ -313,4 +353,24 @@ tr {
 
 .cardBorder {
   border: 2px solid rgba(0,0,0,.125);
+}
+
+.socialLinks > * {
+  padding-bottom: 5px;
+}
+
+.socialLink {
+  margin-right: 15px;
+}
+
+.paddingTop30 {
+  padding-top: 30px;
+}
+
+.bioImageBorder {
+  border: 2px solid brown;
+}
+
+.seminarDate {
+  height: fit-content;
 }

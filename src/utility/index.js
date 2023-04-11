@@ -39,16 +39,16 @@ const getBadgeColor = (index) => {
   let badgeColor = '';
   switch (index) {
     case 0:
-      badgeColor = "#E59866";
+      badgeColor = "rgb(19 167 106)";
       break;
     case 1:
-      badgeColor = "#6495ED";
+      badgeColor = "rgb(44 83 231)";
       break;
     case 2:
-      badgeColor = "#7C7C79";
+      badgeColor = "rgb(91 94 90)";
       break;
     case 3:
-      badgeColor = "#4F8C1C";
+      badgeColor = "rgb(186 15 229)";
       break;
   }
   return badgeColor;

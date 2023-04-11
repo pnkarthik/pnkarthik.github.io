@@ -60,7 +60,7 @@ const App = () => {
       <HashRouter>
         <Header />
           <div className="contentContainer">
-            <div className="container col-md-12 col-lg-8">
+            <div className="container col-md-12 col-lg-10">
               <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/publications" element={<Publications />} />
