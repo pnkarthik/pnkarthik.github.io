@@ -24,10 +24,10 @@ const Publications = () => {
                 <li>
                   <span className="contentPadding"><em>Sequential Controlled Sensing to Detect an Anomalous Process</em></span><br />
                   <span><a href="https://ece.iisc.ac.in" target="_blank" rel="noopener noreferrer">Department of ECE</a>, <a href="https://iisc.ac.in" target="_blank" rel="noopener noreferrer">Indian Institute of Science</a>, Nov 2021</span><br />
-                  <span className="badge abstractBadge abstractMargin" data-bs-toggle="collapse" data-bs-target="#thesisAbstract" aria-expanded="false" aria-controls="thesisAbstract" style={{ color: getBadgeColor(0), border: `2px solid ${getBadgeColor(0)}` }}>abstract</span>             
-                  <a href="../media/2021/11/main.pdf" target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge" style={{ color: getBadgeColor(1), border: `2px solid ${getBadgeColor(1)}` }}>pdf</span></a>
-                  <a href="https://github.com/pnkarthik/phd-thesis" target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge" style={{ color: getBadgeColor(2), border: `2px solid ${getBadgeColor(2)}` }}>source</span></a>
-                  <a href="https://etd.iisc.ac.in/handle/2005/5514" target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge" style={{ color: getBadgeColor(3), border: `2px solid ${getBadgeColor(3)}` }}>etd iisc</span></a>
+                  <span className="badge dataBadge abstractBadge abstractMargin" data-bs-toggle="collapse" data-bs-target="#thesisAbstract" aria-expanded="false" aria-controls="thesisAbstract" style={{ "--backgroundColor": getBadgeColor(0) }}>abstract</span>             
+                  <a href="../media/2021/11/main.pdf" target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge dataBadge" style={{ "--backgroundColor": getBadgeColor(1) }}>pdf</span></a>
+                  <a href="https://github.com/pnkarthik/phd-thesis" target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge dataBadge" style={{ "--backgroundColor": getBadgeColor(2) }}>source</span></a>
+                  <a href="https://etd.iisc.ac.in/handle/2005/5514" target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge dataBadge" style={{ "--backgroundColor": getBadgeColor(3) }}>etd iisc</span></a>
                   <br />
                   <div className="collapse abstractContentPadding" id="thesisAbstract">
                     <div className="card card-body">

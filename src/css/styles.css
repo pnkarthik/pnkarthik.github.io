@@ -40,6 +40,11 @@ mjx-utext {
   max-width: 175px;
   height: auto;
   object-fit: cover;
+  width: 100%;
+}
+
+.imageDiv {
+  width: 36px;
 }
 
 a {
@@ -336,11 +341,17 @@ tr {
 }
 
 .blogCardMargin {
-  margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 .readMoreBtn {
-  background-color: red;
+  color: brown;
+  border: 2px solid brown;
+}
+
+.readMoreBtn:hover {
+  background-color: brown;
+  color: white;
 }
 
 .textWhite {
@@ -373,4 +384,33 @@ tr {
 
 .seminarDate {
   height: fit-content;
+}
+
+@media (min-width: 57.8125em) {
+  .sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 4em;
+    align-self: flex-start;
+  }
+
+  .imageDiv {
+    width: auto;
+    height: auto;
+  }
+}
+
+.dataBadge {
+  color: var(--backgroundColor);
+  border: 2px solid var(--backgroundColor);
+}
+
+.dataBadge:hover {
+  background-color: var(--backgroundColor);
+  color: white;
+}
+
+.cardContent {
+  background-color: #ebe7e7;
+  border: 2px solid brown;
 }

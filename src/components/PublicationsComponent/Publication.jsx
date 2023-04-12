@@ -14,11 +14,11 @@ const Publication = (props) => {
               <div>{parse(d.authors)}</div>
               {d.status && <div>{parse(d.status)}</div>}
               {d.hasAbstract && (
-                <><span className="badge abstractBadge abstractMargin" data-bs-toggle="collapse" data-bs-target={`#${d.id}`} aria-expanded="false" aria-controls="publication" style={{ color: props.getBadgeColor(0), border: `2px solid ${props.getBadgeColor(0)}` }}>abstract</span></>
+                <><span className="badge abstractBadge abstractMargin dataBadge" data-bs-toggle="collapse" data-bs-target={`#${d.id}`} aria-expanded="false" aria-controls="publication" style={{ "--backgroundColor": props.getBadgeColor(0) }}>abstract</span></>
               )}
               {d.badgesData && d.badgesData.map((badge, index) => {
                 return (
-                  <a key={index} href={badge.link} target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge" style={{ color: props.getBadgeColor(index+1), border: `2px solid ${props.getBadgeColor(index+1)}` }}>{badge.badgeDisplayName}</span></a>
+                  <a key={index} href={badge.link} target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge dataBadge" style={{ "--backgroundColor": props.getBadgeColor(index+1) }}>{badge.badgeDisplayName}</span></a>
                 )
               })}
               {d.hasAbstract && (

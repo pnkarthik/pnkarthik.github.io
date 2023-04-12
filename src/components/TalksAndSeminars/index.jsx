@@ -26,7 +26,7 @@ const TalksAndSeminars = () => {
                             <span>{parse(d.description)}</span><br />
                             {d.badgesData && d.badgesData.map((badge, index) => {
                               return (
-                                <a key={index} href={badge.link} target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge" style={{ color: getBadgeColor(index), border: `2px solid ${getBadgeColor(index)}` }}>{badge.badgeDisplayName}</span></a>
+                                <a key={index} href={badge.link} target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge dataBadge" style={{ "--backgroundColor": getBadgeColor(index) }}>{badge.badgeDisplayName}</span></a>
                               )
                             })}
                           </span>

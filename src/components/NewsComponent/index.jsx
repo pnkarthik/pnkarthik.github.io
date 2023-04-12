@@ -19,10 +19,10 @@ const NewsContent = () => {
                 <div key={index} className="d-flex flex-row newsContainer">
                   <div className="badge dateColor p-1">{d.date}</div>
                   <span className="contentFontSize newsContentPadding">
-                    <span className="contentPadding">{parse(d.content)}</span><br/>
+                    <p className="contentPadding mb-0">{parse(d.content)}</p>
                     {d.badgesData && d.badgesData.map((badge, index) => {
                       return (
-                        <a key={index} href={badge.link} target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge" style={{ color: getBadgeColor(index), border: `2px solid ${getBadgeColor(index)}` }}>{badge.badgeDisplayName}</span></a>
+                        <a key={index} href={badge.link} target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge dataBadge" style={{ "--backgroundColor": getBadgeColor(index) }}>{badge.badgeDisplayName}</span></a>
                       )
                     })}
                   </span>

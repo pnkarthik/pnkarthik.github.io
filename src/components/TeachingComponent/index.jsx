@@ -45,7 +45,7 @@ const TeachingComponent = () => {
                           <span className="noteTitlePadding">{parse(note.title)}</span>
                           {note.badgesData && note.badgesData.map((badge, index2) => {
                               return (
-                                <a key={index2} href={badge.link} target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge" style={{ color: getBadgeColor(index2), border: `2px solid ${getBadgeColor(index2)}` }}>{badge.badgeDisplayName}</span></a>
+                                <a key={index2} href={badge.link} target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge dataBadge" style={{ "--backgroundColor": getBadgeColor(index2) }}>{badge.badgeDisplayName}</span></a>
                               )
                             })
                           }
