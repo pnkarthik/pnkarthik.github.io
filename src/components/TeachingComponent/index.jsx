@@ -36,7 +36,7 @@ const TeachingComponent = () => {
                       </tr>
                     </tbody>
                   </table>
-                  <div className="notesTitle">Notes</div>
+                  <div className="headingFontSize"><span>Notes</span></div>
                   <span>{parse(d.notesDesc)}</span>
                   <ul>
                     {d.notesList.map((note, index1) => {

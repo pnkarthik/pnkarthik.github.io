@@ -45,10 +45,10 @@ const getBadgeColor = (index) => {
       badgeColor = "rgb(44 83 231)";
       break;
     case 2:
-      badgeColor = "rgb(91 94 90)";
+      badgeColor = "rgb(170 118 36)";
       break;
     case 3:
-      badgeColor = "rgb(186 15 229)";
+      badgeColor = "rgb(130 21 158)";
       break;
   }
   return badgeColor;

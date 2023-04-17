@@ -5,8 +5,8 @@ import "../../css/styles.css";
 const Publication = (props) => {
   return (
     <div className="col">
-      <p className="headingFontSize">{props.heading}</p>
-      <ol>
+      <p className="headingFontSize"><span>{props.heading}</span></p>
+      <ol className="publication">
         {props.data.map((d, index) => {
           return (
             <li key={index}>
@@ -23,7 +23,7 @@ const Publication = (props) => {
               })}
               {d.hasAbstract && (
                 <div className="collapse abstractContentPadding" id={d.id}>
-                  <div className="card card-body">
+                  <div className="card card-body abstractContent">
                     {parse(d.abstract)}
                   </div>
                 </div>

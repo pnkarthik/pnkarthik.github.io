@@ -2,6 +2,7 @@ import React from "react";
 import "../css/styles.css";
 import NewsComponent from "./NewsComponent";
 import Profile from "./common/Profile";
+import cn from "classnames";
 
 const Home = () => {
   return (
@@ -13,7 +14,7 @@ const Home = () => {
             <hr className="headingBar col-md-8" />
           </div> */}
           <div className="col-md-12">
-            <div className="headingFontSize">About Me</div>
+            <div className="headingFontSize"><span>About</span><span>Me</span></div>
             <p className="contentFontSize">
               <p className="m-0">
                 I am a Research Fellow in the <a href="https://ids.nus.edu.sg/" target="_blank" rel="noopener noreferrer">Institute of Data Science</a> at the <a href="https://www.nus.edu.sg/" target="_blank" rel="noopener noreferrer">National University of Singapore</a> (NUS),
@@ -30,7 +31,7 @@ const Home = () => {
             <hr className="headingBar col-md-8" />
           </div> */}
           <div className="col-md-12">
-            <div className="headingFontSize">Research Interests</div>
+            <div className="headingFontSize"><span>Research</span><span>Interests</span></div>
             <p className="contentFontSize">Markov decision problems, statistical learning, multi-armed bandits, statistical inference, stochastic adaptive control, optimal stopping problems, federated learning</p>
           </div>
         </div>

@@ -7,7 +7,7 @@ const PhdLifeBlog = () => {
       <Profile />
       <div className="col paddingTop30">
         <div className="text-center">
-          <span className="blogTitle">What 1756 Days of Ph.D. Life Has Taught Me</span><br />
+          <span className="blogTitle"><span>What</span>1756 <span>Days</span>of Ph.D. <span>Life</span><span>Has</span><span>Taught</span><span>Me</span></span><br />
           <span className="badge dateColor p-1 blogDateMargin">23 May 2020</span>
         </div>
         <div className="blogContent">

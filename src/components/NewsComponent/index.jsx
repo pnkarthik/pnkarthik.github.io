@@ -11,7 +11,7 @@ const NewsContent = () => {
         <hr className="headingBar col-md-8" />
       </div> */}
       <div className="col-md-12">
-        <div className="headingFontSize">News (<a href="#/archivedNews" target="_blank" rel="noopener noreferrer">Archived</a>)</div>
+        <div className="headingFontSize"><span>News</span>(<a href="#/archivedNews" target="_blank" rel="noopener noreferrer"><span className="px-0">Archived</span></a>)</div>
         {NewsData.map((d, index) => {
           return (
             <>

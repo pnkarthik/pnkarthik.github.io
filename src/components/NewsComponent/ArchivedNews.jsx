@@ -10,7 +10,7 @@ const ArchivedNews = () => {
     <div className="row col-12 p-0 m-0">
       <Profile />
       <div className="col paddingTop30">
-        <div className="headingFontSize">Archived News</div>
+        <div className="headingFontSize"><span>Archived</span><span>News</span></div>
         {NewsData.map((d, index) => {
           return (
             <>

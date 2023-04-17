@@ -13,13 +13,13 @@ const Publications = () => {
         <Profile />
         <div className="col paddingTop30">
           <div className="col">
-            <p className="headingFontSize">Copyright Notice</p>
+            <p className="headingFontSize"><span>Copyright</span><span>Notice</span></p>
             <p className="contentFontSize">Copyright belongs to the publisher in case of published articles. Copyright belongs to the author or authors in all other cases.</p>
           </div>
           <Publication heading="Preprints" data={data.preprints} getBadgeColor={getBadgeColor} />
           <div className="col" id="thesis">
             <div>
-              <p className="headingFontSize">Doctoral Dissertation</p>
+              <p className="headingFontSize"><span>Doctoral</span><span>Dissertation</span></p>
               <ul>
                 <li>
                   <span className="contentPadding"><em>Sequential Controlled Sensing to Detect an Anomalous Process</em></span><br />
@@ -30,7 +30,7 @@ const Publications = () => {
                   <a href="https://etd.iisc.ac.in/handle/2005/5514" target="_blank" rel="noopener noreferrer" className="badgePadding"><span className="badge dataBadge" style={{ "--backgroundColor": getBadgeColor(3) }}>etd iisc</span></a>
                   <br />
                   <div className="collapse abstractContentPadding" id="thesisAbstract">
-                    <div className="card card-body">
+                    <div className="card card-body abstractContent">
                       <p>
                         In this thesis, we study the problem of identifying an anomalous arm in a multi-armed bandit
                         as quickly as possible, subject to an upper bound on the error probability. Also known as odd
@@ -77,8 +77,8 @@ const Publications = () => {
               </ul>
             </div>
           </div>
-          <Publication heading="Journal Publications" data={data.journals} getBadgeColor={getBadgeColor} />
-          <Publication heading="Conference Publications" data={data.conferencePublications} getBadgeColor={getBadgeColor} />
+          <Publication heading={<><span>Journal</span><span>Publications</span></>} data={data.journals} getBadgeColor={getBadgeColor} />
+          <Publication heading={<><span>Conference</span><span>Publications</span></>} data={data.conferencePublications} getBadgeColor={getBadgeColor} />
         </div>
       </div>
     </MathJax>

@@ -12,12 +12,12 @@ const Bio = () => {
       <div className="col paddingTop30">
         <div className="row alignBaseline">
           <div className="col">
-            <p className="headingFontSize">Education</p>
+            <p className="headingFontSize"><span>Education</span></p>
             {data["education"].map((d,  index) => {
               return (
                 <div className="d-flex flex-row eduElementPadding" key={index}>
                   <div className="logoImagePadding">
-                    <img src={`${d.imageUrl}`} alt="" height="80px" width="80px" className="bioImageBorder" />
+                    <img src={`${d.imageUrl}`} alt="" height="80px" width="80px" className="bioImage" />
                   </div>
                   <div className="d-flex flex-column">
                     <span>
@@ -50,12 +50,12 @@ const Bio = () => {
         </div>
         <div className="row alignBaseline">
           <div className="col">
-            <p className="headingFontSize">Experience</p>
+            <p className="headingFontSize"><span>Experience</span></p>
             {data["experience"].map((d, index) => {
               return (
                 <div className="d-flex flex-row eduElementPadding" key={index}>
                   <div className="logoImagePadding">
-                    <img src={`${d.imageUrl}`} alt="" height="80px" width="80px" className="bioImageBorder" />
+                    <img src={`${d.imageUrl}`} alt="" height="80px" width="80px" className="bioImage" />
                   </div>
                   <div className="d-flex flex-column">
                     <span>
@@ -84,7 +84,7 @@ const Bio = () => {
         </div>
         <div className="row alignBaseline">
           <div className="col">
-            <p className="headingFontSize">Awards and Honors</p>
+            <p className="headingFontSize"><span>Awards</span><span>And</span><span>Honors</span></p>
             <ul>
               {data.awardsAndHonors.map((d, index) => {
                 return (
@@ -105,7 +105,7 @@ const Bio = () => {
         </div>
         <div className="row alignBaseline">
           <div className="col">
-            <p className="headingFontSize">Professional Service</p>
+            <p className="headingFontSize"><span>Professional</span><span>Service</span></p>
             <ul>
               {data.professionalService.map((d, index) => {
                 return (

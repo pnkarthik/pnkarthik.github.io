@@ -15,6 +15,7 @@ import BlogsComponent from "./BlogsComponent";
 import RamanAndHisInnerClock from "./BlogsComponent/RamanAndHisInnerClockBlog";
 import PhdLifeBlog from "./BlogsComponent/PhdLifeBlog";
 import ArchivedNews from "./NewsComponent/ArchivedNews";
+import Footer from "./common/Footer";
 
 const App = () => {
   const config = {
@@ -74,7 +75,8 @@ const App = () => {
               </Routes>
             </div>
           </div>
-          <button type="button" onClick={() => goToTop()} id="myBtn" className="topButton"><i class="fas fa-angle-up"></i></button>
+          <button type="button" onClick={() => goToTop()} id="myBtn" className="topButton"><i className="fas fa-angle-up"></i></button>
+        <Footer />
       </HashRouter>
     </MathJaxContext>
   );

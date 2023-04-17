@@ -1,12 +1,14 @@
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  /* font-family: 'Source Sans Pro', sans-serif; */
+  font-family: 'Fira Sans', sans-serif;
   background-color: #ebe7e7;
   /* font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; */
 }
 
-html {
+/* html {
   font-size: 1.15em;
-}
+} */
+
 
 mjx-utext {
   width: 100% !important;
@@ -33,6 +35,7 @@ mjx-utext {
   padding: 30px 10px;
   position: relative;
   margin-right: 20px;
+  flex-direction: column;
 }
 
 .profileImage {
@@ -44,7 +47,7 @@ mjx-utext {
 }
 
 .imageDiv {
-  width: 36px;
+  width: 50px;
 }
 
 a {
@@ -92,10 +95,7 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
   font-size: 2em;
   font-weight: bold;
   margin-top: 10px;
-}
-
-.fontSize36 {
-  font-size: 36px;
+  font-variant: small-caps;
 }
 
 .profileDesc {
@@ -106,7 +106,7 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 }
 
 .linkedinColor, .linkedinColor:hover {
-  color: #6495ED;
+  color: #0a66c2;
   border-color: #6495ED;
 }
 
@@ -122,11 +122,6 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 
 .infoSection {
   padding-top: 40px;
-}
-
-.buttonLineHeight {
-  line-height: 1 !important;
-  font-size: 13px;
 }
 
 .curriculumVitae {
@@ -148,7 +143,17 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 }
 
 .headingFontSize {
-  font-size: 1.5em;
+  font-size: calc(1em + 1vw);
+  font-variant: small-caps;
+  font-weight: bolder;
+}
+
+.headingFontSize span {
+  padding-right: 10px;
+  display: inline-block;
+}
+.headingFontSize span:first-letter {
+  font-size: 0.85em !important;
 }
 
 .dateColor {
@@ -194,7 +199,7 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 }
 
 .nameFontColor, .nameFontColor:hover {
-  color: #3c9792;
+  color: black;
 }
 
 .abstractMargin {
@@ -203,6 +208,11 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 
 .abstractContentPadding {
   padding-top: 10px;
+}
+
+.abstractContent {
+  background-color: #ebe7e7;
+  border: 1px solid brown;
 }
 
 .abstractBadge:hover {
@@ -242,15 +252,6 @@ tr {
   margin-top: 10px;
 }
 
-.notesTitle {
-  padding-top: 25px;
-  font-size: 24px;
-}
-
-.teachingCourse {
-  font-size: 21px;
-}
-
 .eduElementPadding {
   padding-bottom: 10px;
 }
@@ -268,8 +269,18 @@ tr {
 }
 
 .blogTitle {
-  font-size: 32px;
+  font-size: 1.5em;
   font-weight: bolder;
+  font-variant: small-caps;
+}
+
+.blogTitle span {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+.blogTitle span:first-letter {
+  font-size: 0.85em !important;
 }
 
 .dropCap::first-letter {
@@ -371,14 +382,10 @@ tr {
 }
 
 .socialLink {
-  margin-right: 15px;
+  margin-right: 25px;
 }
 
-.paddingTop30 {
-  padding-top: 30px;
-}
-
-.bioImageBorder {
+.bioImage {
   border: 2px solid brown;
 }
 
@@ -398,6 +405,72 @@ tr {
     width: auto;
     height: auto;
   }
+
+  .paddingTop30 {
+    padding-top: 30px;
+  }
+
+  html {
+    font-size: calc(0.3em + 0.7vw);
+  }
+}
+
+@media (max-width: 57.8125em) {
+  .profile {
+    flex-direction: row;
+    align-items: baseline;
+  }
+
+  .profile > * {
+    margin-right: calc(0.1em + 2vw);
+  }
+
+  .profileName {
+    /* font-size: 1.8em !important; */
+    font-size: calc(1em + 3vw) !important;
+  }
+
+  .profileDesc {
+    /* font-size: 1em !important; */
+    font-size: calc(0.5em + 1.5vw) !important;
+  }
+
+  .socialLink {
+    margin-left: 10px;
+  }
+
+  .dropdown {
+    right: 0;
+    position: absolute;
+  }
+
+  .dropdownItem {
+    width: max-content;
+  }
+  
+  .dropdown-menu {
+    padding: 5px;
+    background-color: #ebe7e7;
+    border: 2px solid brown;
+    box-shadow: 0 0 10px rgba(0,0,0,0.25);
+  }
+
+  .dropdown-menu > * {
+    padding: 6px
+  }
+
+  .bioImage {
+    height: 50px;
+    width: 50px;
+  }
+
+  .headingFontSize {
+    font-size: calc(1.2em + 1vw);;
+  }
+  
+  html {
+    font-size: calc(0.5em + 1.5vw);
+  }
 }
 
 .dataBadge {
@@ -413,4 +486,26 @@ tr {
 .cardContent {
   background-color: #ebe7e7;
   border: 2px solid brown;
+}
+
+.publication > * {
+  margin-bottom: 1.2em;
+}
+
+.twitter {
+  color: rgb(29, 155, 240);
+}
+
+.footer {
+  background-color: #abacad;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.connectBtn {
+  border: 2px solid brown;
+  font-size: 1.2em;
+  font-variant: small-caps;
+  font-weight: bolder;
+  padding: 5px !important;
 }

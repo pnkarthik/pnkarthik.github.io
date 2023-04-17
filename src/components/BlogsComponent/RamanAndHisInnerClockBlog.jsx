@@ -7,7 +7,7 @@ const RamanAndHisInnerClock = () => {
       <Profile />
       <div className="col paddingTop30">
         <div className="text-center">
-          <span className="blogTitle">Taming the Mind: Raman and his "Inner" Clock</span><br />
+          <span className="blogTitle"><span>Taming</span><span>The</span><span>Mind</span>: <span>Raman</span><span>And</span><span>His</span><span>"Inner"</span><span>Clock</span></span><br />
           <span className="badge dateColor p-1 blogDateMargin">06 Feb 2021</span>
         </div>
         <div className="blogContent">
