@@ -24,7 +24,7 @@ const Header = () => {
             <a className="nav-item nav-link" onClick={() => { collapseNav(); scrollToTop(); }} href="/">Home</a>
             <a className="nav-item nav-link" onClick={() => { collapseNav(); scrollToTop(); }} href="#/bio">Bio</a>
             <a className="nav-item nav-link" onClick={() => { collapseNav(); scrollToTop(); }} href="#/publications">Publications</a>
-            <a className="nav-item nav-link" onClick={() => { collapseNav(); scrollToTop(); }} href="#/talksAndSeminars">Talks/Seminars</a>
+            <a className="nav-item nav-link" onClick={() => { collapseNav(); scrollToTop(); }} href="#/talksAndSeminars">Talks</a>
             <a className="nav-item nav-link" onClick={() => { collapseNav(); scrollToTop(); }} href="#/teaching">Teaching</a>
             <a className="nav-item nav-link" onClick={() => { collapseNav(); scrollToTop(); }} href="#/blogs">Blogs</a>
           </div>

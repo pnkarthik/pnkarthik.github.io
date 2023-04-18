@@ -20,7 +20,9 @@ const TalksAndSeminars = () => {
                     {data[year].map((d, index1) => {
                       return (
                         <div key={index1} className="seminarsContentPadding d-flex flex-row alignBaseline">
-                          <span className="badge dateColor seminarDateMargin p-1 seminarDate">{d.date}</span>
+                          <div className="col-2 col-lg-1 talkDate">
+                            <span className="badge dateColor seminarDateMargin seminarDate">{d.date}</span>
+                          </div>
                           <span className="contentFontSize newsContentPadding">
                             <span className="contentPadding">{parse(d.title)}</span><br />
                             <span>{parse(d.description)}</span><br />

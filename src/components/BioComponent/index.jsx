@@ -17,7 +17,7 @@ const Bio = () => {
               return (
                 <div className="d-flex flex-row eduElementPadding" key={index}>
                   <div className="logoImagePadding">
-                    <img src={`${d.imageUrl}`} alt="" height="80px" width="80px" className="bioImage" />
+                    <img src={`${d.imageUrl}`} alt="" className="bioImage" />
                   </div>
                   <div className="d-flex flex-column">
                     <span>
