@@ -73,7 +73,7 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 .addressTag {
   color: #C04024;
   text-decoration: none;
-  padding-top: 5px;
+  /* padding-top: 5px; */
   /* font-size: 18px; */
 }
 
@@ -397,7 +397,7 @@ tr {
   padding: 3px;
 }
 
-@media (min-width: 57.8125em) {
+@media (min-width: 62.9375em) {
   .sticky {
     position: -webkit-sticky;
     position: sticky;
@@ -419,7 +419,7 @@ tr {
   }
 }
 
-@media (max-width: 57.8125em) {
+@media (max-width: 61.9375em) {
   .profile {
     flex-direction: row;
     align-items: baseline;
@@ -441,6 +441,7 @@ tr {
 
   .socialLink {
     margin-left: 10px;
+    margin-right: 10px !important;
   }
 
   .dropdown {
@@ -450,6 +451,7 @@ tr {
 
   .dropdownItem {
     width: max-content;
+    align-items: center;
   }
   
   .dropdown-menu {
@@ -475,6 +477,16 @@ tr {
   html {
     font-size: calc(0.5em + 1.5vw);
   }
+
+  .newsDateContainer {
+    width: calc(4em + 2vw) !important;
+    flex: 0 0 auto;
+    margin-right: 10px;
+  }
+
+  .newsDate {
+    width: max-content;
+  }
 }
 
 .bioImage {
@@ -494,6 +506,49 @@ tr {
     flex: 0 0 auto;
     width: 12.66666667%;
   }
+}
+
+/* @media (max-width: 360px) {
+  .newsDate {
+    flex: 0 0 auto;
+    width: 21.666667%;
+  }
+}
+
+@media (min-width: 361px) and (max-width: 480px) {
+  .newsDate {
+    flex: 0 0 auto;
+    width: 17.66666667%;
+  }
+}
+
+@media (min-width: 1600px) and (max-width:1999px)
+{
+  .newsDate {
+    flex: 0 0 auto;
+    width: 9.333333%;
+  }
+}
+
+@media (min-width: 1007px) and (max-width: 1023px) {
+  .newsDate {
+    flex: 0 0 auto;
+    width: 9.333333%;
+  }
+}
+
+@media (min-width: 992px) and (max-width:1006px)
+{
+  .newsDate {
+    flex: 0 0 auto;
+    width: 13.333333%;
+  }
+} */
+
+.newsDateContainer {
+  width: calc(3em + 2vw);
+  flex: 0 0 auto;
+  margin-right: 10px;
 }
 
 .dataBadge {

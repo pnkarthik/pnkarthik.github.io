@@ -16,7 +16,9 @@ const ArchivedNews = () => {
             <>
              {d.isArchived && (
                 <div key={index} className="d-flex flex-row newsContainer">
-                  <div className="badge dateColor p-1">{d.date}</div>
+                  <div className="talkDate newsDateContainer">
+                    <span className="badge dateColor p-1 newsDate">{d.date}</span>
+                  </div>
                   <span className="contentFontSize newsContentPadding">
                     <p className="contentPadding mb-0">{parse(d.content)}</p>
                     {d.badgesData && d.badgesData.map((badge, index) => {
