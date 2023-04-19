@@ -75,7 +75,15 @@ const Bio = () => {
                     {d.courseInstructor && (
                       <span>Course Instructors: {parse(d.courseInstructor)}</span>
                     )}
-                    <span>{d.place}</span>
+                    {d.description && (
+                      <ul>
+                        {d.description.map((desc) => {
+                          return (
+                            <li>{desc}</li>
+                          );
+                        })}
+                      </ul>
+                    )}
                   </div>
                 </div>
               );

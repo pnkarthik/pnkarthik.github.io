@@ -22,37 +22,60 @@
   "experience": [
     {
       "title": "Research Fellow",
-      "collegeName": "<a href=\"https://ids.nus.edu.sg/\" target=\"_blank\" rel=\"noopener noreferrer\">Institute of Data Science</a>, <a href=\"https://www.nus.edu.sg/\" target=\"_blank\" rel=\"noopener noreferrer\">National University of Singapore</a>",
-      "project": "Towards Trustable Model-Centric Sharing for Collaborative Machine Learning",
+      "collegeName": "<a href=\"https://ids.nus.edu.sg/\" target=\"_blank\" rel=\"noopener noreferrer\">Institute of Data Science</a>, <a href=\"https://www.nus.edu.sg/\" target=\"_blank\" rel=\"noopener noreferrer\">National University of Singapore</a>, Singapore",
       "supervisor": "Prof. <a href=\"https://vyftan.github.io/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
       "year": "Jan 2022 - Present",
       "place": "Singapore",
-      "imageUrl": "../images/nusLogo.jpeg"
+      "imageUrl": "../images/nusLogo.jpeg",
+      "description": [
+        "Characterising the performance limits of multi-armed bandit algorithms for federated learning, transfer learning, best arm identification, etc.",
+        "Fostering collaborative ties between NUS and other prominent institutes such as IIT Madras (IITM), IIT Bombay (IITB), Rensselaer Polytechnic Institute (RPI)",
+        "Assisting Ph.D. students and their supervisors at NUS and IITM, and contributing to the successful completion of Ph.D. research projects"  
+        ]
     },
     {
-      "title": "Intern",
-      "collegeName": "<a href=\"https://www.netradyne.com/india\" target=\"_blank\" rel=\"noopener noreferrer\">Netradyne Technology India Pvt Ltd</a>",
+      "title": "Research Intern",
+      "collegeName": "<a href=\"https://www.netradyne.com/india\" target=\"_blank\" rel=\"noopener noreferrer\">Netradyne Technology India Pvt Ltd</a>, Bengaluru",
       "year": "Nov 2019 - Mar 2020",
       "place": "Bengaluru, Karnataka, India",
       "imageUrl": "../images/netradyneLogo.jpeg",
       "noOfMentors": 3,
-      "mentor": "<a href=\"https://www.linkedin.com/in/vpratik/\" target=\"_blank\" rel=\"noopener noreferrer\">Pratik Verma</a>, Dr. <a href=\"https://www.linkedin.com/in/ajeesh-sahadevan/?originalSubdomain=in\" target=\"_blank\" rel=\"noopener noreferrer\">Ajeesh Sahadevan</a>, and Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>"
+      "mentor": "<a href=\"https://www.linkedin.com/in/vpratik/\" target=\"_blank\" rel=\"noopener noreferrer\">Pratik Verma</a>, Dr. <a href=\"https://www.linkedin.com/in/ajeesh-sahadevan/?originalSubdomain=in\" target=\"_blank\" rel=\"noopener noreferrer\">Ajeesh Sahadevan</a>, and Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
+      "description":[
+        "Studied the effectiveness of the bus priority lane (BPL) in Bengaluru based on travel times of public transport buses and driver stress levels",
+        "Worked with large datasets (150 Gigabytes per month)",
+        "Deployed Microsoft PowerBI and Kepler GL for geospatial data visualisation",
+        "Proposed a novel technique for extracting travel times from GPS data",
+        "Designed a novel metric for measuring driver stress",
+        "Reported that the BPL reduced the worst 10% of the travel times by 4-28%",
+        "Reported that the drivers were most stressed during the morning peak hours"
+      ]
     },
     {
       "title": "Graduate Teaching Assistant",
-      "collegeName": "<a href=\"https://iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Indian Institute of Science</a>",
+      "collegeName": "<a href=\"https://iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Indian Institute of Science</a>, Bengaluru",
       "year": "Aug - Dec 2019, 2018, 2017",
-      "place": "Bengaluru, Karnataka, India",
+      "place": "Bengaluru",
       "imageUrl": "../images/iiscLogo.jpeg",
-      "courseInstructor": "Prof. <a href=\"https://ece.iisc.ac.in/~htyagi/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Himanshu Tyagi</a>, Prof. <a href=\"https://ece.iisc.ac.in/~utpal/\" target=\"_blank\" rel=\"noopener noreferrer\">Utpal Mukherji</a>, Prof. <a href=\"https://ece.iisc.ac.in/~parimal/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Parimal Parag</a>"
+      "courseInstructor": "Prof. <a href=\"https://ece.iisc.ac.in/~htyagi/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Himanshu Tyagi</a>, Prof. <a href=\"https://ece.iisc.ac.in/~utpal/\" target=\"_blank\" rel=\"noopener noreferrer\">Utpal Mukherji</a>, Prof. <a href=\"https://ece.iisc.ac.in/~parimal/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Parimal Parag</a>",
+      "description":[
+        "Taught a class of 83 students (weekly, 1.5 hours per week)",
+        " Evaluated students’ answer scripts (weekly assignments)",
+        " Assisted the instructors in formulating questions for exams & assignments"
+      ]
     },
     {
       "title": "Project Assistant",
-      "collegeName": "<a href=\"https://iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Indian Institute of Science</a>",
+      "collegeName": "<a href=\"https://iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Indian Institute of Science</a>, Bengaluru",
       "year": "Aug 2014 - Jun 2015",
-      "place": "Bengaluru, Karnataka, India",
+      "place": "Bengaluru",
       "imageUrl": "../images/iiscLogo.jpeg",
-      "supervisor": "Prof. <a href=\"https://ece.iisc.ac.in/~cmurthy/doku.php?id=home\" target=\"_blank\" rel=\"noopener noreferrer\">Chandra R. Murthy</a>"
+      "supervisor": "Prof. <a href=\"https://ece.iisc.ac.in/~cmurthy/doku.php?id=home\" target=\"_blank\" rel=\"noopener noreferrer\">Chandra R. Murthy</a>",
+      "description":[
+        "Characterised the area coverage uncertainty in a network of access points",
+        "Validated the results with the data collected from access points at a hospital",
+        "Presented the results to the Aerospace Network Research Consortium"
+      ]
     }
   ],
   "awardsAndHonors": [
@@ -78,12 +101,11 @@
     {"title": "Secured rank 23 (among the top 0.02%) in the 2010 Karnataka Common Entrance Test (KCET)"}
   ],
   "professionalService": [
-    {"title": "Reviewer, IEEE Transactions on Information Theory (T-IT)"},
-    {"title": "Reviewer, IEEE Transactions on Signal Processing (TSP)"},
-    {"title": "Reviewer, Entropy"},
-    {"title": "Reviewer, Sadhana"},
+    {"title": "Reviewer, IEEE Transactions on Information Theory"},
+    {"title": "Reviewer, IEEE Transactions on Signal Processing"},
     {"title": "Reviewer, Journal on Selected Areas in Communications (JSAC)"},
-    {"title": "Reviewer, IEEE International Symposium on Information Theory (ISIT)"},
-    {"title": "Reviewer, National Conference on Communications (NCC)"}
+    {"title": "Reviewer, Conference on Decision and Control (CDC 2023)"},
+    {"title": "Reviewer, IEEE International Symposium on Information Theory (ISIT 2019, ISIT 2023)"},
+    {"title": "Reviewer, National Conference on Communications (NCC 2018)"}
   ]
 }

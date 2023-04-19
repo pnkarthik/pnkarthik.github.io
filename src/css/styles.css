@@ -2,7 +2,7 @@ body {
   /* font-family: 'Source Sans Pro', sans-serif; */
   font-family: 'Fira Sans', sans-serif;
   background-color: #ebe7e7;
-  /* font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; */
+  /* font-family: -apple-system,".SFNSText-Bold", "Fira Sans", "San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; */
 }
 
 /* html {
@@ -415,7 +415,7 @@ tr {
   }
 
   html {
-    font-size: calc(0.3em + 0.7vw);
+    font-size: calc(0.25em + 0.7vw);
   }
 }
 
@@ -507,43 +507,6 @@ tr {
     width: 12.66666667%;
   }
 }
-
-/* @media (max-width: 360px) {
-  .newsDate {
-    flex: 0 0 auto;
-    width: 21.666667%;
-  }
-}
-
-@media (min-width: 361px) and (max-width: 480px) {
-  .newsDate {
-    flex: 0 0 auto;
-    width: 17.66666667%;
-  }
-}
-
-@media (min-width: 1600px) and (max-width:1999px)
-{
-  .newsDate {
-    flex: 0 0 auto;
-    width: 9.333333%;
-  }
-}
-
-@media (min-width: 1007px) and (max-width: 1023px) {
-  .newsDate {
-    flex: 0 0 auto;
-    width: 9.333333%;
-  }
-}
-
-@media (min-width: 992px) and (max-width:1006px)
-{
-  .newsDate {
-    flex: 0 0 auto;
-    width: 13.333333%;
-  }
-} */
 
 .newsDateContainer {
   width: calc(3em + 2vw);
