@@ -1,5 +1,17 @@
 [
   {
+    "date": "01 May 2023",
+    "content": "Paper on <em>The Bus Priority Lane In Bengaluru: A Study of its Effectiveness and Driver Stress</em> accepted to the Special Issue on Sustainable City Transportation in the Indian Subcontinent of the <a href=\"https://www.sciencedirect.com/journal/transport-policy#:~:text=Transport%20Policy%20is%20an%20international,theory%20and%20practice%20in%20transport.\" target=\"_blank\" rel=\"noopener noreferrer\">Transport Policy</a> journal! <br />This piece of work was carried out in collaboration with <a href=\"https://www.netradyne.com/india\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Netradyne Technology India Pvt. Ltd.</a> and the <a href=\"https://mybmtc.karnataka.gov.in/english\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Bengaluru Metropolitan Transport Corporation (BMTC)</a>. <br />Congratulations to all the co-authors!",
+    "badgesData": [
+      {
+        "badgeName": "paper",
+        "link": "../media/2023/05/BPL-paper.pdf",
+        "badgeDisplayName": "pdf"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "15 Apr 2023",
     "content": "Paper on <em>Best Arm Identification in Bandits with Limited Precision Sampling</em> accepted to <a href=\"https://isit2023.org\" target=\"_blank\" rel=\"noopener noreferrer\">ISIT 2023</a>! <br />Joint work with <a href=\"https://sites.google.com/view/srinivas-reddy-kota/home\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, <a href=\"https://sites.google.com/site/nikhilkaram/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Nikhil Karamchandani</a>, and <a href=\"https://www.ee.iitb.ac.in/~jayakrishnan.nair/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Jayakrishnan Nair</a>. <br />Arxiv version coming out soon!",
     "isArchived": false
@@ -30,7 +42,7 @@
   },
   {
     "date": "16 Jan 2023",
-    "content": "Delivered an invited talk at the <a href=\"https://ims.nus.edu.sg/events/information-theory-and-data-science-workshop/\" target=\"_blank\" rel=\"noopener noreferrer\">Information Theory and Data Science Workshop</a>.",
+    "content": "Delivered an invited talk at the <a href=\"https://ims.nus.edu.sg/events/information-theory-and-data-science-workshop/\" target=\"_blank\" rel=\"noopener noreferrer\">Information Theory and Data Science Workshop</a> held at the <a href=\"https://ims.nus.edu.sg\" target=\"_blank\" rel=\"noopener noreferrer\">Institute for Mathematical Sciences</a>, NUS.",
     "badgesData": [
       {
         "badgeName": "slides",
@@ -60,7 +72,7 @@
         "badgeDisplayName": "xplore"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "19 Nov 2022",
@@ -72,7 +84,7 @@
         "badgeDisplayName": "arxiv"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "08 Nov 2022",
@@ -89,7 +101,7 @@
         "badgeDisplayName": "keynote"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "17 Oct 2022",
