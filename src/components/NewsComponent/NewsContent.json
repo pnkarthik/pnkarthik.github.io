@@ -13,7 +13,14 @@
   },
   {
     "date": "15 Apr 2023",
-    "content": "Paper on <em>Best Arm Identification in Bandits with Limited Precision Sampling</em> accepted to <a href=\"https://isit2023.org\" target=\"_blank\" rel=\"noopener noreferrer\">ISIT 2023</a>! <br />Joint work with <a href=\"https://sites.google.com/view/srinivas-reddy-kota/home\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, <a href=\"https://sites.google.com/site/nikhilkaram/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Nikhil Karamchandani</a>, and <a href=\"https://www.ee.iitb.ac.in/~jayakrishnan.nair/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Jayakrishnan Nair</a>. <br />Arxiv version coming out soon!",
+    "content": "Paper on <em>Best Arm Identification in Bandits with Limited Precision Sampling</em> accepted to <a href=\"https://isit2023.org\" target=\"_blank\" rel=\"noopener noreferrer\">ISIT 2023</a>! <br />Joint work with <a href=\"https://sites.google.com/view/srinivas-reddy-kota/home\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, <a href=\"https://sites.google.com/site/nikhilkaram/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Nikhil Karamchandani</a>, and <a href=\"https://www.ee.iitb.ac.in/~jayakrishnan.nair/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Jayakrishnan Nair</a>.",
+    "badgesData": [
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2305.06082",
+        "badgeDisplayName": "arxiv"
+      }
+    ],
     "isArchived": false
   },
   {
