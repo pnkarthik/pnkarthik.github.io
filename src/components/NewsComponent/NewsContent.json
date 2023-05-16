@@ -62,9 +62,9 @@
         "badgeDisplayName": "slides"
       },
       {
-        "badgeName": "keynote",
-        "link": "../media/2023/01/ims-workshop-2023.key",
-        "badgeDisplayName": "keynote"
+        "badgeName": "video",
+        "link": "https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=c9c48a1d-06b0-4493-91f6-afe2001ddedc",
+        "badgeDisplayName": "video"
       }
     ],
     "isArchived": false
