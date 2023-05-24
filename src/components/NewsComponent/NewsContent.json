@@ -16,6 +16,11 @@
     "content": "Paper on <em>The Bus Priority Lane In Bengaluru: A Study of its Effectiveness and Driver Stress</em> accepted to <a href=\"https://www.sciencedirect.com/journal/transport-policy#:~:text=Transport%20Policy%20is%20an%20international,theory%20and%20practice%20in%20transport.\" target=\"_blank\" rel=\"noopener noreferrer\">Transport Policy</a> (special issue on Sustainable City Transportation in the Indian Subcontinent)!<br />This piece of work was carried out in collaboration with <a href=\"https://www.netradyne.com/india\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Netradyne Technology India Pvt. Ltd.</a> and the <a href=\"https://mybmtc.karnataka.gov.in/english\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Bengaluru Metropolitan Transport Corporation (BMTC)</a>. <br />Congratulations to all the co-authors!",
     "badgesData": [
       {
+        "badgeName": "arxiv",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0967070X2300121X",
+        "badgeDisplayName": "elsevier"
+      },
+      {
         "badgeName": "paper",
         "link": "../media/2023/05/BPL-paper.pdf",
         "badgeDisplayName": "pdf"
