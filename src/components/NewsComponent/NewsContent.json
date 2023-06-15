@@ -1,10 +1,5 @@
 [
   {
-    "date": "20 May 2023",
-    "content": "Visiting the <a href=\"https://www.technion.ac.il/en/home-2/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Technion</a> Israel Institute of Technology from 20 May 2023 to 19 Jun 2023 to engage in a research collaboration with Prof. <a href=\"https://sites.google.com/view/nir-weinberger/home?authuser=0\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Nir Weinberger</a>.",
-    "isArchived": false
-  },
-  {
     "date": "11 May 2023",
     "content": "Posted a paper on <em>Best Arm Identification in Bandits with Limited Precision Sampling</em>.<br />In this work, we study best arm identification when the learner cannot pull the individual arms directly, but may pull the arms via certain sampling intermediaries or <em>boxes</em>.<br />This is joint work with <a href=\"https://sites.google.com/view/srinivas-reddy-kota/home\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, <a href=\"https://sites.google.com/site/nikhilkaram/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Nikhil Karamchandani</a>, and <a href=\"https://www.ee.iitb.ac.in/~jayakrishnan.nair/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Jayakrishnan Nair</a>.",
     "badgesData": [
