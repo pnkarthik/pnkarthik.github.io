@@ -162,8 +162,13 @@
       "badgesData": [
         {
           "badgeName": "arxiv",
-          "link": "https://arxiv.org/abs/2305.06082",
+          "link": "../media/2023/06/isit2023-best.pdf",
           "badgeDisplayName": "arxiv"
+        },
+        {
+          "badgeName": "paper",
+          "link": "https://arxiv.org/abs/2305.06082",
+          "badgeDisplayName": "pdf"
         }
       ]
     },
