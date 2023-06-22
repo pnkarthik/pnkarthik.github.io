@@ -27,12 +27,12 @@
     "badgesData": [
       {
         "badgeName": "arxiv",
-        "link": "../media/2023/06/isit2023-best.pdf",
+        "link": "https://arxiv.org/abs/2305.06082",
         "badgeDisplayName": "arxiv"
       },
       {
         "badgeName": "paper",
-        "link": "https://arxiv.org/abs/2305.06082",
+        "link": "../media/2023/06/isit2023-best.pdf",
         "badgeDisplayName": "pdf"
       }
     ],
