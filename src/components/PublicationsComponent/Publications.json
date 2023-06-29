@@ -156,7 +156,7 @@
       "id": "isit2023",
       "title": "<em>Best Arm Identification in Bandits with Limited Precision Sampling</em>",
       "authors":"<a href=\"https://sites.google.com/view/srinivas-reddy-kota/home\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://sites.google.com/site/nikhilkaram/\" target=\"_blank\"  rel=\"noopener noreferrer\">Nikhil Karamchandani</a>, and <a href=\"https://www.ee.iitb.ac.in/~jayakrishnan.nair/\" target=\"_blank\"  rel=\"noopener noreferrer\">Jayakrishnan Nair</a>",
-      "status":"Accepted, IEEE International Symposium on Information Theory (<a href=\"https://isit2023.org/\" target=\"_blank\"  rel=\"noopener noreferrer\">ISIT 2023</a>), Jun 2023",
+      "status":"IEEE International Symposium on Information Theory (<a href=\"https://isit2023.org/\" target=\"_blank\"  rel=\"noopener noreferrer\">ISIT 2023</a>), Jun 2023",
       "hasAbstract": true,
       "abstract": "<p>We study best arm identification in a variant of the multi-armed bandit problem where the learner has limited precision in arm selection. The learner can only sample arms via certain exploration bundles, which we refer to as boxes. In particular, at each sampling epoch, the learner selects a box, which in turn causes an arm to get pulled as per a box-specific probability distribution. The pulled arm and its instantaneous reward are revealed to the learner, whose goal is to find the best arm by minimising the expected stopping time, subject to an upper bound on the error probability. We present an asymptotic lower bound on the expected stopping time, which holds as the error probability vanishes. We show that the optimal allocation suggested by the lower bound is, in general, non-unique and therefore challenging to track. We propose a modified tracking-based algorithm to handle non-unique optimal allocations, and demonstrate that it is asymptotically optimal. We also present non-asymptotic lower and upper bounds on the stopping time in the simpler setting when the arms accessible from one box do not overlap with those of others.</p>",
       "badgesData": [
@@ -181,13 +181,18 @@
       "abstract": "<p>We study the problem of best arm identification in a federated learning multi-armed bandit setup with a central server and multiple clients. Each client is associated with a multi-armed bandit in which each arm yields <em>i.i.d.</em> rewards following a Gaussian distribution with an unknown mean and known variance. The set of arms is assumed to be the same at all the  clients. We define two notions of best arm$-$local and global. The local best arm at a client is the arm with the largest mean among the arms local to the client, whereas the global best arm is the arm with the largest  average mean across all the clients. We assume that each client can only observe the rewards from its local arms  and thereby estimate its local best arm. The clients communicate with a central server on  uplinks that entail a cost of $C\\ge0$ units per usage per uplink. The global best arm is estimated at the server. The goal is to identify the local best arms and the global best arm with minimal total cost, defined as the sum of the total number of arm selections at all the clients and the total communication cost, subject to an upper bound on the error probability. We propose a novel algorithm $\\textsc{FedElim}$  that is based on successive elimination and communicates only in exponential time steps, and obtain a high probability  instance-dependent upper bound on its total cost. The key takeaway from our paper is that for any $C\\geq 0$ and error probabilities sufficiently small, the total number of arm selections (resp. the total cost) under $\\textsc{FedElim}$ is at most $2$ (resp. $3$) times the maximum total number of arm selections under its variant that communicates in every time step. Additionally, we show that the latter is optimal in expectation up to a constant factor, thereby demonstrating that communication is almost cost-free in $\\textsc{FedElim}$. We numerically validate the efficacy of  $\\textsc{FedElim}$ on two synthetic datasets and the MovieLens dataset.</p>",
       "badgesData": [
         {
+          "badgeName": "AAAI",
+          "link": "https://ojs.aaai.org/index.php/AAAI/article/view/26010",
+          "badgeDisplayName": "AAAI"
+        },
+        {
           "badgeName": "arxiv",
           "link": "https://arxiv.org/abs/2208.09215",
           "badgeDisplayName": "arxiv"
         },
         {
           "badgeName": "paper",
-          "link": "../media/2023/02/AAAI-2023-camera-ready-paper.pdf",
+          "link": "../media/2023/02/AAAI2023-almost.pdf",
           "badgeDisplayName": "pdf"
         }
       ]
