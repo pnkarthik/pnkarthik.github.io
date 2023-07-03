@@ -69,6 +69,9 @@ const Bio = () => {
                     {d.supervisor && (
                       <span>Supervisor: {parse(d.supervisor)}</span>
                     )}
+                    {d.host && (
+                      <span>Host: {parse(d.host)}</span>
+                    )}
                     {d.mentor && (
                       <span>{d.noOfMentors > 1 ? "Mentors" : "Mentor"}: {parse(d.mentor)}</span>
                     )}
