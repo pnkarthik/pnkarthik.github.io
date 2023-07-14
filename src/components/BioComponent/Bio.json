@@ -34,6 +34,17 @@
         ]
     },
     {
+      "title": "Visiting Researcher",
+      "collegeName": "<a href=\"https://www.technion.ac.il/en/home-2/\" target=\"_blank\" rel=\"noopener noreferrer\">Technion Israel Institute of Technology</a>, Haifa, Israel",
+      "host": "Prof. <a href=\"https://sites.google.com/view/nir-weinberger/home\" target=\"_blank\" rel=\"noopener noreferrer\">Nir Weinberger</a>",
+      "year": "May 2023 - Jun 2023",
+      "place": "Haifa, Israel",
+      "imageUrl": "../images/technionLogo.jpeg",
+      "description": [
+        "Engaged in research discussions with Prof. Nir Weinberger to discover potential research problems at the intersection of information theory and statistical learning theory, and kickstart new research collaborations."  
+        ]
+    },
+    {
       "title": "Research Intern",
       "collegeName": "<a href=\"https://www.netradyne.com/india\" target=\"_blank\" rel=\"noopener noreferrer\">Netradyne Technology India Pvt Ltd</a>, Bengaluru",
       "year": "Nov 2019 - Mar 2020",
