@@ -1,6 +1,23 @@
 {
   "2023": [
     {
+      "date": "Aug 2023",
+      "title": "<em>Almost Optimal Best Restless Markov Arm Identification with Fixed Confidence</em>",
+      "description": "<span>A talk presented at the CNI Network Seminar Series, Indian Institute of Science, Bengaluru",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2023/08/CNI-IISc-Aug17-2023.pdf",
+          "badgeDisplayName": "slides"
+        },
+        {
+          "badgeName": "video",
+          "link": "https://www.youtube.com/watch?v=mpbT1qqhXXQ",
+          "badgeDisplayName": "video"
+        }
+      ]
+    },
+    {
       "date": "Mar 2023",
       "title": "<em>Best Arm Identification with Limited Precision Sampling</em>",
       "description": "<span>A talk given to Prof. Vincent Tan‘s research group at NUS",

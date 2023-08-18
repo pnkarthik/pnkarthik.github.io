@@ -1,5 +1,22 @@
 [
   {
+    "date": "17 Aug 2023",
+    "content": "Presented an ongoing work on best arm identification in restless multi-armed bandits at the <a href=\"https://cni.iisc.ac.in/seminars/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">CNI Network Seminar Series</a> at the Indian Institute of Science, Bengaluru.",
+    "badgesData": [
+      {
+        "badgeName": "slides",
+        "link": "../media/2023/08/CNI-IISc-Aug17-2023.pdf",
+        "badgeDisplayName": "slides"
+      },
+      {
+        "badgeName": "video",
+        "link": "https://www.youtube.com/watch?v=mpbT1qqhXXQ",
+        "badgeDisplayName": "video"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "20 Jun 2023",
     "content": "Visited the <a href=\"https://www.technion.ac.il\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Technion</a> Israel Institute of Technology between 20 May 2023 and 19 Jun 2023 to engage in research collaboration with Prof. <a href=\"https://sites.google.com/view/nir-weinberger/home?authuser=0\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Nir Weinberger</a>.",
     "isArchived": false
