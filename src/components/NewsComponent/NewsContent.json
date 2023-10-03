@@ -1,7 +1,19 @@
 [
   {
+    "date": "23 Sep 2023",
+    "content": "New Beginnings!<br />I have accepted the offer to join the <a href=\"https://ai.iith.ac.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Department of Artificial Intelligence</a> at <a href=\"https://iith.ac.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">IIT Hyderabad</a> as an Assistant Professor!<br />Deeply grateful to my mentors and family for their unwavering support and encouragement all along the way!<br />Looking forward to this new chapter!",
+    "badgesData": [
+      {
+        "badgeName": "slides",
+        "link": "../media/2023/09/AI-offer-letter.pdf",
+        "badgeDisplayName": "offer letter"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "17 Aug 2023",
-    "content": "Presented an ongoing work on best arm identification in restless multi-armed bandits at the <a href=\"https://cni.iisc.ac.in/seminars/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">CNI Network Seminar Series</a> at the Indian Institute of Science, Bengaluru.",
+    "content": "Presented an ongoing work on best arm identification in restless multi-armed bandits at the <a href=\"https://cni.iisc.ac.in/seminars/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">CNI Networks Seminar Series</a> at the Indian Institute of Science, Bengaluru.",
     "badgesData": [
       {
         "badgeName": "slides",
