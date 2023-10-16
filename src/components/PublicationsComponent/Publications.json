@@ -1,4 +1,50 @@
 {
+  "collaborators": [
+    {
+      "name": "Rajesh Sundaresan",
+      "websiteLink": "https://ece.iisc.ac.in/~rajeshs/"
+    },
+    {
+      "name": "Vincent Y. F. Tan",
+      "websiteLink": "https://vyftan.github.io"
+    },
+    {
+      "name": "Ali Tajer",
+      "websiteLink": "https://www.isg-rpi.com"
+    },
+    {
+      "name": "Nir Weinberger",
+      "websiteLink": "https://sites.google.com/view/nir-weinberger/home?authuser=0"
+    },
+    {
+      "name": "Nikhil Karamchandani",
+      "websiteLink": "https://sites.google.com/site/nikhilkaram/"
+    },
+    {
+      "name": "Jayakrishnan Nair",
+      "websiteLink": "https://www.ee.iitb.ac.in/~jayakrishnan.nair/"
+    },
+    {
+      "name": "Krishna Jagannathan",
+      "websiteLink": "https://www.ee.iitm.ac.in/~krishnaj/"
+    },
+    {
+      "name": "Kota Srinivas Reddy",
+      "websiteLink": "https://sites.google.com/view/srinivas-reddy-kota/home"
+    },
+    {
+      "name": "Arpan Mukherjee",
+      "websiteLink": "https://mukherjee-arpan.github.io"
+    },
+    {
+      "name": "Bharati Kamakoti",
+      "websiteLink": "https://borate267.github.io"
+    },
+    {
+      "name": "Chen Zhirui",
+      "websiteLink": "https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en"
+    }
+  ],
   "preprints": [
     {
       "id": "annalsofstats2024",
