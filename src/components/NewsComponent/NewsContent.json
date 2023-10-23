@@ -1,5 +1,17 @@
 [
   {
+    "date": "23 Oct 2023",
+    "content": "Posted a paper on <em>Optimal Best Arm Identification with Fixed Confidence in Restless Bandits</em>.<br />Joint work with <a href=\"https://vyftan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>, <a href=\"https://mukherjee-arpan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Arpan Mukherjee</a>, and <a href=\"https://www.isg-rpi.com\" target=\"_blank\"  rel=\"noopener noreferrer\">Ali Tajer</a>.<br />In this work, we address the problem of identifying the best arm in a restless multi-armed bandit when the transition probability matrices governing the state evolutions of the arms are unknown.",
+    "badgesData": [
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2310.13393",
+        "badgeDisplayName": "arxiv"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "23 Sep 2023",
     "content": "New Beginnings!<br />I have accepted the offer to join the <a href=\"https://ai.iith.ac.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Department of Artificial Intelligence</a> at <a href=\"https://iith.ac.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">IIT Hyderabad</a> as an Assistant Professor!<br />Deeply grateful to my mentors and family for their unwavering support and encouragement all along the way!<br />Looking forward to this new chapter (starting Mar 2024)!",
     "badgesData": [
