@@ -18,7 +18,7 @@ const Publications = () => {
           </div>
           <div className="col">
             <p className="headingFontSize"><span>Collaborators</span></p>
-            <p className="contentFontSize">One of the most rewarding aspects of being in academic research has been the opportunity to engage in a diverse range of disciplines, spanning both applied and theoretical domains. Over the course of time, I have forged fruitful collaborative relationships with eminent academicians in the field. As a researcher, I am committed to strengthening these valuable relationships, while also seeking out new opportunities to learn and grow. Below is a list of current and past collaborators.</p>
+            <p className="contentFontSize">For me, one of the most rewarding aspects of pursuing academic research has been the opportunity to engage in a diverse range of disciplines, spanning both applied and theoretical domains. I have been fortunate to forge fruitful collaborative relationships with some brilliant minds. As a researcher, I am committed to strengthening these relationships, while also seeking out new opportunities to learn and grow. Below is a list of current and past collaborators.</p>
             <ol>
               {data.collaborators.map((collaborator) => {
                 return (
