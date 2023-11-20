@@ -1,6 +1,18 @@
 {
   "2023": [
     {
+      "date": "Nov 2023",
+      "title": "<em>Optimal Best Arm Identification with Fixed Confidence in Restless Bandits</em>",
+      "description": "<span>A talk presented to Prof. Vincent Tan‘s research group at NUS",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2023/11/NUS-Nov-2023.pdf",
+          "badgeDisplayName": "slides"
+        }
+      ]
+    },
+    {
       "date": "Aug 2023",
       "title": "<em>Almost Optimal Best Restless Markov Arm Identification with Fixed Confidence</em>",
       "description": "<span>A talk presented at the CNI Networks Seminar Series, Indian Institute of Science, Bengaluru",
@@ -20,7 +32,7 @@
     {
       "date": "Mar 2023",
       "title": "<em>Best Arm Identification with Limited Precision Sampling</em>",
-      "description": "<span>A talk given to Prof. Vincent Tan‘s research group at NUS",
+      "description": "<span>A talk presented to Prof. Vincent Tan‘s research group at NUS",
       "badgesData": [
         {
           "badgeName": "slides",
