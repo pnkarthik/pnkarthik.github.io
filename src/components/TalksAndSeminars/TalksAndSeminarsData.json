@@ -9,6 +9,11 @@
           "badgeName": "slides",
           "link": "../media/2023/11/NUS-Nov-2023.pdf",
           "badgeDisplayName": "slides"
+        },
+        {
+          "badgeName": "video",
+          "link": "https://www.youtube.com/watch?v=SwsDZXxkoXw",
+          "badgeDisplayName": "video"
         }
       ]
     },
