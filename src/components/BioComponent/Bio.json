@@ -112,9 +112,12 @@
     {"title": "Secured rank 23 (among the top 0.02%) in the 2010 Karnataka Common Entrance Test (KCET)"}
   ],
   "professionalService": [
+    {"title": "Reviewer, IEEE Signal Processing Letters"},
     {"title": "Reviewer, IEEE Transactions on Information Theory"},
     {"title": "Reviewer, IEEE Transactions on Signal Processing"},
     {"title": "Reviewer, Journal on Selected Areas in Communications (JSAC)"},
+    {"title": "Reviewer, Conference on Neural Information Processing Systems (NeurIPS 2023)"},
+    {"title": "Reviewer, International Conference on Learning Representations (ICLR 2024)"},
     {"title": "Reviewer, Conference on Decision and Control (CDC 2023)"},
     {"title": "Reviewer, IEEE International Symposium on Information Theory (ISIT 2019, ISIT 2023)"},
     {"title": "Reviewer, National Conference on Communications (NCC 2018)"}

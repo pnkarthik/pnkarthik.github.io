@@ -1,12 +1,12 @@
 [
   {
     "date": "20 Nov 2023",
-    "content": "Presented my recent work on <em>Optimal Best Arm Identification with Fixed Confidence in Restless Bandits</em> to Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>'s research group at NUS.",
+    "content": "Presented my recent work on <em>Optimal Best Arm Identification with Fixed Confidence in Restless Bandits</em> at NUS.",
     "badgesData": [
       {
         "badgeName": "slides",
         "link": "../media/2023/11/NUS-Nov-2023.pdf",
-        "badgeDisplayName": "offer letter"
+        "badgeDisplayName": "slides"
       }
     ],
     "isArchived": false
