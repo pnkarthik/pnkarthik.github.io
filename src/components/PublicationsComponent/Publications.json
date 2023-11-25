@@ -106,21 +106,6 @@
       "abstract": "<p>We study best arm identification (BAI) in linear bandits in the fixed-budget regime under differential privacy constraints, when the arm rewards are supported on the unit interval. Given a finite budget $T$ and a privacy parameter  $\\varepsilon>0$, the goal is to minimise the error probability in finding the arm with the largest mean after $T$ sampling rounds, subject to the constraint that the policy of the decision maker satisfies a certain $\\varepsilon$-<em>differential privacy</em> ($\\varepsilon$-DP) constraint. We construct a policy satisfying the $\\varepsilon$-DP constraint (called $\\textsc{DP-BAI}$) by proposing the principle of <em>maximum absolute determinants</em>, and derive an upper bound on its error probability. Furthermore, we derive a minimax lower bound on the error probability, and demonstrate that the lower and the upper bounds decay exponentially in $T$, with exponents in the two bounds matching order-wise in (a) the sub-optimality gaps of the arms, (b) $\\varepsilon$, and (c) the problem complexity that is expressible as the sum of two terms, one characterising the complexity of standard fixed-budget BAI (without privacy constraints), and the other accounting for the $\\varepsilon$-DP constraint. Additionally, we present some auxiliary results that contribute to the derivation of the lower bound on the error probability. These results, we posit, may be of independent interest and could prove instrumental in proving lower bounds on error probabilities in several other bandit problems. Whereas prior works provide results for BAI in the fixed-budget regime without privacy constraints or in the fixed-confidence regime with privacy constraints, our work fills the gap in the literature by providing the results for BAI in the fixed-budget regime under the $\\varepsilon$-DP constraint.</p>"
     },
     {
-      "id": "aistats2023",
-      "title": "<em>Federated Best Arm Identification with Heterogeneous Clients</em>",
-      "authors": "<a>Chen Zhirui</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://vyftan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>, and <a href=\"https://scholar.google.com/citations?user=99AJNXEAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Yeow Meng Chee</a>",
-      "status":"Submitted, IEEE Transactions on Information Theory, May 2023 (Revised Sep 2023)",
-      "hasAbstract": true,
-      "abstract": "<p>We study best arm identification in a federated multi-armed bandit setting with a central server and multiple clients, when each client has access to a <em> subset </em> of arms and each arm yields independent Gaussian observations. The <em> reward </em> from an arm at any given time is defined as the average of the observations generated at this time across all the clients that have access to the arm. The end goal is to identify the best arm (the arm with the largest mean reward) of each client with the least expected stopping time, subject to an upper bound on the error probability (i.e., the <em>fixed-confidence regime</em>). We provide a lower bound on the growth rate of the expected time to find the best arm of each client. Furthermore, we show that for any algorithm whose upper bound on the expected time to find the best arms matches with the lower bound up to a multiplicative constant, the ratio of any two consecutive communication time instants must be bounded, a result that is of independent interest. We then provide the first-known lower bound on the expected number of <em> communication rounds </em> required to find the best arms. We propose a novel algorithm based on the well-known <em> Track-and-Stop </em> strategy that communicates only at exponential time instants, and derive asymptotic upper bounds on its expected time to find the best arms and the expected number of communication rounds, where the asymptotics is one of vanishing error probabilities.</p>",
-      "badgesData": [
-        {
-          "badgeName": "arxiv",
-          "link": "https://arxiv.org/abs/2210.07780",
-          "badgeDisplayName": "arxiv"
-        }
-      ]
-    },
-    {
       "id": "pp3",
       "title": "<em>Learning to Detect an Odd Restless Markov Arm with a Trembling Hand</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\"  rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
@@ -152,6 +137,21 @@
     }
   ],
   "journals": [
+    {
+      "id": "T-IT-fed-BAI-het",
+      "title": "<em>Federated Best Arm Identification with Heterogeneous Clients</em>",
+      "authors": "<a>Chen Zhirui</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://vyftan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>, and <a href=\"https://scholar.google.com/citations?user=99AJNXEAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Yeow Meng Chee</a>",
+      "status":"IEEE Transactions on Information Theory, 2023+",
+      "hasAbstract": true,
+      "abstract": "<p>We study best arm identification in a federated multi-armed bandit setting with a central server and multiple clients, when each client has access to a <em> subset </em> of arms and each arm yields independent Gaussian observations. The <em> reward </em> from an arm at any given time is defined as the average of the observations generated at this time across all the clients that have access to the arm. The end goal is to identify the best arm (the arm with the largest mean reward) of each client with the least expected stopping time, subject to an upper bound on the error probability (i.e., the <em>fixed-confidence regime</em>). We provide a lower bound on the growth rate of the expected time to find the best arm of each client. Furthermore, we show that for any algorithm whose upper bound on the expected time to find the best arms matches with the lower bound up to a multiplicative constant, the ratio of any two consecutive communication time instants must be bounded, a result that is of independent interest. We then provide the first-known lower bound on the expected number of <em> communication rounds </em> required to find the best arms. We propose a novel algorithm based on the well-known <em> Track-and-Stop </em> strategy that communicates only at exponential time instants, and derive asymptotic upper bounds on its expected time to find the best arms and the expected number of communication rounds, where the asymptotics is one of vanishing error probabilities.</p>",
+      "badgesData": [
+        {
+          "badgeName": "arxiv",
+          "link": "https://arxiv.org/abs/2210.07780",
+          "badgeDisplayName": "arxiv"
+        }
+      ]
+    },
     {
       "id": "BPL",
       "title": "<em>The Bus Priority Lane In Bengaluru: A Study of its Effectiveness and Driver Stress</em>",

@@ -1,5 +1,17 @@
 [
   {
+    "date": "24 Nov 2023",
+    "content": "Paper on <em>Federated Best Arm Identification with Heterogeneous Clients</em> accepted to the IEEE Transactions on Information Theory! <br />Joint work with <a>Chen Zhirui</a>, <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>, and <a href=\"https://scholar.google.com/citations?user=99AJNXEAAAAJ&hl=en\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Yeow Meng Chee</a>.",
+    "badgesData": [
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2210.07780",
+        "badgeDisplayName": "arxiv"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "20 Nov 2023",
     "content": "Presented my recent work on <em>Optimal Best Arm Identification with Fixed Confidence in Restless Bandits</em> at NUS.",
     "badgesData": [
