@@ -5,6 +5,11 @@
     "badgesData": [
       {
         "badgeName": "arxiv",
+        "link": "https://ieeexplore.ieee.org/document/10335712",
+        "badgeDisplayName": "xplore"
+      },
+      {
+        "badgeName": "arxiv",
         "link": "https://arxiv.org/abs/2210.07780",
         "badgeDisplayName": "arxiv"
       }

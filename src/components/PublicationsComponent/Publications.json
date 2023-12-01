@@ -142,6 +142,11 @@
       "abstract": "<p>We study best arm identification in a federated multi-armed bandit setting with a central server and multiple clients, when each client has access to a <em> subset </em> of arms and each arm yields independent Gaussian observations. The <em> reward </em> from an arm at any given time is defined as the average of the observations generated at this time across all the clients that have access to the arm. The end goal is to identify the best arm (the arm with the largest mean reward) of each client with the least expected stopping time, subject to an upper bound on the error probability (i.e., the <em>fixed-confidence regime</em>). We provide a lower bound on the growth rate of the expected time to find the best arm of each client. Furthermore, we show that for any algorithm whose upper bound on the expected time to find the best arms matches with the lower bound up to a multiplicative constant, the ratio of any two consecutive communication time instants must be bounded, a result that is of independent interest. We then provide the first-known lower bound on the expected number of <em> communication rounds </em> required to find the best arms. We propose a novel algorithm based on the well-known <em> Track-and-Stop </em> strategy that communicates only at exponential time instants, and derive asymptotic upper bounds on its expected time to find the best arms and the expected number of communication rounds, where the asymptotics is one of vanishing error probabilities.</p>",
       "badgesData": [
         {
+          "badgeName": "xplore",
+          "link": "https://ieeexplore.ieee.org/document/10335712",
+          "badgeDisplayName": "xplore"
+        },
+        {
           "badgeName": "arxiv",
           "link": "https://arxiv.org/abs/2210.07780",
           "badgeDisplayName": "arxiv"
