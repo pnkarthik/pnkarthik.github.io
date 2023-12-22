@@ -16,6 +16,7 @@ import RamanAndHisInnerClock from "./BlogsComponent/RamanAndHisInnerClockBlog";
 import PhdLifeBlog from "./BlogsComponent/PhdLifeBlog";
 import ArchivedNews from "./NewsComponent/ArchivedNews";
 import Footer from "./common/Footer";
+import CollaboratorsComponent from "./CollaboratorsComponent";
 
 const App = () => {
   const config = {
@@ -72,6 +73,7 @@ const App = () => {
                 <Route path="/blogs/raman-and-his-inner-clock" element={<RamanAndHisInnerClock />} />
                 <Route path="/blogs/what-1756-days-of-phd-life-has-taught-me" element={<PhdLifeBlog />} />
                 <Route path="/archivedNews" element={<ArchivedNews />} />
+                <Route path="/collaborators" element={<CollaboratorsComponent />} /> 
               </Routes>
             </div>
           </div>

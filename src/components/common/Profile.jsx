@@ -53,7 +53,7 @@ const Profile = () => {
                 <a href="https://www.linkedin.com/in/pnkarthik/" className="col" target="_blank" rel="noopener noreferrer">LinkedIn</a>
               </div>
               <div className="dropdownItem row flex-row col-12">
-                <i className="fab fa-twitter twitter col-1 fa-lg socialLink" aria-hidden="true" />
+                <i className="fa-brands fa-x-twitter twitter col-1 fa-lg socialLink" aria-hidden="true" />
                 <a href="https://twitter.com/karthikpn15" className="col" target="_blank" rel="noopener noreferrer">Twitter</a>
               </div>
               <div className="dropdownItem row flex-row col-12">
@@ -82,7 +82,7 @@ const Profile = () => {
                 <span><a href="https://www.linkedin.com/in/pnkarthik/" className="col-10" target="_blank" rel="noopener noreferrer">LinkedIn</a></span>
               </div>
               <div>
-                <i className="fab fa-twitter twitter col-1 fa-lg socialLink" aria-hidden="true" />
+                <i className="fa-brands fa-x-twitter twitter col-1 fa-lg socialLink" aria-hidden="true" />
                 <span><a href="https://twitter.com/karthikpn15" className="col-10" target="_blank" rel="noopener noreferrer">Twitter</a></span>
               </div>
               <div>

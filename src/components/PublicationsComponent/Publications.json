@@ -1,82 +1,106 @@
 {
-  "collaborators": [
-    {
-      "name": "Rajesh Sundaresan",
-      "websiteLink": "https://ece.iisc.ac.in/~rajeshs/"
-    },
-    {
-      "name": "Vincent Y. F. Tan",
-      "websiteLink": "https://vyftan.github.io"
-    },
-    {
-      "name": "Ali Tajer",
-      "websiteLink": "https://www.isg-rpi.com"
-    },
-    {
-      "name": "Nikhil Karamchandani",
-      "websiteLink": "https://sites.google.com/site/nikhilkaram/"
-    },
-    {
-      "name": "Jayakrishnan Nair",
-      "websiteLink": "https://www.ee.iitb.ac.in/~jayakrishnan.nair/"
-    },
-    {
-      "name": "Krishna Jagannathan",
-      "websiteLink": "https://www.ee.iitm.ac.in/~krishnaj/"
-    },
-    {
-      "name": "Chandra R. Murthy",
-      "websiteLink": "https://ece.iisc.ac.in/~cmurthy/doku.php?id=home"
-    },
-    {
-      "name": "Neelesh B. Mehta",
-      "websiteLink": "https://ece.iisc.ac.in/~nextgenwrl/Neelesh.html"
-    },
-    {
-      "name": "Geethu Joseph",
-      "websiteLink": "https://sites.google.com/view/geethujoseph/home"
-    },
-    {
-      "name": "Yeow Meng Chee",
-      "websiteLink": "https://ymchee66.github.io/home/"
-    },
-    {
-      "name": "Sarath Yasodharan",
-      "websiteLink": "https://sarath-yasodharan.github.io"
-    },
-    {
-      "name": "Kota Srinivas Reddy",
-      "websiteLink": "https://sites.google.com/view/srinivas-reddy-kota/home"
-    },
-    {
-      "name": "Nihesh Rathod",
-      "websiteLink": "https://www.linkedin.com/in/nihesh-rathod/"
-    },
-    {
-      "name": "Ajeesh Sahadevan",
-      "websiteLink": "https://www.linkedin.com/in/ajeesh-sahadevan/"
-    },
-    {
-      "name": "Pratik Verma",
-      "websiteLink": "https://www.linkedin.com/in/vpratik/"
-    },
-    {
-      "name": "Chen Zhirui",
-      "websiteLink": "https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en"
-    },
-    {
-      "name": "Arpan Mukherjee",
-      "websiteLink": "https://mukherjee-arpan.github.io"
-    },
-    {
-      "name": "Bharati Kamakoti",
-      "websiteLink": "https://borate267.github.io"
-    },
-    {
-      "name": "Raksha Ramakrishna",
-      "websiteLink": "https://www.linkedin.com/in/raksha-ramakrishna-b4390374/?originalSubdomain=se"
-    }
-  ],
+  "collaborators": 
+  {
+    "current": [
+      {
+        "name": "Vincent Y. F. Tan",
+        "websiteLink": "https://vyftan.github.io",
+        "photo": "vincent.png"
+      },
+      {
+        "name": "Ali Tajer",
+        "websiteLink": "https://www.isg-rpi.com",
+        "photo": "ali-tajer.jpg"
+      },
+      {
+        "name": "Krishna Jagannathan",
+        "websiteLink": "https://www.ee.iitm.ac.in/~krishnaj/",
+        "photo": "krishna.jpg"
+      },
+      {
+        "name": "Yeow Meng Chee",
+        "websiteLink": "https://ymchee66.github.io/home/",
+        "photo": "ymchee.jpg"
+      },
+      {
+        "name": "Kota Srinivas Reddy",
+        "websiteLink": "https://sites.google.com/view/srinivas-reddy-kota/home",
+        "photo": "srinivas.jpg"
+      },
+      {
+        "name": "Chen Zhirui",
+        "websiteLink": "https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en",
+        "photo": "zhirui.jpeg"
+      },
+      {
+        "name": "Arpan Mukherjee",
+        "websiteLink": "https://mukherjee-arpan.github.io",
+        "photo": "arpan.jpeg"
+      },
+      {
+        "name": "Bharati Kamakoti",
+        "websiteLink": "https://borate267.github.io",
+        "photo": "bharati.jpg"
+      }
+    ],
+    "past": [
+      {
+        "name": "Rajesh Sundaresan",
+        "websiteLink": "https://ece.iisc.ac.in/~rajeshs/",
+        "photo": "rajesh.jpg"
+      },
+      {
+        "name": "Nikhil Karamchandani",
+        "websiteLink": "https://sites.google.com/site/nikhilkaram/",
+        "photo": "nikhil.jpeg"
+      },
+      {
+        "name": "Jayakrishnan Nair",
+        "websiteLink": "https://www.ee.iitb.ac.in/~jayakrishnan.nair/",
+        "photo": "JK.jpeg"
+      },
+      {
+        "name": "Sarath Yasodharan",
+        "websiteLink": "https://sarath-yasodharan.github.io",
+        "photo": "sarath.jpg"
+      },
+      {
+        "name": "Nihesh Rathod",
+        "websiteLink": "https://www.linkedin.com/in/nihesh-rathod/",
+        "photo": "nihesh.jpg"
+      },
+      {
+        "name": "Ajeesh Sahadevan",
+        "websiteLink": "https://www.linkedin.com/in/ajeesh-sahadevan/",
+        "photo": "ajeesh.jpeg"
+      },
+      {
+        "name": "Pratik Verma",
+        "websiteLink": "https://www.linkedin.com/in/vpratik/",
+        "photo": "pratik.jpg"
+      },
+      {
+        "name": "Chandra R. Murthy",
+        "websiteLink": "https://ece.iisc.ac.in/~cmurthy/doku.php?id=home",
+        "photo": "chandra.jpg"
+      },
+      {
+        "name": "Neelesh B. Mehta",
+        "websiteLink": "https://ece.iisc.ac.in/~nextgenwrl/Neelesh.html",
+        "photo": "neelesh.jpg"
+      },
+      {
+        "name": "Geethu Joseph",
+        "websiteLink": "https://sites.google.com/view/geethujoseph/home",
+        "photo": "geethu.jpg"
+      },
+      {
+        "name": "Raksha Ramakrishna",
+        "websiteLink": "https://www.linkedin.com/in/raksha-ramakrishna-b4390374/?originalSubdomain=se",
+        "photo": "raksha.jpg"
+      }
+    ]
+  },
   "preprints": [
     {
       "id": "annalsofstats2024",

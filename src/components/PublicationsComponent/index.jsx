@@ -16,17 +16,6 @@ const Publications = () => {
             <p className="headingFontSize"><span>Copyright</span><span>Notice</span></p>
             <p className="contentFontSize">Copyright belongs to the publisher in case of published articles. Copyright belongs to the author or authors in all other cases.</p>
           </div>
-          <div className="col">
-            <p className="headingFontSize"><span>Collaborators</span></p>
-            <p className="contentFontSize">For me, one of the most rewarding aspects of pursuing academic research has been the opportunity to engage in a diverse range of disciplines, spanning both applied and theoretical domains. I have been fortunate to forge fruitful collaborative relationships with some brilliant minds. As a researcher, I am committed to strengthening these relationships, while also seeking out new opportunities to learn and grow. Below is a list of current and past collaborators.</p>
-            <ol>
-              {data.collaborators.map((collaborator) => {
-                return (
-                  <li><a href={collaborator.websiteLink} target="_blank" rel="noopener noreferrer">{collaborator.name}</a></li>
-                )
-              })}
-            </ol>
-          </div>
           <Publication heading="Preprints" data={data.preprints} getBadgeColor={getBadgeColor} />
           <div className="col" id="thesis">
             <div>
