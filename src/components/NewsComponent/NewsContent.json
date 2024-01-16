@@ -1,7 +1,19 @@
 [
   {
+    "date": "16 Jan 2024",
+    "content": "Paper on <em>Fixed-Budget Differentially Private Best Arm Identification</em> accepted to <a href=\"https://iclr.cc\" target=\"_blank\"  rel=\"noopener noreferrer\">ICLR 2024</a> (poster)! <br />Joint work with <a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Yeow Meng Chee</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>. <br />Congratulations to all the co-authors!",
+    "badgesData": [
+      {
+        "badgeName": "arxiv",
+        "link": "https://openreview.net/forum?id=vrE2fqAInO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)",
+        "badgeDisplayName": "openreview"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "24 Nov 2023",
-    "content": "Paper on <em>Federated Best Arm Identification with Heterogeneous Clients</em> accepted to the IEEE Transactions on Information Theory! <br />Joint work with <a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>, and <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Yeow Meng Chee</a>.",
+    "content": "Paper on <em>Federated Best Arm Identification with Heterogeneous Clients</em> accepted to the IEEE Transactions on Information Theory! <br />Joint work with <a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>, and <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Yeow Meng Chee</a>.<br />Congratulations to all the co-authors!",
     "badgesData": [
       {
         "badgeName": "arxiv",
@@ -72,12 +84,12 @@
         "badgeDisplayName": "video"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "20 Jun 2023",
     "content": "Visited the <a href=\"https://www.technion.ac.il\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Technion</a> Israel Institute of Technology between 20 May 2023 and 19 Jun 2023 to engage in research collaboration with Prof. <a href=\"https://sites.google.com/view/nir-weinberger/home?authuser=0\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Nir Weinberger</a>.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "01 May 2023",
@@ -94,7 +106,7 @@
         "badgeDisplayName": "pdf"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "15 Apr 2023",
@@ -111,7 +123,7 @@
         "badgeDisplayName": "pdf"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "23 Mar 2023",
@@ -123,7 +135,7 @@
         "badgeDisplayName": "slides"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "11 Feb 2023",
@@ -135,7 +147,7 @@
         "badgeDisplayName": "poster"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "16 Jan 2023",
@@ -152,7 +164,7 @@
         "badgeDisplayName": "video"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "11 Dec 2022",
