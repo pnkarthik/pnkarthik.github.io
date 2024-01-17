@@ -1,7 +1,7 @@
 [
   {
     "date": "16 Jan 2024",
-    "content": "Paper on <em>Fixed-Budget Differentially Private Best Arm Identification</em> accepted to <a href=\"https://iclr.cc\" target=\"_blank\"  rel=\"noopener noreferrer\">ICLR 2024</a> (poster)! <br />Joint work with <a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Yeow Meng Chee</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>. <br />Congratulations to all the co-authors!",
+    "content": "Paper on <em>Fixed-Budget Differentially Private Best Arm Identification</em> accepted to <a href=\"https://iclr.cc\" target=\"_blank\"  rel=\"noopener noreferrer\">ICLR 2024</a> (poster)! <br />Joint work with <a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Yeow Meng Chee</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>. <br />Congratulations to all the co-authors!<br />In this paper, we address the problem of best arm identification in the fixed-budget setting under differential privacy constraints, considering the notion of $\\varepsilon$-differential privacy ($\\varepsilon$-DP), and provide guarantees on the error probability.",
     "badgesData": [
       {
         "badgeName": "arxiv",
