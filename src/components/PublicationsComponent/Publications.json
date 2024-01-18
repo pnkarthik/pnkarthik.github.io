@@ -276,6 +276,11 @@
       "badgesData": [
         {
           "badgeName": "arxiv",
+          "link": "https://arxiv.org/abs/2401.09073",
+          "badgeDisplayName": "arxiv"
+        },
+        {
+          "badgeName": "arxiv",
           "link": "https://openreview.net/forum?id=vrE2fqAInO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)",
           "badgeDisplayName": "openreview"
         }
