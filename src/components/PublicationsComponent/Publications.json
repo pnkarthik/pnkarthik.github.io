@@ -103,7 +103,15 @@
   },
   "preprints": [
     {
-      "id": "annalsofstats2024",
+      "id": "isit2024",
+      "title": "<em>Best Arm Identification with Arm Erasures</em>",
+      "authors": "<a href=\"https://sites.google.com/view/srinivas-reddy-kota/home\" target=\"_blank\"  rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
+      "status":"Submitted to <a href=\"https://2024.ieee-isit.org\" target=\"_blank\"  rel=\"noopener noreferrer\">ISIT 2024</a>",
+      "hasAbstract": true,
+      "abstract": "<p>In this paper, we address the problem of best arm identification (BAI) with arm erasures in a multi-armed bandit setting with finitely many arms. A <em>learner</em> who seeks to identify the best arm---the arm with the largest mean reward---samples arms sequentially, one at each time instant, and communicates the sampled arm to an <em>agent</em> through an erasure channel with a known erasure probability $\\varepsilon \\in (0,1)$. The learner <em>does not</em> receive any erasure feedback, and hence does not know whether the transmitted arm was erased by the channel. In instances where erasure does not occur, and the transmitted arm is successfully received by the agent, the agent promptly pulls the received arm. On the contrary, when erasure occurs, we analyse the following two distinct scenarios: (a) the agent randomly selects an arm, and (b) the agent selects the most recent successfully received arm. We assume that the instantaneous reward from the pulled arm is available to the learner, whose objective is to find the best arm as quickly as possible, subject to an upper bound on the error probability. Given $\\delta \\in (0,1)$, we derive a problem-dependent lower bound on the expected stopping time of any algorithm whose error probability is within $\\delta$. We also propose two successive elimination algorithms for each of the aforementioned scenarios (a), (b), and provide upper bounds on their stopping times that hold with probability $1-\\delta$. To our best knowledge, this is the first work on BAI with arm erasures.</p>"
+    },
+    {
+      "id": "transIT2023",
       "title": "<em>Optimal Best Arm Identification with Fixed Confidence in Restless Bandits</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://vyftan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>, <a href=\"https://mukherjee-arpan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Arpan Mukherjee</a>, and <a href=\"https://www.isg-rpi.com\" target=\"_blank\"  rel=\"noopener noreferrer\">Ali Tajer</a>",
       "status":"Submitted, IEEE Transactions on Information Theory, Oct 2023",
