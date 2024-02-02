@@ -103,6 +103,14 @@
   },
   "preprints": [
     {
+      "id": "icml2024",
+      "title": "<em>Optimal Multi-Objective Best Arm Identification with Fixed Confidence</em>",
+      "authors": "<a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\"  rel=\"noopener noreferrer\">Yeow Meng Chee</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
+      "status":"Submitted, Feb 2024",
+      "hasAbstract": true,
+      "abstract": "<p>We consider a multi-armed bandit setting with finitely many arms, in which each arm yields an $M$-dimensional vector reward upon selection. We assume that the reward of each dimension (a.k.a. <em>objective</em>) is generated independently of the others. The best arm of any given objective is the arm with the largest component of mean corresponding to the objective. The end goal is to identify the best arm of <em>every</em> objective in the shortest (expected) time subject to an upper bound on the probability of error (i.e., fixed-confidence regime). We establish a problem-dependent lower bound on the limiting growth rate of the expected stopping time, in the limit of vanishing error probabilities. This lower bound, we show, is characterised by a max-min optimisation problem that is computationally expensive to solve at each time step. We propose an algorithm that uses the novel idea of <em>surrogate proportions</em> to sample the arms at each time step, eliminating the need to solve the max-min optimisation problem at each step. We demonstrate theoretically that our algorithm is asymptotically optimal. In addition, we provide empirical evidence, utilising both synthetic and real-world datasets, to substantiate the efficiency of our algorithm.  While existing works on pure exploration with multi-objective multi-armed bandits predominantly focus on <em>Pareto front identification</em>, our work fills the gap in the literature by conducting a formal investigation of the multi-objective best arm identification problem.</p>"
+    },
+    {
       "id": "isit2024",
       "title": "<em>Best Arm Identification with Arm Erasures</em>",
       "authors": "<a href=\"https://sites.google.com/view/srinivas-reddy-kota/home\" target=\"_blank\"  rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
