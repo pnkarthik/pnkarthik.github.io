@@ -21,6 +21,16 @@
   ],
   "experience": [
     {
+      "title": "Assistant Professor",
+      "collegeName": "<a href=\"https://iith.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\">IIT Hyderabad</a>, Telangana, India",
+      "year": "Starting late Feb 2024 onwards",
+      "place": "India",
+      "imageUrl": "../images/iithLogo.jpg",
+      "description": [
+        "Engagement in research, teaching, and student mentorship"  
+        ]
+    },
+    {
       "title": "Research Fellow",
       "collegeName": "<a href=\"https://ids.nus.edu.sg/\" target=\"_blank\" rel=\"noopener noreferrer\">Institute of Data Science</a>, <a href=\"https://www.nus.edu.sg/\" target=\"_blank\" rel=\"noopener noreferrer\">National University of Singapore</a>, Singapore",
       "supervisor": "Prof. <a href=\"https://vyftan.github.io/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
@@ -28,9 +38,9 @@
       "place": "Singapore",
       "imageUrl": "../images/nusLogo.jpeg",
       "description": [
-        "Characterising the performance limits of multi-armed bandit algorithms for federated learning, transfer learning, best arm identification, etc.",
-        "Fostering collaborative ties between NUS and other prominent institutes such as IIT Madras (IITM), IIT Bombay (IITB), Rensselaer Polytechnic Institute (RPI)",
-        "Assisting Ph.D. students and their supervisors at NUS and IITM, and contributing to the successful completion of Ph.D. research projects"  
+        "Characterised the performance limits of multi-armed bandit algorithms for federated learning, transfer learning, best arm identification, etc",
+        "Fostered collaborative ties between NUS and other prominent institutes such as IIT Madras (IITM), IIT Bombay (IITB), and Rensselaer Polytechnic Institute (RPI)",
+        "Worked alongside Ph.D. students at NUS and IITM on Ph.D. research projects"  
         ]
     },
     {
@@ -41,7 +51,7 @@
       "place": "Haifa, Israel",
       "imageUrl": "../images/technionLogo.jpeg",
       "description": [
-        "Engaged in research discussions with Prof. Nir Weinberger to discover potential research problems at the intersection of information theory and statistical learning theory, and kickstart new research collaborations."  
+        "Engaged in research discussions with Prof. Nir Weinberger to discover potential research problems at the intersection of information theory and statistical learning theory, and kickstart new research collaborations"  
         ]
     },
     {
