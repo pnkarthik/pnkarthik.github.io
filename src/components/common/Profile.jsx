@@ -15,7 +15,7 @@ const Profile = () => {
             <div className="d-flex flex-column col-6">
               <h3 className="profileName m-0">P. N. Karthik</h3>
               <div className="profileDesc m-0">
-                <span>Incoming Assistant Professor, IIT Hyderabad</span>
+                <span>Assistant Professor, IIT Hyderabad</span>
               </div>
             </div>
           </>
@@ -27,7 +27,7 @@ const Profile = () => {
             <div className="d-flex flex-column col-lg-12 col-7">
               <h3 className="profileName">P. N. Karthik</h3>
               <div className="profileDesc d-flex flex-column">
-                <span>Incoming Assistant Professor,</span>
+                <span>Assistant Professor,</span>
                 <span>Department of Artificial Intelligence,</span>
                 <span>IIT Hyderabad</span>
               </div>
@@ -42,11 +42,11 @@ const Profile = () => {
             <div class="dropdown-menu" aria-labelledby="socialLinks">
               <div className="dropdownItem row flex-row col-12">
                 <i className="fa-solid fa-map-marker addressTag col-1 fa-lg socialLink" aria-hidden="true" />
-                <a href="https://maps.app.goo.gl/i9sXXrUNd4jYmZMu5" className="col" target="_blank" rel="noopener noreferrer">India</a>
+                <a href="https://maps.app.goo.gl/GGiZoxrDB7jFa3939" className="col" target="_blank" rel="noopener noreferrer">Sangareddy, Telangana, India</a>
               </div>
               <div className="dropdownItem row flex-row col-12">
                 <i className="fa-solid fa-envelope gmailColor col-1 fa-lg socialLink" aria-hidden="true" />
-                <a href="mailto:pnkarthik1992@gmail.com" className="col" target="_blank" rel="noopener noreferrer">Email</a>
+                <a href="mailto:pnkarthik@ai.iith.ac.in" className="col" target="_blank" rel="noopener noreferrer">Email</a>
               </div>
               <div className="dropdownItem row flex-row col-12">
                 <i className="fab fa-linkedin col-1 fa-lg socialLink linkedinColor" aria-hidden="true" />
@@ -71,11 +71,11 @@ const Profile = () => {
             <div className="d-flex flex-column socialLinks">
               <div>
                 <i className="fa-solid fa-map-marker addressTag col-1 fa-lg socialLink" aria-hidden="true" />
-                <a href="https://maps.app.goo.gl/i9sXXrUNd4jYmZMu5" className="col-10" target="_blank" rel="noopener noreferrer">India</a>
+                <a href="https://maps.app.goo.gl/GGiZoxrDB7jFa3939" className="col" target="_blank" rel="noopener noreferrer">Sangareddy, Telangana, India</a>
               </div>
               <div>
                 <i className="fa-solid fa-envelope gmailColor col-1 fa-lg socialLink" aria-hidden="true" />
-                <a href="mailto:pnkarthik1992@gmail.com" className="col-10" target="_blank" rel="noopener noreferrer">Email</a>
+                <a href="mailto:pnkarthik@ai.iith.ac.in" className="col-10" target="_blank" rel="noopener noreferrer">Email</a>
               </div>
               <div>
                 <i className="fab fa-linkedin col-1 fa-lg socialLink linkedinColor" aria-hidden="true" />

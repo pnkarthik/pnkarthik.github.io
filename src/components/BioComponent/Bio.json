@@ -23,7 +23,7 @@
     {
       "title": "Assistant Professor",
       "collegeName": "<a href=\"https://iith.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\">IIT Hyderabad</a>, Telangana, India",
-      "year": "Starting late Feb 2024 onwards",
+      "year": "Feb 2024 - Present",
       "place": "India",
       "imageUrl": "../images/iithLogo.jpg",
       "description": [
@@ -126,6 +126,7 @@
     {"title": "Reviewer, IEEE Transactions on Information Theory"},
     {"title": "Reviewer, IEEE Transactions on Signal Processing"},
     {"title": "Reviewer, Journal on Selected Areas in Communications (JSAC)"},
+    {"title": "Reviewer, International Conference on Machine Learning (ICML 2024)"},
     {"title": "Reviewer, International Conference on Learning Representations (ICLR 2024)"},
     {"title": "Reviewer, Conference on Neural Information Processing Systems (NeurIPS 2023)"},
     {"title": "Reviewer, Conference on Decision and Control (CDC 2023)"},
