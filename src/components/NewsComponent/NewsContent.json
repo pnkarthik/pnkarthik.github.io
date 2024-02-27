@@ -1,5 +1,22 @@
 [
   {
+    "date": "26 Feb 2024",
+    "content": "Assumed office as an Assistant Professor in the <a href=\"https://ai.iith.ac.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Department of Artificial Intelligence</a> at <a href=\"https://iith.ac.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">IIT Hyderabad</a>.",
+    "badgesData": [
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2401.09073",
+        "badgeDisplayName": "arxiv"
+      },
+      {
+        "badgeName": "arxiv",
+        "link": "https://openreview.net/forum?id=vrE2fqAInO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)",
+        "badgeDisplayName": "openreview"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "16 Jan 2024",
     "content": "Paper on <em>Fixed-Budget Differentially Private Best Arm Identification</em> accepted to <a href=\"https://iclr.cc\" target=\"_blank\"  rel=\"noopener noreferrer\">ICLR 2024</a>! <br />Joint work with <a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Yeow Meng Chee</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>. <br />Congratulations to all the co-authors!<br />In this paper, we address the problem of best arm identification in the fixed-budget setting under differential privacy constraints, considering the notion of $\\varepsilon$-differential privacy ($\\varepsilon$-DP), and provide guarantees on the error probability.",
     "badgesData": [
