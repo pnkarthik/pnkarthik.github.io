@@ -4,14 +4,9 @@
     "content": "Assumed office as an Assistant Professor in the <a href=\"https://ai.iith.ac.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Department of Artificial Intelligence</a> at <a href=\"https://iith.ac.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">IIT Hyderabad</a>.",
     "badgesData": [
       {
-        "badgeName": "arxiv",
-        "link": "https://arxiv.org/abs/2401.09073",
-        "badgeDisplayName": "arxiv"
-      },
-      {
-        "badgeName": "arxiv",
-        "link": "https://openreview.net/forum?id=vrE2fqAInO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)",
-        "badgeDisplayName": "openreview"
+        "badgeName": "pdf",
+        "link": "../media/2023/09/AI-offer-letter.pdf",
+        "badgeDisplayName": "offer letter"
       }
     ],
     "isArchived": false
