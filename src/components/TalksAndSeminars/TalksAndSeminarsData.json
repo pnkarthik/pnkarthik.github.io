@@ -1,4 +1,18 @@
 {
+  "2024": [
+    {
+      "date": "Apr 2024",
+      "title": "<em>A Peek into Reinforcement Learning</em>",
+      "description": "<span>A talk presented to the students and faculty of Andhra Mahila Sabha (AMS) as part of the workshop on Stepping into Modern AI (SMAI)",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2024/04/SMAI-workshop-2024.key",
+          "badgeDisplayName": "keynote"
+        }
+      ]
+    }
+  ],
   "2023": [
     {
       "date": "Nov 2023",
