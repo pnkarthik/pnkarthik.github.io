@@ -1,5 +1,17 @@
 [
   {
+    "date": "13 Jun 2024",
+    "content": "Paper on <em>Optimal Best Arm Identification with Fixed Confidence in Restless Bandits</em> accepted to the IEEE Transactions on Information Theory!<br />Joint work with <a href=\"https://vyftan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>, <a href=\"https://mukherjee-arpan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Arpan Mukherjee</a>, and <a href=\"https://www.isg-rpi.com\" target=\"_blank\"  rel=\"noopener noreferrer\">Ali Tajer</a>.<br />In this work, we characterise the complexity of identifying the best arm in a restless multi-armed bandit under a single parameter exponential family model for the Markov chain of each arm.",
+    "badgesData": [
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2310.13393",
+        "badgeDisplayName": "arxiv"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "10 Apr 2024",
     "content": "Paper on <em>Best Arm Identification with Arm Erasures</em> accepted to <a href=\"https://2024.ieee-isit.org\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">ISIT 2024</a>! <br />Joint work with Joint work with <a href=\"https://sites.google.com/view/srinivas-reddy-kota/home\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a> and <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>. <br />Full paper to be out soon!",
     "isArchived": false
