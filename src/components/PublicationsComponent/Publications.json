@@ -174,6 +174,11 @@
           "badgeName": "arxiv",
           "link": "https://arxiv.org/abs/2210.07780",
           "badgeDisplayName": "arxiv"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2024/06/Federated_Best_Arm_Identification_With_Heterogeneous_Clients.pdf",
+          "badgeDisplayName": "pdf"
         }
       ]
     },
