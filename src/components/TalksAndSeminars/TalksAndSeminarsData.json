@@ -1,6 +1,18 @@
 {
   "2024": [
     {
+      "date": "Jul 2024",
+      "title": "<em>Best Arm Identification with Arm Erasures</em>",
+      "description": "<span>ISIT 2024, Athens, Greece</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2024/07/ISIT-2024-talk.pdf",
+          "badgeDisplayName": "slides"
+        }
+      ]
+    },
+    {
       "date": "Apr 2024",
       "title": "<em>A Peek into Reinforcement Learning</em>",
       "description": "<span>A talk presented to the students and faculty of Andhra Mahila Sabha (AMS) as part of the workshop on Stepping into Modern AI (SMAI)",

@@ -8,21 +8,6 @@
         "photo": "vincent.png"
       },
       {
-        "name": "Ali Tajer",
-        "websiteLink": "https://www.isg-rpi.com",
-        "photo": "ali-tajer.jpg"
-      },
-      {
-        "name": "Krishna Jagannathan",
-        "websiteLink": "https://www.ee.iitm.ac.in/~krishnaj/",
-        "photo": "krishna.jpg"
-      },
-      {
-        "name": "Yeow Meng Chee",
-        "websiteLink": "https://ymchee66.github.io/home/",
-        "photo": "ymchee.jpg"
-      },
-      {
         "name": "Kota Srinivas Reddy",
         "websiteLink": "https://sites.google.com/view/srinivas-reddy-kota/home",
         "photo": "srinivas.jpg"
@@ -31,6 +16,13 @@
         "name": "Chen Zhirui",
         "websiteLink": "https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en",
         "photo": "zhirui.jpeg"
+      }
+    ],
+    "past": [
+      {
+        "name": "Ali Tajer",
+        "websiteLink": "https://www.isg-rpi.com",
+        "photo": "ali-tajer.jpg"
       },
       {
         "name": "Arpan Mukherjee",
@@ -38,16 +30,19 @@
         "photo": "arpan.jpeg"
       },
       {
+        "name": "Yeow Meng Chee",
+        "websiteLink": "https://ymchee66.github.io/home/",
+        "photo": "ymchee.jpg"
+      },
+      {
+        "name": "Krishna Jagannathan",
+        "websiteLink": "https://www.ee.iitm.ac.in/~krishnaj/",
+        "photo": "krishna.jpg"
+      },
+      {
         "name": "Bharati Kamakoti",
         "websiteLink": "https://borate267.github.io",
         "photo": "bharati.jpg"
-      }
-    ],
-    "past": [
-      {
-        "name": "Rajesh Sundaresan",
-        "websiteLink": "https://ece.iisc.ac.in/~rajeshs/",
-        "photo": "rajesh.jpg"
       },
       {
         "name": "Nikhil Karamchandani",
@@ -58,6 +53,11 @@
         "name": "Jayakrishnan Nair",
         "websiteLink": "https://www.ee.iitb.ac.in/~jayakrishnan.nair/",
         "photo": "JK.jpeg"
+      },
+      {
+        "name": "Rajesh Sundaresan",
+        "websiteLink": "https://ece.iisc.ac.in/~rajeshs/",
+        "photo": "rajesh.jpg"
       },
       {
         "name": "Sarath Yasodharan",
@@ -174,11 +174,6 @@
           "badgeName": "arxiv",
           "link": "https://arxiv.org/abs/2210.07780",
           "badgeDisplayName": "arxiv"
-        },
-        {
-          "badgeName": "paper",
-          "link": "../media/2024/06/Federated_Best_Arm_Identification_With_Heterogeneous_Clients.pdf",
-          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -194,11 +189,6 @@
           "badgeName": "arxiv",
           "link": "https://www.sciencedirect.com/science/article/abs/pii/S0967070X2300121X",
           "badgeDisplayName": "elsevier"
-        },
-        {
-          "badgeName": "paper",
-          "link": "../media/2023/05/BPL-paper.pdf",
-          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -219,11 +209,6 @@
           "badgeName": "arxiv",
           "link": "https://arxiv.org/abs/2203.15236",
           "badgeDisplayName": "arxiv"
-        },
-        {
-          "badgeName": "paper",
-          "link": "../media/2023/05/Restless-BAI-known-TPMs.pdf",
-          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -244,11 +229,6 @@
           "badgeName": "arxiv",
           "link": "https://arxiv.org/abs/2005.06255",
           "badgeDisplayName": "arxiv"
-        },
-        {
-          "badgeName": "paper",
-          "link": "../media/2021/08/Detecting_an_Odd_Restless_Markov_Arm_With_a_Trembling_Hand.pdf",
-          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -269,11 +249,6 @@
           "badgeName": "arxiv",
           "link": "https://arxiv.org/abs/1904.11361",
           "badgeDisplayName": "arxiv"
-        },
-        {
-          "badgeName": "paper",
-          "link": "../media/2020/07/Learning_to_Detect_an_Odd_Markov_Arm.pdf",
-          "badgeDisplayName": "pdf"
         }
       ]
     }
@@ -285,14 +260,7 @@
       "authors":"<a href=\"https://sites.google.com/view/srinivas-reddy-kota/home\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, and <a href=\"https://vyftan.github.io/\" target=\"_blank\"  rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
       "status":"IEEE International Symposium on Information Theory (<a href=\"https://2024.ieee-isit.org/home\" target=\"_blank\"  rel=\"noopener noreferrer\">ISIT 2024</a>), Jul 2024",
       "hasAbstract": true,
-      "abstract": "<p>In this paper, we address the problem of best arm identification (BAI) with arm erasures in a multi-armed bandit setting with finitely many arms. A <em>learner</em> who seeks to identify the best arm---the arm with the largest mean reward---samples arms sequentially, one at each time instant, and communicates the sampled arm to an <em>agent</em> through an erasure channel with a known erasure probability $\\varepsilon \\in (0,1)$. The learner <em>does not</em> receive any erasure feedback, and hence does not know whether the transmitted arm was erased by the channel. In instances where erasure does not occur, and the transmitted arm is successfully received by the agent, the agent promptly pulls the received arm. On the contrary, when erasure occurs, we analyse the following two distinct scenarios: (a) the agent randomly selects an arm, and (b) the agent selects the most recent successfully received arm. We assume that the instantaneous reward from the pulled arm is available to the learner, whose objective is to find the best arm as quickly as possible, subject to an upper bound on the error probability. Given $\\delta \\in (0,1)$, we derive a problem-dependent lower bound on the expected stopping time of any algorithm whose error probability is within $\\delta$. We also propose two successive elimination algorithms for each of the aforementioned scenarios (a), (b), and provide upper bounds on their stopping times that hold with probability $1-\\delta$. To our best knowledge, this is the first work on BAI with arm erasures.</p>",
-      "badgesData": [
-        {
-          "badgeName": "paper",
-          "link": "../media/2024/07/isit-2024.pdf",
-          "badgeDisplayName": "pdf"
-        }
-      ]
+      "abstract": "<p>In this paper, we address the problem of best arm identification (BAI) with arm erasures in a multi-armed bandit setting with finitely many arms. A <em>learner</em> who seeks to identify the best arm---the arm with the largest mean reward---samples arms sequentially, one at each time instant, and communicates the sampled arm to an <em>agent</em> through an erasure channel with a known erasure probability $\\varepsilon \\in (0,1)$. The learner <em>does not</em> receive any erasure feedback, and hence does not know whether the transmitted arm was erased by the channel. In instances where erasure does not occur, and the transmitted arm is successfully received by the agent, the agent promptly pulls the received arm. On the contrary, when erasure occurs, we analyse the following two distinct scenarios: (a) the agent randomly selects an arm, and (b) the agent selects the most recent successfully received arm. We assume that the instantaneous reward from the pulled arm is available to the learner, whose objective is to find the best arm as quickly as possible, subject to an upper bound on the error probability. Given $\\delta \\in (0,1)$, we derive a problem-dependent lower bound on the expected stopping time of any algorithm whose error probability is within $\\delta$. We also propose two successive elimination algorithms for each of the aforementioned scenarios (a), (b), and provide upper bounds on their stopping times that hold with probability $1-\\delta$. To our best knowledge, this is the first work on BAI with arm erasures.</p>"
     },
     {
       "id": "iclr2024",
@@ -304,13 +272,13 @@
       "badgesData": [
         {
           "badgeName": "arxiv",
-          "link": "https://arxiv.org/abs/2401.09073",
-          "badgeDisplayName": "arxiv"
+          "link": "https://openreview.net/forum?id=vrE2fqAInO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)",
+          "badgeDisplayName": "openreview"
         },
         {
           "badgeName": "arxiv",
-          "link": "https://openreview.net/forum?id=vrE2fqAInO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)",
-          "badgeDisplayName": "openreview"
+          "link": "https://arxiv.org/abs/2401.09073",
+          "badgeDisplayName": "arxiv"
         }
       ]
     },
@@ -331,11 +299,6 @@
           "badgeName": "arxiv",
           "link": "https://arxiv.org/abs/2305.06082",
           "badgeDisplayName": "arxiv"
-        },
-        {
-          "badgeName": "paper",
-          "link": "../media/2023/06/isit2023-best.pdf",
-          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -356,11 +319,6 @@
           "badgeName": "arxiv",
           "link": "https://arxiv.org/abs/2208.09215",
           "badgeDisplayName": "arxiv"
-        },
-        {
-          "badgeName": "paper",
-          "link": "../media/2023/02/AAAI2023-almost.pdf",
-          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -376,11 +334,6 @@
           "badgeName": "xplore",
           "link": "https://ieeexplore.ieee.org/document/9965908",
           "badgeDisplayName": "xplore"
-        },
-        {
-          "badgeName": "paper",
-          "link": "../media/2022/10/1570803352.pdf",
-          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -396,11 +349,6 @@
           "badgeName": "xplore",
           "link": "https://ieeexplore.ieee.org/document/9518083",
           "badgeDisplayName": "xplore"
-        },
-        {
-          "badgeName": "paper",
-          "link": "../media/2021/07/1583.pdf",
-          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -416,11 +364,6 @@
           "badgeName": "xplore",
           "link": "https://ieeexplore.ieee.org/document/9174397",
           "badgeDisplayName": "xplore"
-        },
-        {
-          "badgeName": "paper",
-          "link": "../media/2020/06/0002813.pdf",
-          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -436,11 +379,6 @@
           "badgeName": "xplore",
           "link": "https://ieeexplore.ieee.org/document/8849807",
           "badgeDisplayName": "xplore"
-        },
-        {
-          "badgeName": "paper",
-          "link": "../media/2019/07/Learning_to_Detect_an_Odd_Markov_Arm.pdf",
-          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -461,11 +399,6 @@
           "badgeName": "arxiv",
           "link": "https://arxiv.org/abs/1701.06347",
           "badgeDisplayName": "arxiv"
-        },
-        {
-          "badgeName": "paper",
-          "link": "../media/2018/02/On_The_Equivalence_of_Projections_in_Relative_-_Entropy_and_Rnyi_Divergence.pdf",
-          "badgeDisplayName": "pdf"
         }
       ]
     },
@@ -481,11 +414,6 @@
           "badgeName": "xplore",
           "link": "https://ieeexplore.ieee.org/document/7561174",
           "badgeDisplayName": "xplore"
-        },
-        {
-          "badgeName": "paper",
-          "link": "../media/2016/03/Model-based_interference_cartography_and_visualization.pdf",
-          "badgeDisplayName": "pdf"
         }
       ]
     }
