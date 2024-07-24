@@ -1,0 +1,30 @@
+{
+  "iisc": [
+    {
+      "term": "Aug-Dec 2019",
+      "courseCode": "E2 201",
+      "courseTitle": "Information Theory",
+      "courseLink": "#/teaching/Information-Theory-2019"
+    },
+    {
+      "term": "Aug-Dec 2017/2018",
+      "courseCode": "E2 202",
+      "courseTitle": "Random Processes",
+      "courseLink": "#/teaching/Random-Processes-2017"
+    }
+  ],
+  "iith": [
+    {
+      "term": "Mar-Apr 2024",
+      "courseCode": "AI 1104",
+      "courseTitle": "Programming for AI",
+      "courseLink": "#/teaching/Programming-for-AI-2024"
+    },
+    {
+      "term": "Jul-Nov 2024",
+      "courseCode": "AI5030 (cross-listed with EE5817)",
+      "courseTitle": "Probability and Stochastic Processes",
+      "courseLink": "#/teaching/Probability-2024"
+    }
+  ]
+}

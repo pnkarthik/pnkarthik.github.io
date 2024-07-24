@@ -1,5 +1,4 @@
 import React from "react";
-import Profile from "../common/Profile";
 import data from "../PublicationsComponent/Publications.json";
 import './collaborators.css';
 
@@ -10,7 +9,10 @@ const CollaboratorsComponent = () => {
     return (
       <div className="row alignBaseline">
         <div className="col">
-          <p className="headingFontSize bg-blue"><span>{title}</span></p>
+          <p className="headingFontSize bg-blue">
+            <span>{title}</span>
+            <span>Collaborators</span>
+          </p>
           <div className="row col-12">
             {collabData?.map((collab, index) => {
               return (
@@ -45,20 +47,17 @@ const CollaboratorsComponent = () => {
   };
 
   return (
-    <div className="row col-12 p-0 m-0">
-      <Profile />
-      <div className="col paddingTop30">
-        <p className="contentFontSize">For me, one of the most rewarding aspects of pursuing academic research has been the opportunity to engage in a diverse range of disciplines, spanning both applied and theoretical domains. I have been fortunate to forge fruitful collaborative relationships with some brilliant minds. As a researcher, I am committed to strengthening these relationships, while also seeking out new opportunities to learn and grow. Below is a list of current and past collaborators.</p>
-        <CurrentAndPastCollaborators 
-          title='Current Collaborators' 
-          collabData={data?.collaborators?.current} 
-        />
-        <CurrentAndPastCollaborators 
-          title='Past Collaborators' 
-          collabData={data?.collaborators?.past}
-        />
-      </div>
-    </div>
+    <>
+      <p className="contentFontSize">For me, one of the most rewarding aspects of pursuing academic research has been the opportunity to engage in a diverse range of disciplines, spanning both applied and theoretical domains. I have been fortunate to forge fruitful collaborative relationships with some brilliant minds. As a researcher, I am committed to strengthening these relationships, while also seeking out new opportunities to learn and grow. Below is a list of current and past collaborators.</p>
+      <CurrentAndPastCollaborators 
+        title='Current' 
+        collabData={data?.collaborators?.current} 
+      />
+      <CurrentAndPastCollaborators 
+        title='Past' 
+        collabData={data?.collaborators?.past}
+      />
+    </>
   );
 };
 

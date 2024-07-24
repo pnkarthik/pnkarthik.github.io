@@ -17,6 +17,8 @@ import PhdLifeBlog from "./BlogsComponent/PhdLifeBlog";
 import ArchivedNews from "./NewsComponent/ArchivedNews";
 import Footer from "./common/Footer";
 import CollaboratorsComponent from "./CollaboratorsComponent";
+import Profile from "./common/Profile";
+import CourseInformation from "./TeachingComponent/CourseInformation";
 
 const App = () => {
   const config = {
@@ -63,18 +65,24 @@ const App = () => {
         <Header />
           <div className="contentContainer">
             <div className="container col-md-12 col-lg-10">
-              <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/publications" element={<Publications />} />
-                <Route path="/talksAndSeminars" element={<TalksAndSeminars />} />
-                <Route path="/teaching" element={<TeachingComponent />} />
-                <Route path="/bio" element={<Bio />} />
-                <Route path="/blogs" element={<BlogsComponent />} />
-                <Route path="/blogs/raman-and-his-inner-clock" element={<RamanAndHisInnerClock />} />
-                <Route path="/blogs/what-1756-days-of-phd-life-has-taught-me" element={<PhdLifeBlog />} />
-                <Route path="/archivedNews" element={<ArchivedNews />} />
-                <Route path="/collaborators" element={<CollaboratorsComponent />} /> 
-              </Routes>
+              <div className="row col-12 p-0 m-0">
+                <Profile />
+                <div className="col paddingTop30">
+                  <Routes>
+                    <Route path="/" element={<Home />} />
+                    <Route path="/publications" element={<Publications />} />
+                    <Route path="/talksAndSeminars" element={<TalksAndSeminars />} />
+                    <Route path="/teaching" element={<TeachingComponent />} />
+                    <Route path="/bio" element={<Bio />} />
+                    <Route path="/blogs" element={<BlogsComponent />} />
+                    <Route path="/blogs/raman-and-his-inner-clock" element={<RamanAndHisInnerClock />} />
+                    <Route path="/blogs/what-1756-days-of-phd-life-has-taught-me" element={<PhdLifeBlog />} />
+                    <Route path="/archivedNews" element={<ArchivedNews />} />
+                    <Route path="/collaborators" element={<CollaboratorsComponent />} /> 
+                    <Route path="/teaching/:courseName" element={<CourseInformation />} />
+                  </Routes>
+                </div>
+              </div>
             </div>
           </div>
           <button type="button" onClick={() => goToTop()} id="myBtn" className="topButton"><i className="fas fa-angle-up"></i></button>
