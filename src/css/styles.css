@@ -155,7 +155,7 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
 
 .headingFontSize span {
   padding-right: 10px;
-  display: inline-block;
+  /* display: inline-block; */
 }
 .headingFontSize span:first-letter {
   font-size: 0.85em !important;
@@ -556,4 +556,8 @@ tr {
   font-variant: small-caps;
   font-weight: bolder;
   padding: 5px !important;
+}
+
+.rightBorder {
+  border-right: 1px solid black;
 }
