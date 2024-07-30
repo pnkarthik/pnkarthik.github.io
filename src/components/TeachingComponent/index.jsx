@@ -13,6 +13,8 @@ const TeachingComponent = () => {
               <th className="py-2 px-4">Term</th>
               <th className="py-2 px-4">Course Code</th>
               <th className="py-2 px-4">Course Title</th>
+              <th className="py-2 px-4">No of Students</th>
+              <th className="py-2 px-4">Rating</th>
             </tr>
           </thead>
           <tbody>
@@ -23,6 +25,8 @@ const TeachingComponent = () => {
                 <td className="py-2 px-4">
                   <a href={data?.courseLink} target="_blank" rel="noopener noreferrer">{data?.courseTitle}</a>
                 </td>
+                <td className="py-2 px-4">{data?.noOfStudents}</td>
+                <td className="py-2 px-4">{data?.rating}</td>
               </tr>
             ))}
           </tbody>

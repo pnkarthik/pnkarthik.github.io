@@ -17,8 +17,9 @@ const IITHCourse = ({ data }) => {
     <div className="row alignBaseline seminarsContainerPadding">
       <div className="col">
         <div className="headingFontSize">{parse(data.title)}</div>
+        <div>{data?.courseDescription}</div>
         <div>
-          <table border={1} className="tablePadding">
+          {/* <table border={1} className="tablePadding">
             <tbody>
               {tableContents?.map((tData) => (
                 <tr>
@@ -27,9 +28,14 @@ const IITHCourse = ({ data }) => {
                 </tr>
               ))}
             </tbody>
-          </table>
+          </table> */}
+          <ul>
+            {tableContents?.map((tData) => (
+              <li>{tData?.title}: {tData?.content}</li>
+            ))}
+          </ul>
         </div>
-        <div className="paddingTop30">
+        <div className="">
           {data?.courseContents?.map((course) => (
             <div>
               <div className="headingFontSize">{course?.title}</div>

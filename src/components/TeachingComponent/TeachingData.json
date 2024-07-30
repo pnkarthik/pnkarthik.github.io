@@ -211,6 +211,7 @@
       "timeTableSlot": "R",
       "classHours": "Tuesday: 14:30 - 15:55, Friday: 16:00 - 17:25",
       "noOfCredits": 1,
+      "courseDescription": "The course will introduce the students to the basic aspects of programming in Python. The key topics covered include data types, functions, loops, conditional statements, tuples, lists, dictionaries, Pandas, NumPy, SciPy, Matplotlib, Seaborn. Data analysis in Python using real-world datasets. Furthermore, the students will learn how to implement core tasks in AI/ML such as training of artificial neural networks, backpropagation, k-means clustering, and k-nearest neighbor classification from scratch. The course will have a strong lab and project component. The assignments and exercises will help students gain familiarity with Python programming and  basic linux commands, and will be tailored towards implementing advanced algorithms in Deep Learning and Reinforcement Learning in subsequent semesters.",
       "courseContents": [
         {
           "title": "Notes",
