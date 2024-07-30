@@ -73,10 +73,10 @@
       "courseInstructor": "<span>Prof. <a href=\"https://ece.iisc.ac.in/~utpal/\" target=\"_blank\" rel=\"noopener noreferrer\">Utpal Mukherji</a> and Prof. <a href=\"https://ece.iisc.ac.in/~parimal/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Parimal Parag</a></span>",
       "courseWebsite": "<a href=\"https://ece.iisc.ac.in/~parimal/2018/random/\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">https://ece.iisc.ac.in/~parimal/2018/random/</a>",
       "term": "Aug-Dec 2017, 2018",
-      "notesDesc": "<p>Below are some of the topics on which I prepared notes to assist the students in learning the topics taught in the course. I have also provided a link to the pdf of the notes. I wish to mention here that these notes are exclusively written by me, and may not be correct in all respects. Thus, there is no guarantee that the notes are free from errors. If you do find any errors, logical, conceptual or otherwise, please notify me through email</p>",
+      "notesDesc": "<p>Below are some of the topics on which I prepared notes to assist the students in learning the topics taught in the course. I have also provided a link to the pdf of the notes. I wish to mention here that these notes are exclusively written by me, and may not be correct in all respects. Thus, there is no guarantee that the notes are free from errors. If you do find any errors, logical, conceptual or otherwise, please notify me.</p>",
       "notesList": [
         {
-          "title": "<span>Sample space, sigma algebra, example constructions of sigma algebras, “infinitely often” and “all but finitely many” events</span>",
+          "title": "<span>Sample space, $\\sigma$-algebra, example constructions of $\\sigma$-algebras, “infinitely often” and “all but finitely many” events</span>",
           "badgesData": [
             {
               "badgeName": "notes",
@@ -208,17 +208,17 @@
       "courseWebsite": "<a href=\"https://ece.iisc.ac.in/~parimal/2018/random/\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">https://ece.iisc.ac.in/~parimal/2018/random/</a>",
       "term": "March-April 2024",
       "segment": "5-6",
-      "timeTableSlot": "R",
-      "classHours": "Tuesday: 14:30 - 15:55, Friday: 16:00 - 17:25",
+      "timeTableSlot": "Slot R",
+      "classHours": "Tuesday: 14:30 - 15:55, Friday: 16:00 - 17:25 (slot R)",
       "noOfCredits": 1,
-      "courseDescription": "The course will introduce the students to the basic aspects of programming in Python. The key topics covered include data types, functions, loops, conditional statements, tuples, lists, dictionaries, Pandas, NumPy, SciPy, Matplotlib, Seaborn. Data analysis in Python using real-world datasets. Furthermore, the students will learn how to implement core tasks in AI/ML such as training of artificial neural networks, backpropagation, k-means clustering, and k-nearest neighbor classification from scratch. The course will have a strong lab and project component. The assignments and exercises will help students gain familiarity with Python programming and  basic linux commands, and will be tailored towards implementing advanced algorithms in Deep Learning and Reinforcement Learning in subsequent semesters.",
+      "courseDescription": "This course offers a comprehensive introduction to the fundamentals of programming in Python, tailored for students embarking on their journey into AI and ML. Throughout the course, students will gain hands-on experience by implementing essential AI/ML tasks from scratch. The curriculum provides an in-depth exploration of fundamental Python data types, functions, loops, conditional statements, tuples, lists, and dictionaries. Additionally, students will be exposed to the powerful libraries in Python such as Pandas, NumPy, SciPy, Matplotlib, and Seaborn, equipping them with the tools necessary for sophisticated data analysis and visualization. As part of the exercise sets, students will engage in practical data analysis using real-world datasets from neuroscience, and implement core AI/ML tasks, including the training of artificial neural networks (ANNs), backpropagation, $k$-means clustering, and $k$-nearest neighbor classification, all from scratch. The course is designed to facilitate students who intend to pursue projects in deep learning and/or reinforcement learning in their subsequent semesters.",
       "courseContents": [
         {
           "title": "Notes",
           "description": "",
           "list": [
             {
-              "title": "<span>Strings and String Manipulation</span>",
+              "title": "<span>Strings and string manipulations.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
@@ -228,7 +228,7 @@
               ]
             },
             {
-              "title": "<span>Numbers and Math Operations</span>",
+              "title": "<span>Numbers and math operation.s</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
@@ -238,7 +238,7 @@
               ]
             },
             {
-              "title": "<span>Functions and Loops</span>",
+              "title": "<span>Functions and loops.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
@@ -248,7 +248,7 @@
               ]
             },
             {
-              "title": "<span>Conditional Logic and Control Flow</span>",
+              "title": "<span>Conditional logic and control flow.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
@@ -258,7 +258,7 @@
               ]
             },
             {
-              "title": "<span>Tuples, Lists, and Dictionaries</span>",
+              "title": "<span>Tuples, lists, and dictionaries.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
@@ -268,7 +268,7 @@
               ]
             },
             {
-              "title": "<span>Pandas Basics</span>",
+              "title": "<span>Basics of Pandas.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
@@ -278,7 +278,7 @@
               ]
             },
             {
-              "title": "<span>Data Visualisation with Pandas</span>",
+              "title": "<span>Data visualisation with Pandas.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
@@ -288,7 +288,7 @@
               ]
             },
             {
-              "title": "<span>Data Visualisation with Seaborn</span>",
+              "title": "<span>Data visualisation with Seaborn.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
@@ -303,7 +303,7 @@
               ]
             },
             {
-              "title": "<span>Basics of Object Oriented Programming in Python</span>",
+              "title": "<span>Introduction to object oriented programming in Python.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
@@ -337,7 +337,7 @@
               ]
             },
             {
-              "title": "<span>Final Project</span>",
+              "title": "<span>Final Project (for those students who do not choose to work on a topic of their choice)</span>",
               "badgesData": [
                 {
                   "link": "./media/2024/AI1104/AI_1104_final_project.pdf",
@@ -361,11 +361,11 @@
             {
               "title": "<em>Pandas from the Ground Up</em>",
               "authors": "Brandon Rhodes",
-              "descripiton": "Presented at PyCon 2015",
+              "description": "A tutorial on Pandas presented at PyCon 2015",
               "badgesData": [
                 {
                   "link": "https://www.youtube.com/watch?v=5JnMutdy6Fw&list=PLgrYTTDCXhH0rE-grN9TLBc_49QhspuPB",
-                  "badgeDisplayName": "video"
+                  "badgeDisplayName": "youtube"
                 }
               ]
             }
@@ -414,6 +414,7 @@
       "timeTableSlot": "Q",
       "classHours": "Monday: 16:00 - 17:25, Thursday: 14:30 - 15:55",
       "noOfCredits": 3,
+      "courseDescription": "This is a graduate level course on measure theoretic probability.",
       "courseContents": [
         
       ]

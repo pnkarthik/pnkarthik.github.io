@@ -8,7 +8,7 @@ const IITHCourse = ({ data }) => {
     { title: data.noOfInstructors > 1 ? 'Course instructors' : 'Course instructor', content: parse(data.courseInstructor)},
     { title: 'Term', content: data.term },
     { title: 'Segment', content: data.segment },
-    { title: 'Timetable Slot', content: data.timeTableSlot },
+    /*{ title: 'Timetable Slot', content: data.timeTableSlot },*/
     { title: 'Class Hours', content: data.classHours },
     { title: 'No of Credits', content: data.noOfCredits }
   ];
