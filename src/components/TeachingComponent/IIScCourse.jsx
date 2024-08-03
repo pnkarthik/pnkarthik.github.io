@@ -28,7 +28,7 @@ const IIScCourse = ({ data }) => {
               </tr>
             </tbody>
           </table>
-          <div className="headingFontSize"><span>Notes</span></div>
+          <div className="headingFontSize pt-3"><span>Notes</span></div>
           <span>{parse(data.notesDesc)}</span>
           <ul>
             {data.notesList.map((note, index1) => {

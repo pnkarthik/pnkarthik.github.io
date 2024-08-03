@@ -5,9 +5,9 @@ body {
   /* font-family: -apple-system,".SFNSText-Bold", "Fira Sans", "San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; */
 }
 
-/* html {
-  font-size: 1.15em;
-} */
+html {
+  background: #fbfbfb;
+}
 
 
 mjx-utext {
@@ -151,6 +151,7 @@ input[type=button]:focus, .btn-secondary:focus, .btn:focus {
   font-size: calc(1em + 1vw);
   font-variant: small-caps;
   font-weight: bolder;
+  padding-bottom: 10px;
 }
 
 .headingFontSize span {

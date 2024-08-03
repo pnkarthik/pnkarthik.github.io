@@ -44,6 +44,30 @@
       ]
     },
     {
+      "date": "Sep 2023",
+      "title": "<em>Almost Optimal Best Restless Markov Arm Identification with Fixed Confidence</em>",
+      "description": "<span>A talk presented at IIT Hyderabad</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2023/08/CNI-IISc-Aug17-2023.pdf",
+          "badgeDisplayName": "slides"
+        }
+      ]
+    },
+    {
+      "date": "Aug 2023",
+      "title": "<em>Almost Optimal Best Restless Markov Arm Identification with Fixed Confidence</em>",
+      "description": "<span>A talk presented at Google Research India, Bengaluru</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2023/08/CNI-IISc-Aug17-2023.pdf",
+          "badgeDisplayName": "slides"
+        }
+      ]
+    },
+    {
       "date": "Aug 2023",
       "title": "<em>Almost Optimal Best Restless Markov Arm Identification with Fixed Confidence</em>",
       "description": "<span>A talk presented at the CNI Networks Seminar Series, Indian Institute of Science, Bengaluru",

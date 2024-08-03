@@ -1,5 +1,10 @@
 [
   {
+    "date": "29 Jul 2024",
+    "content": "Teaching a 3-credit course on Probability and Stochastic Processes.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/Probability-2024\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
+    "isArchived": false
+  },
+  {
     "date": "11 Jul 2024",
     "content": "Presented our paper on <em>Best Arm Identification with Arm Erasures</em> at <a href=\"https://2024.ieee-isit.org\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">ISIT 2024</a> in Athens, Greece. <br />Joint work with Joint work with <a href=\"https://sites.google.com/view/srinivas-reddy-kota/home\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a> and <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>.",
     "badgesData": [
@@ -26,6 +31,11 @@
   {
     "date": "10 Apr 2024",
     "content": "Paper on <em>Best Arm Identification with Arm Erasures</em> accepted to <a href=\"https://2024.ieee-isit.org\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">ISIT 2024</a>! <br />Joint work with Joint work with <a href=\"https://sites.google.com/view/srinivas-reddy-kota/home\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a> and <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>. <br />Full paper to be out soon!",
+    "isArchived": false
+  },
+  {
+    "date": "10 Apr 2024",
+    "content": "Teaching a 1-credit course on Programming for AI.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2024\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
     "isArchived": false
   },
   {
@@ -72,7 +82,7 @@
         "badgeDisplayName": "arxiv"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "20 Nov 2023",
@@ -89,7 +99,7 @@
         "badgeDisplayName": "video"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "23 Oct 2023",
@@ -101,7 +111,7 @@
         "badgeDisplayName": "arxiv"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "23 Sep 2023",
@@ -113,7 +123,31 @@
         "badgeDisplayName": "offer letter"
       }
     ],
-    "isArchived": false
+    "isArchived": true
+  },
+  {
+    "date": "13 Sep 2023",
+    "content": "Presented an ongoing work on best arm identification in restless multi-armed bandits at <a href=\"https://iith.ac.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">IIT Hyderabad</a>.<br />Grateful to Dr. <a href=\"https://people.iith.ac.in/shashankvatedka/html/home.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Shashank Vatedka</a> for hosting me.",
+    "badgesData": [
+      {
+        "badgeName": "slides",
+        "link": "../media/2023/08/CNI-IISc-Aug17-2023.pdf",
+        "badgeDisplayName": "slides"
+      }
+    ],
+    "isArchived": true
+  },
+  {
+    "date": "18 Aug 2023",
+    "content": "Presented an ongoing work on best arm identification in restless multi-armed bandits at Google Research India, Bengaluru.<br />Grateful to Dr. <a href=\"https://sites.google.com/view/karthikeyan-shanmugam\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Karthikeyan Shanmugam</a> for hosting me.",
+    "badgesData": [
+      {
+        "badgeName": "slides",
+        "link": "../media/2023/08/CNI-IISc-Aug17-2023.pdf",
+        "badgeDisplayName": "slides"
+      }
+    ],
+    "isArchived": true
   },
   {
     "date": "17 Aug 2023",

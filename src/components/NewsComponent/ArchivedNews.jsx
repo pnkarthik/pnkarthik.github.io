@@ -3,12 +3,10 @@ import "../../css/styles.css";
 import NewsData from "./NewsContent.json";
 import { getBadgeColor } from "../../utility";
 import parse from 'html-react-parser';
-import Profile from "../common/Profile";
 
 const ArchivedNews = () => {
   return (
     <div className="row col-12 p-0 m-0">
-      <Profile />
       <div className="col paddingTop30">
         <div className="headingFontSize"><span>Archived</span><span>News</span></div>
         {NewsData.map((d, index) => {

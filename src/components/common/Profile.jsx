@@ -42,7 +42,7 @@ const Profile = () => {
             <div class="dropdown-menu" aria-labelledby="socialLinks">
               <div className="dropdownItem row flex-row col-12">
                 <i className="fa-solid fa-map-marker addressTag col-1 fa-lg socialLink" aria-hidden="true" />
-                <a href="https://maps.app.goo.gl/GGiZoxrDB7jFa3939" className="col" target="_blank" rel="noopener noreferrer">Sangareddy, Telangana, India</a>
+                <a href="https://maps.app.goo.gl/GGiZoxrDB7jFa3939" className="col" target="_blank" rel="noopener noreferrer">Telangana, India</a>
               </div>
               <div className="dropdownItem row flex-row col-12">
                 <i className="fa-solid fa-envelope gmailColor col-1 fa-lg socialLink" aria-hidden="true" />
@@ -71,7 +71,7 @@ const Profile = () => {
             <div className="d-flex flex-column socialLinks">
               <div>
                 <i className="fa-solid fa-map-marker addressTag col-1 fa-lg socialLink" aria-hidden="true" />
-                <a href="https://maps.app.goo.gl/GGiZoxrDB7jFa3939" className="col" target="_blank" rel="noopener noreferrer">Sangareddy, Telangana, India</a>
+                <a href="https://maps.app.goo.gl/GGiZoxrDB7jFa3939" className="col" target="_blank" rel="noopener noreferrer">Telangana, India</a>
               </div>
               <div>
                 <i className="fa-solid fa-envelope gmailColor col-1 fa-lg socialLink" aria-hidden="true" />
