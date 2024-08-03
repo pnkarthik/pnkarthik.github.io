@@ -8,7 +8,7 @@ const IITHCourse = ({ data }) => {
     { title: data.noOfInstructors > 1 ? 'Course instructors' : 'Course instructor', content: parse(data.courseInstructor)},
     { title: 'Term', content: data.term },
     { title: 'Segment', content: data.segment },
-    { title: 'Timetable Slot', content: data.timeTableSlot },
+    /*{ title: 'Timetable Slot', content: data.timeTableSlot },*/
     { title: 'Class Hours', content: data.classHours },
     { title: 'No of Credits', content: data.noOfCredits }
   ];
@@ -17,7 +17,8 @@ const IITHCourse = ({ data }) => {
     <div className="row alignBaseline seminarsContainerPadding">
       <div className="col">
         <div className="headingFontSize">{parse(data.title)}</div>
-        <div>
+        <div>{data?.courseDescription}</div>
+        <div className="pt-2">
           <table border={1} className="tablePadding">
             <tbody>
               {tableContents?.map((tData) => (
@@ -28,8 +29,13 @@ const IITHCourse = ({ data }) => {
               ))}
             </tbody>
           </table>
+          {/* <ul>
+            {tableContents?.map((tData) => (
+              <li>{tData?.title}: {tData?.content}</li>
+            ))}
+          </ul> */}
         </div>
-        <div className="paddingTop30">
+        <div className="pt-3">
           {data?.courseContents?.map((course) => (
             <div>
               <div className="headingFontSize">{course?.title}</div>

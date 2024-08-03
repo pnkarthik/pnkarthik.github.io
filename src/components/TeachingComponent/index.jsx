@@ -5,51 +5,59 @@ const TeachingComponent = () => {
 
   return (
     <>
-      <div className="pb-5">
+      <div className="pb-5 w-100 max-w-100">
         <h2 className="pb-3">Courses taught at IIT Hyderabad</h2>
-        <table border={1}>
-          <thead>
-            <tr>
-              <th className="py-2 px-4">Term</th>
-              <th className="py-2 px-4">Course Code</th>
-              <th className="py-2 px-4">Course Title</th>
-            </tr>
-          </thead>
-          <tbody>
-            {tableData?.iith?.map((data) => (
+        <div className="w-100 max-w-100 overflow-scroll">
+          <table border={1}>
+            <thead>
               <tr>
-                <td className="py-2 px-4">{data?.term}</td>
-                <td className="py-2 px-4">{data?.courseCode}</td>
-                <td className="py-2 px-4">
-                  <a href={data?.courseLink} target="_blank" rel="noopener noreferrer">{data?.courseTitle}</a>
-                </td>
+                <th className="py-2 px-4">Term</th>
+                <th className="py-2 px-4">Course Code</th>
+                <th className="py-2 px-4">Course Title</th>
+                <th className="py-2 px-4">No of Students</th>
+                <th className="py-2 px-4">Rating</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {tableData?.iith?.map((data) => (
+                <tr>
+                  <td className="py-2 px-4">{data?.term}</td>
+                  <td className="py-2 px-4">{data?.courseCode}</td>
+                  <td className="py-2 px-4">
+                    <a href={data?.courseLink} target="_blank" rel="noopener noreferrer">{data?.courseTitle}</a>
+                  </td>
+                  <td className="py-2 px-4">{data?.noOfStudents}</td>
+                  <td className="py-2 px-4">{data?.rating}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
-      <div>
+      <div className="w-100 max-w-100">
         <h2 className="pb-3">Courses taught at IISc</h2>
-        <table border={1}>
-          <thead>
-            <tr>
-              <th className="py-2 px-4">Term</th>
-              <th className="py-2 px-4">Course Code</th>
-              <th className="py-2 px-4">Course Title</th>
-            </tr>
-          </thead>
-          <tbody>
-            {tableData?.iisc?.map((data) => (
+        <div className="w-100 max-w-100 overflow-scroll">
+          <table border={1}>
+            <thead>
               <tr>
-                <td className="py-2 px-4">{data?.term}</td>
-                <td className="py-2 px-4">{data?.courseCode}</td>
-                <td className="py-2 px-4">
-                  <a href={data?.courseLink} target="_blank" rel="noopener noreferrer">{data?.courseTitle}</a>
-                </td>
+                <th className="py-2 px-4">Term</th>
+                <th className="py-2 px-4">Course Code</th>
+                <th className="py-2 px-4">Course Title</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {tableData?.iisc?.map((data) => (
+                <tr>
+                  <td className="py-2 px-4">{data?.term}</td>
+                  <td className="py-2 px-4">{data?.courseCode}</td>
+                  <td className="py-2 px-4">
+                    <a href={data?.courseLink} target="_blank" rel="noopener noreferrer">{data?.courseTitle}</a>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
     </>
   );
