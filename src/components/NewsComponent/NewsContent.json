@@ -5,6 +5,18 @@
     "isArchived": false
   },
   {
+    "date": "25 Jul 2024",
+    "content": "Presented my recent work on <em>Best Arm Identification with Arm Erasures</em> at the <a href=\"../media/2024/07/applied-math-day-IITH-2024-flyer.pdf\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Applied Mathematics Day</a> workshop conducted by the Department of Mathematics, IIT Hyderabad.<br />Grateful to the organisers for the opportunity.",
+    "badgesData": [
+      {
+        "badgeName": "slides",
+        "link": "../media/2024/07/applied-math-day-IITH-2024.pdf",
+        "badgeDisplayName": "slides"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "11 Jul 2024",
     "content": "Presented our paper on <em>Best Arm Identification with Arm Erasures</em> at <a href=\"https://2024.ieee-isit.org\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">ISIT 2024</a> in Athens, Greece. <br />Joint work with Joint work with <a href=\"https://sites.google.com/view/srinivas-reddy-kota/home\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a> and <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>.",
     "badgesData": [
