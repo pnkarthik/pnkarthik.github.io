@@ -3,6 +3,18 @@
     {
       "date": "Jul 2024",
       "title": "<em>Best Arm Identification with Arm Erasures</em>",
+      "description": "<span>Applied Mathematics Day workshop, IIT Hyderabad</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2024/07/applied-math-day-IITH-2024.pdf",
+          "badgeDisplayName": "slides"
+        }
+      ]
+    },
+    {
+      "date": "Jul 2024",
+      "title": "<em>Best Arm Identification with Arm Erasures</em>",
       "description": "<span>ISIT 2024, Athens, Greece</span>",
       "badgesData": [
         {
@@ -46,26 +58,17 @@
     {
       "date": "Sep 2023",
       "title": "<em>Almost Optimal Best Restless Markov Arm Identification with Fixed Confidence</em>",
-      "description": "<span>A talk presented at IIT Hyderabad</span>",
-      "badgesData": [
-        {
-          "badgeName": "slides",
-          "link": "../media/2023/08/CNI-IISc-Aug17-2023.pdf",
-          "badgeDisplayName": "slides"
-        }
-      ]
+      "description": "<span>A talk presented at IIT Hyderabad</span>"
     },
     {
       "date": "Aug 2023",
       "title": "<em>Almost Optimal Best Restless Markov Arm Identification with Fixed Confidence</em>",
-      "description": "<span>A talk presented at Google Research India, Bengaluru</span>",
-      "badgesData": [
-        {
-          "badgeName": "slides",
-          "link": "../media/2023/08/CNI-IISc-Aug17-2023.pdf",
-          "badgeDisplayName": "slides"
-        }
-      ]
+      "description": "<span>A talk presented at IIT Madras</span>"
+    },
+    {
+      "date": "Aug 2023",
+      "title": "<em>Almost Optimal Best Restless Markov Arm Identification with Fixed Confidence</em>",
+      "description": "<span>A talk presented at Google Research India, Bengaluru</span>"
     },
     {
       "date": "Aug 2023",
@@ -83,6 +86,11 @@
           "badgeDisplayName": "video"
         }
       ]
+    },
+    {
+      "date": "Aug 2023",
+      "title": "<em>Almost Optimal Best Restless Markov Arm Identification with Fixed Confidence</em>",
+      "description": "<span>A talk presented at ICTS Bengaluru, as part of the Bangalore Probability Seminar (BPS)</span>"
     },
     {
       "date": "Mar 2023",

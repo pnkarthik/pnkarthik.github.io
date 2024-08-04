@@ -140,25 +140,16 @@
   {
     "date": "13 Sep 2023",
     "content": "Presented an ongoing work on best arm identification in restless multi-armed bandits at <a href=\"https://iith.ac.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">IIT Hyderabad</a>.<br />Grateful to Dr. <a href=\"https://people.iith.ac.in/shashankvatedka/html/home.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Shashank Vatedka</a> for hosting me.",
-    "badgesData": [
-      {
-        "badgeName": "slides",
-        "link": "../media/2023/08/CNI-IISc-Aug17-2023.pdf",
-        "badgeDisplayName": "slides"
-      }
-    ],
+    "isArchived": true
+  },
+  {
+    "date": "24 Aug 2023",
+    "content": "Presented an ongoing work on best arm identification in restless multi-armed bandits at <a href=\"https://iitm.ac.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">IIT Madras</a>.<br />Grateful to Prof. <a href=\"https://www.ee.iitm.ac.in/~krishnaj/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Krishna Jagannathan</a> for hosting me, and to Prof. <a href=\"https://www.ee.iitm.ac.in/~skrishna/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Srikrishna Bhashyam</a> and Prof. <a href=\"http://www.cse.iitm.ac.in/~prashla/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Prashanth L. A.</a> for the insightful questions!",
     "isArchived": true
   },
   {
     "date": "18 Aug 2023",
     "content": "Presented an ongoing work on best arm identification in restless multi-armed bandits at Google Research India, Bengaluru.<br />Grateful to Dr. <a href=\"https://sites.google.com/view/karthikeyan-shanmugam\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Karthikeyan Shanmugam</a> for hosting me.",
-    "badgesData": [
-      {
-        "badgeName": "slides",
-        "link": "../media/2023/08/CNI-IISc-Aug17-2023.pdf",
-        "badgeDisplayName": "slides"
-      }
-    ],
     "isArchived": true
   },
   {
@@ -176,6 +167,11 @@
         "badgeDisplayName": "video"
       }
     ],
+    "isArchived": true
+  },
+  {
+    "date": "14 Aug 2023",
+    "content": "Presented an ongoing work on best arm identification in restless multi-armed bandits at <a href=\"https://www.icts.res.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">ICTS Bengaluru</a>, as part of the <a href=\"https://www.isibang.ac.in/~d.yogesh/BPS.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Bangalore Probability Seminar</a>.<br />Grateful to Prof. <a href=\"https://www.isibang.ac.in/~athreya/index.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Siva Athreya</a> for hosting me.",
     "isArchived": true
   },
   {
