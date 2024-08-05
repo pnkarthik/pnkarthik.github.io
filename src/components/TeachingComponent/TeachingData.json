@@ -466,6 +466,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Motivation for an axiomatic theory of probability -- <a href=\"https://en.wikipedia.org/wiki/Bertrand_paradox_(probability)\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Bertrand's paradox</a>,  definition of sample space, definition of algebra, need for $\\sigma$-algebra, definition of $\\sigma$-algebra, events, measurable sets, measurable space, measure, measure space, finite measure, infinite measure, probability measure, probability space.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI5030/notes-02.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
