@@ -467,7 +467,7 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "./media/2024/AI5030/notes-00.pdf",
+                  "link": "./media/2024/AI5030/AI5030-lecture-00.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
@@ -477,7 +477,7 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "./media/2024/AI5030/notes-01.pdf",
+                  "link": "./media/2024/AI5030/AI5030-lecture-01.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
@@ -487,7 +487,17 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "./media/2024/AI5030/notes-02.pdf",
+                  "link": "./media/2024/AI5030/AI5030-lecture-02.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Properties of probability measures, the union bound, the $\\liminf$ (all but finitely many) event, the $\\limsup$ (infinitely many or infinitely often) event, continuity of probability measure, probability measures on discrete (countable) sample spaces, probability measures on uncountable probability measures, Borel $\\sigma$-algebra, $\\mathscr{B}([0,1])$, Caratheodory's extension theorem, Lebesgue measure on $\\mathscr{B}([0,1])$, $\\mathscr{B}(\\mathbb{R})$ and Lebesgue measure on $\\mathscr{B}(\\mathbb{R})$, Cantor set -- construction, properties, and Lebesgue measure.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI5030/AI5030-lecture-03.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
@@ -502,7 +512,7 @@
               "title": "<span>Homework 1 (topics: functions, cardinality, and countability).</span>",
               "badgesData": [
                 {
-                  "link": "./media/2024/AI5030/homework-01.pdf",
+                  "link": "./media/2024/AI5030/AI5030-homework-01.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]
@@ -511,7 +521,7 @@
               "title": "<span>Homework 2 (topics: sample space, algebra, and $\\sigma$-algebra).</span>",
               "badgesData": [
                 {
-                  "link": "./media/2024/AI5030/homework-02.pdf",
+                  "link": "./media/2024/AI5030/AI5030-homework-02.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]
