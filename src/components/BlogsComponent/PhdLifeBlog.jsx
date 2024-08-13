@@ -1,10 +1,8 @@
 import React from "react";
-import Profile from "../common/Profile";
 
 const PhdLifeBlog = () => {
   return (
     <div className="row col-12 p-0 m-0">
-      <Profile />
       <div className="col paddingTop30">
         <div className="text-center">
           <span className="blogTitle"><span>What</span>1756 <span>Days</span>of Ph.D. <span>Life</span><span>Has</span><span>Taught</span><span>Me</span></span><br />

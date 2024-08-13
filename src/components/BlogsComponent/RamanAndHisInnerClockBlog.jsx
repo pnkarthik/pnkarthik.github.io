@@ -1,10 +1,8 @@
 import React from "react";
-import Profile from "../common/Profile";
 
 const RamanAndHisInnerClock = () => {
   return (
     <div className="row col-12 p-0 m-0">
-      <Profile />
       <div className="col paddingTop30">
         <div className="text-center">
           <span className="blogTitle"><span>Taming</span><span>The</span><span>Mind</span>: <span>Raman</span><span>And</span><span>His</span><span>"Inner"</span><span>Clock</span></span><br />
