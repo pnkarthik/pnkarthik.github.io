@@ -516,6 +516,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Conditional probability measure, law of total probability, Bayes' Theorem, independence of a collection of events, independence of a collection of $\\sigma$-algebras, Borel-Cantelli lemma, random variables and measurability, probability law of a random variable, cumulative distribution function (CDF) and its properties.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI5030/AI5030-lecture-04.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
