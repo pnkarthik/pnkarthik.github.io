@@ -1,7 +1,7 @@
 [
   {
     "date": "10 Aug 2024",
-    "content": "Co-teaching a 3-credit course on <em>Mathematical Foundations of Data Science</em> jointly with Prof. <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Saketha Nath</a>, for the industry professionals enrolled in the <a href=\"https://cse.iith.ac.in/admissions/mtechInDataScience.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">M.Tech in Data Science</a> program.",
+    "content": "Co-teaching a 3-credit course on <em>Mathematical Foundations of Data Science</em> with Prof. <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Saketha Nath</a>, for the industry professionals enrolled in the <a href=\"https://cse.iith.ac.in/admissions/mtechInDataScience.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">M.Tech in Data Science</a> program.",
     "isArchived": false
   },
   {
@@ -43,6 +43,11 @@
         "badgeDisplayName": "arxiv"
       }
     ],
+    "isArchived": false
+  },
+  {
+    "date": "24 Apr 2024",
+    "content": "Serving as an organiser for the 2024 JTG/IEEE ITSoc Summer School.<br />For more details, see the <a href=\"https://ee.iith.ac.in/JTG2024/\" target=\"_blank\"  rel=\"noopener noreferrer\">summer school website</a>.",
     "isArchived": false
   },
   {
