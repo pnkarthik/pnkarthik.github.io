@@ -541,6 +541,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Discrete random variables, probability mass function (PMF), CDF from PMF, examples of discrete random variables, continuous random variables, probability density function (PDF), examples of continuous random variables, multiple random variables, definition of a pair of random variables as a measurable function, joint probability law of two random variables, joint CDF of two random variables.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI5030/AI5030-lecture-05.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
