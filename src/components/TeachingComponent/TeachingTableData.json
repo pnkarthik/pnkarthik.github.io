@@ -16,6 +16,14 @@
   "iith": [
     {
       "term": "Jul-Nov 2024",
+      "courseCode": "CS 6660",
+      "courseTitle": "Mathematical Foundations of Data Science (Probability)",
+      "courseLink": "#/teaching/MDS-Probability-2024",
+      "noOfStudents": "28",
+      "rating": "--"
+    },
+    {
+      "term": "Jul-Nov 2024",
       "courseCode": "AI 5030",
       "courseTitle": "Probability and Stochastic Processes",
       "courseLink": "#/teaching/Probability-2024",
