@@ -562,6 +562,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Properties of joint CDF of two random variables, marginal CDFs from joint CDF, probability law and joint CDF of multiple random variables, jointly discrete random variables, joint PMF, marginal PMFs from joint PMF, conditional PMF, jointly continuous random variables, joint PDF, example where two random variables are individually continuous but not jointly continuous.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI5030/AI5030-lecture-06.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
