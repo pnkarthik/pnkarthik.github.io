@@ -420,6 +420,10 @@
       "courseAnnouncements": [
         {
           "date": "12 Sep 2024",
+          "content": "Solutions to Homework 5 and Quiz 3 uploaded."
+        },
+        {
+          "date": "12 Sep 2024",
           "content": "No lecture on 16 Sep 2024 on account of a public holiday declared by IITH.<br />There will be a lecture on 18 Sep 2024 in lieu of the lecture on 16 Sep.<br />Mid-term 1 to be conducted on 25 Sep 2024 (Wednesday)."
         },
         {
@@ -651,6 +655,10 @@
                 {
                   "link": "./media/2024/AI5030/AI5030-homework-05.pdf",
                   "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/AI5030/AI5030-homework-05-solutions.pdf",
+                  "badgeDisplayName": "solutions"
                 }
               ]
             }
@@ -682,6 +690,19 @@
                 },
                 {
                   "link": "./media/2024/AI5030/AI5030-quiz-02-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 3.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/AI5030/AI5030-quiz-03.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/AI5030/AI5030-quiz-03-solutions.pdf",
                   "badgeDisplayName": "solutions"
                 }
               ]
