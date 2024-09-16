@@ -795,6 +795,10 @@
       "courseDescription": "Welcome to CS6660! This is a graduate-level course on probability and linear algebra, tailored to professionals working in the industry and enrolled in the online <a href=\"https://cse.iith.ac.in/admissions/mtechInDataScience.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">M.Tech in Data Science</a> program. The first part of the course (handled by Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a>) will deal an introduction to the modern theory of probability as expounded by Andrey Kolmogorov, while the second half (handled by Prof. <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Saketha Nath</a>) will introduce the students to the fundamentals of linear algebra underpinning core problems in machine learning. See below for a comprehensive list of topics in probability that will be covered in the course.",
       "courseAnnouncements": [
         {
+          "date": "16 Sep 2024",
+          "content": "Solutions to practice problems set 1 and quiz 2 posted.<br />Practice problems set 3 posted."
+        },
+        {
           "date": "05 Sep 2024",
           "content": "Practice problems set 2 posted.<br />Quiz 2 (to be conducted on 14 Sep) will be based on this set."
         },
@@ -878,6 +882,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Transformations of random variables, minimum and maximum of random variables, sum of two random variables, derivation of the PMF/PDF of the sum of two jointly discrete/continuous random variables, Jacobi's transformation formula for single variable case, Jacobi's transformation formula for multivariate case, primer on Riemann integration, expectations of simple, non-negative, and arbitrary random variables.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/CS6660/CS6660-lecture-05.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -891,6 +905,10 @@
                 {
                   "link": "./media/2024/CS6660/CS6660-practice-problems-01.pdf",
                   "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/CS6660/CS6660-practice-problems-01-solutions.pdf",
+                  "badgeDisplayName": "solutions"
                 }
               ]
             },
@@ -899,6 +917,15 @@
               "badgesData": [
                 {
                   "link": "./media/2024/CS6660/CS6660-practice-problems-02.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Practice Problems 3.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/CS6660/CS6660-practice-problems-03.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]
@@ -918,6 +945,19 @@
                 },
                 {
                   "link": "./media/2024/CS6660/CS6660-quiz-01-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 2.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/CS6660/CS6660-quiz-02.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/CS6660/CS6660-quiz-02-solutions.pdf",
                   "badgeDisplayName": "solutions"
                 }
               ]
