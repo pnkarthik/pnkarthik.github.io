@@ -419,6 +419,10 @@
       "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. In the first half, the course will introduce the students to the modern theory of probability, as expounded by Kolmogorov. In the second half, the students will be introduced to the theory of discrete time Markov chains and Poisson processes. See below for a comprehensive list of topics that will be covered in the course.",
       "courseAnnouncements": [
         {
+          "date": "18 Oct 2024",
+          "content": "Solutions to Homework 7 uploaded."
+        },
+        {
           "date": "17 Oct 2024",
           "content": "Quiz 5 will be held on 30 Oct 2024.<br />Mid Term Exam 2 will be held on 06 Nov 2024."
         },
@@ -741,6 +745,10 @@
                 {
                   "link": "./media/2024/AI5030/AI5030-homework-07.pdf",
                   "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/AI5030/AI5030-homework-07-solutions.pdf",
+                  "badgeDisplayName": "solutions"
                 }
               ]
             }
