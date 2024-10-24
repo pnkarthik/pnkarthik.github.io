@@ -419,6 +419,10 @@
       "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. In the first half, the course will introduce the students to the modern theory of probability, as expounded by Kolmogorov. In the second half, the students will be introduced to the theory of discrete time Markov chains and Poisson processes. See below for a comprehensive list of topics that will be covered in the course.",
       "courseAnnouncements": [
         {
+          "date": "24 Oct 2024",
+          "content": "Open quiz to be conducted in lieu of Midterm Exam 2. More details will be announced on Google Classroom."
+        },
+        {
           "date": "18 Oct 2024",
           "content": "Solutions to Homework 7 uploaded.<br />Homework 8 uploaded. Quiz 5 (to be conducted on 30 Oct 2024) will be based on this homework."
         },
@@ -651,6 +655,16 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2024/AI5030/AI5030-lecture-11.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Uncorrelatedness and independence (continued), correlation coefficient, Cauchy--Schwartz inequality, $\\mathcal{L}^{p}$ vector spaces (for $1 \\leq p < +\\infty$), $\\mathcal{L}^2$ vector space and inner products, interpretation of correlation coefficient as cosine of the angle for zero-mean random variables, conditional expectations -- introduction, computation of conditional expectation for jointly discrete and jointly continuous random variables.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI5030/AI5030-lecture-12.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
