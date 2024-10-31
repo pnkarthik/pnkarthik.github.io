@@ -419,16 +419,20 @@
       "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. In the first half, the course will introduce the students to the modern theory of probability, as expounded by Kolmogorov. In the second half, the students will be introduced to the theory of discrete time Markov chains and Poisson processes. See below for a comprehensive list of topics that will be covered in the course.",
       "courseAnnouncements": [
         {
+          "date": "31 Oct 2024",
+          "content": "Homework 9 uploaded.<br />Quiz 6 (to be held on 18 Nov 2024) to be based on this homework."
+        },
+        {
           "date": "24 Oct 2024",
           "content": "Open quiz to be conducted in lieu of Midterm Exam 2. More details will be announced on Google Classroom."
         },
         {
           "date": "18 Oct 2024",
-          "content": "Solutions to Homework 7 uploaded.<br />Homework 8 uploaded. Quiz 5 (to be conducted on 30 Oct 2024) will be based on this homework."
+          "content": "Solutions to Homework 7 uploaded.<br />Homework 8 uploaded.<br />Quiz 5 (to be conducted on <strike>30 Oct 2024</strike> 14 Nov 2024) will be based on this homework."
         },
         {
           "date": "17 Oct 2024",
-          "content": "Quiz 5 will be held on 30 Oct 2024.<br />Mid Term Exam 2 will be held on 06 Nov 2024."
+          "content": "Quiz 5 will be held on 30 Oct 2024.<br /><strike>Mid Term Exam 2 will be held on 06 Nov 2024.</strike> No Mid Term Exam 2. Open quiz to be conducted in lieu of Mid Term Exam 2."
         },
         {
           "date": "08 Oct 2024",
@@ -660,11 +664,21 @@
               ]
             },
             {
-              "title": "<span>Uncorrelatedness and independence (continued), correlation coefficient, Cauchy--Schwartz inequality, $\\mathcal{L}^{p}$ vector spaces (for $1 \\leq p < +\\infty$), $\\mathcal{L}^2$ vector space and inner products, interpretation of correlation coefficient as cosine of the angle for zero-mean random variables, conditional expectations -- introduction, computation of conditional expectation for jointly discrete and jointly continuous random variables.",
+              "title": "<span>Uncorrelatedness and independence (continued), correlation coefficient, Cauchy-Schwartz inequality, $\\mathcal{L}^{p}$ vector spaces (for $1 \\leq p < +\\infty$), $\\mathcal{L}^2$ vector space and inner products, interpretation of correlation coefficient as cosine of the angle for zero-mean random variables, conditional expectations -- introduction, computation of conditional expectation for jointly discrete and jointly continuous random variables.",
               "badgesData": [
                 {
                   "badgeName": "notes",
                   "link": "./media/2024/AI5030/AI5030-lecture-12.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Conditional expectations (continued), law of iterated expectations, problems on conditional expectations, conditioning on an event, some miscellaneous problems on conditional expectations, geometric interpretation of conditional expectation as minimum mean-squared error (MMSE) estimator.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI5030/AI5030-lecture-13.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
@@ -771,6 +785,15 @@
               "badgesData": [
                 {
                   "link": "./media/2024/AI5030/AI5030-homework-08.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Homework 9 (topics: conditional expectations, law of iterated expectations).</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/AI5030/AI5030-homework-09.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]
