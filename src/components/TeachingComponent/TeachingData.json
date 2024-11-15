@@ -419,12 +419,20 @@
       "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. In the first half, the course will introduce the students to the modern theory of probability, as expounded by Kolmogorov. In the second half, the students will be introduced to the theory of discrete time Markov chains and Poisson processes. See below for a comprehensive list of topics that will be covered in the course.",
       "courseAnnouncements": [
         {
+          "date": "15 Nov 2024",
+          "content": "Final exam to be conducted on 30 Nov 2024 in room LHC-05, from 14:30 hrs to 17:30 hrs."
+        },
+        {
+          "date": "15 Nov 2024",
+          "content": "Open Quiz 1 uploaded.<br />Open Quiz 2 uploaded.<br />Homework 10 uploaded.<br />Solutions to Quiz 4, Quiz 5, and Homework 8 uploaded."
+        },
+        {
           "date": "31 Oct 2024",
           "content": "Homework 9 uploaded.<br />Quiz 6 (to be held on 18 Nov 2024) to be based on this homework."
         },
         {
           "date": "24 Oct 2024",
-          "content": "Open quiz to be conducted in lieu of Midterm Exam 2. More details will be announced on Google Classroom."
+          "content": "Open Quiz to be conducted in lieu of Midterm Exam 2. More details will be announced on Google Classroom."
         },
         {
           "date": "18 Oct 2024",
@@ -440,7 +448,7 @@
         },
         {
           "date": "03 Oct 2024",
-          "content": "Mid Term Exam 2 to be held on 06 Nov 2024.<br />Final Exam to be held on 27 Nov 2024."
+          "content": "Mid Term Exam 2 to be held on 06 Nov 2024.<br />Final Exam to be held on <strike>27 Nov 2024</strike> 30 Nov 2024."
         },
         {
           "date": "01 Oct 2024",
@@ -531,7 +539,7 @@
         },
         {
           "date": "29 Jul 2024",
-          "content": "Classes begin.<br />Quizzes based on homework assignments to be conducted every alternative week.<br />Mid-term exam 1 to be conducted on <strike>21 Sep 2024</strike> 25 Sep 2024.<br/ >Mid-term exam 2 to be conducted on <strike>16 Nov 2024</strike> 06 Nov 2024.<br />Final exam to be conducted on <strike>28 Nov 2024</strike> 27 Nov 2024.<br />All course related announcements will take place over Google Classroom (code: dqjo45i)."
+          "content": "Classes begin.<br />Quizzes based on homework assignments to be conducted every alternative week.<br />Mid-term exam 1 to be conducted on <strike>21 Sep 2024</strike> 25 Sep 2024.<br/ >Mid-term exam 2 to be conducted on <strike>16 Nov 2024</strike> 06 Nov 2024.<br />Final exam to be conducted on <strike>28 Nov 2024</strike> <strike>27 Nov 2024</strike> 30 Nov 2024.<br />All course related announcements will take place over Google Classroom (code: dqjo45i)."
         }
       ],
       "courseContents": [
@@ -682,6 +690,26 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Probability generating functions, moment generating functions, characteristic functions.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI5030/AI5030-lecture-14.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Joint moment generating functions, joint characteristic functions, inequalities: Markov's inequality, Chebyshev's inequality, Chernoff bound, Jensen's inequality.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI5030/AI5030-lecture-15.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -786,11 +814,24 @@
                 {
                   "link": "./media/2024/AI5030/AI5030-homework-08.pdf",
                   "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/AI5030/AI5030-homework-08-solutions.pdf",
+                  "badgeDisplayName": "solutions"
                 }
               ]
             },
             {
               "title": "<span>Homework 9 (topics: conditional expectations, law of iterated expectations).</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/AI5030/AI5030-homework-09.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Homework 10 (topics: probability generating functions, moment generating functions, characteristic functions).</span>",
               "badgesData": [
                 {
                   "link": "./media/2024/AI5030/AI5030-homework-09.pdf",
@@ -852,6 +893,50 @@
                 },
                 {
                   "link": "./media/2024/AI5030/AI5030-midterm-01-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 4.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/AI5030/AI5030-quiz-04.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/AI5030/AI5030-quiz-04-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>Open Quiz 1.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/AI5030/AI5030-open-quiz-01.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Open Quiz 2.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/AI5030/AI5030-open-quiz-02.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 5.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/AI5030/AI5030-quiz-05.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/AI5030/AI5030-quiz-05-solutions.pdf",
                   "badgeDisplayName": "solutions"
                 }
               ]
