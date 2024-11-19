@@ -940,6 +940,19 @@
                   "badgeDisplayName": "solutions"
                 }
               ]
+            },
+            {
+              "title": "<span>Quiz 6.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/AI5030/AI5030-quiz-06.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/AI5030/AI5030-quiz-06-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
             }
           ]
         },
