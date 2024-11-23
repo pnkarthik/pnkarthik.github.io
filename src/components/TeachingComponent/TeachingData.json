@@ -714,6 +714,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Jointly Gaussian random variables (or multivariate Gaussian random variables or Gaussian random vectors), equivalent defintions for jointly Gaussian random variables and their proofs, convergence of sequences of random variables--pointwise convergence, convergence in distribution.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI5030/AI5030-lecture-16.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
