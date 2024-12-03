@@ -423,6 +423,10 @@
           "content": "Solutions to Homework 9 uploaded.<br />Students who have attempted 3 or less quizzes in the past will be allowed to attempt Quiz 7 (which will be based on Homework 10)."
         },
         {
+          "date": "22 Nov 2024",
+          "content": "Solutions to Homework 9 uploaded.<br />Students who have attempted 3 or less quizzes in the past will be allowed to attempt Quiz 7 (which will be based on Homework 10)."
+        },
+        {
           "date": "15 Nov 2024",
           "content": "Final exam to be conducted on 30 Nov 2024 in room LHC-05, from 14:30 hrs to 17:30 hrs."
         },
@@ -724,6 +728,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Convergence of sequences of random variables (contd.), example problems on convergence, limit theorems--weak law of large numbers, strong law of large numbers, central limit theorem, importance sampling.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI5030/AI5030-lecture-17.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -852,8 +866,25 @@
               "title": "<span>Homework 10 (topics: probability generating functions, moment generating functions, characteristic functions).</span>",
               "badgesData": [
                 {
-                  "link": "./media/2024/AI5030/AI5030-homework-09.pdf",
+                  "link": "./media/2024/AI5030/AI5030-homework-10.pdf",
                   "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/AI5030/AI5030-homework-10-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>Homework 11 (topics: multivariate Gaussians).</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/AI5030/AI5030-homework-11.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/AI5030/AI5030-homework-11-solutions.pdf",
+                  "badgeDisplayName": "solutions"
                 }
               ]
             }
@@ -969,6 +1000,15 @@
                 {
                   "link": "./media/2024/AI5030/AI5030-quiz-06-solutions.pdf",
                   "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 7.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/AI5030/AI5030-quiz-07.pdf",
+                  "badgeDisplayName": "pdf"
                 }
               ]
             }
