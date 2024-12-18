@@ -223,8 +223,8 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "https://colab.research.google.com/drive/196gYoXTjnnUg7fYe68XPYzeWl2YT7ghc?usp=sharing",
-                  "badgeDisplayName": "colab"
+                  "link": "./media/2024/AI1104/AI1104-strings-and-string-manipulations.ipynb",
+                  "badgeDisplayName": "ipynb"
                 }
               ]
             },
@@ -233,8 +233,8 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "https://colab.research.google.com/drive/17_efF3wkLL--1IK5W9CgdG49OndSoJ_I?usp=sharing",
-                  "badgeDisplayName": "colab"
+                  "link": "./media/2024/AI1104/AI1104-numbers-and-math-operations.ipynb",
+                  "badgeDisplayName": "ipynb"
                 }
               ]
             },
@@ -243,8 +243,8 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "https://drive.google.com/file/d/1VW57-bQdMGhGLQlMuOA4P820qgm5Ry2g/view?usp=sharing",
-                  "badgeDisplayName": "colab"
+                  "link": "./media/2024/AI1104/AI1104-functions-and-loops.ipynb",
+                  "badgeDisplayName": "ipynb"
                 }
               ]
             },
@@ -253,8 +253,8 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "https://drive.google.com/file/d/1VbUyrwwFcadZHZaeDwdsZ0aFBHOB2wBW/view?usp=sharing",
-                  "badgeDisplayName": "colab"
+                  "link": "./media/2024/AI1104/AI1104-conditional-logic-and-control-flow.ipynb",
+                  "badgeDisplayName": "ipynb"
                 }
               ]
             },
@@ -263,8 +263,8 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "https://drive.google.com/file/d/1VikZJ0XPxAtGbwBu52Y4e4a4oNvkkj5j/view?usp=sharing",
-                  "badgeDisplayName": "colab"
+                  "link": "./media/2024/AI1104/AI1104-tuples-lists-dictionaries.ipynb",
+                  "badgeDisplayName": "ipynb"
                 }
               ]
             },
@@ -273,8 +273,8 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "https://colab.research.google.com/drive/1VQaXwNOXYMj2J-qRqJSg1Aomdwn6Fu80?usp=sharing",
-                  "badgeDisplayName": "colab"
+                  "link": "./media/2024/AI1104/AI1104-pandas-basics.ipynb",
+                  "badgeDisplayName": "ipynb"
                 }
               ]
             },
@@ -283,8 +283,8 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "https://drive.google.com/file/d/1WD_q5T3f30CjQ_KVVBqoNdbbyQIiiLel/view?usp=sharing",
-                  "badgeDisplayName": "colab"
+                  "link": "./media/2024/AI1104/AI1104-data-visualisation-with-pandas.ipynb",
+                  "badgeDisplayName": "ipynb"
                 }
               ]
             },
@@ -293,13 +293,33 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "https://drive.google.com/file/d/1Wz25kJG1dU46nbGDratqARCRdkwSpjlF/view?usp=sharing",
-                  "badgeDisplayName": "colab"
+                  "link": "./media/2024/AI1104/AI1104-data-visualisation-with-seaborn.ipynb",
+                  "badgeDisplayName": "ipynb"
                 },
                 {
                   "badgeName": "notes",
-                  "link": "./media/2024/AI1104/seaborn-datasets.zip",
+                  "link": "./media/2024/AI1104/AI1104-seaborn-datasets.zip",
                   "badgeDisplayName": "datasets"
+                }
+              ]
+            },
+            {
+              "title": "<span>NumPy and MatPlotlib.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI1104/AI1104-numpy-matplotlib.ipynb",
+                  "badgeDisplayName": "ipynb"
+                }
+              ]
+            },
+            {
+              "title": "<span>Data visualisation with MatPlotlib.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI1104/AI1104-matplotlib-visualisation.ipynb",
+                  "badgeDisplayName": "ipynb"
                 }
               ]
             },
@@ -308,8 +328,8 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "https://drive.google.com/file/d/10ldTYbmi6TQRRbnUr99GYlR9NPOReAme/view?usp=sharing",
-                  "badgeDisplayName": "colab"
+                  "link": "./media/2024/AI1104/AI1104-object-oriented-programming.ipynb",
+                  "badgeDisplayName": "ipynb"
                 }
               ]
             }
@@ -323,7 +343,7 @@
               "title": "<span>Assignment 1</span>",
               "badgesData": [
                 {
-                  "link": "./media/2024/AI1104/AI_1104_assignment_1.pdf",
+                  "link": "./media/2024/AI1104/AI1104-assignment-01.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]
@@ -332,8 +352,12 @@
               "title": "<span>Assignment 2</span>",
               "badgesData": [
                 {
-                  "link": "./media/2024/AI1104/AI_1104_assignment_2.pdf",
+                  "link": "./media/2024/AI1104/AI1104-assignment-02.pdf",
                   "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/AI1104/AI1104-assignment-02-datasets.zip",
+                  "badgeDisplayName": "datasets"
                 }
               ]
             },
@@ -341,8 +365,20 @@
               "title": "<span>Final Project (for those students who do not choose to work on a topic of their choice)</span>",
               "badgesData": [
                 {
-                  "link": "./media/2024/AI1104/AI_1104_final_project.pdf",
+                  "link": "./media/2024/AI1104/AI1104-final-project.pdf",
                   "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/AI1104/AI1104-backpropagation-primer.pdf",
+                  "badgeDisplayName": "backprop-primer"
+                },
+                {
+                  "link": "./media/2024/AI1104/AI1104-backpropagation-example.pdf",
+                  "badgeDisplayName": "backprop-example"
+                },
+                {
+                  "link": "./media/2024/AI1104/AI1104-final-project-Q1-dataset.csv",
+                  "badgeDisplayName": "dataset"
                 }
               ]
             }
