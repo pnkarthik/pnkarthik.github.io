@@ -452,7 +452,7 @@
       "classHours": "Monday: 16:00 - 17:25, Thursday: 14:30 - 15:55",
       "venue": "LHC-03",
       "noOfCredits": 3,
-      "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. In the first half, the course will introduce the students to the modern theory of probability, as expounded by Kolmogorov. In the second half, the students will be introduced to the theory of discrete time Markov chains and Poisson processes. See below for a comprehensive list of topics that will be covered in the course.",
+      "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. The course will delve into the notions of $\\sigma$-algebras, random variables as measurable functions, expectations as abstract integrals, and some aspects of convergence of sequences of random variables.",
       "courseAnnouncements": [
         {
           "date": "22 Nov 2024",
@@ -589,7 +589,7 @@
       "courseContents": [
         {
           "title": "Course Contents",
-          "description": "Functions, cardinality, countability, sample space, events, algebra, $\\sigma$-algebra, probability measure, properties of probability measures, continuity of probability, conditional probability and Bayes' Theorem, independence of events, random variables and measurability, functions of random variables, expectations as Lebesgue integrals, independence of random variables, computer simulation of random variables, moment generating function, characteristic function, Borel-Cantelli lemma, strong law of large numbers, weak law of large numbers, central limit theorem, sequences of random variables and their convergence, Gaussian random vectors, discrete event random processes, discrete time Markov chains, state space and transition probability matrix, Chapman-Kolmogorov equation, recurrence and transience, stationary distributions, ergodic theorem, Poisson processes, merging and splitting of Poisson processes."
+          "description": "Functions, cardinality, countability, sample space, events, algebra, $\\sigma$-algebra, probability measure, properties of probability measures, continuity of probability, conditional probability and Bayes' Theorem, independence of events, random variables and measurability, functions of random variables, expectations as Lebesgue integrals, independence of random variables, computer simulation of random variables, moment generating function, characteristic function, Borel-Cantelli lemma, strong law of large numbers, weak law of large numbers, central limit theorem, sequences of random variables and their convergence, Gaussian random vectors."
         },
         {
           "title": "Notes",
