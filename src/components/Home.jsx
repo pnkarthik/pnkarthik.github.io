@@ -18,13 +18,13 @@ const Home = () => {
           </p>
         </div>
       </div>
-      <div className="border border-2 border-danger p-2 fs-5 mb-3">
-        I do not consider interns from outside IIT Hyderabad. Please do not feel offended if I do not reply to your internship request.
+      <div className="border border-2 border-danger p-2 fs-7 mb-3">
+        I do not consider interns from outside IIT Hyderabad. Apologies in advance if I do not reply to your internship request.
       </div>
       <div className="row alignBaseline">
         <div className="col-md-12">
           <div className="headingFontSize"><span>Research</span><span>Interests</span></div>
-          <p className="contentFontSize">Multi-armed bandits, statistical learning, federated learning, transfer learning, information theory, sequential analysis, hypothesis testing, Markov decision processes, anomaly detection, stochastic adaptive control</p>
+          <p className="contentFontSize">Multi-armed bandits, federated learning, reinforcement learning, information theory, statistics</p>
         </div>
       </div>
       <NewsComponent />
