@@ -12,17 +12,17 @@
   {
     "date": "02 Sep 2024",
     "content": "Attending the <a href=\"https://indoml.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">IndoML workshop</a> from 21-23 December at BITS Pilani Goa Campus.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "10 Aug 2024",
     "content": "Co-teaching a 3-credit course on <em>Mathematical Foundations of Data Science</em> with Prof. <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Saketha Nath</a>, for the industry professionals enrolled in the <a href=\"https://cse.iith.ac.in/admissions/mtechInDataScience.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">M.Tech in Data Science</a> program.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/MDS-Probability-2024\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "29 Jul 2024",
     "content": "Teaching a 3-credit course on Probability and Stochastic Processes.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/Probability-2024\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "25 Jul 2024",
@@ -34,7 +34,7 @@
         "badgeDisplayName": "slides"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "11 Jul 2024",
@@ -46,7 +46,7 @@
         "badgeDisplayName": "slides"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "13 Jun 2024",
@@ -58,22 +58,22 @@
         "badgeDisplayName": "arxiv"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "24 Apr 2024",
     "content": "Serving as an organiser for the 2024 JTG/IEEE ITSoc Summer School.<br />For more details, see the <a href=\"https://ee.iith.ac.in/JTG2024/\" target=\"_blank\"  rel=\"noopener noreferrer\">summer school website</a>.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "10 Apr 2024",
     "content": "Paper on <em>Best Arm Identification with Arm Erasures</em> accepted to <a href=\"https://2024.ieee-isit.org\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">ISIT 2024</a>! <br />Joint work with Joint work with <a href=\"https://sites.google.com/view/srinivas-reddy-kota/home\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a> and <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>. <br />Full paper to be out soon!",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "10 Apr 2024",
     "content": "Teaching a 1-credit course on Programming for AI.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2024\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "26 Feb 2024",
@@ -85,7 +85,7 @@
         "badgeDisplayName": "offer letter"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "16 Jan 2024",
@@ -102,7 +102,7 @@
         "badgeDisplayName": "openreview"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "24 Nov 2023",
