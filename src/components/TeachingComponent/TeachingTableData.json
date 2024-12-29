@@ -15,6 +15,15 @@
   ],
   "iith": [
     {
+      "term": "Jan-Apr 2024",
+      "courseCode": "AI 5090",
+      "courseTitle": "Stochastic Processes: Theory and Applications",
+      "courseLink": "#/teaching/Stochastic-Processes-2025",
+      "noOfStudents": "47",
+      "courseRating": "",
+      "instructorRating": ""
+    },
+    {
       "term": "Jul-Nov 2024",
       "courseCode": "CS 6660",
       "courseTitle": "Mathematical Foundations of Data Science (Probability)",

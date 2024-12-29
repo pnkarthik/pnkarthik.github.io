@@ -927,7 +927,7 @@
           ]
         },
         {
-          "title": "Quizzes, Mid-Terms and Final Exam",
+          "title": "Quizzes and Mid-Terms",
           "description": "",
           "list": [
             {
@@ -1418,6 +1418,68 @@
               "name": "Piyushi Manupriya",
               "link": "https://piyushi-0.github.io/",
               "profilePhoto": "piyushi-manupriya.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    "Stochastic-Processes-2025":
+    {
+      "isIISc": false,
+      "year": "2025",
+      "courseMonth": "Jan-Apr",
+      "title": "<span>Stochastic</span> <span>Processes:</span> <span>Theory</span> <span>and</span> <span>Applications</span>",
+      "noOfInstructors": 1,
+      "courseInstructor": "<span>Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a> </span>",
+      "term": "Jan-Apr 2025",
+      "segment": "1-6",
+      "timeTableSlot": "S",
+      "classHours": "Tuesday: 16:00 - 17:25, Friday: 14:30 - 15:55",
+      "venue": "LHC-03",
+      "noOfCredits": 3,
+      "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon the topics of stationary and wide-sense stationary processes, Bernoulli and Poisson processes, and stopping times. The heart of the course comprises a thorough and detailed exposition of the theory of discrete-time Markov chains on finite state spaces, introducing the students to the notions of irreducibility, recurrence, period, invariant distributions, and the ergodic theorem. Alongside providing theoretical foundations, the course will also provide a deep dive into simulation techniques such as importance sampling and Markov chain Monte Carlo (MCMC) techniques.",
+      "courseAnnouncements": [
+        {
+          "date": "29 Dec 2024",
+          "content": "First lecture on 03 Jan 2025.<br />All lectures will be held in LHC-03.<br />All course related announcements will be made on Google Classroom.<br />If you are registered for the course and have not been added to the Google Classroom, please send me an email or contact me in person."
+        }
+      ],
+      "courseContents": [
+        {
+          "title": "Course Contents (Tentative)",
+          "description": "Convergence of sequences of random variables, stationary process, wide-sense stationary process, Bernoulli process, counting process, Poisson process, stopping time, Wald's identity, discrete-time Markov chains, state space, transition probability matrix, Chapman--Kolmogorov equation, irreducibility, periodicity, recurrence (null recurrence and positive recurrence), invariant (stationary) distributions, ergodic theorem, Markov chain Monte Carlo (MCMC) simulation technique, Metropolis--Hastings algorithm."
+        },
+        {
+          "title": "Notes",
+          "description": "This section will be updated with the the lecture notes. As the classes progress, the notes from previous lectures will be made available accordingly. If you spot any errors in the notes, kindly inform me through email.",
+          "list": [
+                      ]
+        },
+        {
+          "title": "Homework Assignments",
+          "description": "",
+          "list": [
+            
+               ]
+        },
+        {
+          "title": "References",
+          "description": "",
+          "list": [
+            {
+              "title": "<em><a href=\"https://ece.iisc.ac.in/~anurag/books/anurag/spqt.pdf\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Discrete Event Stochastic Processes</a></em>, Anurag Kumar, Department of ECE, IISc."
+            },
+            {
+              "title": "NPTEL video lectures on <em><a href=\"https://www.youtube.com/playlist?list=PLv64M6nvmocttKA6jp3x2Q7zYxfWSfEop\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Probability and Stochastic Processes</a></em> taught by Prof. Krishna Jagannathan at IIT Madras."
+            },
+            {
+              "title": "Video lectures on <em><a href=\"https://www.youtube.com/playlist?list=PLWWneQUxe1dbi3IROkNpFFqS0XIEZMXg-\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Stochastic Processes</a></em> taught by Prof. Vincent Y. F. Tan at the National University of Singapore."
+            },
+            {
+              "title": "<em>Stochastic Processes: Theory for Applications</em>, Robert G. Gallager, Cambridge University Press, 2013."
+            },
+            {
+              "title": "<em>Probability and Random Processes</em>, Geoffrey Grimmett and David Stirzaker."
             }
           ]
         }
