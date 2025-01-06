@@ -1472,8 +1472,8 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "./media/2025/AI5090/AI5090-lecture-01.pdf",
-                  "badgeDisplayName": "slides"
+                  "link": "./media/2025/AI5090/AI5090-lecture-01-scribe.pdf",
+                  "badgeDisplayName": "notes"
                 }
               ]
             }
