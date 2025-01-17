@@ -1476,6 +1476,36 @@
                   "badgeDisplayName": "notes"
                 }
               ]
+            },
+            {
+              "title": "<span>Primer on probability: sample space, $\\sigma$-algebra, probability measure, Borel $\\sigma$-algebra of subsets of $\\mathbb{R}$, random variable as a measurable function on the sample space.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-02.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>Random variables, some basic facts about the Borel $\\sigma$-algebra $\\mathscr{B}(\\mathbb{R})$, probability law of a random variable, cumulative distribution function (CDF) of a random variable, introduction to random vectors and sequences of random variables.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-03.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Bivariate random vectors, Borel $\\sigma$-algebra of subsets of $\\mathbb{R}^2$, joint probability law and joint CDF of two random variables, multi-dimensional random vectors, joint probability law and joint CDF of multiple random variables, random sequences, sample path, finite-dimensional distributions (FDDs), $\\liminf$ of a random sequence.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-04.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -1504,6 +1534,18 @@
             },
             {
               "title": "<em>Probability and Random Processes</em>, Geoffrey Grimmett and David Stirzaker."
+            }
+          ]
+        },
+        {
+          "title": "Teaching Assistants",
+          "description": "",
+          "isCard": true,
+          "list": [
+            {
+              "name": "Tejasri N",
+              "link": "https://tejasrin.gitlab.io/",
+              "profilePhoto": "tejasri.jpg"
             }
           ]
         }
