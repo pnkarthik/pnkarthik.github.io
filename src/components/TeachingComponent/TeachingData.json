@@ -1455,7 +1455,7 @@
         },
         {
           "title": "Notes",
-          "description": "This section will be updated with the the lecture notes. As the classes progress, the notes from previous lectures will be made available accordingly. If you spot any errors in the notes, kindly inform me through email.",
+          "description": "This section will be updated with the the handwritten notes/slides from the lectures, along with scribed notes in LaTeX typesetting. Please note that the scribed notes are not very carefully reviewed by me. As the classes progress, the notes from previous lectures will be made available accordingly. If you spot any errors in the notes, kindly inform me through email.",
           "list": [
             {
               "title": "<span>Course logistics.",
@@ -1472,8 +1472,13 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "./media/2025/AI5090/AI5090-lecture-01-scribe.pdf",
+                  "link": "./media/2025/AI5090/AI5090-lecture-01.pdf",
                   "badgeDisplayName": "notes"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-01-scribe.pdf",
+                  "badgeDisplayName": "scribe"
                 }
               ]
             },
@@ -1484,6 +1489,11 @@
                   "badgeName": "notes",
                   "link": "./media/2025/AI5090/AI5090-lecture-02.pdf",
                   "badgeDisplayName": "notes"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-02-scribe.pdf",
+                  "badgeDisplayName": "scribe"
                 }
               ]
             },
