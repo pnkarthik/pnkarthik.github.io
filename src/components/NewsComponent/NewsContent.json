@@ -1,5 +1,13 @@
 [
   {
+    "date": "22 Jan 2025",
+    "content": "Paper on <em>Optimal Multi-Objective Best Arm Identification with Fixed Confidence</em> accepted to <a href=\"https://aistats.org/aistats2025//\" target=\"_blank\"  rel=\"noopener noreferrer\">AISTATS 2025</a>! <br />Joint work with <a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Yeow Meng Chee</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>. <br />Congratulations to all the co-authors!",
+    "badgesData": [
+
+    ],
+    "isArchived": false
+  },
+  {
     "date": "30 Dec 2024",
     "content": "Serving as TPC member for <a href=\"https://2025.ieee-isit.org/home\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">ISIT 2025</a>.",
     "isArchived": false

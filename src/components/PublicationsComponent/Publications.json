@@ -118,14 +118,6 @@
   },
   "preprints": [
     {
-      "id": "icml2024",
-      "title": "<em>Optimal Multi-Objective Best Arm Identification with Fixed Confidence</em>",
-      "authors": "<a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\"  rel=\"noopener noreferrer\">Yeow Meng Chee</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
-      "status":"Submitted, Feb 2024",
-      "hasAbstract": true,
-      "abstract": "<p>We consider a multi-armed bandit setting with finitely many arms, in which each arm yields an $M$-dimensional vector reward upon selection. We assume that the reward of each dimension (a.k.a. <em>objective</em>) is generated independently of the others. The best arm of any given objective is the arm with the largest component of mean corresponding to the objective. The end goal is to identify the best arm of <em>every</em> objective in the shortest (expected) time subject to an upper bound on the probability of error (i.e., fixed-confidence regime). We establish a problem-dependent lower bound on the limiting growth rate of the expected stopping time, in the limit of vanishing error probabilities. This lower bound, we show, is characterised by a max-min optimisation problem that is computationally expensive to solve at each time step. We propose an algorithm that uses the novel idea of <em>surrogate proportions</em> to sample the arms at each time step, eliminating the need to solve the max-min optimisation problem at each step. We demonstrate theoretically that our algorithm is asymptotically optimal. In addition, we provide empirical evidence, utilising both synthetic and real-world datasets, to substantiate the efficiency of our algorithm.  While existing works on pure exploration with multi-objective multi-armed bandits predominantly focus on <em>Pareto front identification</em>, our work fills the gap in the literature by conducting a formal investigation of the multi-objective best arm identification problem.</p>"
-    },
-    {
       "id": "pp3",
       "title": "<em>Learning to Detect an Odd Restless Markov Arm with a Trembling Hand</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\"  rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
@@ -275,12 +267,34 @@
   ],
   "conferencePublications": [
     {
+      "id": "aistats2025",
+      "title": "<em>Optimal Multi-Objective Best Arm Identification with Fixed Confidence</em>",
+      "authors": "<a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\"  rel=\"noopener noreferrer\">Yeow Meng Chee</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
+      "status":"Accepted, 28th International Conference on Artificial Intelligence and Statistics (<a href=\"https://aistats.org/aistats2025//\" target=\"_blank\"  rel=\"noopener noreferrer\">AISTATS 2025</a>), ",
+      "hasAbstract": true,
+      "abstract": "<p>We consider a multi-armed bandit setting with finitely many arms, in which each arm yields an $M$-dimensional vector reward upon selection. We assume that the reward of each dimension (a.k.a. <em>objective</em>) is generated independently of the others. The best arm of any given objective is the arm with the largest component of mean corresponding to the objective. The end goal is to identify the best arm of <em>every</em> objective in the shortest (expected) time subject to an upper bound on the probability of error (i.e., fixed-confidence regime). We establish a problem-dependent lower bound on the limiting growth rate of the expected stopping time, in the limit of vanishing error probabilities. This lower bound, we show, is characterised by a max-min optimisation problem that is computationally expensive to solve at each time step. We propose an algorithm that uses the novel idea of <em>surrogate proportions</em> to sample the arms at each time step, eliminating the need to solve the max-min optimisation problem at each step. We demonstrate theoretically that our algorithm is asymptotically optimal. In addition, we provide extensive empirical studies to substantiate the efficiency of our algorithm.  While existing works on pure exploration with multi-objective multi-armed bandits predominantly focus on <em>Pareto frontier identification</em>, our work fills the gap in the literature by conducting a formal investigation of the multi-objective best arm identification problem.</p>",
+      "badgesData": [
+        {
+          "badgeName": "openreview",
+          "link": "https://openreview.net/forum?id=Hn3tLvXfnA&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daistats.org%2FAISTATS%2F2025%2FConference%2FAuthors%23your-submissions)",
+          "badgeDisplayName": "openreview"
+        }
+      ]
+    },
+    {
       "id": "isit2024",
       "title": "<em>Best Arm Identification with Arm Erasures</em>",
       "authors":"<a href=\"https://sites.google.com/view/srinivas-reddy-kota/home\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, and <a href=\"https://vyftan.github.io/\" target=\"_blank\"  rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
       "status":"IEEE International Symposium on Information Theory (<a href=\"https://2024.ieee-isit.org/home\" target=\"_blank\"  rel=\"noopener noreferrer\">ISIT 2024</a>), Jul 2024",
       "hasAbstract": true,
-      "abstract": "<p>In this paper, we address the problem of best arm identification (BAI) with arm erasures in a multi-armed bandit setting with finitely many arms. A <em>learner</em> who seeks to identify the best arm---the arm with the largest mean reward---samples arms sequentially, one at each time instant, and communicates the sampled arm to an <em>agent</em> through an erasure channel with a known erasure probability $\\varepsilon \\in (0,1)$. The learner <em>does not</em> receive any erasure feedback, and hence does not know whether the transmitted arm was erased by the channel. In instances where erasure does not occur, and the transmitted arm is successfully received by the agent, the agent promptly pulls the received arm. On the contrary, when erasure occurs, we analyse the following two distinct scenarios: (a) the agent randomly selects an arm, and (b) the agent selects the most recent successfully received arm. We assume that the instantaneous reward from the pulled arm is available to the learner, whose objective is to find the best arm as quickly as possible, subject to an upper bound on the error probability. Given $\\delta \\in (0,1)$, we derive a problem-dependent lower bound on the expected stopping time of any algorithm whose error probability is within $\\delta$. We also propose two successive elimination algorithms for each of the aforementioned scenarios (a), (b), and provide upper bounds on their stopping times that hold with probability $1-\\delta$. To our best knowledge, this is the first work on BAI with arm erasures.</p>"
+      "abstract": "<p>In this paper, we address the problem of best arm identification (BAI) with arm erasures in a multi-armed bandit setting with finitely many arms. A <em>learner</em> who seeks to identify the best arm---the arm with the largest mean reward---samples arms sequentially, one at each time instant, and communicates the sampled arm to an <em>agent</em> through an erasure channel with a known erasure probability $\\varepsilon \\in (0,1)$. The learner <em>does not</em> receive any erasure feedback, and hence does not know whether the transmitted arm was erased by the channel. In instances where erasure does not occur, and the transmitted arm is successfully received by the agent, the agent promptly pulls the received arm. On the contrary, when erasure occurs, we analyse the following two distinct scenarios: (a) the agent randomly selects an arm, and (b) the agent selects the most recent successfully received arm. We assume that the instantaneous reward from the pulled arm is available to the learner, whose objective is to find the best arm as quickly as possible, subject to an upper bound on the error probability. Given $\\delta \\in (0,1)$, we derive a problem-dependent lower bound on the expected stopping time of any algorithm whose error probability is within $\\delta$. We also propose two successive elimination algorithms for each of the aforementioned scenarios (a), (b), and provide upper bounds on their stopping times that hold with probability $1-\\delta$. To our best knowledge, this is the first work on BAI with arm erasures.</p>",
+      "badgesData": [
+        {
+          "badgeName": "xplore",
+          "link": "https://ieeexplore.ieee.org/document/10619688",
+          "badgeDisplayName": "xplore"
+        }
+      ]
     },
     {
       "id": "iclr2024",
