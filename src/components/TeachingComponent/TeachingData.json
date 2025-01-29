@@ -1440,6 +1440,10 @@
       "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon the topics of stationary and wide-sense stationary processes, Bernoulli and Poisson processes, and stopping times. The heart of the course comprises a thorough and detailed exposition of the theory of discrete-time Markov chains on finite state spaces, introducing the students to the notions of irreducibility, recurrence, period, invariant distributions, and the ergodic theorem. Alongside providing theoretical foundations, the course will also provide a deep dive into simulation techniques such as importance sampling and Markov chain Monte Carlo (MCMC) techniques.",
       "courseAnnouncements": [
         {
+          "date": "29 Jan 2025",
+          "content": "Homework 1 uploaded.<br />Quiz 1 (to be conducted on 08 Feb 2025 in room A-118, tentatively) will be based on this homework."
+        },
+        {
           "date": "03 Jan 2025",
           "content": "Classes begin.<br />Quizzes to be conducted in <strike>LHC-03</strike> A-118 on Wednesdays, from 16:00-16:30 hrs."
         },
@@ -1508,11 +1512,41 @@
               ]
             },
             {
-              "title": "<span>Bivariate random vectors, Borel $\\sigma$-algebra of subsets of $\\mathbb{R}^2$, joint probability law and joint CDF of two random variables, multi-dimensional random vectors, joint probability law and joint CDF of multiple random variables, random sequences, sample path, finite-dimensional distributions (FDDs), $\\liminf$ of a random sequence.",
+              "title": "<span>Bivariate random vectors, $\\mathscr{B}(\\mathbb{R}^2)$ and its generating class, joint probability law and joint CDF of two random variables, multi-dimensional random vectors, $\\mathscr{B}(\\mathbb{R}^n)$ and its generating class for $n>2$, joint probability law and joint CDF of multiple random variables, random sequences, sample path, finite-dimensional distributions (FDDs), $\\liminf$ of a random sequence.",
               "badgesData": [
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5090/AI5090-lecture-04.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Mathematical definitions of $\\limsup$, $\\liminf$, and pointwise limit of sequences of random variables, proof that $\\liminf$ of a sequence of random variables is a random variable, proof that pointwise limit of a sequence of random variables (if existing) is a random variable, definition of pointwise convergence, the event $A_{\\rm lim}$ and proof of its measurability, definition of almost-sure convergence as $\\mathbb{P}(A_{\\rm lim})=1$.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-05.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Almost-sure convergence (contd.), almost-sure uniqueness of the almost-sure limit, $\\liminf$ and $\\limsup$ of sequence of events (the <em>all but finitely many</em> and <em>infinitely often</em> events), Borel--Cantelli lemma, almost-sure convergence via Borel--Cantelli lemma, examples.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-06.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Almost-sure convergence via Borel--Cantelli lemma (contd.), a generic template for proving almost-sure convergence using Borel--Cantelli lemma, definitions of other notions of convergence: convergence in probability, mean-squared convergence, convergence in distribution, implications, examples.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-07.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
@@ -1523,7 +1557,15 @@
           "title": "Homework Assignments",
           "description": "",
           "list": [
-            
+            {
+              "title": "<span>Homework 1 (topics: real analysis basics, pointwise convergence, and almost-sure convergence).</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2025/AI5090/AI5090-homework-01.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            }
                ]
         },
         {

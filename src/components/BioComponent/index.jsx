@@ -113,6 +113,18 @@ const Bio = () => {
       </div>
       <div className="row alignBaseline">
         <div className="col">
+          <p className="headingFontSize"><span>Service</span><span>at</span><span>IIT</span><span>Hyderabad</span></p>
+          <ul>
+            {data.serviceAtIITH.map((d, index) => {
+              return (
+                <li key={index}>{d.title}</li>
+              );
+            })}
+          </ul>
+        </div>
+      </div>
+      <div className="row alignBaseline">
+        <div className="col">
           <p className="headingFontSize"><span>Professional</span><span>Service</span></p>
           <ul>
             {data.professionalService.map((d, index) => {

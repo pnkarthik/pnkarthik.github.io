@@ -121,9 +121,15 @@
     {"title": "Infineon India scholarship for securing rank 2 in the 2011 Visvesvaraya Technological University examinations"},
     {"title": "Secured rank 23 (among the top 0.02%) in the 2010 Karnataka Common Entrance Test (KCET)"}
   ],
+  "serviceAtIITH": [
+    {"title": "Member, Faculty Search Committee (FSC), Department of AI (Jan 2025 -- present)"},
+    {"title": "Faculty Advisor (FA) for MTech 2024 batch of students (Aug 2024 -- present)"},
+    {"title": "Faculty-in-Charge, Graduate Admissions, Department of AI (Oct 2024 -- present)"},
+    {"title": "Faculty Coordinator, Advanced Executive Program in AI and Cybersecurity (to start in Mar 2025)"},
+    {"title": "Co-Organiser, 2024 JTG/IEEE ITSoc Summer School (24-28 Jun 2024)"}
+  ],
   "professionalService": [
     {"title": "TPC Member, 2025 IEEE International Symposium on Information Theory (ISIT 2025)"},
-    {"title": "Co-Organiser, 2024 JTG/IEEE ITSoc Summer School, IIT Hyderabad"},
     {"title": "Reviewer, IEEE Signal Processing Letters"},
     {"title": "Reviewer, IEEE Transactions on Information Theory"},
     {"title": "Reviewer, IEEE Transactions on Signal Processing"},
