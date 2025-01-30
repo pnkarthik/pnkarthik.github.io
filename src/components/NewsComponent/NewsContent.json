@@ -3,7 +3,16 @@
     "date": "22 Jan 2025",
     "content": "Paper on <em>Optimal Multi-Objective Best Arm Identification with Fixed Confidence</em> accepted to <a href=\"https://aistats.org/aistats2025//\" target=\"_blank\"  rel=\"noopener noreferrer\">AISTATS 2025</a>! <br />Joint work with <a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Yeow Meng Chee</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>. <br />Congratulations to all the co-authors!",
     "badgesData": [
-
+      {
+        "badgeName": "openreview",
+        "link": "https://openreview.net/forum?id=Hn3tLvXfnA&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daistats.org%2FAISTATS%2F2025%2FConference%2FAuthors%23your-submissions)",
+        "badgeDisplayName": "openreview"
+      },
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2501.13607",
+        "badgeDisplayName": "arxiv"
+      }
     ],
     "isArchived": false
   },
