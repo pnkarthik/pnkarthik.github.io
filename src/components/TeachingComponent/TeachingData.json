@@ -1440,8 +1440,16 @@
       "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon the topics of stationary and wide-sense stationary processes, Bernoulli and Poisson processes, and stopping times. The heart of the course comprises a thorough and detailed exposition of the theory of discrete-time Markov chains on finite state spaces, introducing the students to the notions of irreducibility, recurrence, period, invariant distributions, and the ergodic theorem. Alongside providing theoretical foundations, the course will also provide a deep dive into simulation techniques such as importance sampling and Markov chain Monte Carlo (MCMC) techniques.",
       "courseAnnouncements": [
         {
+          "date": "05 Feb 2025",
+          "content": "Quiz 1 to be conducted on 08 Feb 2025 (Saturday) in room LHC-08, from 2:00pm to 2:30pm.<br />Following the quiz, a make-up lecture (compensating for the lecture not conducted on 31 Jan 2025) will be held in LHC-08."
+        },
+        {
+          "date": "30 Jan 2025",
+          "content": "No lecture on 31 Jan 2025 on account of AI Day celebrations."
+        },
+        {
           "date": "29 Jan 2025",
-          "content": "Homework 1 uploaded.<br />Quiz 1 (to be conducted on 08 Feb 2025 in room A-118, tentatively) will be based on this homework."
+          "content": "Homework 1 uploaded.<br />Quiz 1 will be based on this homework."
         },
         {
           "date": "03 Jan 2025",
@@ -1547,6 +1555,16 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5090/AI5090-lecture-07.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Convergence notions (contd.), convergence in distribution, implications between the various notions of convergence, proofs of implications.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-08.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
