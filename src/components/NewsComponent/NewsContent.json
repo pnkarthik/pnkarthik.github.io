@@ -1,5 +1,10 @@
 [
   {
+    "date": "09 Feb 2025",
+    "content": "Co-teaching a 2-credit course on <em>Programming for AI</em> with Dr. <a href=\"https://aravindreddy.com/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Aravind Reddy</a>.<br />See the <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
+    "isArchived": false
+  },
+  {
     "date": "22 Jan 2025",
     "content": "Paper on <em>Optimal Multi-Objective Best Arm Identification with Fixed Confidence</em> accepted to <a href=\"https://aistats.org/aistats2025//\" target=\"_blank\"  rel=\"noopener noreferrer\">AISTATS 2025</a>! <br />Joint work with <a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Yeow Meng Chee</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>. <br />Congratulations to all the co-authors!",
     "badgesData": [

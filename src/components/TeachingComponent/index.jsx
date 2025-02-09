@@ -6,7 +6,7 @@ const TeachingComponent = () => {
   return (
     <>
       <div className="pb-5 w-100 max-w-100">
-        <h2 className="pb-3">Courses taught at IIT Hyderabad</h2>
+        <h2 className="pb-3">Teaching at IIT Hyderabad</h2>
         <div className="w-100 max-w-100 overflow-auto">
           <table border={1}>
             <thead>
@@ -37,7 +37,7 @@ const TeachingComponent = () => {
         </div>
       </div>
       <div className="w-100 max-w-100">
-        <h2 className="pb-3">Courses taught at IISc</h2>
+        <h2 className="pb-3">Teaching at IISc</h2>
         <div className="w-100 max-w-100 overflow-auto">
           <table border={1}>
             <thead>

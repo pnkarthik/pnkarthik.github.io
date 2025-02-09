@@ -24,7 +24,7 @@ const Home = () => {
       <div className="row alignBaseline">
         <div className="col-md-12">
           <div className="headingFontSize"><span>Research</span><span>Interests</span></div>
-          <p className="contentFontSize">Multi-armed bandits, federated learning, privacy-preserving learning, reinforcement learning, information theory, statistics</p>
+          <p className="contentFontSize">Multi-armed bandits, federated learning, differential privacy, reinforcement learning, information theory, statistics</p>
         </div>
       </div>
       <NewsComponent />
