@@ -20,12 +20,23 @@ const TeachingComponent = () => {
               </tr>
             </thead>
             <tbody>
-              {tableData?.iith?.map((data) => (
-                <tr>
-                  <td className="py-2 px-4">{data?.term}</td>
+              {tableData?.iith?.map((data, index) => (
+                <tr key={index}>
+                  <td className="py-2 px-4">
+                    {/* Reusing badge/button snippet for displaying term */}
+                    <div className="d-flex flex-row newsContainer">
+                      <div className="talkDate newsDateContainer">
+                        <div className="badge dateColor p-1 newsDate">
+                          {data?.term}
+                        </div>
+                      </div>
+                    </div>
+                  </td>
                   <td className="py-2 px-4">{data?.courseCode}</td>
                   <td className="py-2 px-4">
-                    <a href={data?.courseLink} target="_blank" rel="noopener noreferrer">{data?.courseTitle}</a>
+                    <a href={data?.courseLink} target="_blank" rel="noopener noreferrer">
+                      {data?.courseTitle}
+                    </a>
                   </td>
                   <td className="py-2 px-4">{data?.noOfStudents}</td>
                   <td className="py-2 px-4">{data?.courseRating}</td>
@@ -48,12 +59,23 @@ const TeachingComponent = () => {
               </tr>
             </thead>
             <tbody>
-              {tableData?.iisc?.map((data) => (
-                <tr>
-                  <td className="py-2 px-4">{data?.term}</td>
+              {tableData?.iisc?.map((data, index) => (
+                <tr key={index}>
+                  <td className="py-2 px-4">
+                    {/* Wrap the term in a badge container */}
+                    <div className="d-flex flex-row newsContainer">
+                      <div className="talkDate newsDateContainer">
+                        <div className="badge dateColor p-1 newsDate">
+                          {data?.term}
+                        </div>
+                      </div>
+                    </div>
+                  </td>
                   <td className="py-2 px-4">{data?.courseCode}</td>
                   <td className="py-2 px-4">
-                    <a href={data?.courseLink} target="_blank" rel="noopener noreferrer">{data?.courseTitle}</a>
+                    <a href={data?.courseLink} target="_blank" rel="noopener noreferrer">
+                      {data?.courseTitle}
+                    </a>
                   </td>
                 </tr>
               ))}

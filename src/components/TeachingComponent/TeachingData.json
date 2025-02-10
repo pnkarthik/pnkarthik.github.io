@@ -1647,11 +1647,32 @@
       "venue": "LHC-08",
       "noOfCredits": 2,
       "courseDescription": "This course offers a comprehensive introduction to the fundamentals of programming in Python, tailored for students embarking on their journey into AI and ML. Throughout the course, students will gain hands-on experience by implementing essential AI/ML tasks from scratch. The course is designed to facilitate students who intend to pursue projects in deep learning and/or reinforcement learning in their subsequent semesters.<br />For a previous edition of this course, see <a href=\"http://localhost:3000/#/teaching/Programming-for-AI-2024\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
+      "courseAnnouncements": [
+        {
+          "date": "10 Feb 2025",
+          "content": "<a href=\"https://siddharth-shrivastava7.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Siddharth Shrivastava</a>, PhD student in the Department of AI working with Dr. <a href=\"https://sites.google.com/view/ganeshghalme/home\" target=\"_blank\" rel=\"noopener noreferrer\">Ganesh Ghalme</a>, has kindly consented to present a primer on the usage of PyTorch and TensorFlow.<br />The exact dates of presentation will be intimated in due course of time."
+        },
+        {
+          "date": "10 Feb 2025",
+          "content": "Lectures begin.<br />All lectures to be conducted in LHC-08.<br />Although the proposed slot for the course is B, the lectures will be conducted on Mondays (10:00 - 11:30) and Thursdays (11:00 - 12:30)."
+        }
+      ],
       "courseContents": [
         {
           "title": "Notes",
           "description": "",
-          "list": []
+          "list": [
+            {
+              "title": "<span>Tuples, lists, dictionaries, immutability of tuples, mutability of lists, immutability quirks, shallow copy vs deepcopy.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI1104/AI1104-tuples-lists-dictionaries.ipynb",
+                  "badgeDisplayName": "ipynb"
+                }
+              ]
+            }
+          ]
         },
         {
           "title": "Assignments",
@@ -1689,7 +1710,26 @@
           "description": "",
           "isCard": true,
           "list": [
-
+            {
+              "name": "Karthik Ravula",
+              "link": "https://www.linkedin.com/in/karthikravula17/",
+              "profilePhoto": "karthik-ravula.jpeg"
+            },
+            {
+              "name": "Jarpula Bhanu Prasad",
+              "link": "https://www.linkedin.com/in/jarpula-bhanu-b6252a25b",
+              "profilePhoto": "jarpula-bhanu-prasad.jpg"
+            },
+            {
+              "name": "Donal Loitam",
+              "link": "https://www.linkedin.com/in/donal-loitam-9b6328224/",
+              "profilePhoto": "donal-loitam.jpeg"
+            },
+            {
+              "name": "Charan Mannem",
+              "link": "https://www.linkedin.com/in/charan-mannem-a17453253/",
+              "profilePhoto": "charan-mannem.jpg"
+            }
           ]
         }
       ]
