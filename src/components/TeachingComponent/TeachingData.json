@@ -1601,6 +1601,10 @@
                 {
                   "link": "./media/2025/AI5090/AI5090-homework-01.pdf",
                   "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2025/AI5090/AI5090-homework-01-solutions.pdf",
+                  "badgeDisplayName": "solutions"
                 }
               ]
             }
