@@ -1578,6 +1578,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Reverse implications: (a) convergence in distribution to a constant random variable implies convergence in probability to the same constant random variable (with proof), and (b) convergence in probability + domination implies convergence in mean-squared sense (statement only; no proof), weak law of large numbers (statement; proof using finite variance assumption; general proof using characteristic functions), strong law of large numbers (statement; proof under finite fourth moment assumption), central limit theorem (statement only).",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-11.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
