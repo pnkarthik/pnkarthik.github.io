@@ -1588,6 +1588,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Central limit theorem (CLT): statement and proof, demonstration of CLT, interpretation of CLT, what CLT is not, local CLT",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-12.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
