@@ -1440,8 +1440,12 @@
       "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon the topics of stationary and wide-sense stationary processes, Bernoulli and Poisson processes, and stopping times. The heart of the course comprises a thorough and detailed exposition of the theory of discrete-time Markov chains on finite state spaces, introducing the students to the notions of irreducibility, recurrence, period, invariant distributions, and the ergodic theorem. Alongside providing theoretical foundations, the course will also provide a deep dive into simulation techniques such as importance sampling and Markov chain Monte Carlo (MCMC) techniques.",
       "courseAnnouncements": [
         {
+          "date": "21 Feb 2025",
+          "content": "Quiz 2 to be conducted on 28 Feb 2025 from 18:00 to 18:30 in A-118.<br />The quiz will be based on Homework 2."
+        },
+        {
           "date": "17 Feb 2025",
-          "content": "Homework 2 uploaded.<br />Quiz 2 (to be conducted on 28 Feb 2025) will be based on this homework.."
+          "content": "Homework 2 uploaded.<br />Quiz 2 (to be conducted on 28 Feb 2025) will be based on this homework."
         },
         {
           "date": "05 Feb 2025",
@@ -1471,7 +1475,7 @@
         },
         {
           "title": "Notes",
-          "description": "This section will be updated with the the handwritten notes/slides from the lectures, along with scribed notes in LaTeX typesetting. Please note that the scribed notes are not very carefully reviewed by me. As the classes progress, the notes from previous lectures will be made available accordingly. If you spot any errors in the notes, kindly inform me through email.",
+          "description": "This section will be updated with the the handwritten notes/slides from the lectures, along with scribed notes in $\\LaTeX$ typesetting. Please note that the scribed notes are not very carefully reviewed by me. As the classes progress, the notes from previous lectures will be made available accordingly. If you spot any errors in the notes, kindly inform me through email.",
           "list": [
             {
               "title": "<span>Course logistics.",
@@ -1534,7 +1538,7 @@
               ]
             },
             {
-              "title": "<span>Mathematical definitions of $\\limsup$, $\\liminf$, and pointwise limit of sequences of random variables, proof that $\\liminf$ of a sequence of random variables is a random variable, proof that pointwise limit of a sequence of random variables (if existing) is a random variable, definition of pointwise convergence, the event $A_{\\rm lim}$ and proof of its measurability, definition of almost-sure convergence as $\\mathbb{P}(A_{\\rm lim})=1$.",
+              "title": "<span>Mathematical definitions of $\\limsup$, $\\liminf$, and pointwise limit of sequences of random variables, proof that $\\liminf$ of a sequence of random variables is a random variable, proof that pointwise limit of a sequence of random variables (if existing) is a random variable, definition of pointwise convergence, the event $A_{\\rm lim}$ and proof of its measurability, definition of almost-sure convergence as $\\mathbb{P}(A_{\\rm lim})=1.$",
               "badgesData": [
                 {
                   "badgeName": "notes",
@@ -1594,11 +1598,31 @@
               ]
             },
             {
-              "title": "<span>Central limit theorem (CLT): statement and proof, demonstration of CLT, interpretation of CLT, what CLT is not, local CLT",
+              "title": "<span>Central limit theorem (CLT): statement and proof, demonstration of CLT, interpretation of CLT, what CLT is not, local CLT.",
               "badgesData": [
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5090/AI5090-lecture-12.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Random processes: introduction and definition, finite dimensional distributions (FDDs), consistency of FDDs, examples of different random processes, mean, autocorrelation and autocovariance of a random process, stationary and wide-sense stationary processes, IID processes, random walk on natural numbers (intro).",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-13.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Random walk on natural numbers (contd.), Gaussian process, stationary and independent increments in random walk, binary pseudo-random number generators (intro).",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-14.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
