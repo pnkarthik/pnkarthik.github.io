@@ -1641,6 +1641,36 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Discrete stopping times, alternative definition of stopping time property for discrete stopping times, Wald's lemma for stopping times with respect to IID processes, example application of Wald's lemma.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-16.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Proof of Wald's lemma, recap of monotone convergence theorem (MCT), demonstration of application of MCT in the proof of Wald's lemma, strong independence property, properties of stopping times: minimum of two stopping times is a stopping time, sum of two stopping times taking values in a separable index set is a stopping time (under the assumption that stopping times only take non-negative values).",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-17.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            }, 
+            {
+              "title": "<span>Markov chains: general definition of Markov property, discrete time Markov chains (DTMCs), state space, examples of DTMCs (snakes and ladders, random walk), Markov property for deterministic sampling times, transition probability matrix (TPM), interpretation of each row of TPM as a probability distribution on the state space (for DTMCs with a discrete state space), time homogeneous Markov chains, Chapman--Kolmogorov equation for time homogeneous DTMCs.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-18.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -1667,6 +1697,10 @@
                 {
                   "link": "./media/2025/AI5090/AI5090-homework-02.pdf",
                   "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2025/AI5090/AI5090-homework-02-solutions.pdf",
+                  "badgeDisplayName": "solutions"
                 }
               ]
             }
