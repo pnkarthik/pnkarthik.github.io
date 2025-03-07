@@ -1440,6 +1440,10 @@
       "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon the topics of stationary and wide-sense stationary processes, Bernoulli and Poisson processes, and stopping times. The heart of the course comprises a thorough and detailed exposition of the theory of discrete-time Markov chains on finite state spaces, introducing the students to the notions of irreducibility, recurrence, period, invariant distributions, and the ergodic theorem. Alongside providing theoretical foundations, the course will also provide a deep dive into simulation techniques such as importance sampling and Markov chain Monte Carlo (MCMC) techniques.",
       "courseAnnouncements": [
         {
+          "date": "07 Mar 2025",
+          "content": "Mid Term Exam 1 to be conducted on 22 Mar 2025 in room A-118, from 10:00 to 13:00 hrs."
+        },
+        {
           "date": "21 Feb 2025",
           "content": "Quiz 2 to be conducted on 28 Feb 2025 from 18:00 to 18:30 in A-118.<br />The quiz will be based on Homework 2."
         },
