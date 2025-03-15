@@ -1,12 +1,17 @@
 [
   {
+    "date": "07 Mar 2025",
+    "content": "Invited to serve as a TPC member for the 2025 Asia Pacific Workshop on Data Science and Information Theory <a href=\"https://www.apwdsit.org/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">(APWDSIT 2025)</a>.<br />Special thanks to <a href=\"https://vyftan.github.io/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Tan</a> for the kind invitation!",
+    "isArchived": false
+  },
+  {
     "date": "09 Feb 2025",
     "content": "Co-teaching a 2-credit course on <em>Programming for AI</em> with Dr. <a href=\"https://aravindreddy.com/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Aravind Reddy</a>.<br />See the <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
     "isArchived": false
   },
   {
     "date": "03 Feb 2025",
-    "content": "Promoted from Assistant Professor Gr-II to Assistant Professor Gr-I.<br />Heartfelt gratitude to all my colleagues who have supported me in my role!",
+    "content": "Promoted from Assistant Professor Gr-II to Assistant Professor Gr-I.<br />Heartfelt gratitude to all my mentors and colleagues who have supported me thus far!",
     "isArchived": false
   },
   {
@@ -28,7 +33,7 @@
   },
   {
     "date": "30 Dec 2024",
-    "content": "Serving as TPC member for <a href=\"https://2025.ieee-isit.org/home\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">ISIT 2025</a>.",
+    "content": "Invited to serve as a TPC member for <a href=\"https://2025.ieee-isit.org/home\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">ISIT 2025</a>.<br />Special thanks to <a href=\"https://vyftan.github.io/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Tan</a> for the kind invitation!",
     "isArchived": false
   },
   {

@@ -1781,6 +1781,22 @@
       "courseDescription": "This course offers a comprehensive introduction to the fundamentals of programming in Python, tailored for students embarking on their journey into AI and ML. Throughout the course, students will gain hands-on experience by implementing essential AI/ML tasks from scratch. The course is designed to facilitate students who intend to pursue projects in deep learning and/or reinforcement learning in their subsequent semesters.<br />For a previous edition of this course, see <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2024\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
       "courseAnnouncements": [
         {
+          "date": "15 Mar 2025",
+          "content": "No lectures on 10 Mar 2025 and 13 Mar 2025 on account of mid-semester break.<br />Following the break, <a href=\"https://siddharth-shrivastava7.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Siddharth Shrivastava</a> and <a href=\"https://www.linkedin.com/in/naveen-george-99ba4519b/\" target=\"_blank\" rel=\"noopener noreferrer\">Naveen George</a> will conduct lectures on PyTorch.<br />The first session on PyTorch will be held on 19 Mar 2025 (Wednesday) in LHC-08, from 14:30 hrs to 16:00 hrs."
+        },
+        {
+          "date": "07 Mar 2025",
+          "content": "Assignment 2 posted, and is due on 21 Mar 2025, 23:59 hrs."
+        },
+        {
+          "date": "02 Mar 2025",
+          "content": "Due to logistical constraints, the lectures for the course hereafter shall take place as per <a href=\"./media/2025/AI1013/AI1013-new-class-schedule.png\" target=\"_blank\" rel=\"noopener noreferrer\">this</a> schedule."
+        },
+        {
+          "date": "17 Feb 2025",
+          "content": "Assignment 1 posted, and is due on 28 Feb 2025, 23:59 hrs."
+        },
+        {
           "date": "10 Feb 2025",
           "content": "<a href=\"https://siddharth-shrivastava7.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Siddharth Shrivastava</a>, PhD student in the Department of AI working with Dr. <a href=\"https://sites.google.com/view/ganeshghalme/home\" target=\"_blank\" rel=\"noopener noreferrer\">Ganesh Ghalme</a>, has kindly consented to present a primer on the usage of PyTorch and TensorFlow.<br />The exact dates of presentation will be intimated in due course of time."
         },
@@ -1803,6 +1819,54 @@
                   "badgeDisplayName": "ipynb"
                 }
               ]
+            },
+            {
+              "title": "<span>All material from a previous offering of the course may be accessed at <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2024\" target=\"_blank\" rel=\"noopener noreferrer\">this</a> link.</span>"
+            },
+            {
+              "title": "<span>Primer on $k$-means clustering: exploratory data analysis, clustering as a technique of unsupervised machine learning, cost function and its minimisation, Lloyd's method.<br />Credits: Dr. <a href=\"https://aravindreddy.com\" target=\"_blank\" rel=\"noopener noreferrer\">Aravind Reddy</a>.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1103-lecture-04.pdf",
+                  "badgeDisplayName": "notes"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "https://en.wikipedia.org/wiki/K-means_clustering",
+                  "badgeDisplayName": "wiki"
+                }
+              ]
+            },
+            {
+              "title": "<span>$k$-means ++,  seeding in $k$-means clustering, primer on $k$-nearest neighbors classification, training data and cross-validation.<br />Credits: Dr. <a href=\"https://aravindreddy.com\" target=\"_blank\" rel=\"noopener noreferrer\">Aravind Reddy</a>.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1103-lecture-05.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>$k$-nearest neighbors (contd.), time complexity of $K$-NN classification, techniques to speed up classification: $k$-$d$ trees, locally sensitive hashing, curse of dimensionality.<br />Credits: Dr. <a href=\"https://aravindreddy.com\" target=\"_blank\" rel=\"noopener noreferrer\">Aravind Reddy</a>.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "../media/2025/AI1013/AI1103-lecture-06.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>Primer on artificial neural networks: input layer, activation function, output layer, backpropagation.<br />Reference material: Section 22.1, <em>Simple Feedforward Networks</em> from Chapter 22 on Deep Learning, from the book <em>AI: A Modern Approach</em>, Russell and Norvig, 4th edition.<br />Credits: Dr. <a href=\"https://aravindreddy.com\" target=\"_blank\" rel=\"noopener noreferrer\">Aravind Reddy</a>.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1103-lecture-07.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
             }
           ]
         },
@@ -1810,7 +1874,34 @@
           "title": "Assignments",
           "description": "",
           "list": [
-
+            {
+              "title": "<span>Assignment 01 (data analysis, data science, visualisation).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1103-assignment-01.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/AI1104/AI1104-assignment-02-datasets.zip",
+                  "badgeDisplayName": "datasets"
+                }
+              ]
+            },
+            {
+              "title": "<span>Assignment 02 (training of neural networks and implementation of $k$-nearest neighbor algorithm from scratch).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1103-assignment-02.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/AI1104/AI1104-final-project-Q1-dataset.csv",
+                  "badgeDisplayName": "dataset"
+                }
+              ]
+            }
           ]
         },
         {
