@@ -1440,12 +1440,16 @@
       "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon the topics of stationary and wide-sense stationary processes, Bernoulli and Poisson processes, and stopping times. The heart of the course comprises a thorough and detailed exposition of the theory of discrete-time Markov chains on finite state spaces, introducing the students to the notions of irreducibility, recurrence, period, invariant distributions, and the ergodic theorem. Alongside providing theoretical foundations, the course will also provide a deep dive into simulation techniques such as importance sampling and Markov chain Monte Carlo (MCMC) techniques.",
       "courseAnnouncements": [
         {
+          "date": "27 Mar 2025",
+          "content": "Mid Term Exam 1 to be conducted on 02 Apr 2025 in room A-118, from 14:30 hrs to 17:30 hrs.<br />Homework 4 posted.<br />Quiz 4 (to be conducted on 08 Apr 2025, post lecture) will be based on this homework."
+        },
+        {
           "date": "10 Mar 2025",
           "content": "Homework 3 posted.<br />Quiz 3 (to be conducted on 25 Mar 2025) will be based on this homework."
         },
         {
           "date": "07 Mar 2025",
-          "content": "Mid Term Exam 1 to be conducted on 22 Mar 2025 in room A-118, from 10:00 to 13:00 hrs."
+          "content": "<strike>Mid Term Exam 1 to be conducted on 22 Mar 2025 in room A-118, from 10:00 to 13:00 hrs.</strike>"
         },
         {
           "date": "21 Feb 2025",
@@ -1689,6 +1693,36 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Chapman--Kolmogorov equations (contd.), strong Markov property and its proof for time-homogeneous DTMCs, hitting times to a state.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-19.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Unconditional independence of past and future conditioned on state value at hitting time, IID block structure, recurrence times, IID property of recurrence times, recurrent and transient states, mean recurrence time, positive recurrent and null recurrent states, number of visits to a state and its relation to transience and recurrence.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-20.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Mean number of visits to a state and its connection to transience and recurrence, example problem, reachability, communication between states, communication is an equivalence relation, communicating classes.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-21.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -1727,6 +1761,15 @@
               "badgesData": [
                 {
                   "link": "./media/2025/AI5090/AI5090-homework-03.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Homework 4 (topics: basics of Markov chains, Markov property, spectrum of row stochastic matrices).</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2025/AI5090/AI5090-homework-04.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]
