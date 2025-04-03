@@ -1,5 +1,22 @@
 [
   {
+    "date": "03 Apr 2025",
+    "content": "Honoured to receive the Faculty Teaching Excellence Award 2025 from IIT Hyderabad!<br />I am immensely grateful to the incredible teachers who have shaped my learning since childhood, and instilled in me the passion for teaching.<br />More power to students who form the backbone of academia.",
+    "badgesData": [
+      {
+        "badgeName": "pdf",
+        "link": "./media/2025/faculty-excellence-awardees-list-2025.pdf",
+        "badgeDisplayName": "list-of-awardees"
+      },
+      {
+        "badgeName": "pdf",
+        "link": "./media/2025/teaching-excellence-certificate.jpg",
+        "badgeDisplayName": "certificate"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "07 Mar 2025",
     "content": "Invited to serve as a TPC member for the 2025 Asia Pacific Workshop on Data Science and Information Theory <a href=\"https://www.apwdsit.org/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">(APWDSIT 2025)</a>.<br />Special thanks to <a href=\"https://vyftan.github.io/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Tan</a> for the kind invitation!",
     "isArchived": false
