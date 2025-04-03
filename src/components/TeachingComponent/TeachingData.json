@@ -1723,6 +1723,26 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Proof that communication is an equivalence relation, open and closed communicating classes, class properties, irreducibility, period, proof that period is a class property, recurrence and transience are class properties (statement only), positive recurrence and null recurrence are class properties (statement only).",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-22.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Invariant distribution (definition), properties of invariant distribution, examples.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-23.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },

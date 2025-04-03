@@ -12,6 +12,11 @@
         "badgeName": "pdf",
         "link": "./media/2025/teaching-excellence-certificate.jpg",
         "badgeDisplayName": "certificate"
+      },
+      {
+        "badgeName": "pdf",
+        "link": "https://youtu.be/x_bCkPtg74c?t=7332",
+        "badgeDisplayName": "video"
       }
     ],
     "isArchived": false
@@ -60,8 +65,15 @@
   },
   {
     "date": "07 Dec 2024",
-    "content": "Received an instructor rating of 4.84/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Probability-2024\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">AI5030: Probability and Stochastic Processes</a> taught during Aug-Dec 2024!<br />A big shout-out to all students who patiently listened to my endless musings on probability.<br />My heartfelt thanks to all the teaching assistants for pouring their heart into the course and helping with the course evaluation.",
-    "isArchived": false
+    "content": "Received an instructor rating of 4.84/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Probability-2024\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">AI5030: Probability and Stochastic Processes</a>. <br />Received an instructor rating of 4.8/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/MDS-Probability-2024\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">CS6660: Mathematical Foundations of Data Science</a>.<br />A big shout-out to all students who patiently listened to my endless musings on probability.<br />My heartfelt thanks to all the teaching assistants for pouring their heart into the course and helping with the course evaluation.",
+    "isArchived": false,
+    "badgesData": [
+      {
+        "badgeName": "pdf",
+        "link": "./media/2024/course-feedback.pdf",
+        "badgeDisplayName": "course-feedback"
+      }
+    ]
   },
   {
     "date": "02 Sep 2024",
