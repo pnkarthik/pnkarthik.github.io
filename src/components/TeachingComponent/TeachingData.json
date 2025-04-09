@@ -1440,8 +1440,12 @@
       "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon the topics of stationary and wide-sense stationary processes, Bernoulli and Poisson processes, and stopping times. The heart of the course comprises a thorough and detailed exposition of the theory of discrete-time Markov chains on finite state spaces, introducing the students to the notions of irreducibility, recurrence, period, invariant distributions, and the ergodic theorem. Alongside providing theoretical foundations, the course will also provide a deep dive into simulation techniques such as importance sampling and Markov chain Monte Carlo (MCMC) techniques.",
       "courseAnnouncements": [
         {
+          "date": "09 Apr 2025",
+          "content": "Final Exam to be conducted on 01 May 2025, from 14:30 hrs onwards."
+        },
+        {
           "date": "27 Mar 2025",
-          "content": "Mid Term Exam 1 to be conducted on 02 Apr 2025 in room A-118, from 14:30 hrs to 17:30 hrs.<br />Homework 4 posted.<br />Quiz 4 (to be conducted on 08 Apr 2025, post lecture) will be based on this homework."
+          "content": "Mid Term Exam 1 to be conducted on 02 Apr 2025 in room <strike>A-118</strike> LHC-15, from 14:30 hrs to 17:30 hrs.<br />Homework 4 posted.<br />Quiz 4 (to be conducted on 08 Apr 2025, post lecture) will be based on this homework."
         },
         {
           "date": "10 Mar 2025",
@@ -1581,6 +1585,11 @@
                   "badgeName": "notes",
                   "link": "./media/2025/AI5090/AI5090-lecture-06.pdf",
                   "badgeDisplayName": "slides"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-06-scribe.pdf",
+                  "badgeDisplayName": "scribe"
                 }
               ]
             },
@@ -1591,6 +1600,11 @@
                   "badgeName": "notes",
                   "link": "./media/2025/AI5090/AI5090-lecture-07.pdf",
                   "badgeDisplayName": "slides"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-07-scribe.pdf",
+                  "badgeDisplayName": "scribe"
                 }
               ]
             },
@@ -1743,6 +1757,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Some important results on DTMCs and their proofs, examples.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-24-and-25.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -1801,6 +1825,61 @@
           ]
         },
         {
+          "title": "Quizzes and Exams",
+          "description": "",
+          "list": [
+            {
+              "title": "<span>Quiz 1.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2025/AI5090/AI5090-quiz-01.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 2.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2025/AI5090/AI5090-quiz-02.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 3.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2025/AI5090/AI5090-quiz-03.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Mid-Term Exam.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2025/AI5090/AI5090-midterm-exam.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2025/AI5090/AI5090-midterm-exam-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 4.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2025/AI5090/AI5090-quiz-04.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "title": "References",
           "description": "",
           "list": [
@@ -1852,6 +1931,10 @@
       "noOfCredits": 2,
       "courseDescription": "This course offers a comprehensive introduction to the fundamentals of programming in Python, tailored for students embarking on their journey into AI and ML. Throughout the course, students will gain hands-on experience by implementing essential AI/ML tasks from scratch. The course is designed to facilitate students who intend to pursue projects in deep learning and/or reinforcement learning in their subsequent semesters.<br />For a previous edition of this course, see <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2024\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
       "courseAnnouncements": [
+        {
+          "date": "07 Apr 2025",
+          "content": "No lectures on 10 Apr 2025 and 14 Apr 2025 (on account of institute holidays for Mahavir jayanthi and Ambedkar jayanthi respectively).<br />Next lecture to be held on 17 Apr 2025."
+        },
         {
           "date": "15 Mar 2025",
           "content": "No lectures on 10 Mar 2025 and 13 Mar 2025 on account of mid-semester break.<br />Following the break, <a href=\"https://siddharth-shrivastava7.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Siddharth Shrivastava</a> and <a href=\"https://www.linkedin.com/in/naveen-george-99ba4519b/\" target=\"_blank\" rel=\"noopener noreferrer\">Naveen George</a> will conduct lectures on PyTorch.<br />The first session on PyTorch will be held on 19 Mar 2025 (Wednesday) in LHC-08, from 14:30 hrs to 16:00 hrs."
@@ -1939,6 +2022,61 @@
                   "badgeDisplayName": "notes"
                 }
               ]
+            },
+            {
+              "title": "<span>Basics of PyTorch and its modules.<br />Credits: <a href=\"https://siddharth-shrivastava7.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Siddharth Shrivastava</a></span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1013-Pytorch-tutorial-notebook-1.pdf",
+                  "badgeDisplayName": "ipynb-1"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1013-Pytorch-tutorial-notebook-2.pdf",
+                  "badgeDisplayName": "ipynb-2"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1013-Pytorch-tutorial-notebook-3.pdf",
+                  "badgeDisplayName": "ipynb-3"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1013-Pytorch-tutorial-notebook-4.pdf",
+                  "badgeDisplayName": "ipynb-4"
+                }
+              ]
+            },
+            {
+              "title": "<span>Convolutional Neural Networks (CNNs) on PyTorch.<br />Credits: <a href=\"https://www.linkedin.com/in/naveen-george-99ba4519b/\" target=\"_blank\" rel=\"noopener noreferrer\">Naveen George</a></span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1013-PyTorch-CNN-basics.pdf",
+                  "badgeDisplayName": "ipynb-1"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1013-PyTorch-CNNs-custom-datasets.pdf",
+                  "badgeDisplayName": "ipynb-2"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1013-PyTorch-CNNs-transfer-learning.pdf",
+                  "badgeDisplayName": "ipynb-3"
+                }
+              ]
+            },
+            {
+              "title": "<span>Probability module: sampling from a custom distribution on computers, inverse transform sampling technique, examples, behind-the-scenes of numpy.random.normal module of Python.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1013-lecture-10.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
             }
           ]
         },
@@ -1971,6 +2109,16 @@
                 {
                   "link": "./media/2024/AI1104/AI1104-final-project-Q1-dataset.csv",
                   "badgeDisplayName": "dataset"
+                }
+              ]
+            },
+            {
+              "title": "<span>Assignment 03 (multilayer perceptron (MLP) and CNNs on PyTorch).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1013-assignment-03.pdf",
+                  "badgeDisplayName": "pdf"
                 }
               ]
             }
