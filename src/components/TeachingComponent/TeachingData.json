@@ -1441,6 +1441,10 @@
       "courseAnnouncements": [
         {
           "date": "09 Apr 2025",
+          "content": "Homework 5 uploaded.<br />Quiz 5 (to be conducted on 15 Apr 2025) will be based on this homework."
+        },
+        {
+          "date": "09 Apr 2025",
           "content": "Final Exam to be conducted on 01 May 2025, from 14:30 hrs onwards."
         },
         {
@@ -1818,6 +1822,15 @@
               "badgesData": [
                 {
                   "link": "./media/2025/AI5090/AI5090-homework-04.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Homework 5 (topics: communicating classes, class properties, invariant distribution).</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2025/AI5090/AI5090-homework-05.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]
