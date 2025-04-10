@@ -1619,6 +1619,11 @@
                   "badgeName": "notes",
                   "link": "./media/2025/AI5090/AI5090-lecture-08.pdf",
                   "badgeDisplayName": "slides"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-08-scribe.pdf",
+                  "badgeDisplayName": "scribe"
                 }
               ]
             },
@@ -1944,6 +1949,10 @@
       "noOfCredits": 2,
       "courseDescription": "This course offers a comprehensive introduction to the fundamentals of programming in Python, tailored for students embarking on their journey into AI and ML. Throughout the course, students will gain hands-on experience by implementing essential AI/ML tasks from scratch. The course is designed to facilitate students who intend to pursue projects in deep learning and/or reinforcement learning in their subsequent semesters.<br />For a previous edition of this course, see <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2024\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
       "courseAnnouncements": [
+        {
+          "date": "07 Apr 2025",
+          "content": "Assignment 3 posted, and is due on 14 Apr 2025, 23:59 hrs."
+        },
         {
           "date": "07 Apr 2025",
           "content": "No lectures on 10 Apr 2025 and 14 Apr 2025 (on account of institute holidays for Mahavir jayanthi and Ambedkar jayanthi respectively).<br />Next lecture to be held on 17 Apr 2025."
