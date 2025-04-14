@@ -1663,7 +1663,7 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5090/AI5090-lecture-12-scribe.pdf",
-                  "badgeDisplayName": "slides"
+                  "badgeDisplayName": "scribe"
                 }
               ]
             },
@@ -1674,6 +1674,11 @@
                   "badgeName": "notes",
                   "link": "./media/2025/AI5090/AI5090-lecture-13.pdf",
                   "badgeDisplayName": "slides"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-13-scribe.pdf",
+                  "badgeDisplayName": "scribe"
                 }
               ]
             },
