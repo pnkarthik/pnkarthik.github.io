@@ -1440,6 +1440,10 @@
       "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon the topics of stationary and wide-sense stationary processes, Bernoulli and Poisson processes, and stopping times. The heart of the course comprises a thorough and detailed exposition of the theory of discrete-time Markov chains on finite state spaces, introducing the students to the notions of irreducibility, recurrence, period, invariant distributions, and the ergodic theorem. Alongside providing theoretical foundations, the course will also provide a deep dive into simulation techniques such as importance sampling and Markov chain Monte Carlo (MCMC) techniques.",
       "courseAnnouncements": [
         {
+          "date": "18 Apr 2025",
+          "content": "Homework 6 uploaded.<br />Quiz 6 (to be conducted on 22 Apr 2025) will be based on this homework."
+        },
+        {
           "date": "09 Apr 2025",
           "content": "Homework 5 uploaded.<br />Quiz 5 (to be conducted on 15 Apr 2025) will be based on this homework."
         },
@@ -1796,6 +1800,26 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Recap of results on DTMC, ergodicity, convergence in total variation distance to stationary distribution under ergodicity.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-26.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Sampling from a distribution, inverse transform technique, generating samples from a custom PMF/PDF using inverse transform technique, decoding the functioning of <code>numpy.random.normal</code> via inverse transform technique and Box--Muller transformation from polar to cartesian coordinates, rejection sampling (accept-reject) technique, decoding the functioning of <code>numpy.random.gamma</code> via rejection sampling technique.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-lecture-27.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -1848,6 +1872,10 @@
                 {
                   "link": "./media/2025/AI5090/AI5090-homework-04.pdf",
                   "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2025/AI5090/AI5090-homework-04-solutions.pdf",
+                  "badgeDisplayName": "solutions"
                 }
               ]
             },
@@ -1856,6 +1884,19 @@
               "badgesData": [
                 {
                   "link": "./media/2025/AI5090/AI5090-homework-05.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2025/AI5090/AI5090-homework-05-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>Homework 6 (topics: Markov chains, sampling techniques).</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2025/AI5090/AI5090-homework-06.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]
@@ -1911,6 +1952,15 @@
               "badgesData": [
                 {
                   "link": "./media/2025/AI5090/AI5090-quiz-04.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 5.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2025/AI5090/AI5090-quiz-05.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]
@@ -2116,7 +2166,17 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI1013/AI1013-lecture-10.pdf",
-                  "badgeDisplayName": "pdf"
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Sampling from a distribution, inverse transform technique, generating samples from a custom PMF/PDF using inverse transform technique, decoding the functioning of <code>numpy.random.normal</code> via inverse transform technique and Box--Muller transformation from polar to cartesian coordinates, rejection sampling (accept-reject) technique, decoding the functioning of <code>numpy.random.gamma</code> via rejection sampling technique, pseudo-random number generators, power residue method, Mersenne primes.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1013-lecture-11.pdf",
+                  "badgeDisplayName": "slides"
                 }
               ]
             }
