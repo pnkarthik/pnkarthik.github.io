@@ -2043,6 +2043,14 @@
       "courseDescription": "This course offers a comprehensive introduction to the fundamentals of programming in Python, tailored for students embarking on their journey into AI and ML. Throughout the course, students will gain hands-on experience by implementing essential AI/ML tasks from scratch. The course is designed to facilitate students who intend to pursue projects in deep learning and/or reinforcement learning in their subsequent semesters.<br />For a previous edition of this course, see <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2024\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
       "courseAnnouncements": [
         {
+          "date": "25 Apr 2025",
+          "content": "Assignment 5 posted, and is due on 01 May 2025, 23:59 hrs."
+        },
+        {
+          "date": "19 Apr 2025",
+          "content": "Assignment 4 posted, and is due on 24 Apr 2025, 23:59 hrs."
+        },
+        {
           "date": "07 Apr 2025",
           "content": "Assignment 3 posted, and is due on 14 Apr 2025, 23:59 hrs."
         },
@@ -2244,6 +2252,31 @@
                   "badgeName": "notes",
                   "link": "./media/2025/AI1013/AI1013-assignment-03.pdf",
                   "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Assignment 04 (implementation of $k\\text{-means}$ and $k\\text{-means}^{++}$ algorithms from scratch).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1013-assignment-04.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Assignment 05 (probabilistic sampling via inverse transform technique, Wordle on Python).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/AI1013-assignment-05.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI1013/wordlist.csv",
+                  "badgeDisplayName": "dataset"
                 }
               ]
             }
