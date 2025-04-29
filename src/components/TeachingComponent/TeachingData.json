@@ -1440,6 +1440,27 @@
       "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon the topics of stationary and wide-sense stationary processes, Bernoulli and Poisson processes, and stopping times. The heart of the course comprises a thorough and detailed exposition of the theory of discrete-time Markov chains on finite state spaces, introducing the students to the notions of irreducibility, recurrence, period, invariant distributions, and the ergodic theorem. Alongside providing theoretical foundations, the course will also provide a deep dive into simulation techniques such as importance sampling and Markov chain Monte Carlo (MCMC) techniques.",
       "courseAnnouncements": [
         {
+          "date": "29 Apr 2025",
+          "content": "Lectures end. My sincere thanks and best wishes to all students who were part of the course.",
+          "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-group-photo-1.jpeg",
+                  "badgeDisplayName": "group photo 1"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-group-photo-2.jpeg",
+                  "badgeDisplayName": "group photo 2"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5090/AI5090-group-photo-3.jpeg",
+                  "badgeDisplayName": "group photo 3"
+                }
+              ]
+        },
+        {
           "date": "24 Apr 2025",
           "content": "Final Exam to be conducted in room LHC-03 on 01 May 2025, from 14:30 hrs onwards."
         },
@@ -1836,6 +1857,26 @@
               {
                 "badgeName": "notes",
                 "link": "./media/2025/AI5090/AI5090-lecture-28.pdf",
+                "badgeDisplayName": "slides"
+              }
+            ]
+          },
+          {
+            "title": "<span>Some remarks on the design of acceptance matrix in the Metropolis--Hastings algorithm.",
+            "badgesData": [
+              {
+                "badgeName": "notes",
+                "link": "./media/2025/AI5090/AI5090-lecture-29.pdf",
+                "badgeDisplayName": "slides"
+              }
+            ]
+          },
+          {
+            "title": "<span>Application of the Metropolis--Hastings algorithm to Bayesian logistic regression based on the Challenger O Ring dataset, simulation tidbits: test for irreducibility, Kolmogorov's extension theorem and sample paths of a random process in simulations.",
+            "badgesData": [
+              {
+                "badgeName": "notes",
+                "link": "./media/2025/AI5090/AI5090-lecture-30.pdf",
                 "badgeDisplayName": "slides"
               }
             ]

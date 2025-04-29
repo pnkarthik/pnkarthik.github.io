@@ -1,5 +1,30 @@
 [
   {
+    "date": "29 Apr 2025",
+    "content": "Lectures for the course on <a href=\"https://karthikpn.com/#/teaching/Stochastic-Processes-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Stochastic Processes</a> come to an end.<br />My sincere thanks and best wishes to all students who were part of the course.<br />My sincere thanks also to the TA for her generous support in evaluating the quizzes.",
+    "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "./media/2025/AI5090/AI5090-group-photo-1.jpeg",
+            "badgeDisplayName": "group photo 1"
+          },
+          {
+            "badgeName": "notes",
+            "link": "./media/2025/AI5090/AI5090-group-photo-2.jpeg",
+            "badgeDisplayName": "group photo 2"
+          },
+          {
+            "badgeName": "notes",
+            "link": "./media/2025/AI5090/AI5090-group-photo-3.jpeg",
+            "badgeDisplayName": "group photo 3"
+          }
+        ]
+  },
+  {
+    "date": "28 Apr 2025",
+    "content": "Lectures for the course on <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Programming for AI</a> come to an end.<br />My sincere thanks and best wishes to all students who were part of the course, and to the TAs who inspired the students by presenting their works.<br />My sincere thanks to all the TAs for their generous support in evaluating the course assignments."
+  },
+  {
     "date": "14 Apr 2025",
     "content": "Invited to speak at the <a href=\"https://meetings.informs.org/wordpress/2025international/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">2025 INFORMS International Meeting</a> in Singapore!<br />Special thanks to <a href=\"https://sites.google.com/view/shubhada-agrawal/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Shubhada Agrawal</a> for the kind invitation.",
     "isArchived": false
