@@ -48,14 +48,10 @@ const CollaboratorsComponent = () => {
 
   return (
     <>
-      <p className="contentFontSize">For me, one of the most rewarding aspects of pursuing academic research has been the opportunity to engage in a diverse range of disciplines, spanning both applied and theoretical domains. I have been fortunate to forge fruitful collaborative relationships with some brilliant minds. As a researcher, I am committed to strengthening these relationships, while also seeking out new opportunities to learn and grow. Below is a list of current and past collaborators.</p>
+      <p className="contentFontSize">For me, one of the most rewarding aspects of pursuing academic research has been the opportunity to engage in a diverse range of disciplines, spanning both applied and theoretical domains. I have been fortunate to forge fruitful collaborative relationships with some brilliant minds listed below. As a researcher, I am committed to strengthening these relationships, while also seeking new opportunities to learn and grow.</p>
       <CurrentAndPastCollaborators 
-        title='Current' 
-        collabData={data?.collaborators?.current} 
-      />
-      <CurrentAndPastCollaborators 
-        title='Past' 
-        collabData={data?.collaborators?.past}
+        title='' 
+        collabData={data?.collaborators} 
       />
     </>
   );

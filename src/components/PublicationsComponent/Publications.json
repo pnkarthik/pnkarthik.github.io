@@ -1,7 +1,6 @@
 {
   "collaborators": 
-  {
-    "current": [
+  [
       {
         "name": "Vincent Y. F. Tan",
         "websiteLink": "https://vyftan.github.io",
@@ -16,9 +15,7 @@
         "name": "Arsh Arora",
         "websiteLink": "https://www.linkedin.com/in/arsh-arora/",
         "photo": "arsh-arora.jpg"
-      }
-    ],
-    "past": [
+      },
       {
         "name": "Kota Srinivas Reddy",
         "websiteLink": "https://sites.google.com/view/srinivas-reddy-kota/home",
@@ -104,8 +101,7 @@
         "websiteLink": "https://www.linkedin.com/in/raksha-ramakrishna-b4390374/?originalSubdomain=se",
         "photo": "raksha.jpg"
       }
-    ]
-  },
+  ],
   "preprints": [
     {
       "id": "pp3",
