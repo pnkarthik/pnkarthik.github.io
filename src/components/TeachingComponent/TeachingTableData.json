@@ -16,48 +16,73 @@
   "iith": [
     {
       "term": "Feb-Apr 2025",
-      "courseCode": "AI 1013",
+      "courseCode": "AI1013",
       "courseTitle": "Programming for AI",
       "courseLink": "#/teaching/Programming-for-AI-2025",
       "noOfStudents": "36",
-      "courseRating": "--",
-      "instructorRating": "--"
+      "courseRating": "4.71",
+      "instructorRating": "4.74",
+      "feedback": "./media/2025/AI1013/AI1013-course-feedback.pdf"
     },
     {
       "term": "Jan-Apr 2025",
-      "courseCode": "AI 5090",
+      "courseCode": "AI5090",
       "courseTitle": "Stochastic Processes: Theory and Applications",
       "courseLink": "#/teaching/Stochastic-Processes-2025",
-      "noOfStudents": "33",
-      "courseRating": "5.0",
-      "instructorRating": "5.0"
+      "noOfStudents": "29",
+      "courseRating": "4.82",
+      "instructorRating": "4.95",
+      "feedback": "./media/2025/AI5090/AI5090-course-feedback.pdf"
+    },
+    {
+      "term": "Jan-Apr 2025",
+      "courseCode": "EE5910",
+      "courseTitle": "Advanced Stochastic Processes",
+      "courseLink": "#/teaching/Stochastic-Processes-2025",
+      "noOfStudents": "4",
+      "courseRating": "5.00",
+      "instructorRating": "5.00",
+      "feedback": "./media/2025/AI5090/EE5910-course-feedback.pdf"
     },
     {
       "term": "Jul-Nov 2024",
-      "courseCode": "CS 6660",
-      "courseTitle": "Mathematical Foundations of Data Science (Probability)",
+      "courseCode": "CS6660",
+      "courseTitle": "Mathematical Foundations of Data Science",
       "courseLink": "#/teaching/MDS-Probability-2024",
       "noOfStudents": "25",
       "courseRating": "4.53",
-      "instructorRating": "4.8"
+      "instructorRating": "4.80",
+      "feedback": "./media/2024/CS6660/CS6660-course-feedback.pdf"
     },
     {
       "term": "Jul-Nov 2024",
-      "courseCode": "AI 5030",
+      "courseCode": "AI5030",
       "courseTitle": "Probability and Stochastic Processes",
       "courseLink": "#/teaching/Probability-2024",
-      "noOfStudents": "87",
-      "courseRating": "4.78",
-      "instructorRating": "4.84"
+      "noOfStudents": "38",
+      "courseRating": "4.75",
+      "instructorRating": "4.84",
+      "feedback": "./media/2024/AI5030/AI5030-course-feedback.pdf"
+    },
+    {
+      "term": "Jul-Nov 2024",
+      "courseCode": "EE5817",
+      "courseTitle": "Random Variables and Stochastic Processes",
+      "courseLink": "#/teaching/Probability-2024",
+      "noOfStudents": "51",
+      "courseRating": "4.80",
+      "instructorRating": "4.83",
+      "feedback": "./media/2024/AI5030/EE5817-course-feedback.pdf"
     },
     {
       "term": "Mar-Apr 2024",
-      "courseCode": "AI 1104",
+      "courseCode": "AI1104",
       "courseTitle": "Programming for AI",
       "courseLink": "#/teaching/Programming-for-AI-2024",
       "noOfStudents": 73,
-      "courseRating": "4.2",
-      "instructorRating": "4.19"
+      "courseRating": "4.20",
+      "instructorRating": "4.19",
+      "feedback": "./media/2024/AI1104/AI1104-course-feedback.pdf"
     }
   ]
 }

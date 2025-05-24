@@ -452,7 +452,7 @@
       "classHours": "Monday: 16:00 - 17:25, Thursday: 14:30 - 15:55",
       "venue": "LHC-03",
       "noOfCredits": 3,
-      "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. The course will delve into the notions of $\\sigma$-algebras, random variables as measurable functions, expectations as abstract integrals, and some aspects of convergence of sequences of random variables.",
+      "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. The course will delve into the notions of $\\sigma$-algebras, random variables as measurable functions, expectations as abstract integrals, and some aspects of convergence of sequences of random variables.<p></p>This course is cross-listed with EE5817: Random Variables and Stochastic Processes.",
       "courseAnnouncements": [
         {
           "date": "22 Nov 2024",
@@ -1331,7 +1331,7 @@
           ]
         },
         {
-          "title": "Quizzes, Mid-Term, and Final Exam",
+          "title": "Quizzes and Mid-Terms",
           "description": "",
           "list": [
             {
@@ -1437,7 +1437,7 @@
       "classHours": "Tuesday: 16:00 - 17:25, Friday: 14:30 - 15:55",
       "venue": "A-118",
       "noOfCredits": 3,
-      "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon the topics of stationary and wide-sense stationary processes, Bernoulli and Poisson processes, and stopping times. The heart of the course comprises a thorough and detailed exposition of the theory of discrete-time Markov chains on finite state spaces, introducing the students to the notions of irreducibility, recurrence, period, invariant distributions, and the ergodic theorem. Alongside providing theoretical foundations, the course will also provide a deep dive into simulation techniques such as importance sampling and Markov chain Monte Carlo (MCMC) techniques.",
+      "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon the topics of stationary and wide-sense stationary processes, Bernoulli and Poisson processes, and stopping times. The heart of the course comprises a thorough and detailed exposition of the theory of discrete-time Markov chains on finite state spaces, introducing the students to the notions of irreducibility, recurrence, period, invariant distributions, and the ergodic theorem. Alongside providing theoretical foundations, the course will also provide a deep dive into simulation techniques such as importance sampling and Markov chain Monte Carlo (MCMC) techniques.<p></p>This course is cross-listed with EE5910: Advanced Stochastic Processes.",
       "courseAnnouncements": [
         {
           "date": "29 Apr 2025",
