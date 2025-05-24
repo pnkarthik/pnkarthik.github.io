@@ -1,5 +1,22 @@
 [
   {
+    "date": "24 May 2025",
+    "content": "Received an instructor rating of 4.95/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Stochastic-Processes-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">AI5090: Stochastic Processes (Theory and Applications)</a>. <br />Received an instructor rating of 4.74/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">AI1013: Programming for AI</a>.<br />My sincere thanks to all students who provided generous feedback on my instruction.",
+    "isArchived": false,
+    "badgesData": [
+      {
+        "badgeName": "pdf",
+        "link": "./media/2025/AI5090/AI5090-course-feedback.pdf",
+        "badgeDisplayName": "AI5090-course-feedback"
+      },
+      {
+        "badgeName": "pdf",
+        "link": "./media/2025/AI1013/AI1013-course-feedback.pdf",
+        "badgeDisplayName": "AI1013-course-feedback"
+      }
+    ]
+  },
+  {
     "date": "29 Apr 2025",
     "content": "Lectures for the course on <a href=\"https://karthikpn.com/#/teaching/Stochastic-Processes-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Stochastic Processes</a> come to an end.<br />My sincere thanks and best wishes to all students who were part of the course.<br />My sincere thanks also to the TA for her generous support in evaluating the quizzes.",
     "badgesData": [
@@ -95,8 +112,13 @@
     "badgesData": [
       {
         "badgeName": "pdf",
-        "link": "./media/2024/course-feedback.pdf",
-        "badgeDisplayName": "course-feedback"
+        "link": "./media/2024/AI5030/AI5030-course-feedback.pdf",
+        "badgeDisplayName": "AI5030-course-feedback"
+      },
+      {
+        "badgeName": "pdf",
+        "link": "./media/2024/CS6660/CS6660-course-feedback.pdf",
+        "badgeDisplayName": "CS6660-course-feedback"
       }
     ]
   },
