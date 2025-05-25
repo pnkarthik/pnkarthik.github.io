@@ -136,7 +136,7 @@ const TeachingComponent = () => {
           Let \(m_1\) and \(m_2\) denote respectively the empirical first and second moments of the observed student scores, i.e., <MathJax>{'\\[m_1 = \\frac{1}{n} \\sum_{i=1}^{n} X_i, \\qquad \\qquad m_2 = \\frac{1}{n} \\sum_{i=1}^{n} X_i^2.\\]'}</MathJax>
           Let {`\\( \\mathcal{P}(a,b,m_1,m_2) \\)`} denote the set of all probability density functions on $[a,b]$ whose first and second moments are equal to $m_1$ and $m_2$ respectively. 
           The MaxEnt principle entails solving the following constrained optimisation problem:
-          <MathJax>{'\\[\\inf_{f \\, \\in \\, \\mathcal{P}(a,b,m_1,m_2)} \\ \\ \\int_{a}^{b} f(x) \\, \\log \\frac{1}{f(x)} \\, \\textup{d} x.\\]'}</MathJax>
+          <MathJax>{'\\[\\sup_{f \\, \\in \\, \\mathcal{P}(a,b,m_1,m_2)} \\ \\ \\int_{a}^{b} f(x) \\, \\log \\frac{1}{f(x)} \\, \\textup{d} x.\\]'}</MathJax>
           <p></p>
           <h4>Solving the Constrained Optimisation Problem</h4>
           <p></p>
@@ -165,7 +165,7 @@ const TeachingComponent = () => {
           <p></p>
           <h4>Solving for the Optimal Thresholds</h4>
           To determine the grades, we compute the optimal thresholds by solving the following least squares problem:
-          {`\\[ \\inf_{(a=T_0, \\ldots, T_{K}=b)} \\sum_{j=1}^{K} \\ \\int_{T_{j-1}}^{T_j} (x-\\mu_j)^2 \\, f^*(x) \\, \\textup{d}x,\\]`}
+          {`\\[ \\inf_{(a=T_0, \\ldots, T_{K}=b)} \\ \\sum_{j=1}^{K} \\ \\int_{T_{j-1}}^{T_j} (x-\\mu_j)^2 \\, f^*(x) \\, \\textup{d}x,\\]`}
           where $f^*$ above denotes the optimal MaxEnt probability density function, with $f^*(x) \propto \exp(\lambda_1^* \, x + \lambda_2^* \, x^2)$. A simple computation reveals that to meet the first-order stationarity conditions (KKT conditions), the optimal thresholds (say $T_0^*, \ldots, T_K^*$) must satisfy 
           {`\\[ T_0^*=a, \\quad T_K^*=b, \\qquad T_j^* = \\frac{\\mu_{j-1} + \\mu_j}{2}, \\quad j \\in \\{1, \\ldots, K-1\\}.  \\]`}
           Noting that the conditional means are functions of the thresholds and the optimal thresholds are functions of the conditional means, the following iterative algorithm may be used to arrive at the optimal thresholds in practice.
