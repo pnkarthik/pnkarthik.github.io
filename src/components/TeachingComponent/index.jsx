@@ -163,7 +163,7 @@ const TeachingComponent = () => {
           {`\\[ \\mu_j = \\mathbb{E}[X \\mid T_{j-1} \\leq X < T_j] = \\frac{\\int\\limits_{T_{j-1}}^{T_j} x \\, \\exp\\left(\\lambda_1^* \\, x + \\lambda_2^* \\, x^2\\right) \\, \\textup{d}x}{\\int\\limits_{T_{j-1}}^{T_j} \\exp\\left(\\lambda_1^* \\, x + \\lambda_2^* \\, x^2\\right) \\, \\textup{d}x}.\\]`}
           Here, the constants $\lambda_1^*$ and $\lambda_2^*$ are obtained from solving the constrained optimisation problem of the previous step.
           <p></p>
-          <h4>Solving for the Optimal Thresholds</h4>
+          <h4>Solving for the Optimal Thresholds via Least Squares</h4>
           To determine the grades, we compute the optimal thresholds by solving the following least squares problem:
           {`\\[ \\inf_{(a=T_0, \\ldots, T_{K}=b)} \\ \\sum_{j=1}^{K} \\ \\int_{T_{j-1}}^{T_j} (x-\\mu_j)^2 \\, f^*(x) \\, \\textup{d}x,\\]`}
           where $f^*$ above denotes the optimal MaxEnt probability density function, with $f^*(x) \propto \exp(\lambda_1^* \, x + \lambda_2^* \, x^2)$. A simple computation reveals that to meet the first-order stationarity conditions (KKT conditions), the optimal thresholds (say $T_0^*, \ldots, T_K^*$) must satisfy 
