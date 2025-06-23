@@ -1,9 +1,7 @@
-import React, { useRef } from "react";
+import React from "react";
 import "../../css/styles.css";
 
 const Profile = () => {
-  const navButton = useRef(null);
-  const linksContainerRef = useRef(null);
   const isMobile = window.innerWidth <= 991;
   return (
     <div className="profile col-lg-3 col-12 d-flex sticky">
@@ -35,37 +33,41 @@ const Profile = () => {
           </>
         )}
         {isMobile ? (
-          <div class="dropdown">
-            <button class="btn connectBtn" type="button" id="socialLinks" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Connect
-            </button>
-            <div class="dropdown-menu" aria-labelledby="socialLinks">
-              <div className="dropdownItem row flex-row col-12">
-                <i className="fa-solid fa-map-marker addressTag col-1 fa-lg socialLink" aria-hidden="true" />
-                <a href="https://maps.app.goo.gl/upMF7dmHeHZPCmNCA" className="col" target="_blank" rel="noopener noreferrer">704/A, Academic Block C</a>
-              </div>
-              <div className="dropdownItem row flex-row col-12">
-                <i className="fa-solid fa-envelope gmailColor col-1 fa-lg socialLink" aria-hidden="true" />
-                <a href="mailto:pnkarthik@ai.iith.ac.in" className="col" target="_blank" rel="noopener noreferrer">Email Me</a>
-              </div>
-              <div className="dropdownItem row flex-row col-12">
-                <i className="fab fa-linkedin col-1 fa-lg socialLink linkedinColor" aria-hidden="true" />
-                <a href="https://www.linkedin.com/in/pnkarthik/" className="col" target="_blank" rel="noopener noreferrer">My LinkedIn</a>
-              </div>
-              <div className="dropdownItem row flex-row col-12">
-                <i className="fa-brands fa-x-twitter twitter col-1 fa-lg socialLink" aria-hidden="true" />
-                <a href="https://twitter.com/karthikpn15" className="col" target="_blank" rel="noopener noreferrer">My Twitter</a>
-              </div>
-              <div className="dropdownItem row flex-row col-12">
-                <i className="fa-solid fa-graduation-cap scholarColor col-1 fa-lg socialLink" aria-hidden="true" />
-                <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4lrq7BxwkcnHZtGOnaSDEMBKjl2L2R9_V87cSPMkeXAuIS1GhjaxhV_xHcvmneVgkm1U9TA8Q2NH3mW3H4pbhjxzjV2Xgouv7sD7Kbl4l8JoFYOcw&user=D39u7bkAAAAJ" className="col" target="_blank" rel="noopener noreferrer">My Google Scholar</a>
-              </div>
-              <div className="dropdownItem row flex-row col-12">
-                <i className="fa-solid fa-file-text curriculumVitae col-1 fa-lg socialLink" aria-hidden="true" />
-                <a href={process.env.PUBLIC_URL + '/cv/pnkarthik-cv.pdf'} className="col" target="_blank" rel="noopener noreferrer">My Curriculum Vitae</a>
-              </div>
-            </div>
-          </div>
+          // <div class="dropdown">
+          //   <button class="btn connectBtn" type="button" id="socialLinks" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          //     Connect
+          //   </button>
+          //   <div class="dropdown-menu" aria-labelledby="socialLinks">
+          //     <div className="dropdownItem row flex-row col-12">
+          //       <i className="fa-solid fa-map-marker addressTag col-1 fa-lg socialLink" aria-hidden="true" />
+          //       <a href="https://maps.app.goo.gl/upMF7dmHeHZPCmNCA" className="col" target="_blank" rel="noopener noreferrer">704/A, Academic Block C</a>
+          //     </div>
+          //     <div className="dropdownItem row flex-row col-12">
+          //       <i className="fa-solid fa-envelope gmailColor col-1 fa-lg socialLink" aria-hidden="true" />
+          //       <a href="mailto:pnkarthik@ai.iith.ac.in" className="col" target="_blank" rel="noopener noreferrer">Email Me</a>
+          //     </div>
+          //     <div className="dropdownItem row flex-row col-12">
+          //       <i className="fab fa-linkedin col-1 fa-lg socialLink linkedinColor" aria-hidden="true" />
+          //       <a href="https://www.linkedin.com/in/pnkarthik/" className="col" target="_blank" rel="noopener noreferrer">My LinkedIn</a>
+          //     </div>
+          //     <div className="dropdownItem row flex-row col-12">
+          //       <i className="fa-brands fa-x-twitter twitter col-1 fa-lg socialLink" aria-hidden="true" />
+          //       <a href="https://twitter.com/karthikpn15" className="col" target="_blank" rel="noopener noreferrer">My Twitter</a>
+          //     </div>
+          //     <div className="dropdownItem row flex-row col-12">
+          //       <i className="fa-solid fa-graduation-cap scholarColor col-1 fa-lg socialLink" aria-hidden="true" />
+          //       <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4lrq7BxwkcnHZtGOnaSDEMBKjl2L2R9_V87cSPMkeXAuIS1GhjaxhV_xHcvmneVgkm1U9TA8Q2NH3mW3H4pbhjxzjV2Xgouv7sD7Kbl4l8JoFYOcw&user=D39u7bkAAAAJ" className="col" target="_blank" rel="noopener noreferrer">My Google Scholar</a>
+          //     </div>
+          //     <div className="dropdownItem row flex-row col-12">
+          //       <i className="fa-solid fa-file-text curriculumVitae col-1 fa-lg socialLink" aria-hidden="true" />
+          //       <a href={process.env.PUBLIC_URL + '/cv/pnkarthik-cv.pdf'} className="col" target="_blank" rel="noopener noreferrer">My Curriculum Vitae</a>
+          //     </div>
+          //   </div>
+          // </div>
+           <div className="connectBtn dropdownItem d-flex gap-2">
+           <i className="fa-solid fa-file-text curriculumVitae col-1 fa-lg socialLink" aria-hidden="true" />
+           <a href={process.env.PUBLIC_URL + '/cv/pnkarthik-cv.pdf'} className="col" target="_blank" rel="noopener noreferrer">CV</a>
+         </div>
         ) : (
           <div>
             <div className="d-flex flex-column socialLinks">

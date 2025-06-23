@@ -9,7 +9,6 @@ import Header from "./common/Header";
 import Home from "./Home";
 import Publications from "./PublicationsComponent/index";
 import TalksAndSeminars from "./TalksAndSeminars";
-import TeachingComponent from "./TeachingComponent";
 import { MathJaxContext } from "better-react-mathjax";
 import BlogsComponent from "./BlogsComponent";
 import RamanAndHisInnerClock from "./BlogsComponent/RamanAndHisInnerClockBlog";
@@ -19,6 +18,11 @@ import Footer from "./common/Footer";
 import CollaboratorsComponent from "./CollaboratorsComponent";
 import Profile from "./common/Profile";
 import CourseInformation from "./TeachingComponent/CourseInformation";
+import TestimonialsComponent from "./TeachingComponent/Testimonials";
+import Courses from "./TeachingComponent/Courses";
+import TeachingPhilosophy from "./TeachingComponent/TeachingPhilosophy";
+import GradingScheme from "./TeachingComponent/GradingScheme";
+import ContactComponent from "./ContactComponent";
 
 const App = () => {
   const config = {
@@ -64,7 +68,7 @@ const App = () => {
       <HashRouter>
         <Header />
           <div className="contentContainer">
-            <div className="container col-md-12 col-lg-10">
+            <div className="container-fluid col-md-12 col-lg-10">
               <div className="row col-12 p-0 m-0">
                 <Profile />
                 <div className="col paddingTop30">
@@ -72,7 +76,6 @@ const App = () => {
                     <Route path="/" element={<Home />} />
                     <Route path="/publications" element={<Publications />} />
                     <Route path="/talksAndSeminars" element={<TalksAndSeminars />} />
-                    <Route path="/teaching" element={<TeachingComponent />} />
                     <Route path="/bio" element={<Bio />} />
                     <Route path="/blogs" element={<BlogsComponent />} />
                     <Route path="/blogs/raman-and-his-inner-clock" element={<RamanAndHisInnerClock />} />
@@ -80,6 +83,11 @@ const App = () => {
                     <Route path="/archivedNews" element={<ArchivedNews />} />
                     <Route path="/collaborators" element={<CollaboratorsComponent />} /> 
                     <Route path="/teaching/:courseName" element={<CourseInformation />} />
+                    <Route path="/testimonials" element={<TestimonialsComponent />} />
+                    <Route path="/courses" element={<Courses />} />
+                    <Route path="/teachingPhilosophy" element={<TeachingPhilosophy />} />
+                    <Route path="/gradingScheme" element={<GradingScheme />} />
+                    <Route path="/contact" element={<ContactComponent />} />
                   </Routes>
                 </div>
               </div>
