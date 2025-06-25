@@ -39,6 +39,16 @@
     "duration": "Jan 2025 -",
     "photo": "default-student.png",
     "websiteLink": ""
+    },
+    {
+    "fullName": "Agrima Goyal",
+    "department": "CSE (AI)",
+    "program": "BTech Intern",
+    "batch": "2022",
+    "institute": "Manipal Institute of Technology, Bengaluru",
+    "duration": "May-Jul 2025",
+    "photo": "agrima.jpeg",
+    "websiteLink": "https://www.linkedin.com/in/agrima-goyal-388243256/"
     }
   ],
 
