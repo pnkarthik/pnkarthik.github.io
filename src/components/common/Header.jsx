@@ -17,6 +17,7 @@ const Header = () => {
         { name: "Publications", link: "#/publications" },
         { name: "Talks", link: "#/talksAndSeminars" },
         { name: "Collaborators", link: "#/collaborators" },
+        { name: "Groups", link: "#/groups" },
       ],
     },
     {

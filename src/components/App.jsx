@@ -23,6 +23,7 @@ import Courses from "./TeachingComponent/Courses";
 import TeachingPhilosophy from "./TeachingComponent/TeachingPhilosophy";
 import GradingScheme from "./TeachingComponent/GradingScheme";
 import ContactComponent from "./ContactComponent";
+import GroupsComponent from "./GroupsComponent";
 
 const App = () => {
   const config = {
@@ -88,6 +89,7 @@ const App = () => {
                     <Route path="/teachingPhilosophy" element={<TeachingPhilosophy />} />
                     <Route path="/gradingScheme" element={<GradingScheme />} />
                     <Route path="/contact" element={<ContactComponent />} />
+                    <Route path="/groups" element={<GroupsComponent />} />
                   </Routes>
                 </div>
               </div>
