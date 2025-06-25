@@ -89,7 +89,7 @@ const App = () => {
                     <Route path="/teachingPhilosophy" element={<TeachingPhilosophy />} />
                     <Route path="/gradingScheme" element={<GradingScheme />} />
                     <Route path="/contact" element={<ContactComponent />} />
-                    <Route path="/groups" element={<GroupsComponent />} />
+                    <Route path="/group" element={<GroupsComponent />} />
                   </Routes>
                 </div>
               </div>

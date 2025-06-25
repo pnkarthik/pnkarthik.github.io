@@ -80,6 +80,9 @@ const StudentTableComponent = ({ title, studentData }) => {
                         </div>
                       </div>
                     </div>
+                    <div className="text-muted" style={{ fontSize: "0.875rem" }}>
+                      {person.role}
+                    </div>
                   </td>
 
                 </tr>

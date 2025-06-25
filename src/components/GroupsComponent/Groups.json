@@ -8,7 +8,8 @@
     "institute": "IIT Hyderabad",
     "duration": "Dec 2024 -",
     "photo": "sofia.jpeg",
-    "websiteLink": ""
+    "websiteLink": "",
+    "role": "Thesis Student"
   },
   {
     "fullName": "K A Midhunkumar",
@@ -18,7 +19,8 @@
     "institute": "IIT Hyderabad",
     "duration": "Dec 2024 -",
     "photo": "midhun.jpg",
-    "websiteLink": "https://www.linkedin.com/in/k-a-midhunkumar"
+    "websiteLink": "https://www.linkedin.com/in/k-a-midhunkumar",
+    "role": "Thesis Student"
     },
   {
     "fullName": "Deekshith Rathod K",
@@ -28,9 +30,10 @@
     "institute": "IIT Hyderabad",
     "duration": "Dec 2024 -",
     "photo": "deekshith.png",
-    "websiteLink": ""
+    "websiteLink": "",
+    "role": "Thesis Student"
     },
-    {
+  {
     "fullName": "Ladva Umanshiva Hiteshiva",
     "department": "AI",
     "program": "BTech",
@@ -38,17 +41,19 @@
     "institute": "IIT Hyderabad",
     "duration": "Jan 2025 -",
     "photo": "default-student.png",
-    "websiteLink": ""
+    "websiteLink": "",
+    "role": "Mini Project"
     },
-    {
+  {
     "fullName": "Agrima Goyal",
     "department": "CSE (AI)",
-    "program": "BTech Intern",
+    "program": "BTech",
     "batch": "2022",
     "institute": "Manipal Institute of Technology, Bengaluru",
     "duration": "May-Jul 2025",
     "photo": "agrima.jpeg",
-    "websiteLink": "https://www.linkedin.com/in/agrima-goyal-388243256/"
+    "websiteLink": "https://www.linkedin.com/in/agrima-goyal-388243256/",
+    "role": "Intern"
     }
   ],
 
@@ -61,7 +66,8 @@
     "institute": "IIT Hyderabad",
     "duration": "Aug-Dec 2024",
     "websiteLink": "https://www.linkedin.com/in/formonia?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    "photo": "pranay.jpg"
+    "photo": "pranay.jpg",
+    "role": "Mini Project"
   },
     {
     "fullName": "Yasir Usmani",
@@ -71,7 +77,8 @@
     "institute": "IIT Hyderabad",
     "duration": "Aug-Dec 2024",
     "websiteLink": "https://www.linkedin.com/in/yasir-usmani-585010280",
-    "photo": "yasir.png"
+    "photo": "yasir.png",
+    "role": "Mini Project"
   },
   {
     "fullName": "Ansh Vardhan",
@@ -81,7 +88,8 @@
     "institute": "IIT Hyderabad",
     "duration": "Apr-Nov 2024",
     "websiteLink": "https://www.linkedin.com/in/ansh-vardhan-04830223b/",
-    "photo": "ansh.jpg"
+    "photo": "ansh.jpg",
+    "role": "Intern"
   }
 ]
 }
