@@ -14,10 +14,10 @@ const Header = () => {
       name: "Research",
       link: "#/research",
       children: [
+        { name: "Group", link: "#/groups" },
         { name: "Publications", link: "#/publications" },
         { name: "Talks", link: "#/talksAndSeminars" },
-        { name: "Collaborators", link: "#/collaborators" },
-        { name: "Groups", link: "#/groups" },
+        { name: "Collaborators", link: "#/collaborators" }
       ],
     },
     {

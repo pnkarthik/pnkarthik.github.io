@@ -19,7 +19,7 @@ const Home = () => {
         </div>
       </div>
       <div className="border border-2 border-danger p-2 fs-7 mb-3">
-        I do not consider interns from outside IIT Hyderabad. Apologies in advance if I do not reply to your internship request.
+        Internship requests from students outside IIT Hyderabad are considered only if accompanied by a recommendation from a known academic acquaintance (such as a colleague or collaborator, either within or outside IIT Hyderabad). I may not respond to unsolicited requests for internships.
       </div>
       <div className="row alignBaseline">
         <div className="col-md-12">

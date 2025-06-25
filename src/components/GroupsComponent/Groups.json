@@ -1,108 +1,77 @@
 {
-  "phdStudents": [
+  "currentStudents": [
     {
-      "name": "Vincent Y. F. Tan",
-      "websiteLink": "https://vyftan.github.io",
-      "photo": "vincent.png"
+    "fullName": "Kavali Sofia Sagar",
+    "department": "AI",
+    "batch": "2024",
+    "program": "PhD",
+    "institute": "IIT Hyderabad",
+    "duration": "Dec 2024 - Present",
+    "photo": "sofia.jpeg",
+    "websiteLink": ""
+  },
+  {
+    "fullName": "K A Midhunkumar",
+    "department": "AI",
+    "program": "MTech (2-Year)",
+    "batch": "2024",
+    "institute": "IIT Hyderabad",
+    "duration": "Dec 2024 - Present",
+    "photo": "midhun.jpg",
+    "websiteLink": "https://www.linkedin.com/in/k-a-midhunkumar"
+    },
+  {
+    "fullName": "Deekshith Rathod K",
+    "department": "AI",
+    "program": "MTech (2-Year)",
+    "batch": "2024",
+    "institute": "IIT Hyderabad",
+    "duration": "Dec 2024 - Present",
+    "photo": "deekshith.png",
+    "websiteLink": ""
     },
     {
-      "name": "Chen Zhirui",
-      "websiteLink": "https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en",
-      "photo": "zhirui.jpeg"
-    },
-    {
-      "name": "Arsh Arora",
-      "websiteLink": "https://www.linkedin.com/in/arsh-arora/",
-      "photo": "arsh-arora.jpg"
-    },
-    {
-      "name": "Kota Srinivas Reddy",
-      "websiteLink": "https://sites.google.com/view/srinivas-reddy-kota/home",
-      "photo": "srinivas.jpg"
-    },
-    {
-      "name": "Ali Tajer",
-      "websiteLink": "https://www.isg-rpi.com",
-      "photo": "ali-tajer.jpg"
-    },
-    {
-      "name": "Arpan Mukherjee",
-      "websiteLink": "https://mukherjee-arpan.github.io",
-      "photo": "arpan.jpeg"
-    },
-    {
-      "name": "Yeow Meng Chee",
-      "websiteLink": "https://ymchee66.github.io/home/",
-      "photo": "ymchee.jpg"
-    },
-    {
-      "name": "Krishna Jagannathan",
-      "websiteLink": "https://www.ee.iitm.ac.in/~krishnaj/",
-      "photo": "krishna.jpg"
-    },
-    {
-      "name": "Bharati Kamakoti",
-      "websiteLink": "https://borate267.github.io",
-      "photo": "bharati.jpg"
-    },
-    {
-      "name": "Nikhil Karamchandani",
-      "websiteLink": "https://sites.google.com/site/nikhilkaram/",
-      "photo": "nikhil.jpeg"
-    },
-    {
-      "name": "Jayakrishnan Nair",
-      "websiteLink": "https://www.ee.iitb.ac.in/~jayakrishnan.nair/",
-      "photo": "JK.jpeg"
-    },
-    {
-      "name": "Rajesh Sundaresan",
-      "websiteLink": "https://ece.iisc.ac.in/~rajeshs/",
-      "photo": "rajesh.jpg"
-    }   
-  ],
-  "mtechStudents": [
-    {
-      "name": "Neelesh B. Mehta",
-      "websiteLink": "https://ece.iisc.ac.in/~nextgenwrl/Neelesh.html",
-      "photo": "neelesh.jpg"
-    },
-    {
-      "name": "Geethu Joseph",
-      "websiteLink": "https://sites.google.com/view/geethujoseph/home",
-      "photo": "geethu.jpg"
-    },
-    {
-      "name": "Raksha Ramakrishna",
-      "websiteLink": "https://www.linkedin.com/in/raksha-ramakrishna-b4390374/?originalSubdomain=se",
-      "photo": "raksha.jpg"
+    "fullName": "Ladva Umanshiva Hiteshiva",
+    "department": "AI",
+    "program": "BTech",
+    "batch": "2022",
+    "institute": "IIT Hyderabad",
+    "duration": "Jan 2025 - Present",
+    "photo": "default-student.png",
+    "websiteLink": ""
     }
   ],
-  "interns": [
+
+  "alumni": [
+  {
+    "fullName": "Pranay Pramod Kumar Jain",
+    "department": "AI",
+    "batch": "2022",
+    "program": "BTech",
+    "institute": "IIT Hyderabad",
+    "duration": "Aug 2024 – Dec 2024",
+    "websiteLink": "",
+    "photo": "pranay.jpg"
+  },
     {
-      "name": "Sarath Yasodharan",
-      "websiteLink": "https://sarath-yasodharan.github.io",
-      "photo": "sarath.jpg"
-    },
-    {
-      "name": "Nihesh Rathod",
-      "websiteLink": "https://www.linkedin.com/in/nihesh-rathod/",
-      "photo": "nihesh.jpg"
-    },
-    {
-      "name": "Ajeesh Sahadevan",
-      "websiteLink": "https://www.linkedin.com/in/ajeesh-sahadevan/",
-      "photo": "ajeesh.jpeg"
-    },
-    {
-      "name": "Pratik Verma",
-      "websiteLink": "https://www.linkedin.com/in/vpratik/",
-      "photo": "pratik.jpg"
-    },
-    {
-      "name": "Chandra R. Murthy",
-      "websiteLink": "https://ece.iisc.ac.in/~cmurthy/doku.php?id=home",
-      "photo": "chandra.jpg"
-    }
-  ]
+    "fullName": "Yasir Usmani",
+    "department": "AI",
+    "batch": "2022",
+    "program": "BTech",
+    "institute": "IIT Hyderabad",
+    "duration": "Aug 2024 – Dec 2024",
+    "websiteLink": "https://www.linkedin.com/in/yasir-usmani-585010280",
+    "photo": "yasir.png"
+  },
+  {
+    "fullName": "Ansh Vardhan",
+    "department": "ES",
+    "batch": "2021",
+    "program": "BTech",
+    "institute": "IIT Hyderabad",
+    "duration": "Apr 2024 – Nov 2024",
+    "websiteLink": "https://www.linkedin.com/in/ansh-vardhan-04830223b/",
+    "photo": "ansh.jpg"
+  }
+]
 }
