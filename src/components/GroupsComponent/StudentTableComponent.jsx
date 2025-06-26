@@ -51,6 +51,7 @@ const StudentTableComponent = ({ title, studentData }) => {
                         person.fullName
                       )}
                     </div>
+                    <div dangerouslySetInnerHTML={{ __html: person.jointSupervision }} />
                   </td>
 
                   {/* DEPARTMENT COLUMN */}

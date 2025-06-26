@@ -9,7 +9,8 @@
     "duration": "Dec 2024 -",
     "photo": "sofia.jpeg",
     "websiteLink": "",
-    "role": "Thesis Student"
+    "role": "Thesis Student",
+    "jointSupervision": ""
   },
   {
     "fullName": "K A Midhunkumar",
@@ -20,7 +21,8 @@
     "duration": "Dec 2024 -",
     "photo": "midhun.jpg",
     "websiteLink": "https://www.linkedin.com/in/k-a-midhunkumar",
-    "role": "Thesis Student"
+    "role": "Thesis Student",
+    "jointSupervision": ""
     },
   {
     "fullName": "Deekshith Rathod K",
@@ -31,7 +33,20 @@
     "duration": "Dec 2024 -",
     "photo": "deekshith.png",
     "websiteLink": "",
-    "role": "Thesis Student"
+    "role": "Thesis Student",
+    "jointSupervision": ""
+    },
+  {
+    "fullName": "Vaishnavi Anekar",
+    "department": "EE",
+    "program": "MTech (2-Year)",
+    "batch": "2024",
+    "institute": "IIT Hyderabad",
+    "duration": "Jun 2025 -",
+    "photo": "vaishnavi.jpeg",
+    "websiteLink": "https://www.linkedin.com/in/vaishnavi-anekar-6316b1207/",
+    "role": "Thesis Student",
+    "jointSupervision": "(Jointly with <a href=\"https://people.iith.ac.in/anjanaam/\" target=\"_blank\" rel=\"noopener noreferrer\">Dr. Anjana A M</a>)"
     },
   {
     "fullName": "Ladva Umanshiva Hiteshiva",
