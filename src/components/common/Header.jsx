@@ -17,7 +17,8 @@ const Header = () => {
         { name: "Group", link: "#/group" },
         { name: "Publications", link: "#/publications" },
         { name: "Talks", link: "#/talksAndSeminars" },
-        { name: "Collaborators", link: "#/collaborators" }
+        { name: "Collaborators", link: "#/collaborators" },
+        { name: "Funding", link: "#/funding" }
       ],
     },
     {

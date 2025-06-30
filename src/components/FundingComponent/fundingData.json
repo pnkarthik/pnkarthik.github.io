@@ -1,0 +1,20 @@
+[
+  {
+    "scheme": "Seed Grant",
+    "sponsor": "<a href=\"https://iith.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">IIT Hyderabad</a>",
+    "from": "Sep 2024",
+    "to": "Sep 2026",
+    "amount": "30,00,000",
+    "schemeDetails": "Start-up research grant provided to newly joined faculty",
+    "sponsorDetails": ""
+  },
+  {
+    "scheme": "<a href=\"https://www.anrfonline.in/ANRF/its\" target=\"_blank\" rel=\"noopener noreferrer\">International Travel Scheme</a>",
+    "sponsor": "<a href=\"https://www.anrfonline.in/ANRF/HomePage\" target=\"_blank\" rel=\"noopener noreferrer\">ANRF</a>",
+    "from": "Jun 2024",
+    "to": "Sep 2024",
+    "amount": "1,29,485",
+    "schemeDetails": "Financial support to present paper at <a href=\"https://2024.ieee-isit.org/\" target=\"_blank\" rel=\"noopener noreferrer\">ISIT 2024</a> in Athens, Greece",
+     "sponsorDetails": "Anusandhan National Research Foundation"
+  }
+]
