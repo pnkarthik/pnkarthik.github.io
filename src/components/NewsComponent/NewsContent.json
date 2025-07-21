@@ -1,7 +1,7 @@
 [
   {
     "date": "24 May 2025",
-    "content": "Received an instructor rating of 4.95/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Stochastic-Processes-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">AI5090: Stochastic Processes (Theory and Applications)</a>. <br />Received an instructor rating of 4.74/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">AI1013: Programming for AI</a>.<br />My sincere thanks to all students who provided generous feedback on my instruction.",
+    "content": "Received an instructor rating of 4.95/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Stochastic-Processes-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">AI5090: Stochastic Processes (Theory and Applications)</a> taught during Jan-Apr 2025. <br />Received an instructor rating of 4.74/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">AI1013: Programming for AI</a> taught during Feb-Apr 2025.<br />My sincere thanks to all students who provided generous feedback on my instruction.",
     "isArchived": false,
     "badgesData": [
       {
@@ -35,11 +35,13 @@
             "link": "./media/2025/AI5090/AI5090-group-photo-3.jpeg",
             "badgeDisplayName": "group photo 3"
           }
-        ]
+        ],
+    "isArchived": true
   },
   {
     "date": "28 Apr 2025",
-    "content": "Lectures for the course on <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Programming for AI</a> come to an end.<br />My sincere thanks and best wishes to all students who were part of the course, and to the TAs who inspired the students by presenting their works.<br />My sincere thanks to all the TAs for their generous support in evaluating the course assignments."
+    "content": "Lectures for the course on <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Programming for AI</a> come to an end.<br />My sincere thanks and best wishes to all students who were part of the course, and to the TAs who inspired the students by presenting their works.<br />My sincere thanks to all the TAs for their generous support in evaluating the course assignments.",
+    "isArchived": true
   },
   {
     "date": "03 Apr 2025",
@@ -61,22 +63,22 @@
         "badgeDisplayName": "video"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "07 Mar 2025",
     "content": "Invited to serve as a TPC member for the 2025 Asia Pacific Workshop on Data Science and Information Theory <a href=\"https://www.apwdsit.org/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">(APWDSIT 2025)</a>!<br />Special thanks to <a href=\"https://vyftan.github.io/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Tan</a> for the kind invitation.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "09 Feb 2025",
     "content": "Co-teaching a 2-credit course on <em>Programming for AI</em> with Dr. <a href=\"https://aravindreddy.com/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Aravind Reddy</a>.<br />See the <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "03 Feb 2025",
     "content": "Promoted from Assistant Professor Gr-II to Assistant Professor Gr-I.<br />Heartfelt gratitude to all my mentors and colleagues who have supported me thus far!",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "22 Jan 2025",
@@ -93,22 +95,22 @@
         "badgeDisplayName": "arxiv"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "30 Dec 2024",
     "content": "Invited to serve as a TPC member for <a href=\"https://2025.ieee-isit.org/home\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">ISIT 2025</a>!<br />Special thanks to <a href=\"https://vyftan.github.io/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Tan</a> for the kind invitation.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "29 Dec 2024",
     "content": "Teaching a 3-credit course on Stochastic Processes during Jan-Apr 2025.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/Stochastic-Processes-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "07 Dec 2024",
     "content": "Received an instructor rating of 4.84/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Probability-2024\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">AI5030: Probability and Stochastic Processes</a>. <br />Received an instructor rating of 4.8/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/MDS-Probability-2024\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">CS6660: Mathematical Foundations of Data Science</a>.<br />A big shout-out to all students who patiently listened to my endless musings on probability.<br />My heartfelt thanks to all the teaching assistants for pouring their heart into the course and helping with the course evaluation.",
-    "isArchived": false,
+    "isArchived": true,
     "badgesData": [
       {
         "badgeName": "pdf",
