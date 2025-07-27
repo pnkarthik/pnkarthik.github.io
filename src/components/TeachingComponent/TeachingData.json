@@ -2385,5 +2385,118 @@
           ]
         }
       ]
+    },
+    "Probability-2025":
+    {
+      "isIISc": false,
+      "year": "2025",
+      "courseMonth": "Jul-Nov",
+      "title": "<span>Probability</span> <span>And</span> <span>Stochastic</span> <span>Processes</span>",
+      "noOfInstructors": 1,
+      "courseInstructor": "<span>Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a> </span>",
+      "courseWebsite": "<a href=\"https://ece.iisc.ac.in/~parimal/2018/random/\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">https://ece.iisc.ac.in/~parimal/2018/random/</a>",
+      "term": "Jul-Nov 2025",
+      "segment": "1-6",
+      "timeTableSlot": "S",
+      "classHours": "Tuesday: 16:00 - 17:25, Friday: 14:30 - 15:55",
+      "venue": "LHC-04",
+      "noOfCredits": 3,
+      "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. The course will delve into the notions of $\\sigma$-algebras, random variables as measurable functions, expectations as abstract integrals, and some aspects of convergence of sequences of random variables.<p></p>This course is cross-listed with EE5817: Random Variables and Stochastic Processes.",
+      "courseAnnouncements": [
+        {
+          "date": "27 Jul 2024",
+          "content": "The lectures for the course will be conducted in LHC-04.<br />The first lecture will be conducted on 29 Jul 2025.<br />All course related announcements will take place over Google Classroom.<br />If you have not been added to the Google Classroom for the course, please approach me or write me an email."
+        }
+      ],
+      "courseContents": [
+        {
+          "title": "Course Contents",
+          "description": "Functions, cardinality, countability, sample space, events, algebra, $\\sigma$-algebra, probability measure, properties of probability measures, continuity of probability, conditional probability and Bayes' Theorem, independence of events, random variables and measurability, functions of random variables, expectations as Lebesgue integrals, independence of random variables, computer simulation of random variables, moment generating function, characteristic function, Borel-Cantelli lemma, strong law of large numbers, weak law of large numbers, central limit theorem, sequences of random variables and their convergence, Gaussian random vectors."
+        },
+        {
+          "title": "Notes",
+          "description": "This section will be updated with the slides used in class. As the classes progress, the notes from previous lectures will be made available accordingly. The slides provided here do not include the handwritten annotations used for in-class explanations. If you wish to access the annotated slides, please contact me directly.",
+          "list": [
+          ]
+        },
+        {
+          "title": "Homework Assignments",
+          "description": "",
+          "list": [
+          ]
+        },
+        {
+          "title": "Quizzes and Mid-Terms",
+          "description": "",
+          "list": [
+          ]
+        },
+        {
+          "title": "References",
+          "description": "",
+          "list": [
+            {
+              "title": "<em><a href=\"https://global.oup.com/academic/product/probability-and-random-processes-9780198572220?cc=in&lang=en&\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Probability and Random Processes</a></em>, Geoffrey Grimmett and David Stirzaker, 3rd Edition, 2001."
+            },
+            {
+              "title": "<em><a href=\"http://www.amazon.in/First-Course-Probability-9e/dp/9332519072\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">A First Course in Probability</a></em>, Sheldon M. Ross, 10th Edition, 2019."
+            },
+            {
+              "title": "<em><a href=\"https://ece.iisc.ac.in/~anurag/books/anurag/spqt.pdf\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Discrete Event Stochastic Processes</a></em>, Anurag Kumar, Department of ECE, IISc."
+            },
+            {
+              "title": "<em><a href=\"http://www.springer.com/in/book/9783540438717\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Probability Essentials</a></em>, Jean Jacod & Philip Protter, Springer, 2004."
+            },
+            {
+              "title": "<em><a href=\"https://store.doverpublications.com/products/9780486821597\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Foundations of the Theory of Probability</a></em>, A. N. Kolmogorov, 2nd Edition, Dover, 2018."
+            },
+            {
+              "title": "<em><a href=\"https://www.pearson.com/en-us/subject-catalog/p/real-analysis/P200000007113/9780136853473\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Real Analysis</a></em>, H. L. Royden and P. M. Fitzpatrick, 5th Edition, Pearson, 2023."
+            },
+            {
+              "title": "<em><a href=\"https://www.wiley.com/en-us/An+Introduction+to+Probability+Theory+and+Its+Applications%2C+Volume+2%2C+2nd+Edition-p-9780471257097\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">An Introduction to Probability Theory and its Applications</a></em>, W. Feller, 2nd Edition, Wiley, 1991."
+            },
+            {
+              "title": "<em><a href=\"https://www.wiley.com/en-us/Probability+and+Measure%2C+Anniversary+Edition-p-9781118122372\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Probability and Measure</a></em>, P. Billingsley, Anniversary Edition, Wiley, 2012."
+            },
+            {
+              "title": "<em><a href=\"https://www.ee.iitm.ac.in/~krishnaj/EE5110.htm\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Probability Foundations for Electrical Engineers</a></em>, Krishna Jagannathan, NPTEL video lectures, IIT Madras."
+            },
+            {
+              "title": "Prof. B. V. Rao's <a href=\"https://www.angelfire.com/falcon/isinotes/bvrao/Measure.pdf\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">notes</a> on measure theoretic probability. See also his wonderful compilation of <a href=\"https://www.angelfire.com/falcon/isinotes/bvrao/index.html\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">exercises</a>."
+            },
+            {
+              "title": "Prof. Manjunath Krishnapur's <a href=\"https://math.iisc.ac.in/~manju/PT2019/probabilitytheory.html\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">course</a> on probability theory taught at IISc."
+            }
+          ]
+        },
+        {
+          "title": "Teaching Assistants",
+          "description": "",
+          "isCard": true,
+          "list": [
+            {
+              "name": "Kavali Sofia Sagar",
+              "link": "",
+              "profilePhoto": "sofia.jpeg"
+            },
+            {
+              "name": "Deekshith Rathod K",
+              "link": "",
+              "profilePhoto": "deekshith.png"
+            },
+            {
+              "name": "Midhunkumar K A",
+              "link": "https://www.linkedin.com/in/k-a-midhunkumar",
+              "profilePhoto": "midhun.jpg"
+            },
+            {
+              "name": "Yashmitha Gogineni",
+              "link": "",
+              "profilePhoto": ""
+            }
+          ]
+        }
+      ]
     }
 }

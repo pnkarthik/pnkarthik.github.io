@@ -58,7 +58,10 @@
     "photo": "shiva.jpg",
     "websiteLink": "https://www.linkedin.com/in/umanshiva-ladva-b24a8331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "role": "Mini Project"
-    },
+    }
+  ],
+
+  "alumni": [
   {
     "fullName": "Agrima Goyal",
     "department": "CSE (AI)",
@@ -69,10 +72,7 @@
     "photo": "agrima.jpeg",
     "websiteLink": "https://www.linkedin.com/in/agrima-goyal-388243256/",
     "role": "Intern"
-    }
-  ],
-
-  "alumni": [
+  },
   {
     "fullName": "Pranay Pramod Kumar Jain",
     "department": "AI",
@@ -84,7 +84,7 @@
     "photo": "pranay.jpg",
     "role": "Mini Project"
   },
-    {
+  {
     "fullName": "Yasir Usmani",
     "department": "AI",
     "batch": "2022",
