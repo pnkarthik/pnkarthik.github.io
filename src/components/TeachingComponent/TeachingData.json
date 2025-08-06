@@ -2404,7 +2404,11 @@
       "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. The course will delve into the notions of $\\sigma$-algebras, random variables as measurable functions, expectations as abstract integrals, and some aspects of convergence of sequences of random variables.<p></p>This course is cross-listed with EE5817: Random Variables and Stochastic Processes.",
       "courseAnnouncements": [
         {
-          "date": "27 Jul 2024",
+          "date": "01 Aug 2025",
+          "content": "Mid-Term Exam 1 will be conducted on 24 Sep 2025 (Wednesday) from 16:30 hrs to 19:00 hrs.<br />Mid-Term Exam 2 will be conducted on 29 Oct 2025 (Wednesday) from 16:30 hrs to 19:00 hrs.<br />Final Exam will be conducted on 21 Nov 2025 (Friday) from 14:30 hrs to 17:30 hrs.<br />Classroom details will be intimated closer to the date of each exam."
+        },
+        {
+          "date": "27 Jul 2025",
           "content": "The lectures for the course will be conducted in LHC-04.<br />The first lecture will be conducted on 29 Jul 2025.<br />All course related announcements will take place over Google Classroom.<br />If you have not been added to the Google Classroom for the course, please approach me or write me an email."
         }
       ],
@@ -2417,12 +2421,62 @@
           "title": "Notes",
           "description": "This section will be updated with the slides used in class. As the classes progress, the notes from previous lectures will be made available accordingly. The slides provided here do not include the handwritten annotations used for in-class explanations. If you wish to access the annotated slides, please contact me directly.",
           "list": [
+            {
+              "title": "<span>Course logistics.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-00.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Functions, domain, co-domain, range, image, pre-image, injection, surjection, bijection, cardinality, finite sets, countably infinite sets, countable sets, examples of countably infinite sets ($\\mathbb{N}, \\mathbb{Q}, \\mathbb{Z}$, the set of prime numbers, the set of odd natural numbers, the set of even natural numbers), proof that $\\mathbb{Q}$ is countably infinite.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-01.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Proof that $\\mathbb{Q}$ is countably infinite (contd.), countable union of countable sets is countable (with proof), uncountable sets, examples of uncountable sets ($\\{0,1\\}^{\\mathbb{N}}, [0,1], \\mathbb{R}, \\mathbb{R} \\setminus \\mathbb{Q}$, cantor set, $2^{\\mathbb{N}}$), proof that $\\{0,1\\}^{\\mathbb{N}}$ is uncountable, proof that $[0,1]$ is uncountable.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-02.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Cantor set and its uncountability (proof idea only), proof that $|2^A|>|A|$ for any set $A$, different levels of infinity (such as $\\aleph_0=|\\mathbb{N}|, \\aleph_1=|2^{\\mathbb{N}}|=|\\mathbb{R}|, \\aleph_2=|2^{\\mathbb{R}}|$ and so on), a formal study of probability: Bertrand's paradox, sample space.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-03.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            }
           ]
         },
         {
           "title": "Homework Assignments",
           "description": "",
           "list": [
+            {
+              "title": "<span>Homework 01 (real analysis primer: functions, countable sets, uncountable sets).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-homework-01.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            }
           ]
         },
         {
