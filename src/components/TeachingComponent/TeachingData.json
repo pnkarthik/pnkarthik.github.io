@@ -2427,7 +2427,7 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-lecture-00.pdf",
-                  "badgeDisplayName": "pdf"
+                  "badgeDisplayName": "slides"
                 }
               ]
             },
@@ -2437,7 +2437,7 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-lecture-01.pdf",
-                  "badgeDisplayName": "pdf"
+                  "badgeDisplayName": "slides"
                 }
               ]
             },
@@ -2447,7 +2447,7 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-lecture-02.pdf",
-                  "badgeDisplayName": "pdf"
+                  "badgeDisplayName": "slides"
                 }
               ]
             },
@@ -2457,7 +2457,17 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-lecture-03.pdf",
-                  "badgeDisplayName": "pdf"
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Probability basics: sample space, algebra (definition), examples of algebra, insufficiency of algebra (explained by considering the experiment of tossing a coin until the first head is observed), countable unions and $\\sigma$-algebra (definition), examples of $\\sigma$-algebra for finite and countably infinite sets.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-04.pdf",
+                  "badgeDisplayName": "slides"
                 }
               ]
             }
