@@ -2408,6 +2408,10 @@
           "content": "Lecture on 13 Aug 2025 to be conducted in LHC-03 in lieu of the lecture on 26 Aug 2025.<br />"
         },
         {
+          "date": "06 Aug 2025",
+          "content": "Homework 1 uploaded.<br />Quiz 1 (based on Homework 1) to be conducted on 12 Aug 2025."
+        },
+        {
           "date": "01 Aug 2025",
           "content": "Mid-Term Exam 1 will be conducted on 24 Sep 2025 (Wednesday) from 16:30 hrs to 19:00 hrs.<br />Mid-Term Exam 2 will be conducted on 29 Oct 2025 (Wednesday) from 16:30 hrs to 19:00 hrs.<br />Final Exam will be conducted on 21 Nov 2025 (Friday) from 14:30 hrs to 17:30 hrs.<br />Classroom details will be intimated closer to the date of each exam."
         },
@@ -2507,7 +2511,12 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-homework-01.pdf",
-                  "badgeDisplayName": "pdf"
+                  "badgeDisplayName": "homework"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-homework-01-solutions.pdf",
+                  "badgeDisplayName": "solutions"
                 }
               ]
             }
@@ -2517,6 +2526,21 @@
           "title": "Quizzes and Mid-Terms",
           "description": "",
           "list": [
+            {
+              "title": "<span>Quiz 01.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-quiz-01.pdf",
+                  "badgeDisplayName": "quiz"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-quiz-01-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            }
           ]
         },
         {
