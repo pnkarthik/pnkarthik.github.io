@@ -2404,6 +2404,10 @@
       "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. The course will delve into the notions of $\\sigma$-algebras, random variables as measurable functions, expectations as abstract integrals, and some aspects of convergence of sequences of random variables.<p></p>This course is cross-listed with EE5817: Random Variables and Stochastic Processes.",
       "courseAnnouncements": [
         {
+          "date": "08 Aug 2025",
+          "content": "Lecture on 13 Aug 2025 to be conducted in LHC-03 in lieu of the lecture on 26 Aug 2025.<br />"
+        },
+        {
           "date": "01 Aug 2025",
           "content": "Mid-Term Exam 1 will be conducted on 24 Sep 2025 (Wednesday) from 16:30 hrs to 19:00 hrs.<br />Mid-Term Exam 2 will be conducted on 29 Oct 2025 (Wednesday) from 16:30 hrs to 19:00 hrs.<br />Final Exam will be conducted on 21 Nov 2025 (Friday) from 14:30 hrs to 17:30 hrs.<br />Classroom details will be intimated closer to the date of each exam."
         },
@@ -2467,6 +2471,26 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-lecture-04.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Cylinder sets associated with finite-length binary strings, construction of $\\sigma$-algebra for $\\{0,1\\}^{\\mathbb{N}}$ via cylinder sets, Borel $\\sigma$-algebra $\\mathscr{B}(\\{0,1\\}^{\\mathbb{N}})$, construction of $\\mathscr{B}(0,1)$ by considering the collection of all open sub-intervals.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-05.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Example problems on $\\sigma$-algebras, construction of $\\mathscr{B}[0,1]$, construction of $\\mathscr{B}(\\mathbb{R})$, different generating classes for $\\mathscr{B}(\\mathbb{R})$.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-06.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
