@@ -2502,6 +2502,26 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Measure, finite measure, infinite measure, probability measure, Kolmogorov's axioms of probability, properties of probability measure: finite additivity, complement property, monotonicity, inclusion-exclusion principle, limit infimum (liminf) of a sequence of events, limit supremum (limsup) of a sequence of events, limit of a sequence of events, examples of liminf and limsup sets, continuity of probability measure (statement).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-07.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Proof of continuity property of probability measure: (a) proof for non-decreasing sequence of sets, (b) proof for non-increasing sequence of sets, (c) proof for general case using (a) and (b), examples of probability assignment for countable sample spaces.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-08.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
