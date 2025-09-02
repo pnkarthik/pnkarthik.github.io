@@ -2404,6 +2404,10 @@
       "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. The course will delve into the notions of $\\sigma$-algebras, random variables as measurable functions, expectations as abstract integrals, and some aspects of convergence of sequences of random variables.<p></p>This course is cross-listed with EE5817: Random Variables and Stochastic Processes.",
       "courseAnnouncements": [
         {
+          "date": "02 Sep 2025",
+          "content": "Homework 3 uploaded.<br />Quiz 3 (based on Homework 3) to be conducted on 10 Sep 2025 from 16:00 hrs to 16:30 hrs."
+        },
+        {
           "date": "18 Aug 2025",
           "content": "Homework 2 uploaded.<br />Quiz 2 (based on Homework 2) to be conducted on 26 Aug 2025."
         },
@@ -2570,6 +2574,16 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-homework-02.pdf",
+                  "badgeDisplayName": "homework"
+                }
+              ]
+            },
+            {
+              "title": "<span>Homework 03 (measures, probability measures).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-homework-03.pdf",
                   "badgeDisplayName": "homework"
                 }
               ]
