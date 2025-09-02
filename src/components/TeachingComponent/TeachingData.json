@@ -2417,7 +2417,7 @@
         },
         {
           "date": "01 Aug 2025",
-          "content": "Mid-Term Exam 1 will be conducted on 24 Sep 2025 (Wednesday) from 16:30 hrs to 19:00 hrs.<br />Mid-Term Exam 2 will be conducted on 29 Oct 2025 (Wednesday) from 16:30 hrs to 19:00 hrs.<br />Final Exam will be conducted on 21 Nov 2025 (Friday) from 14:30 hrs to 17:30 hrs.<br />Classroom details will be intimated closer to the date of each exam."
+          "content": "Mid-Term Exam 1 will be conducted on 24 Sep 2025 (Wednesday) from 16:30 hrs to 19:00 hrs.<br />Mid-Term Exam 2 will be conducted on 29 Oct 2025 (Wednesday) from 16:30 hrs to 19:00 hrs.<br />Final Exam will be conducted on <strike>21 Nov 2025 (Friday)</strike> 24 Nov 2025 (Monday) from <strike>14:30 hrs to 17:30 hrs</strike> 10:00 hrs to 13:00 hrs.<br />Classroom details will be intimated closer to the date of each exam."
         },
         {
           "date": "27 Jul 2025",
@@ -2529,6 +2529,16 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-lecture-09.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Independence of two events, self-independent events, universal independence of probability $0/1$ events, independence of a finite collection of events, independence of an arbitrary collection of events, Borel-Cantelli Lemma and its proof, conditional probability measure, law of total probability, Bayes' theorem, chain rule for conditional probability.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-10.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
