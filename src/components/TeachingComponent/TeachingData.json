@@ -2575,6 +2575,11 @@
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-homework-02.pdf",
                   "badgeDisplayName": "homework"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-homework-02-solutions.pdf",
+                  "badgeDisplayName": "solutions"
                 }
               ]
             },
