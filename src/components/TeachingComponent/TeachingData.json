@@ -2405,7 +2405,7 @@
       "courseAnnouncements": [
         {
           "date": "02 Sep 2025",
-          "content": "Homework 3 uploaded.<br />Quiz 3 (based on Homework 3) to be conducted on 10 Sep 2025 from 16:00 hrs to 16:30 hrs."
+          "content": "Homework 3 uploaded.<br />Quiz 3 (based on Homework 3) to be conducted on <strike>10 Sep 2025</strike> 12 Sep 2025 from <strike>16:00 hrs to 16:30 hrs</strike> 17:45 hrs to 18:15 hrs."
         },
         {
           "date": "18 Aug 2025",
@@ -2543,6 +2543,26 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-lecture-10.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Definition of measurable function, definition of random variable as a measurable function from sample space $\\Omega$ to $\\mathbb{R}$, some elementary properties of a random variable, recap of generating classes for $\\mathscr{B}(\\mathbb{R})$, equivalent definitions of a random variable in terms of generating classes (with proof for one of the generating classes), a simplified definition of random variable, examples of random variables, indicator function.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-11.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Probability law $\\mathbb{P}_X$ of a random variable $X$, proof of the fact that $\\mathbb{P}_X$ is a probability measure on $(\\mathbb{R}, \\mathscr{B}(\\mathbb{R}))$, cumulative distribution function (CDF), properties of CDF and their proofs.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-12.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
