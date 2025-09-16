@@ -2648,6 +2648,21 @@
                   "badgeDisplayName": "solutions"
                 }
               ]
+            },
+            {
+              "title": "<span>Quiz 03.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-quiz-03.pdf",
+                  "badgeDisplayName": "quiz"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-quiz-03-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
             }
           ]
         },
