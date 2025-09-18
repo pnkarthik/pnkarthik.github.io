@@ -2612,6 +2612,16 @@
                   "badgeDisplayName": "homework"
                 }
               ]
+            },
+            {
+              "title": "<span>Homework 04 (Borel--Cantelli Lemma, conditional probability, independence of events, random variables, CDF).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-homework-04.pdf",
+                  "badgeDisplayName": "homework"
+                }
+              ]
             }
           ]
         },
