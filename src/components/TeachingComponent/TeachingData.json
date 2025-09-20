@@ -2566,6 +2566,26 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Tidbits about CDFs: can have jumps, need not be left-continuous, CDF at a point $x \\in \\mathbb{R}$ is zero if and only if $\\mathbb{P}_X(\\{x\\})=0$, probability mass function (PMF), discrete random variables: definition and examples.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-13.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Continuous random variables: definition, absolute continuity of $\\mathbb{P}_X$ with respect to Lebesgue measure on $(\\mathbb{R}, \\mathscr{B}(\\mathbb{R))$, Radon--Nikodym theorem, probability density function (PDF), properties of CDF of continuous random variable, example PDFs.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-14.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -2610,6 +2630,11 @@
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-homework-03.pdf",
                   "badgeDisplayName": "homework"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-homework-03-solutions.pdf",
+                  "badgeDisplayName": "solutions"
                 }
               ]
             },
