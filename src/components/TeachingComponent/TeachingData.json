@@ -2578,7 +2578,7 @@
               ]
             },
             {
-              "title": "<span>Continuous random variables: definition, absolute continuity of $\\mathbb{P}_X$ with respect to Lebesgue measure on $(\\mathbb{R}, \\mathscr{B}(\\mathbb{R))$, Radon--Nikodym theorem, probability density function (PDF), properties of CDF of continuous random variable, example PDFs.</span>",
+              "title": "<span>Continuous random variables: definition, absolute continuity of $\\mathbb{P}_X$ with respect to Lebesgue measure on $(\\mathbb{R}, \\mathscr{B}(\\mathbb{R}))$, Radon--Nikodym theorem, probability density function (PDF), properties of CDF of continuous random variable, example PDFs.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
