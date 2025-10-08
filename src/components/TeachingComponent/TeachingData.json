@@ -459,10 +459,6 @@
           "content": "Solutions to Homework 9 uploaded.<br />Students who have attempted 3 or less quizzes in the past will be allowed to attempt Quiz 7 (which will be based on Homework 10)."
         },
         {
-          "date": "22 Nov 2024",
-          "content": "Solutions to Homework 9 uploaded.<br />Students who have attempted 3 or less quizzes in the past will be allowed to attempt Quiz 7 (which will be based on Homework 10)."
-        },
-        {
           "date": "15 Nov 2024",
           "content": "Final exam to be conducted on 30 Nov 2024 in room LHC-05, from 14:30 hrs to 17:30 hrs."
         },
@@ -2614,6 +2610,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Jointly discrete random variables (contd.), criteria for independence for jointly discrete random variables, conditional PMF, jointly continuous random variables, example of two continuous random variables which are not jointly continuous, joint PDF, marginalization and obtaining marginal PDFs from joint PDF, independence of jointly continuous random variables, conditional PDF.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-17.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -2783,11 +2789,6 @@
           "description": "",
           "isCard": true,
           "list": [
-            {
-              "name": "Kavali Sofia Sagar",
-              "link": "",
-              "profilePhoto": "sofia.jpeg"
-            },
             {
               "name": "Deekshith Rathod K",
               "link": "",

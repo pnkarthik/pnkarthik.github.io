@@ -21,9 +21,19 @@
   ],
   "experience": [
     {
-      "title": "Assistant Professor",
+      "title": "Assistant Professor Grade-I",
       "collegeName": "<a href=\"https://iith.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\">IIT Hyderabad</a>, Telangana, India",
-      "year": "Feb 2024 - Present",
+      "year": "Feb 2025 - Present",
+      "place": "India",
+      "imageUrl": "../images/iithLogo.jpg",
+      "description": [
+        "Engagement in research, teaching, and student mentorship"  
+        ]
+    },
+    {
+      "title": "Assistant Professor Grade-II",
+      "collegeName": "<a href=\"https://iith.ac.in/\" target=\"_blank\" rel=\"noopener noreferrer\">IIT Hyderabad</a>, Telangana, India",
+      "year": "Feb 2024 - Jan 2025",
       "place": "India",
       "imageUrl": "../images/iithLogo.jpg",
       "description": [
@@ -131,6 +141,7 @@
     {"title": "Secured rank 23 (among the top 0.02%) in the 2010 Karnataka Common Entrance Test (KCET)"}
   ],
   "serviceAtIITH": [
+    {"title": "Member, Space Committee (Sep 2025 - present)"},
     {"title": "Faculty Advisor (FA) for BTech 2025 batch of students (Jun 2025 - present)"},
     {"title": "Faculty Advisor (FA) for BTech 2024 batch of students (Jun 2025 - present)"},
     {"title": "Member, Library Committee, Department of AI (Mar 2025 - present)"},
@@ -141,6 +152,7 @@
     {"title": "Co-Organiser, 2024 JTG/IEEE ITSoc Summer School (24-28 Jun 2024)"}
   ],
   "professionalService": [
+    {"title": "Reviewer, IEEE International Conference on Computer Communications (Infocom 2026)"},
     {"title": "TPC Member, 2025 IEEE International Symposium on Information Theory (ISIT 2025)"},
     {"title": "Reviewer, IEEE Signal Processing Letters"},
     {"title": "Reviewer, IEEE Transactions on Information Theory"},

@@ -1,5 +1,10 @@
 [
   {
+    "date": "05 Sep 2025",
+    "content": "Invited to deliver a talk at the Winter Workshop on ML and AI at IIT Kanpur, during 03-05 Dec 2025.<br />Special thanks to <a href=\"https://sites.google.com/view/sayakraychowdhury/home?authuser=0\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Sayak Ray Chowdhury</a> for the kind invitation.",
+    "isArchived": false
+  },
+  {
     "date": "27 Jul 2025",
     "content": "Teaching a 3-credit course on Probability and Stochastic Processes.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/Probability-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
     "isArchived": false
@@ -68,7 +73,7 @@
         "badgeDisplayName": "video"
       }
     ],
-    "isArchived": true
+    "isArchived": false
   },
   {
     "date": "07 Mar 2025",
