@@ -19,7 +19,17 @@
       "courseCode": "AI5030",
       "courseTitle": "Probability and Stochastic Processes",
       "courseLink": "#/teaching/Probability-2025",
-      "noOfStudents": "94",
+      "noOfStudents": "46",
+      "courseRating": "",
+      "instructorRating": "",
+      "feedback": ""
+    },
+    {
+      "term": "Jul-Nov 2025",
+      "courseCode": "EE5817",
+      "courseTitle": "Random Variables and Stochastic Processes",
+      "courseLink": "#/teaching/Probability-2025",
+      "noOfStudents": "48",
       "courseRating": "",
       "instructorRating": "",
       "feedback": ""
