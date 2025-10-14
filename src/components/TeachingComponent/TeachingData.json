@@ -2624,6 +2624,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Conditional distributions and conditional probabilities for cases when (a) $X,Y$ are jointly discrete, (b) $X,Y$ are jointly continuous, (c) $X$ is discrete, $Y$ is continuous, and (d) $X$ is continuous and $Y$ is discrete, example problem for the jointly continuous case.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-18.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
