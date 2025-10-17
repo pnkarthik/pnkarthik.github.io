@@ -2400,6 +2400,14 @@
       "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. The course will delve into the notions of $\\sigma$-algebras, random variables as measurable functions, expectations as abstract integrals, and some aspects of convergence of sequences of random variables.<p></p>This course is cross-listed with EE5817: Random Variables and Stochastic Processes.",
       "courseAnnouncements": [
         {
+          "date": "17 Oct 2025",
+          "content": "The lectures to be conducted on 21/24 Oct 2025 will be held online via Google Meet.<br />Links will be shared via Google Classroom."
+        },
+        {
+          "date": "14 Oct 2025",
+          "content": "Starting with the lecture on 17 Oct 2025, all subsequent lectures will last 2 hours.<br />All subsequent Tuesday lectures will be conducted from 16:00 hrs to 18:00 hrs.<br />All subsequent Friday lectures will be conducted from 14:00 hrs to 16:00 hrs."
+        },
+        {
           "date": "13 Oct 2025",
           "content": "Homework 5 uploaded.<br />The details of the quiz to be based on this homework to be announced later."
         },
@@ -2536,7 +2544,7 @@
               ]
             },
             {
-              "title": "<span>Probability assignment for uncountable sample spaces: construction of Lebesgue measure on $\\mathscr{B}(0,1)$, construction of Lebesgue measure on $\\mathscr{B}(\\mathbb{R})$, properties of Lebesgue measure.</span>",
+              "title": "<span>Probability assignment for uncountable sample spaces: construction of Lebesgue measure on $\\mathscr{B}(0,1)$, construction of Lebesgue measure on $\\mathscr{B}(\\mathbb{R}),$ properties of Lebesgue measure.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
@@ -2626,11 +2634,31 @@
               ]
             },
             {
-              "title": "<span>Conditional distributions and conditional probabilities for cases when (a) $X,Y$ are jointly discrete, (b) $X,Y$ are jointly continuous, (c) $X$ is discrete, $Y$ is continuous, and (d) $X$ is continuous and $Y$ is discrete, example problem for the jointly continuous case.</span>",
+              "title": "<span>Conditional distributions and conditional probabilities for cases when (a) $X,Y$ are jointly discrete, (b) $X,Y$ are jointly continuous, (c) $X$ is discrete, $Y$ is continuous, and (d) $X$ is continuous, $Y$ is discrete, example problem for the jointly continuous case.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-lecture-18.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Multiple random variables (multivariate random vector), joint probability law and joint CDF of multiple random variables, independent and identically distributed (IID) random variables, transformations (part 1): proof that measurable functions of random variables are random variables, minimum and maximum of finitely many random variables and their CDFs, minimum of IID exponential random variables, proof that sum of two random variables is a random variable, PMF of $X+Y$ when $X,Y$ are jointly discrete, convolution formula for PMF of $X+Y$ when $X,Y$ are independent.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-19.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>PDF of $X+Y$ when $X,Y$ are jointly continuous, convolution formula for PDF when $X$ and $Y$ are independent, proof that measurable functions of independent random variables are independent, random sums of random variables: proof that the random sum is a random variable and derivation of its CDF, example of summing up Geometrically many Exponential random variables, general transformations, Jacobian formula for univariate case.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-20.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
