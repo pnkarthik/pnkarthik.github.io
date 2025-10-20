@@ -2733,6 +2733,16 @@
                   "badgeDisplayName": "homework"
                 }
               ]
+            },
+            {
+              "title": "<span>Homework 06 (Transformations of random variables).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-homework-06.pdf",
+                  "badgeDisplayName": "homework"
+                }
+              ]
             }
           ]
         },
