@@ -2400,6 +2400,14 @@
       "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. The course will delve into the notions of $\\sigma$-algebras, random variables as measurable functions, expectations as abstract integrals, and some aspects of convergence of sequences of random variables.<p></p>This course is cross-listed with EE5817: Random Variables and Stochastic Processes.",
       "courseAnnouncements": [
         {
+          "date": "02 Nov 2025",
+          "content": "Two sessions of open quiz to be conducted in lieu of Midterm Exam 2.<br />The first session to be held on 12 Nov 2025, and the second session to be held on 19 Nov 2025."
+        },
+        {
+          "date": "01 Nov 2025",
+          "content": "Homework 7 uploaded.<br />The final quiz (to be conducted on 06 Nov 2025) will be based on this homework."
+        },
+        {
           "date": "17 Oct 2025",
           "content": "The lectures to be conducted on 21/24 Oct 2025 will be held online via Google Meet.<br />Links will be shared via Google Classroom."
         },
@@ -2662,6 +2670,66 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Example derivation of PDF of $e^X$ for $X \\sim \\mathcal{N}(0,1)$, univariate transformation formula for piecewise monotone and differentiable functions, example derivation of PDF of $X^2$ for $X \\sim \\mathcal{N}(0,1)$, multivariate transformations, Jacobian matrix, Jacobian, multivariate transformation formula via Jacobian, examples, inverse CDF technique for sampling from a given CDF, Box--Muller transform.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-21.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Primer on Riemann integration, upper Riemann sums, lower Riemann sums, upper Riemann integral, lower Riemann integral, theory of expectations as abstract integrals: simple random variables, canonical representation of a simple random variable, expectation of a simple random variable, expectation of Dirichlet's function, expectation of Bernoulli and Binomial random variables, expectations of non-negative random variables via quantization (partitioning of $y$-axis), monotonicity properties of quantization sequence.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-22.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Expectations of arbitrary random variables, some properties of expectation.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-23.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Expectations of arbitrary random variables, some properties of expectation.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-23.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Properties of expectations (contd.), formula for expectation of a discrete random variable in terms of its PMF, expectations of functions of random variables as expectations over different spaces.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-24.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Formula for expectation of a continuous random variable in terms of its PDF, important formulae for expectations of non-negative discrete and continuous random variables in terms of the complementary CDF (CCDF), variance, covariance, correlation, independence and uncorrelatedness.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-25.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -2740,6 +2808,16 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-homework-06.pdf",
+                  "badgeDisplayName": "homework"
+                }
+              ]
+            },
+            {
+              "title": "<span>Homework 07 (Multivariate transformations, expectations of discrete random variables).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-homework-07.pdf",
                   "badgeDisplayName": "homework"
                 }
               ]
