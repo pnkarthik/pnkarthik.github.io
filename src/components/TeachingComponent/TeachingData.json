@@ -2400,6 +2400,10 @@
       "courseDescription": "This is a graduate-level course on probability, with emphasis on development of concepts from a measure-theoretic perspective. The course will delve into the notions of $\\sigma$-algebras, random variables as measurable functions, expectations as abstract integrals, and some aspects of convergence of sequences of random variables.<p></p>This course is cross-listed with EE5817: Random Variables and Stochastic Processes.",
       "courseAnnouncements": [
         {
+          "date": "18 Nov 2025",
+          "content": "Lectures for the course come to an end.<br />Best wishes to all students!<br />Final Exam for the course to be conducted in LHC-05 on 24 Nov 2025, from 10:00 hrs to 13:00 hrs."
+        },
+        {
           "date": "02 Nov 2025",
           "content": "Two sessions of open quiz to be conducted in lieu of Midterm Exam 2.<br />The first session to be held on 12 Nov 2025, and the second session to be held on 19 Nov 2025."
         },
@@ -2702,16 +2706,6 @@
               ]
             },
             {
-              "title": "<span>Expectations of arbitrary random variables, some properties of expectation.</span>",
-              "badgesData": [
-                {
-                  "badgeName": "notes",
-                  "link": "./media/2025/AI5030/2025-AI5030-lecture-23.pdf",
-                  "badgeDisplayName": "slides"
-                }
-              ]
-            },
-            {
               "title": "<span>Properties of expectations (contd.), formula for expectation of a discrete random variable in terms of its PMF, expectations of functions of random variables as expectations over different spaces.</span>",
               "badgesData": [
                 {
@@ -2727,6 +2721,46 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-lecture-25.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Covariance, uncorrelated random variables, uncorrelatedness and independence, variance of a sum of two random variables, correlation coefficient, Cauchy-Schwarz inequality and its proof, Markov's inequality, Chebyshev's inequality, Jensen's inequality and its proof for differentiable convex functions, absolute moments, monotonicity of absolute moments, Hölder's Inequality, Minkowski's inequality, $\\mathcal{L}^p$ spaces of random variables, ($p \\geq 1$), a semi-norm on $\\mathcal{L}^p$, equivalence classes of $\\mathcal{L}^p$, turning semi-norm into norm via equivalence classes.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-26.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Understanding $\\mathcal{L}^2$ space in more depth, notion of covariance as a semi-inner product on $\\mathcal{L}^2$, turning covariance into an inner product on $\\mathcal{L}^2$ via equivalence classes, conditional expectations: defintion, evaluating $\\mathbb{E}[X|Y]$ for the cases when $X,Y$ are jointly discrete, jointly continuous, one discrete and another continuous, examples.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-27.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Law of iterated expectations and its proof for the case when $X,Y$ are jointly discrete, conditional expectation $\\mathbb{E}[X|Y]$ as the MMSE estimator of $X$ based on $Y$, probability generating function, moment generating function (MGF), non-uniqueness of MGF.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-28.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Sufficient condition for uniqueness of MGF, Chernoff bound, characteristic functions, joint MGF and joint CF, independence and joint MGF/CF, multivariate Gaussians.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-lecture-29.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
@@ -2799,6 +2833,11 @@
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-homework-05.pdf",
                   "badgeDisplayName": "homework"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-homework-05-solutions.pdf",
+                  "badgeDisplayName": "solutions"
                 }
               ]
             },
@@ -2874,12 +2913,57 @@
               ]
             },
             {
+              "title": "<span>Quiz 04.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-quiz-04.pdf",
+                  "badgeDisplayName": "quiz"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 05.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-quiz-05.pdf",
+                  "badgeDisplayName": "quiz"
+                }
+              ]
+            },
+            {
               "title": "<span>Mid-Term Exam 01.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
                   "link": "./media/2025/AI5030/2025-AI5030-midterm-exam-01.pdf",
                   "badgeDisplayName": "midterm"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-midterm-exam-01-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>Open Quiz 01.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-open-quiz-01.pdf",
+                  "badgeDisplayName": "open-quiz-01"
+                }
+              ]
+            },
+            {
+              "title": "<span>Open Quiz 02.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2025/AI5030/2025-AI5030-open-quiz-02.pdf",
+                  "badgeDisplayName": "open-quiz-02"
                 }
               ]
             }
