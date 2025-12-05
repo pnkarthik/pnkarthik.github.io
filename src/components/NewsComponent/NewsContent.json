@@ -1,7 +1,24 @@
 [
   {
+    "date": "06 Dec 2025",
+    "content": "Received an instructor rating of 4.78/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Probability-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">AI5030: Probability and Stochastic Processes</a> taught during Jul-Nov 2025. <br />Received an instructor rating of 4.76/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Probability-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">EE5817: Random Variables and Stochastic Processes</a> taught during Jul-Nov 2025.<br />My sincere thanks to all students who provided generous feedback on my instruction.",
+    "isArchived": false,
+    "badgesData": [
+      {
+        "badgeName": "pdf",
+        "link": "./media/2025/AI5030/2025-AI5030-course-feedback.pdf",
+        "badgeDisplayName": "2025-AI5030-course-feedback"
+      },
+      {
+        "badgeName": "pdf",
+        "link": "./media/2025/AI5030/2025-EE5817-course-feedback.pdf",
+        "badgeDisplayName": "2025-EE5817-course-feedback"
+      }
+    ]
+  },
+  {
     "date": "05 Sep 2025",
-    "content": "Invited to deliver a talk at the Winter Workshop on ML and AI at IIT Kanpur, during 03-05 Dec 2025.<br />Special thanks to <a href=\"https://sites.google.com/view/sayakraychowdhury/home?authuser=0\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Sayak Ray Chowdhury</a> for the kind invitation.",
+    "content": "Invited to deliver a talk at the <a href=\"https://aiml-workshop.cse.iitk.ac.in/index.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Winter Workshop on ML and AI</a> at IIT Kanpur, during 03-05 Dec 2025.<br />Special thanks to <a href=\"https://sites.google.com/view/sayakraychowdhury/home?authuser=0\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Sayak Ray Chowdhury</a> for the kind invitation.",
     "isArchived": false
   },
   {
