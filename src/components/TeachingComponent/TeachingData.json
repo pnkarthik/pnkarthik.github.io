@@ -2193,22 +2193,22 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "./media/2025/AI1013/AI1013-Pytorch-tutorial-notebook-1.pdf",
+                  "link": "./media/2025/AI1013/AI1013-Pytorch-tutorial-notebook-1.ipynb",
                   "badgeDisplayName": "ipynb-1"
                 },
                 {
                   "badgeName": "notes",
-                  "link": "./media/2025/AI1013/AI1013-Pytorch-tutorial-notebook-2.pdf",
+                  "link": "./media/2025/AI1013/AI1013-Pytorch-tutorial-notebook-2.ipynb",
                   "badgeDisplayName": "ipynb-2"
                 },
                 {
                   "badgeName": "notes",
-                  "link": "./media/2025/AI1013/AI1013-Pytorch-tutorial-notebook-3.pdf",
+                  "link": "./media/2025/AI1013/AI1013-Pytorch-tutorial-notebook-3.ipynb",
                   "badgeDisplayName": "ipynb-3"
                 },
                 {
                   "badgeName": "notes",
-                  "link": "./media/2025/AI1013/AI1013-Pytorch-tutorial-notebook-4.pdf",
+                  "link": "./media/2025/AI1013/AI1013-Pytorch-tutorial-notebook-4.ipynb",
                   "badgeDisplayName": "ipynb-4"
                 }
               ]
@@ -2218,17 +2218,17 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "./media/2025/AI1013/AI1013-PyTorch-CNN-basics.pdf",
+                  "link": "./media/2025/AI1013/AI1013-PyTorch-CNN-basics.ipynb",
                   "badgeDisplayName": "ipynb-1"
                 },
                 {
                   "badgeName": "notes",
-                  "link": "./media/2025/AI1013/AI1013-PyTorch-CNNs-custom-datasets.pdf",
+                  "link": "./media/2025/AI1013/AI1013-PyTorch-CNNs-custom-datasets.ipynb",
                   "badgeDisplayName": "ipynb-2"
                 },
                 {
                   "badgeName": "notes",
-                  "link": "./media/2025/AI1013/AI1013-PyTorch-CNNs-transfer-learning.pdf",
+                  "link": "./media/2025/AI1013/AI1013-PyTorch-CNNs-transfer-learning.ipynb",
                   "badgeDisplayName": "ipynb-3"
                 }
               ]
