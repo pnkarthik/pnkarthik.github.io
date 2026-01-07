@@ -15,6 +15,26 @@
   ],
   "iith": [
     {
+      "term": "Jan-Apr 2026",
+      "courseCode": "AI5090",
+      "courseTitle": "Stochastic Processes: Theory and Applications",
+      "courseLink": "#/teaching/Stochastic-Processes-2026",
+      "noOfStudents": "28",
+      "courseRating": "",
+      "instructorRating": "",
+      "feedback": ""
+    },
+    {
+      "term": "Jan-Apr 2026",
+      "courseCode": "EE5910",
+      "courseTitle": "Advanced Stochastic Processes",
+      "courseLink": "#/teaching/Stochastic-Processes-2026",
+      "noOfStudents": "15",
+      "courseRating": "",
+      "instructorRating": "",
+      "feedback": ""
+    },
+    {
       "term": "Jul-Nov 2025",
       "courseCode": "AI5030",
       "courseTitle": "Probability and Stochastic Processes",

@@ -3036,5 +3036,122 @@
           ]
         }
       ]
+    },
+    "Stochastic-Processes-2026":
+    {
+      "isIISc": false,
+      "year": "2026",
+      "courseMonth": "Jan-Apr",
+      "title": "<span>Stochastic</span> <span>Processes:</span> <span>Theory</span> <span>and</span> <span>Applications</span>",
+      "noOfInstructors": 1,
+      "courseInstructor": "<span>Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a> </span>",
+      "term": "Jan-Apr 2026",
+      "segment": "1-6",
+      "timeTableSlot": "S",
+      "classHours": "Tuesday: 16:00 - 18:00, Friday: 14:00 - 16:00",
+      "venue": "EE-004",
+      "noOfCredits": 3,
+      "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon three limit theorems that are central to probability theory: weak law of large numbers, strong law of large numbers, and central limit theorem. This will be followed by an in-depth coverage of the theory of discrete-time Markov chains on finite state spaces. This will be followed by a treatment of Poisson processes, which will in turn be followed by a brief treatment of martingales. Students crediting the course will be expected to be comfortable with measure-theoretic probability.<p></p>This course is cross-listed with EE5910: Advanced Stochastic Processes.",
+      "courseAnnouncements": [
+        {
+          "date":"01 Aug 2025",
+          "content": "Lectures for the course begin.<br />All course-related communication will be via Google classroom."
+        }
+      ],
+      "courseContents": [
+        {
+          "title": "Course Contents (Tentative)",
+          "description": "Convergence of sequences of random variables, Bernoulli process, counting process, Poisson process, stopping time, Wald's identity, discrete-time Markov chains, state space, transition probability matrix, Chapman--Kolmogorov equation, irreducibility, periodicity, recurrence (null recurrence and positive recurrence), invariant (stationary) distributions, ergodic theorem, Markov chain Monte Carlo (MCMC) simulation technique, Metropolis--Hastings algorithm, Gibbs sampling, martingales."
+        },
+        {
+          "title": "Notes",
+          "description": "This section will be updated with the the handwritten notes/slides from the lectures, along with scribed notes in $\\LaTeX$ typesetting. Please note that the scribed notes are not very carefully reviewed by me. As the classes progress, the notes from previous lectures will be made available accordingly. If you spot any errors in the notes, kindly inform me through email.",
+          "list": [
+            {
+              "title": "<span>Course logistics.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/AI5090-lecture-00.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Supremum and infimum of a subset of real numbers, supremum and infimum of a sequence of real numbers, supremum and infimum of a sequence of random variables and their measurability, limit supremum, limit infimum, and limit of a sequence of real numbers, limit supremum of a sequence of random variables and its measurability, limit infimum of a sequence of random variables and its measurability.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/AI5090-lecture-01.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Homework Assignments",
+          "description": "",
+          "list": [
+
+          ]
+        },
+        {
+          "title": "Quizzes and Exams",
+          "description": "",
+          "list": [
+
+          ]
+        },
+        {
+          "title": "References",
+          "description": "",
+          "list": [
+            {
+              "title": "<em><a href=\"https://ece.iisc.ac.in/~anurag/books/anurag/spqt.pdf\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Discrete Event Stochastic Processes</a></em>, Anurag Kumar, Department of ECE, IISc."
+            },
+            {
+              "title": "NPTEL video lectures on <em><a href=\"https://www.youtube.com/playlist?list=PLv64M6nvmocttKA6jp3x2Q7zYxfWSfEop\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Probability and Stochastic Processes</a></em> taught by Prof. Krishna Jagannathan at IIT Madras."
+            },
+            {
+              "title": "Video lectures on <em><a href=\"https://www.youtube.com/playlist?list=PLWWneQUxe1dbi3IROkNpFFqS0XIEZMXg-\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Stochastic Processes</a></em> taught by Prof. Vincent Y. F. Tan at the National University of Singapore."
+            },
+            {
+              "title": "<em>Stochastic Processes: Theory for Applications</em>, Robert G. Gallager, Cambridge University Press, 2013."
+            },
+            {
+              "title": "<em>Probability and Random Processes</em>, Geoffrey Grimmett and David Stirzaker."
+            },
+            {
+              "title": "<em><a href=\"https://hajek.ece.illinois.edu/Papers/randomprocJuly14.pdf\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Random Processes for Engineers</a></em>, Bruce Hajek, University of Illinois at Urbana Champagne."
+            },
+            {
+              "title": "<em><a href=\"https://sites.math.duke.edu/~rtd/PTE/PTE5_011119.pdf\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Probability: Theory and Examples</a></em>, Rick Durrett, Duke University."
+            }
+          ]
+        },
+        {
+          "title": "Teaching Assistants",
+          "description": "",
+          "isCard": true,
+          "list": [
+            {
+              "name": "Kavali Sofia Sagar",
+              "link": "https://www.linkedin.com/in/kavali-sofia-sagar-ai-phd/",
+              "profilePhoto": "sofia.jpeg"
+            },
+            {
+              "name": "Midhunkumar K A",
+              "link": "https://www.linkedin.com/in/k-a-midhunkumar",
+              "profilePhoto": "midhun.jpg"
+            },
+            {
+              "name": "Deekshith Rathod K",
+              "link": "https://www.linkedin.com/in/k-a-midhunkumar",
+              "profilePhoto": "deekshith.png"
+            }
+          ]
+        }
+      ]
     }
 }
