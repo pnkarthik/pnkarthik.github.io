@@ -1,16 +1,64 @@
 {
   "currentStudents": [
     {
+    "fullName": "Deepshikha Urmaliya",
+    "department": "AI",
+    "batch": "2025",
+    "program": "Ph.D.",
+    "institute": "IIT Hyderabad",
+    "duration": "Dec 2025 -",
+    "photo": "default-student.png",
+    "websiteLink": "https://www.linkedin.com/in/deepshikha-urmaliya-41023019b/",
+    "role": "Thesis Student",
+    "jointSupervision": "Jointly with <a href=\"https://people.iith.ac.in/sumohana/\" target=\"_blank\" rel=\"noopener noreferrer\">Dr. Sumohana S. Channappayya</a>"
+  },
+  {
+    "fullName": "Prantik Pramanick",
+    "department": "AI",
+    "batch": "2025",
+    "program": "Ph.D.",
+    "institute": "IIT Hyderabad",
+    "duration": "Dec 2025 -",
+    "photo": "default-student.png",
+    "websiteLink": "https://www.linkedin.com/in/prantik-pramanick-4ba5621b6/",
+    "role": "Thesis Student",
+    "jointSupervision": "Jointly with <a href=\"https://www.linkedin.com/in/easwar-subramanian/\" target=\"_blank\" rel=\"noopener noreferrer\">Dr. Easwar Subramanian</a>"
+  },
+    {
     "fullName": "Kavali Sofia Sagar",
     "department": "AI",
     "batch": "2024",
-    "program": "PhD",
+    "program": "Ph.D.",
     "institute": "IIT Hyderabad",
     "duration": "Dec 2024 -",
     "photo": "sofia.jpeg",
-    "websiteLink": "https://www.linkedin.com/in/kavali-sofia-sagar-ai-phd/",
+    "websiteLink": "https://www.linkedin.com/in/kavali-sofia-sagar-ai-Ph.D./",
     "role": "Thesis Student",
     "jointSupervision": ""
+  },
+  {
+    "fullName": "Bharat Goel",
+    "department": "AI",
+    "batch": "2025",
+    "program": "MTech (2-Year)",
+    "institute": "IIT Hyderabad",
+    "duration": "Dec 2025 -",
+    "photo": "default-student.png",
+    "websiteLink": "",
+    "role": "Thesis Student",
+    "jointSupervision": ""
+  },
+  {
+    "fullName": "Anirudh Singh",
+    "department": "AI",
+    "batch": "2025",
+    "program": "MTech (2-Year)",
+    "institute": "IIT Hyderabad",
+    "duration": "Dec 2025 -",
+    "photo": "default-student.png",
+    "websiteLink": "",
+    "role": "Thesis Student",
+    "jointSupervision": "Jointly with <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\" rel=\"noopener noreferrer\">Dr. Saketha Nath J</a>"
   },
   {
     "fullName": "K A Midhunkumar",
@@ -35,6 +83,17 @@
     "websiteLink": "",
     "role": "Thesis Student",
     "jointSupervision": ""
+  },
+  {
+    "fullName": "Sravani Kallumari",
+    "department": "CSE (AI)",
+    "program": "BTech",
+    "batch": "2022",
+    "institute": "G Pulla Reddy Engineering College",
+    "duration": "Jan 2026 -",
+    "photo": "default-student.png",
+    "websiteLink": "https://www.linkedin.com/in/kallumari-sravani-9a9376343/",
+    "role": "Intern"
   }
   ],
 
@@ -55,7 +114,7 @@
     "department": "CSE (AI)",
     "program": "BTech",
     "batch": "2022",
-    "institute": "Manipal Institute of Technology, Bengaluru",
+    "institute": "Manipal Institute of Technology",
     "duration": "May-Jul 2025",
     "photo": "agrima.jpeg",
     "websiteLink": "https://www.linkedin.com/in/agrima-goyal-388243256/",
