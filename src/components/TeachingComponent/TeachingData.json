@@ -3049,10 +3049,18 @@
       "segment": "1-6",
       "timeTableSlot": "S",
       "classHours": "Tuesday: 16:00 - 18:00, Friday: 14:00 - 16:00",
-      "venue": "EE-004",
+      "venue": "LHC-11",
       "noOfCredits": 3,
       "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon three limit theorems that are central to probability theory: weak law of large numbers, strong law of large numbers, and central limit theorem. This will be followed by an in-depth coverage of the theory of discrete-time Markov chains on finite state spaces. This will be followed by a treatment of Poisson processes, which will in turn be followed by a brief treatment of martingales. Students crediting the course will be expected to be comfortable with measure-theoretic probability.<p></p>This course is cross-listed with EE5910: Advanced Stochastic Processes.",
       "courseAnnouncements": [
+        {
+          "date":"10 Jan 2026",
+          "content": "No lecture on 16 Jan 2026 on account of the <a href=\"https://ai-iith-web.github.io/aikyam/\" rel=\"noopener noreferrer\"<strong>India AI Pre-Impact Summit event</strong></a>."
+        },
+        {
+          "date":"08 Jan 2026",
+          "content": "No lecture on 09 Jan 2026.<br />Students may take the opportunity to participate in Elan & nVision, the annual technofest at IIT Hyderabad."
+        },
         {
           "date":"06 Jan 2026",
           "content": "Lectures for the course begin.<br />All course-related communication will be via Google classroom."
@@ -3064,8 +3072,8 @@
           "description": "Convergence of sequences of random variables, Bernoulli process, counting process, Poisson process, stopping time, Wald's identity, discrete-time Markov chains, state space, transition probability matrix, Chapman--Kolmogorov equation, irreducibility, periodicity, recurrence (null recurrence and positive recurrence), invariant (stationary) distributions, ergodic theorem, Markov chain Monte Carlo (MCMC) simulation technique, Metropolis--Hastings algorithm, Gibbs sampling, martingales."
         },
         {
-          "title": "Notes",
-          "description": "This section will be updated with the the handwritten notes/slides from the lectures, along with scribed notes in $\\LaTeX$ typesetting. Please note that the scribed notes are not very carefully reviewed by me. As the classes progress, the notes from previous lectures will be made available accordingly. If you spot any errors in the notes, kindly inform me through email.",
+          "title": "Lecture Slides",
+          "description": "",
           "list": [
             {
               "title": "<span>Course logistics.",
@@ -3083,6 +3091,16 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2026/AI5090/2026-AI5090-lecture-01.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>The convergence event $A_{\\rm lim}$ and proof of its measurability, definition of the tail $\\sigma$-algebra, proof of the fact that $A_{\\rm lim}$ belongs to the tail $\\sigma$-algebra, Kolmogorov's $0$-$1$ law (statement only), definitions of pointwise convergence and almost-sure convergence, examples.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-02.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
