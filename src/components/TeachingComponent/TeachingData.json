@@ -3054,6 +3054,10 @@
       "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon three limit theorems that are central to probability theory: weak law of large numbers, strong law of large numbers, and central limit theorem. This will be followed by an in-depth coverage of the theory of discrete-time Markov chains on finite state spaces. This will be followed by a treatment of Poisson processes, which will in turn be followed by a brief treatment of martingales. Students crediting the course will be expected to be comfortable with measure-theoretic probability.<p></p>This course is cross-listed with EE5910: Advanced Stochastic Processes.",
       "courseAnnouncements": [
         {
+          "date":"31 Jan 2026",
+          "content": "Quiz 01 (based on Homework 1) to be conducted on 02 Feb 2026 from 18:00 hrs to 19:00 hrs in 701, MAE Building."
+        },
+        {
           "date":"10 Jan 2026",
           "content": "No lecture on 16 Jan 2026 on account of the <a href=\"https://ai-iith-web.github.io/aikyam/\" rel=\"noopener noreferrer\"<strong>India AI Pre-Impact Summit event</strong></a>."
         },
@@ -3104,6 +3108,26 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Borel-Cantelli Lemma and almost-sure convergence, equivalent statements for almost-sure convergence and their proofs, examples, almost-sure uniqueness of the almost-sure limit random variable, convergence in probability, convergence in $\\mathcal{L}^p$ spaces under $p$-norm for $p \\geq 1$, example to demonstrate that almost-sure convergence and mean-squared convergence do not imply one another in general, convergence in distribution, full picture of convergence.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-03-04-combined.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Proofs of implications: almost-sure convergence implies convergence in probability, convergence in probability implies convergence in distribution, mean-squared convergence implies convergence in probability, problems, weak law of large numbers (WLLN), proof of WLLN under finite variance assumption, two important results: (a) convergence in distribution to a constant random variable implies convergence in probability to the same constant random variable, (b) pointwise convergence of characteristic functions is equivalent to convergence in distribution.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-05-06-combined.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -3111,7 +3135,16 @@
           "title": "Homework Assignments",
           "description": "",
           "list": [
-
+            {
+              "title": "<span>Homework 01 (topics: real analysis basics, pointwise convergence, almost-sure convergence).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-homework-01.pdf",
+                  "badgeDisplayName": "homework"
+                }
+              ]
+            }
           ]
         },
         {
