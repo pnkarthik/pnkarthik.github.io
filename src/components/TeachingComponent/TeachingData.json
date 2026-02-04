@@ -3151,7 +3151,21 @@
           "title": "Quizzes and Exams",
           "description": "",
           "list": [
-
+            {
+              "title": "<span>Quiz 01.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-quiz-01.pdf",
+                  "badgeDisplayName": "quiz"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-quiz-01-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            }
           ]
         },
         {
