@@ -3128,6 +3128,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Proof of weak law of large numbers without finite variance assumption, example problem in linear regression in large language models, strong law of large numbers (SLLN), consequences of SLLN, Python demonstration of SLLN, proof of SLLN under finite fourth moment assumption, central limit theorem (CLT), Python demonstration of CLT, what CLT is not, proof of CLT, monotone convergence theorem (statement only), Fatou's lemma (statement and proof using MCT).",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-07-08-combined.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },

@@ -1,5 +1,17 @@
 [
   {
+    "date": "06 Feb 2026",
+    "content": "Posted a paper on <em>Almost Asymptotically Optimal Active Clustering Through Pairwise Observations</em>.<br />Joint work with <a href=\"https://rachtsy.github.io/\" rel=\"noopener noreferrer\"<strong>Rachel S. Y. Teo</strong></a>, <a href=\"https://ramyakv.github.io\" rel=\"noopener noreferrer\"<strong>Ramya Korlakai Vinayak</strong></a>, and <a href=\"https://vyftan.github.io\" rel=\"noopener noreferrer\"<strong>Vincent Y. F. Tan</strong></a>.",
+    "badgesData": [
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2602.05690",
+        "badgeDisplayName": "arxiv"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "06 Jan 2026",
     "content": "Teaching a 3-credit course on Stochastic Processes during Jan-Apr 2026.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/Stochastic-Processes-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
     "isArchived": false
