@@ -3228,5 +3228,122 @@
           ]
         }
       ]
+    },
+    "Programming-for-AI-2026":
+    {
+      "isIISc": false,
+      "year": "2026",
+      "courseMonth": "February-April",
+      "title": "<span>Programming</span> <span>For</span> <span>AI</span>",
+      "noOfInstructors": 1,
+      "courseInstructor": "<span>Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a> </span>",
+      "courseWebsite": "<a href=\"https://ece.iisc.ac.in/~parimal/2018/random/\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">https://ece.iisc.ac.in/~parimal/2018/random/</a>",
+      "term": "February-April 2026",
+      "segment": "3-6",
+      "timeTableSlot": "Slot B",
+      "classHours": "Monday: 10:00 - 11:30, Thursday: 11:00 - 12:30",
+      "venue": "LHC-08",
+      "noOfCredits": 2,
+      "courseDescription": "This course offers a comprehensive introduction to the fundamentals of programming in Python, tailored for students embarking on their journey into AI and ML. Throughout the course, students will gain hands-on experience by implementing essential AI/ML tasks from scratch. The course is designed to facilitate students who intend to pursue projects in deep learning and/or reinforcement learning in their subsequent semesters.<br />For a previous edition of this course, see <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
+      "courseAnnouncements": [
+        {
+          "date": "12 Feb 2025",
+          "content": "Lectures begin.<br />All lectures to be conducted in LHC-14.<br />Although the proposed slot for the course is B, the lectures will be conducted on Mondays (10:00 - 11:30) and Thursdays (11:00 - 12:30)."
+        }
+      ],
+      "courseContents": [
+        {
+          "title": "Notes",
+          "description": "",
+          "list": [
+            {
+              "title": "<span>Tuples, lists, dictionaries, immutability of tuples, mutability of lists, immutability quirks, shallow copy vs deepcopy.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/AI1104/AI1104-tuples-lists-dictionaries.ipynb",
+                  "badgeDisplayName": "ipynb"
+                }
+              ]
+            },
+            {
+              "title": "<span>All material from a previous offering of the course may be accessed at <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" rel=\"noopener noreferrer\">this</a> link.</span>"
+            },
+            {
+              "title": "<span>Course logistics.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "slides",
+                  "link": "./media/2026/AI1013/2026-AI1013-lecture-00.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Assignments",
+          "description": "",
+          "list": [
+
+          ]
+        },
+        {
+          "title": "References",
+          "description": "",
+          "list": [
+            {
+              "title": "<em>Python Basics: A Practical Introduction to Python 3</em>",
+              "authors": "David Amos, Dan Bader, Joanna Jablonski, and Fletcher Heisler"
+            },
+            {
+              "title": "<span>Python tutorials at <a href=\"https://realpython.com\" target=\"_blank\" rel=\"noopener noreferrer\">Real Python</a></span>"
+            },
+            {
+              "title": "<em>Pandas from the Ground Up</em>",
+              "authors": "Brandon Rhodes",
+              "description": "A tutorial on Pandas presented at PyCon 2015",
+              "badgesData": [
+                {
+                  "link": "https://www.youtube.com/watch?v=5JnMutdy6Fw&list=PLgrYTTDCXhH0rE-grN9TLBc_49QhspuPB",
+                  "badgeDisplayName": "youtube"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Teaching Assistants",
+          "description": "",
+          "isCard": true,
+          "list": [
+            {
+              "name": "Gunti Lahari",
+              "link": "",
+              "profilePhoto": "default-student.png"
+            },
+            {
+              "name": "Kallu Rithika",
+              "link": "",
+              "profilePhoto": "default-student.png"
+            },
+            {
+              "name": "K Anuraga Chandan",
+              "link": "",
+              "profilePhoto": "default-student.png"
+            },
+            {
+              "name": "Ladva Umanshiva Hiteshiva",
+              "link": "https://www.linkedin.com/in/umanshiva-ladva-b24a8331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "profilePhoto": "shiva.jpg"
+            },
+            {
+              "name": "Ruvva Suraj Kumar",
+              "link": "",
+              "profilePhoto": "default-student.png"
+            }
+          ]
+        }
+      ]
     }
 }

@@ -15,11 +15,21 @@
   ],
   "iith": [
     {
+      "term": "Feb-Apr 2026",
+      "courseCode": "AI1013",
+      "courseTitle": "Programming for AI",
+      "courseLink": "#/teaching/Programming-for-AI-2026",
+      "noOfStudents": "40",
+      "courseRating": "",
+      "instructorRating": "",
+      "feedback": ""
+    },
+    {
       "term": "Jan-Apr 2026",
       "courseCode": "AI5090",
       "courseTitle": "Stochastic Processes: Theory and Applications",
       "courseLink": "#/teaching/Stochastic-Processes-2026",
-      "noOfStudents": "14",
+      "noOfStudents": "13",
       "courseRating": "",
       "instructorRating": "",
       "feedback": ""
