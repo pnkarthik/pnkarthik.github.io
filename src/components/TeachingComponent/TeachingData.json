@@ -3319,18 +3319,18 @@
           "list": [
             {
               "name": "Gunti Lahari",
-              "link": "",
-              "profilePhoto": "default-student.png"
+              "link": "https://www.linkedin.com/in/lahari-gunti-234790257",
+              "profilePhoto": "lahari.jpg"
             },
             {
               "name": "Kallu Rithika",
-              "link": "",
-              "profilePhoto": "default-student.png"
+              "link": "https://www.linkedin.com/in/rithikakallu",
+              "profilePhoto": "rithika.jpeg"
             },
             {
-              "name": "K Anuraga Chandan",
-              "link": "",
-              "profilePhoto": "default-student.png"
+              "name": "K Anurag Chandan",
+              "link": "https://www.linkedin.com/in/kondaparthy-anurag-72220926b",
+              "profilePhoto": "anurag.jpeg"
             },
             {
               "name": "Ladva Umanshiva Hiteshiva",
@@ -3339,8 +3339,8 @@
             },
             {
               "name": "Ruvva Suraj Kumar",
-              "link": "",
-              "profilePhoto": "default-student.png"
+              "link": "https://www.linkedin.com/in/suraj-kumar-ruvva-449b6927a/",
+              "profilePhoto": "suraj.jpeg"
             }
           ]
         }
