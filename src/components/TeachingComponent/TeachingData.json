@@ -3054,8 +3054,12 @@
       "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon three limit theorems that are central to probability theory: weak law of large numbers, strong law of large numbers, and central limit theorem. This will be followed by an in-depth coverage of the theory of discrete-time Markov chains on finite state spaces. This will be followed by a treatment of Poisson processes, which will in turn be followed by a brief treatment of martingales. Students crediting the course will be expected to be comfortable with measure-theoretic probability.<p></p>This course is cross-listed with EE5910: Advanced Stochastic Processes.",
       "courseAnnouncements": [
         {
+          "date":"13 Feb 2026",
+          "content": "Quiz 02 (based on Homework 02) to be conducted on 17 Feb 2026 from 18:00 hrs to 19:00 hrs in LHC-11."
+        },
+        {
           "date":"31 Jan 2026",
-          "content": "Quiz 01 (based on Homework 1) to be conducted on 02 Feb 2026 from 18:00 hrs to 19:00 hrs in 701, MAE Building."
+          "content": "Quiz 01 (based on Homework 01) to be conducted on 02 Feb 2026 from 18:00 hrs to 19:00 hrs in 701, MAE Building."
         },
         {
           "date":"10 Jan 2026",
@@ -3138,6 +3142,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Dominated convergence theorem (statement and proof using Fatou's lemma), proof of reverse implication of convergence in probability to mean-squared convergence under domination and finite second moment assumptions, definition of a random process, sample paths, finite dimensional distributions (FDDs), consistency of FDDs, mean, autocorrelation, autocovariance, stationary and wide-sense stationary processes, IID processes, example.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-09-10-combined.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -3151,6 +3165,16 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2026/AI5090/2026-AI5090-homework-01.pdf",
+                  "badgeDisplayName": "homework"
+                }
+              ]
+            },
+            {
+              "title": "<span>Homework 02 (topics: convergence of sequences of random variables).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-homework-02.pdf",
                   "badgeDisplayName": "homework"
                 }
               ]
@@ -3247,7 +3271,11 @@
       "courseDescription": "This course offers a comprehensive introduction to the fundamentals of programming in Python, tailored for students embarking on their journey into AI and ML. Throughout the course, students will gain hands-on experience by implementing essential AI/ML tasks from scratch. The course is designed to facilitate students who intend to pursue projects in deep learning and/or reinforcement learning in their subsequent semesters.<br />For a previous edition of this course, see <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
       "courseAnnouncements": [
         {
-          "date": "12 Feb 2025",
+          "date": "14 Feb 2026",
+          "content": "Assignment 01 posted, and is due on 28 Feb 2026, 23:59 hrs."
+        },
+        {
+          "date": "12 Feb 2026",
           "content": "Lectures begin.<br />All lectures to be conducted in LHC-14.<br />Although the proposed slot for the course is B, the lectures will be conducted on Mondays (10:00 - 11:30) and Thursdays (11:00 - 12:30)."
         }
       ],
@@ -3285,7 +3313,21 @@
           "title": "Assignments",
           "description": "",
           "list": [
-
+            {
+              "title": "<span>Assignment 01 (data visualization and data analysis).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI1013-assignment-01.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI1013-assignment-01-datasets.zip",
+                  "badgeDisplayName": "datasets"
+                }
+              ]
+            }
           ]
         },
         {
