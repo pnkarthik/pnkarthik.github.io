@@ -1,5 +1,17 @@
 [
   {
+    "date": "20 Feb 2026",
+    "content": "Posted a paper on <em>Asymptotically Optimal Sequential Testing with Markovian Data</em>.<br />Joint work with <a href=\"https://scholar.google.com/citations?user=FsFJ_0gAAAAJ&hl=en\" rel=\"noopener noreferrer\"<strong>Alhad Sethi</strong></a>, <a href=\"https://www.linkedin.com/in/kavali-sofia-sagar-ai-Ph.D./\" rel=\"noopener noreferrer\"<strong>Kavali Sofia Sagar</strong></a>, <a href=\"https://sites.google.com/view/shubhada-agrawal/home?authuser=0\" rel=\"noopener noreferrer\"<strong>Shubhada Agrawal</strong></a>, and <a href=\"https://debabrota-basu.github.io\" rel=\"noopener noreferrer\"<strong>Debabrota Basu</strong></a>.",
+    "badgesData": [
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2602.17587",
+        "badgeDisplayName": "arxiv"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "06 Feb 2026",
     "content": "Posted a paper on <em>Almost Asymptotically Optimal Active Clustering Through Pairwise Observations</em>.<br />Joint work with <a href=\"https://rachtsy.github.io/\" rel=\"noopener noreferrer\"<strong>Rachel S. Y. Teo</strong></a>, <a href=\"https://ramyakv.github.io\" rel=\"noopener noreferrer\"<strong>Ramya Korlakai Vinayak</strong></a>, and <a href=\"https://vyftan.github.io\" rel=\"noopener noreferrer\"<strong>Vincent Y. F. Tan</strong></a>.",
     "badgesData": [
