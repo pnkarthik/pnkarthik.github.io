@@ -3054,6 +3054,10 @@
       "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon three limit theorems that are central to probability theory: weak law of large numbers, strong law of large numbers, and central limit theorem. This will be followed by an in-depth coverage of the theory of discrete-time Markov chains on finite state spaces. This will be followed by a treatment of Poisson processes, which will in turn be followed by a brief treatment of martingales. Students crediting the course will be expected to be comfortable with measure-theoretic probability.<p></p>This course is cross-listed with EE5910: Advanced Stochastic Processes.",
       "courseAnnouncements": [
         {
+          "date":"03 Mar 2026",
+          "content": "Quiz 03 (based on Homework 03) to be conducted on 09 Mar 2026 from 18:00 hrs to 19:00 hrs in 701, MAE Building."
+        },
+        {
           "date":"13 Feb 2026",
           "content": "Quiz 02 (based on Homework 02) to be conducted on 17 Feb 2026 from 18:00 hrs to 19:00 hrs in LHC-11."
         },
@@ -3152,6 +3156,26 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Independent and stationary increments property of IID random walk, filtration, examples of filtrations, stopping times, example of what is a stopping time and what is not a stopping time, Wald's identity (Wald's lemma) for stopping times adapted to IID processes, proof of Wald's lemma, Kolmogorov's existence theorem and its applicability to simulations (a topic covered to address certain important questions raised by students), stopped process, stopped $\\sigma$-algebra, strong independence property.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-11-12-13-combined.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Proof of strong independence property, definition of a discrete-time Markov chain (DTMC), examples of DTMCs, transition probability matrix (TPM), basic properties of TPM, definition of time-homogeneous Markov chain.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-14.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -3178,6 +3202,16 @@
                   "badgeDisplayName": "homework"
                 }
               ]
+            },
+            {
+              "title": "<span>Homework 03 (topics: basics of random processes, stopping times).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-homework-03.pdf",
+                  "badgeDisplayName": "homework"
+                }
+              ]
             }
           ]
         },
@@ -3192,11 +3226,16 @@
                   "badgeName": "notes",
                   "link": "./media/2026/AI5090/2026-AI5090-quiz-01.pdf",
                   "badgeDisplayName": "quiz"
-                },
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 02.</span>",
+              "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "./media/2026/AI5090/2026-AI5090-quiz-01-solutions.pdf",
-                  "badgeDisplayName": "solutions"
+                  "link": "./media/2026/AI5090/2026-AI5090-quiz-02.pdf",
+                  "badgeDisplayName": "quiz"
                 }
               ]
             }
@@ -3265,18 +3304,22 @@
       "term": "February-April 2026",
       "segment": "3-6",
       "timeTableSlot": "Slot B",
-      "classHours": "Monday: 10:00 - 11:30, Thursday: 11:00 - 12:30",
+      "classHours": "Monday: 10:00 - 11:00, Thursday: 11:00 - 13:00",
       "venue": "LHC-08",
       "noOfCredits": 2,
       "courseDescription": "This course offers a comprehensive introduction to the fundamentals of programming in Python, tailored for students embarking on their journey into AI and ML. Throughout the course, students will gain hands-on experience by implementing essential AI/ML tasks from scratch. The course is designed to facilitate students who intend to pursue projects in deep learning and/or reinforcement learning in their subsequent semesters.<br />For a previous edition of this course, see <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
       "courseAnnouncements": [
+        {
+          "date": "03 Mar 2026",
+          "content": "Assignment 02 posted, and is due on 17 Mar 2026, 23:59 hrs."
+        },
         {
           "date": "14 Feb 2026",
           "content": "Assignment 01 posted, and is due on 28 Feb 2026, 23:59 hrs."
         },
         {
           "date": "12 Feb 2026",
-          "content": "Lectures begin.<br />All lectures to be conducted in LHC-14.<br />Although the proposed slot for the course is B, the lectures will be conducted on Mondays (10:00 - 11:30) and Thursdays (11:00 - 12:30)."
+          "content": "Lectures begin.<br />All lectures to be conducted in LHC-14.<br />Although the proposed slot for the course is B, the lectures will be conducted on Mondays (10:00 - 11:00) and Thursdays (11:00 - 13:00)."
         }
       ],
       "courseContents": [
@@ -3306,6 +3349,36 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Basics of PyTorch and its modules.<br />Credits: <a href=\"\" target=\"_blank\" rel=\"noopener noreferrer\">Rishik Vamshi Rohith Vempati</a></span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI1013/2026-AI1013-Pytorch-tutorial-notebook-1.ipynb",
+                  "badgeDisplayName": "ipynb-1"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI1013/2026-AI1013-Pytorch-tutorial-notebook-2.ipynb",
+                  "badgeDisplayName": "ipynb-2"
+                }
+              ]
+            },
+            {
+              "title": "<span>Convolutional Neural Networks (CNNs) on PyTorch.<br />Credits: <a href=\"\" target=\"_blank\" rel=\"noopener noreferrer\">Vishnuhemanth Tiruvalluru</a></span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI1013/2026-AI1013-PyTorch-CNN-basics.ipynb",
+                  "badgeDisplayName": "ipynb-1"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI1013/2026-AI1013-PyTorch-CNNs-custom-datasets.ipynb",
+                  "badgeDisplayName": "ipynb-2"
+                }
+              ]
             }
           ]
         },
@@ -3325,6 +3398,21 @@
                   "badgeName": "notes",
                   "link": "./media/2026/AI1013/2026-AI1013-assignment-01-datasets.zip",
                   "badgeDisplayName": "datasets"
+                }
+              ]
+            },
+            {
+              "title": "<span>Assignment 02 (MLP with and without PyTorch, CNN using PyTorch).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI1013/2026-AI1013-assignment-02.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI1013/2026-AI1013-assignment-02-datasets.zip",
+                  "badgeDisplayName": "dataset"
                 }
               ]
             }

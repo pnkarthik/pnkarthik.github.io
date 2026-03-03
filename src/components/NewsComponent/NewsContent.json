@@ -1,7 +1,7 @@
 [
   {
     "date": "20 Feb 2026",
-    "content": "Posted a paper on <em>Asymptotically Optimal Sequential Testing with Markovian Data</em>.<br />Joint work with <a href=\"https://scholar.google.com/citations?user=FsFJ_0gAAAAJ&hl=en\" rel=\"noopener noreferrer\"<strong>Alhad Sethi</strong></a>, <a href=\"https://www.linkedin.com/in/kavali-sofia-sagar-ai-Ph.D./\" rel=\"noopener noreferrer\"<strong>Kavali Sofia Sagar</strong></a>, <a href=\"https://sites.google.com/view/shubhada-agrawal/home?authuser=0\" rel=\"noopener noreferrer\"<strong>Shubhada Agrawal</strong></a>, and <a href=\"https://debabrota-basu.github.io\" rel=\"noopener noreferrer\"<strong>Debabrota Basu</strong></a>.",
+    "content": "Posted a paper on <em>Asymptotically Optimal Sequential Testing with Markovian Data</em>.<br />Joint work with <a href=\"https://scholar.google.com/citations?user=FsFJ_0gAAAAJ&hl=en\" rel=\"noopener noreferrer\"<strong>Alhad Sethi</strong></a>, <a href=\"https://www.linkedin.com/in/kavali-sofia-sagar-ai-Ph.D./\" rel=\"noopener noreferrer\"<strong>Kavali Sofia Sagar</strong></a>, <a href=\"https://sites.google.com/view/shubhada-agrawal/home?authuser=0\" rel=\"noopener noreferrer\"<strong>Shubhada Agrawal</strong></a>, and <a href=\"https://debabrota-basu.github.io\" rel=\"noopener noreferrer\"<strong>Debabrota Basu</strong></a>.<br />In this work, we consider the problem of sequential hypothesis testing with a single Markov data stream.<br />We characterise the asymptotic sample complexity of identifying the true hypothesis up to a desired confidence level, where the asymptotics is as the error probability vanishes.<br />The novelty in our work is a complete characterization of the sample complexity for general, albeit disjoint, hypothesis classes associated with the unknown transition probability matrix (TPM) of the Markov chain (without any restrictive assumptions on the TPM such as belonging to an exponential family).",
     "badgesData": [
       {
         "badgeName": "arxiv",
@@ -9,6 +9,11 @@
         "badgeDisplayName": "arxiv"
       }
     ],
+    "isArchived": false
+  },
+  {
+    "date": "06 Jan 2026",
+    "content": "Teaching a 2-credit course on Programming for AI during Feb-Apr 2026.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
     "isArchived": false
   },
   {
@@ -31,7 +36,7 @@
   {
     "date": "06 Dec 2025",
     "content": "Received an instructor rating of 4.78/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Probability-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">AI5030: Probability and Stochastic Processes</a> taught during Jul-Nov 2025. <br />Received an instructor rating of 4.76/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Probability-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">EE5817: Random Variables and Stochastic Processes</a> taught during Jul-Nov 2025.<br />My sincere thanks to all students who provided generous feedback on my instruction.",
-    "isArchived": false,
+    "isArchived": true,
     "badgesData": [
       {
         "badgeName": "pdf",
@@ -48,17 +53,17 @@
   {
     "date": "05 Sep 2025",
     "content": "Invited to deliver a talk at the <a href=\"https://aiml-workshop.cse.iitk.ac.in/index.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Winter Workshop on ML and AI</a> at IIT Kanpur, during 03-05 Dec 2025.<br />Special thanks to <a href=\"https://sites.google.com/view/sayakraychowdhury/home?authuser=0\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Sayak Ray Chowdhury</a> for the kind invitation.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "27 Jul 2025",
     "content": "Teaching a 3-credit course on Probability and Stochastic Processes.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/Probability-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "24 May 2025",
     "content": "Received an instructor rating of 4.95/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Stochastic-Processes-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">AI5090: Stochastic Processes (Theory and Applications)</a> taught during Jan-Apr 2025. <br />Received an instructor rating of 4.74/5.0 for the course <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">AI1013: Programming for AI</a> taught during Feb-Apr 2025.<br />My sincere thanks to all students who provided generous feedback on my instruction.",
-    "isArchived": false,
+    "isArchived": true,
     "badgesData": [
       {
         "badgeName": "pdf",
