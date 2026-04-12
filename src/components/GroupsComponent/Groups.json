@@ -4,7 +4,7 @@
     "fullName": "Deepshikha Urmaliya",
     "department": "AI",
     "batch": "2025",
-    "program": "Ph.D.",
+    "program": "Ph.D. (JRF)",
     "institute": "IIT Hyderabad",
     "duration": "Dec 2025 -",
     "photo": "deepshikha.jpeg",
@@ -16,7 +16,7 @@
     "fullName": "Prantik Pramanick",
     "department": "AI",
     "batch": "2025",
-    "program": "Ph.D.",
+    "program": "Ph.D. (JRF)",
     "institute": "IIT Hyderabad",
     "duration": "Dec 2025 -",
     "photo": "prantik.jpeg",
@@ -28,7 +28,7 @@
     "fullName": "Kavali Sofia Sagar",
     "department": "AI",
     "batch": "2024",
-    "program": "Ph.D.",
+    "program": "Ph.D. (JRF)",
     "institute": "IIT Hyderabad",
     "duration": "Dec 2024 -",
     "photo": "sofia.jpeg",
@@ -83,21 +83,21 @@
     "websiteLink": "",
     "role": "Thesis Student",
     "jointSupervision": ""
-  },
+  }
+  ],
+
+  "alumni": [
   {
     "fullName": "Sravani Kallumari",
     "department": "CSE (AI)",
     "program": "BTech",
     "batch": "2022",
     "institute": "G Pulla Reddy Engineering College",
-    "duration": "Jan 2026 -",
+    "duration": "Jan-Apr 2026",
     "photo": "sravani.jpeg",
     "websiteLink": "https://www.linkedin.com/in/kallumari-sravani-9a9376343/",
     "role": "Intern"
-  }
-  ],
-
-  "alumni": [
+  },
   {
     "fullName": "Ladva Umanshiva Hiteshiva",
     "department": "AI",

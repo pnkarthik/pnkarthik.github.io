@@ -13,7 +13,7 @@ const FundingComponent = () => {
               <th className="px-3 py-2 border text-center text-nowrap">Sponsor</th>
               <th className="px-3 py-2 border text-center text-nowrap">From</th>
               <th className="px-3 py-2 border text-center text-nowrap">To</th>
-              <th className="px-3 py-2 border text-center text-nowrap">Amount</th>
+              <th className="px-3 py-2 border text-center text-nowrap">Amount (INR)</th>
             </tr>
           </thead>
           <tbody>
@@ -78,7 +78,7 @@ const FundingComponent = () => {
 
                 {/* AMOUNT */}
                 <td className="px-3 py-2 border text-center align-center whitespace-nowrap">
-                  ₹ {item.amount}
+                {item.amount}
                 </td>
 
               </tr>

@@ -1,5 +1,66 @@
 [
   {
+    "date": "11 Apr 2026",
+    "content": "Honored to receive the <a href=\"https://anrfonline.in/ANRF/ecrg_anrf?HomePage=New\" target=\"_blank\"  rel=\"noopener noreferrer\">ANRF Prime Minister Early Career Research Grant (PM-ECRG)</a>.<br />Look forward to the opportunities this grant will bring.",
+    "isArchived": false
+  },
+  {
+    "date": "08 Apr 2026",
+    "content": "Hosted <a href=\"https://sites.google.com/view/karthikeyan-shanmugam/\" target=\"_blank\"  rel=\"noopener noreferrer\">Karthikeyan Shanmugam</a>, Research Scientist, Google DeepMind India (Bengaluru).<br />Karthikeyan delivered an engaging talk on the topic ''Algorithms for Fine Tuning Diffusion Models through Rewards''.<br />Many thanks to Karthikeyan for accepting the invitation and visiting IIT Hyderabad.",
+    "badgesData": [
+          {
+            "badgeName": "photo",
+            "link": "./media/2026/04/karthikeyan-photo-01.jpeg",
+            "badgeDisplayName": "photo-01"
+          },
+          {
+            "badgeName": "photo",
+            "link": "./media/2026/04/karthikeyan-photo-02.jpeg",
+            "badgeDisplayName": "photo-02"
+          }
+        ],
+    "isArchived": false
+  },
+  {
+    "date": "01 Apr 2026",
+    "content": "Hosted <a href=\"https://www.linkedin.com/in/vpratik/\" target=\"_blank\"  rel=\"noopener noreferrer\">Pratik Verma</a>, Vice-President of Data Science at Netradyne Technology India Pvt Ltd.<br />Pratik delivered an engaging talk on the topic ''What It Takes to Make Edge Intelligence Work on Real Roads''.<br />Many thanks to Pratik for accepting the invitation and visiting IIT Hyderabad.",
+    "badgesData": [
+          {
+            "badgeName": "photo",
+            "link": "./media/2026/04/pratik-verma-photo-01.jpeg",
+            "badgeDisplayName": "photo-01"
+          },
+          {
+            "badgeName": "photo",
+            "link": "./media/2026/04/pratik-verma-photo-02.jpeg",
+            "badgeDisplayName": "photo-02"
+          },
+          {
+            "badgeName": "photo",
+            "link": "./media/2026/04/pratik-verma-photo-03.jpeg",
+            "badgeDisplayName": "photo-03"
+          }
+        ],
+    "isArchived": false
+  },
+  {
+    "date": "01 Apr 2026",
+    "content": "Coordinating a 1-credit course on Industry Lecture Series.",
+    "isArchived": false
+  },
+  {
+    "date": "28 Mar 2026",
+    "content": "Paper on <em>Almost Asymptotically Optimal Active Clustering Through Pairwise Observations</em> accepted to <a href=\"https://2026.ieee-isit.org/\" target=\"_blank\"  rel=\"noopener noreferrer\">ISIT 2026</a>! <br />Joint work with <a href=\"https://rachtsy.github.io/\" rel=\"noopener noreferrer\"<strong>Rachel S. Y. Teo</strong></a>, <a href=\"https://ramyakv.github.io\" rel=\"noopener noreferrer\"<strong>Ramya Korlakai Vinayak</strong></a>, and <a href=\"https://vyftan.github.io\" rel=\"noopener noreferrer\"<strong>Vincent Y. F. Tan</strong></a>.<br />Congratulations to all the co-authors!.",
+    "badgesData": [
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2602.17587",
+        "badgeDisplayName": "arxiv"
+      }
+    ],
+    "isArchived": false
+  },
+  {
     "date": "20 Feb 2026",
     "content": "Posted a paper on <em>Asymptotically Optimal Sequential Testing with Markovian Data</em>.<br />Joint work with <a href=\"https://scholar.google.com/citations?user=FsFJ_0gAAAAJ&hl=en\" rel=\"noopener noreferrer\"<strong>Alhad Sethi</strong></a>, <a href=\"https://www.linkedin.com/in/kavali-sofia-sagar-ai-Ph.D./\" rel=\"noopener noreferrer\"<strong>Kavali Sofia Sagar</strong></a>, <a href=\"https://sites.google.com/view/shubhada-agrawal/home?authuser=0\" rel=\"noopener noreferrer\"<strong>Shubhada Agrawal</strong></a>, and <a href=\"https://debabrota-basu.github.io\" rel=\"noopener noreferrer\"<strong>Debabrota Basu</strong></a>.<br />In this work, we consider the problem of sequential hypothesis testing with a single Markov data stream.<br />We characterise the asymptotic sample complexity of identifying the true hypothesis up to a desired confidence level, where the asymptotics is as the error probability vanishes.<br />The novelty in our work is a complete characterization of the sample complexity for general, albeit disjoint, hypothesis classes associated with the unknown transition probability matrix (TPM) of the Markov chain (without any restrictive assumptions on the TPM such as belonging to an exponential family).",
     "badgesData": [
@@ -143,7 +204,7 @@
   },
   {
     "date": "22 Jan 2025",
-    "content": "Paper on <em>Optimal Multi-Objective Best Arm Identification with Fixed Confidence</em> accepted to <a href=\"https://aistats.org/aistats2025//\" target=\"_blank\"  rel=\"noopener noreferrer\">AISTATS 2025</a>! <br />Joint work with <a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Yeow Meng Chee</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>. <br />Congratulations to all the co-authors!",
+    "content": "Paper on <em>Optimal Multi-Objective Best Arm Identification with Fixed Confidence</em> accepted to <a href=\"https://aistats.org/aistats2025/\" target=\"_blank\"  rel=\"noopener noreferrer\">AISTATS 2025</a>! <br />Joint work with <a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Yeow Meng Chee</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>. <br />Congratulations to all the co-authors!",
     "badgesData": [
       {
         "badgeName": "openreview",

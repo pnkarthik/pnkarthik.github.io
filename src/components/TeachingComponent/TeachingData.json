@@ -3054,6 +3054,10 @@
       "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon three limit theorems that are central to probability theory: weak law of large numbers, strong law of large numbers, and central limit theorem. This will be followed by an in-depth coverage of the theory of discrete-time Markov chains on finite state spaces. This will be followed by a treatment of Poisson processes, which will in turn be followed by a brief treatment of martingales. Students crediting the course will be expected to be comfortable with measure-theoretic probability.<p></p>This course is cross-listed with EE5910: Advanced Stochastic Processes.",
       "courseAnnouncements": [
         {
+          "date":"28 Mar 2026",
+          "content": "Quiz 04 (based on Homework 04) and Midterm Exam will be conducted together on 05 Apr 2026, from 14:00 hrs to 17:00 hrs in LHC-11."
+        },
+        {
           "date":"03 Mar 2026",
           "content": "Quiz 03 (based on Homework 03) to be conducted on 09 Mar 2026 from 18:00 hrs to 19:00 hrs in 701, MAE Building."
         },
@@ -3176,6 +3180,96 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Transition graph of a Markov chain, Chapman--Kolmogorov equation, random mapping representation of a Markov chain.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-15.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Simulation of a Markov chain (via random mapping representation), strong Markov property and its proof, hitting times, increments of hitting times (recurrence times), block structure induced by returns of the Markov chain to a particular state.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-16.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>IID block structure associated with recurrence times, recurrent states, transient states, mean recurrence times, visitation probabilities.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-17.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Reachability and communication, communication as an equivalence relation, communicating classes, irreducibility, period of a state, proof that period is a class property, proof that transience and recurrence are class properties, proof that positive recurrence and null recurrence are class properties.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-18.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Open and closed communicating classes, proof that open communicating classes are transient, proof that finite closed communicating classes are positive recurrent, invariant distribution, existence and uniqueness of invariant distribution, examples, proof that an irreducible Markov chain has a unique invariant distribution if and only if it is positive recurrent.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-19.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Example problems on invariant distributions and average hitting times, ergodicity, ergodic theorem, proof of ergodic theorem via coupling.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-20.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Almost sure convergence in Markov chains (ergodic theorem), proof of almost sure convergence, Markov chain Monte Carlo (MCMC) techniques, Metropolis--Hastings algorithm and its analysis.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-21.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Application of Metropolis--Hastings algorithm to Bayesian logistic regression on the Challenger O-ring dataset, rate of convergence of the Metropolis--Hastings algorithm, Gibbs sampling as a special case of the Metropolis--Hastings algorithm, some useful references on Markov chains, a test for irreducibility, conditional expectations, existence of conditional expectation via Radon--Nikodym theorem.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-22.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Almost-sure uniqueness of conditional expectation, properties of conditional expectation (linearity, monotonicity, monotone convergence), tower property, martingale, submartingale, supermartingale (definitions).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-23.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -3212,6 +3306,16 @@
                   "badgeDisplayName": "homework"
                 }
               ]
+            },
+            {
+              "title": "<span>Homework 04 (topics: Markov chains, invariant distributions).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-homework-04.pdf",
+                  "badgeDisplayName": "homework"
+                }
+              ]
             }
           ]
         },
@@ -3235,6 +3339,26 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2026/AI5090/2026-AI5090-quiz-02.pdf",
+                  "badgeDisplayName": "quiz"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 03.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-quiz-03.pdf",
+                  "badgeDisplayName": "quiz"
+                }
+              ]
+            },
+            {
+              "title": "<span>Midterm Exam and Quiz 04.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-midterm-exam-and-quiz-04.pdf",
                   "badgeDisplayName": "quiz"
                 }
               ]
@@ -3310,6 +3434,14 @@
       "courseDescription": "This course offers a comprehensive introduction to the fundamentals of programming in Python, tailored for students embarking on their journey into AI and ML. Throughout the course, students will gain hands-on experience by implementing essential AI/ML tasks from scratch. The course is designed to facilitate students who intend to pursue projects in deep learning and/or reinforcement learning in their subsequent semesters.<br />For a previous edition of this course, see <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
       "courseAnnouncements": [
         {
+          "date": "26 Mar 2026",
+          "content": "Assignment 03 posted, and is due on 13 April 2026, 23:59 hrs."
+        },
+        {
+          "date": "08 Mar 2026",
+          "content": "Two lectures on the building blocks of a Generative AI chatbot to be taught by Mr. Naresh Shah from Mindgraph Technologies Pvt Ltd.<br />The lectures will be conducted on 12 Mar 2026 and 19 Mar 2026 from 11:00 hrs to 13:00 hrs."
+        },
+        {
           "date": "03 Mar 2026",
           "content": "Assignment 02 posted, and is due on 17 Mar 2026, 23:59 hrs."
         },
@@ -3379,6 +3511,26 @@
                   "badgeDisplayName": "ipynb-2"
                 }
               ]
+            },
+            {
+              "title": "<span>Building blocks of a GenAI chatbot.<br />Credits: Naresh Shah, Mindgraph Technologies Pvt Ltd.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI1013/2026-AI1013-genAI-lecture-01.pdf",
+                  "badgeDisplayName": "genAI-chatbot-lecture-01"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI1013/2026-AI1013-genAI-lecture-02.pdf",
+                  "badgeDisplayName": "genAI-chatbot-lecture-02"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI1013/genAI-codelab.ipynb",
+                  "badgeDisplayName": "genAI-codelab"
+                }
+              ]
             }
           ]
         },
@@ -3413,6 +3565,16 @@
                   "badgeName": "notes",
                   "link": "./media/2026/AI1013/2026-AI1013-assignment-02-datasets.zip",
                   "badgeDisplayName": "dataset"
+                }
+              ]
+            },
+            {
+              "title": "<span>Assignment 02 (Building a GenAI chatbot using Ollama).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI1013/2026-AI1013-assignment-03.pdf",
+                  "badgeDisplayName": "pdf"
                 }
               ]
             }

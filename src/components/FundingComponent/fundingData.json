@@ -1,10 +1,19 @@
 [
   {
+    "scheme": "<a href=\"https://anrfonline.in/ANRF/ecrg_anrf?HomePage=New\" target=\"_blank\"  rel=\"noopener noreferrer\">Prime Minister Early Career Research Grant (PM-ECRG)</a>",
+    "sponsor": "<a href=\"https://www.anrfonline.in/ANRF/HomePage\" target=\"_blank\" rel=\"noopener noreferrer\">ANRF</a>",
+    "from": "Apr 2026",
+    "to": "Mar 2029",
+    "amount": "72 Lakh",
+    "schemeDetails": "Research support for early career researchers",
+    "sponsorDetails": "Anusandhan National Research Foundation"
+  },
+  {
     "scheme": "Seed Grant",
     "sponsor": "<a href=\"https://iith.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">IIT Hyderabad</a>",
     "from": "Sep 2024",
     "to": "Sep 2026",
-    "amount": "30,00,000",
+    "amount": "30 Lakh",
     "schemeDetails": "Start-up research grant provided to newly joined faculty",
     "sponsorDetails": ""
   },

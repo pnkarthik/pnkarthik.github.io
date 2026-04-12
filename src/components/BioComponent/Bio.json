@@ -110,6 +110,7 @@
     }
   ],
   "awardsAndHonors": [
+    {"title":"ANRF Prime Minister Early Career Research Grant (PM-ECRG), 2026-2029"},
     {"title":"Faculty Teaching Excellence Award 2025 from IIT Hyderabad",
     "badgesData": [
       {
@@ -141,6 +142,7 @@
     {"title": "Secured rank 23 (among the top 0.02%) in the 2010 Karnataka Common Entrance Test (KCET)"}
   ],
   "serviceAtIITH": [
+    {"title": "Course coordinator, AI5016: Industry Lecture Series (Apr 2026)"},
     {"title": "Member, Space Committee (Sep 2025 - present)"},
     {"title": "Faculty Advisor (FA) for BTech 2025 batch of students (Jun 2025 - present)"},
     {"title": "Faculty Advisor (FA) for BTech 2024 batch of students (Jun 2025 - present)"},
@@ -152,6 +154,7 @@
     {"title": "Co-Organiser, 2024 JTG/IEEE ITSoc Summer School (24-28 Jun 2024)"}
   ],
   "professionalService": [
+    {"title": "Reviewer, Transactions on Machine Learning Research (TMLR), 2026"},
     {"title": "Reviewer, IEEE International Conference on Computer Communications (Infocom 2026)"},
     {"title": "TPC Member, 2025 IEEE International Symposium on Information Theory (ISIT 2025)"},
     {"title": "Reviewer, IEEE Signal Processing Letters"},

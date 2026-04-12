@@ -149,10 +149,10 @@
       ]
     },
     {
-      "id": "alt2026",
+      "id": "T-IT-2026",
       "title": "<em>Almost Asymptotically Optimal Active Clustering Through Pairwise Observations</em>",
       "authors": "<a href=\"https://rachtsy.github.io/\" rel=\"noopener noreferrer\"<strong>Rachel S. Y. Teo</strong></a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://ramyakv.github.io\" rel=\"noopener noreferrer\"<strong>Ramya Korlakai Vinayak</strong></a>, and <a href=\"https://vyftan.github.io\" rel=\"noopener noreferrer\"<strong>Vincent Y. F. Tan</strong></a>",
-      "status": "Submitted (under review).",
+      "status": "Submitted, IEEE Transactions on Information Theory.",
       "hasAbstract": true,
       "abstract": "<p>We propose a fundamentally new approach to clustering $M$ items into an unknown number of $K$ distinct groups using noisy and actively collected crowdsourced responses. At each time step, an agent is allowed to query pairs of items and observe bandit feedback. If the pair of items belongs to the same (resp. different) cluster, the binary feedback observed is $1$ with probability $p>1/2$ (resp. $q<1/2$). Leveraging the ubiquitous change-of-measure technique, we establish a fundamental lower bound on the expected number of queries needed to achieve a desired confidence in the clustering accuracy, formulated as a sup-inf optimization problem. Building on this theoretical foundation, we design an asymptotically optimal algorithm in which the stopping criterion involves an empirical version of the inner infimum---the Generalized Likelihood Ratio (GLR) statistic---being compared to a threshold. We develop a computationally feasible variant and show that its performance gap to the lower bound can be accurately empirically estimated and  remains within   a constant multiple of optimality. Extensive experiments validate that our strategy outperforms existing methods, setting a new standard in crowdsourced clustering under uncertainty.</p>",
       "badgesData": [
@@ -167,7 +167,7 @@
       "id": "wcnc2026",
       "title": "<em>Link Adaptation Using Joint-Thompson Sampling</em>",
       "authors": "<a href=\"https://in.linkedin.com/in/vignatha-vinjam-57046a195\" rel=\"noopener noreferrer\"<strong>Vignatha Vinjam</strong></a>, <a href=\"https://in.linkedin.com/in/manjunath-kolavennu-4645ab21a\" rel=\"noopener noreferrer\"<strong>Manjunath Kolavennu</strong></a>, <a href=\"https://people.iith.ac.in/mynav/\" rel=\"noopener noreferrer\"<strong>Myna Vajha</strong></a>, and <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>Karthik Periyapattana Narayana Prasad</strong></a>",
-      "status": "Under preparation.",
+      "status": "Submitted, SPCOM 2026.",
       "hasAbstract": true,
       "abstract": "<p>The choice of Modulation and Coding (MCS) type for a particular channel condition is made through link adaptation (LA) algorithms that operate at the MAC layer. These algorithms rely on the ACK/NACK statistics and the channel quality index (CQI) feedback received. Several existing works pose LA as a multi-armed bandit (MAB) problem, both in the context of cellular and Wi-Fi links. In the MAB formulation, each available MCS is assumed to be a Bernoulli arm parameterized by the success probability of transmission associated with the MCS, and the end goal is to design an arm selection strategy (aka algorithm) that accrues maximum reward. Several popular MAB algorithms, such as upper confidence bound (UCB) and Thompson Sampling (TS), have been proposed in the literature. Using the fact that the success probabilities of the MCS values are ordered, we propose the Joint-Thompson Sampling (Joint-TS) algorithm that starts with the multivariate ordered Beta distribution as the prior and preserves the monotonicity property of the success probabilities throughout the algorithm, unlike the classical TS algorithm, which assumes the arms to have independent Beta distributions. Our simulation results show throughput improvements achieved by Joint-TS over TS of up to 20, 19, and 34\\% respectively for Doppler shifts of 3, 20, and 111 Hz, at an average SINR of 10dB.</p>",
       "badgesData": [
@@ -325,10 +325,25 @@
   ],
   "conferencePublications": [
     {
+      "id": "isit2026",
+      "title": "<em>Almost Asymptotically Optimal Active Clustering Through Pairwise Observations</em>",
+      "authors": "<a href=\"https://rachtsy.github.io/\" rel=\"noopener noreferrer\"<strong>Rachel S. Y. Teo</strong></a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://ramyakv.github.io\" rel=\"noopener noreferrer\"<strong>Ramya Korlakai Vinayak</strong></a>, and <a href=\"https://vyftan.github.io\" rel=\"noopener noreferrer\"<strong>Vincent Y. F. Tan</strong></a>",
+      "status": "Accepted, 2026 IEEE Symposium on Information Theory (<a href=\"https://2026.ieee-isit.org/\" target=\"_blank\"  rel=\"noopener noreferrer\">ISIT 2026</a>).",
+      "hasAbstract": true,
+      "abstract": "<p>We propose a fundamentally new approach to clustering $M$ items into an unknown number of $K$ distinct groups using noisy and actively collected crowdsourced responses. At each time step, an agent is allowed to query pairs of items and observe bandit feedback. If the pair of items belongs to the same (resp. different) cluster, the binary feedback observed is $1$ with probability $p>1/2$ (resp. $q<1/2$). Leveraging the ubiquitous change-of-measure technique, we establish a fundamental lower bound on the expected number of queries needed to achieve a desired confidence in the clustering accuracy, formulated as a sup-inf optimization problem. Building on this theoretical foundation, we design an asymptotically optimal algorithm in which the stopping criterion involves an empirical version of the inner infimum---the Generalized Likelihood Ratio (GLR) statistic---being compared to a threshold. We develop a computationally feasible variant and show that its performance gap to the lower bound can be accurately empirically estimated and  remains within   a constant multiple of optimality. Extensive experiments validate that our strategy outperforms existing methods, setting a new standard in crowdsourced clustering under uncertainty.</p>",
+      "badgesData": [
+        {
+          "badgeName": "arxiv",
+          "link": "https://arxiv.org/abs/2602.05690",
+          "badgeDisplayName": "arxiv"
+        }
+      ]
+    },
+    {
       "id": "aistats2025",
       "title": "<em>Optimal Multi-Objective Best Arm Identification with Fixed Confidence</em>",
       "authors": "<a href=\"https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en\" target=\"_blank\"  rel=\"noopener noreferrer\">Chen Zhirui</a>, <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://ymchee66.github.io/home/\" target=\"_blank\"  rel=\"noopener noreferrer\">Yeow Meng Chee</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\"  rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
-      "status":"Accepted, 28th International Conference on Artificial Intelligence and Statistics (<a href=\"https://aistats.org/aistats2025//\" target=\"_blank\"  rel=\"noopener noreferrer\">AISTATS 2025</a>), ",
+      "status":"Accepted, 28th International Conference on Artificial Intelligence and Statistics (<a href=\"https://aistats.org/aistats2025/\" target=\"_blank\"  rel=\"noopener noreferrer\">AISTATS 2025</a>), ",
       "hasAbstract": true,
       "abstract": "<p>We consider a multi-armed bandit setting with finitely many arms, in which each arm yields an $M$-dimensional vector reward upon selection. We assume that the reward of each dimension (a.k.a. <em>objective</em>) is generated independently of the others. The best arm of any given objective is the arm with the largest component of mean corresponding to the objective. The end goal is to identify the best arm of <em>every</em> objective in the shortest (expected) time subject to an upper bound on the probability of error (i.e., fixed-confidence regime). We establish a problem-dependent lower bound on the limiting growth rate of the expected stopping time, in the limit of vanishing error probabilities. This lower bound, we show, is characterised by a max-min optimisation problem that is computationally expensive to solve at each time step. We propose an algorithm that uses the novel idea of <em>surrogate proportions</em> to sample the arms at each time step, eliminating the need to solve the max-min optimisation problem at each step. We demonstrate theoretically that our algorithm is asymptotically optimal. In addition, we provide extensive empirical studies to substantiate the efficiency of our algorithm.  While existing works on pure exploration with multi-objective multi-armed bandits predominantly focus on <em>Pareto frontier identification</em>, our work fills the gap in the literature by conducting a formal investigation of the multi-objective best arm identification problem.</p>",
       "badgesData": [
