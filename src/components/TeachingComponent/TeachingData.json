@@ -3359,7 +3359,7 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2026/AI5090/2026-AI5090-midterm-exam-and-quiz-04.pdf",
-                  "badgeDisplayName": "quiz"
+                  "badgeDisplayName": "midterm-and-quiz"
                 }
               ]
             }
@@ -3569,7 +3569,7 @@
               ]
             },
             {
-              "title": "<span>Assignment 02 (Building a GenAI chatbot using Ollama).</span>",
+              "title": "<span>Assignment 03 (Building a GenAI chatbot using Ollama).</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",

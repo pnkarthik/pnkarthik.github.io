@@ -83,6 +83,30 @@
     "websiteLink": "",
     "role": "Thesis Student",
     "jointSupervision": ""
+  },
+  {
+    "fullName": "Shresth Sarthak Awasthi",
+    "department": "CS",
+    "program": "ANRF-PAIR",
+    "batch": "2022",
+    "institute": "IIIT Raichur",
+    "duration": "Jan 2026 -",
+    "photo": "shresth.jpeg",
+    "websiteLink": "https://www.linkedin.com/in/shresth-sarthak-awasthi-414015186",
+    "role": "Intern",
+    "jointSupervision": ""
+  },
+  {
+    "fullName": "Shaurya Yadav",
+    "department": "CS",
+    "program": "ANRF-PAIR",
+    "batch": "2022",
+    "institute": "IIIT Raichur",
+    "duration": "Jan 2026 -",
+    "photo": "default-student.png",
+    "websiteLink": "https://www.linkedin.com/in/shauryayadav369/",
+    "role": "Intern",
+    "jointSupervision": ""
   }
   ],
 
