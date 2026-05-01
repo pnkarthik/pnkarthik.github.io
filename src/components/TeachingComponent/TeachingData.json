@@ -3054,6 +3054,14 @@
       "courseDescription": "This is a graduate-level course on stochastic processes. Beginning with a rigorous treatment of the various notions of convergence of sequences of random variables, the course will touch upon three limit theorems that are central to probability theory: weak law of large numbers, strong law of large numbers, and central limit theorem. This will be followed by an in-depth coverage of the theory of discrete-time Markov chains on finite state spaces. This will be followed by a treatment of Poisson processes, which will in turn be followed by a brief treatment of martingales. Students crediting the course will be expected to be comfortable with measure-theoretic probability.<p></p>This course is cross-listed with EE5910: Advanced Stochastic Processes.",
       "courseAnnouncements": [
         {
+          "date":"01 May 2026",
+          "content": "Final Exam for the course to be conducted from 14:00 hrs onwards in LHC-11."
+        },
+        {
+          "date":"25 Apr 2026",
+          "content": "Quiz 05 (to be based on Homework 05) and Quiz 06 to be conducted in conjunction with the Final Exam (to be conducted on 02 May 2026)."
+        },
+        {
           "date":"28 Mar 2026",
           "content": "Quiz 04 (based on Homework 04) and Midterm Exam will be conducted together on 05 Apr 2026, from 14:00 hrs to 17:00 hrs in LHC-11."
         },
@@ -3084,8 +3092,8 @@
       ],
       "courseContents": [
         {
-          "title": "Course Contents (Tentative)",
-          "description": "Convergence of sequences of random variables, Bernoulli process, counting process, Poisson process, stopping time, Wald's identity, discrete-time Markov chains, state space, transition probability matrix, Chapman--Kolmogorov equation, irreducibility, periodicity, recurrence (null recurrence and positive recurrence), invariant (stationary) distributions, ergodic theorem, Markov chain Monte Carlo (MCMC) simulation technique, Metropolis--Hastings algorithm, Gibbs sampling, martingales."
+          "title": "Course Contents",
+          "description": "Convergence of sequences of random variables, Bernoulli process, stopping time, Wald's identity, discrete-time Markov chains, state space, transition probability matrix, Chapman--Kolmogorov equation, irreducibility, periodicity, recurrence (null recurrence and positive recurrence), invariant (stationary) distributions, ergodic theorem, Markov chain Monte Carlo (MCMC) simulation technique, Metropolis--Hastings algorithm, Gibbs sampling, martingales."
         },
         {
           "title": "Lecture Slides",
@@ -3270,6 +3278,36 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Examples of martingales, predictable sequences and gambling, gambling up to a stopping time.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-24.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Doob's optional stopping theorem and its proof, convex transformation of a martingale, upcrossings, upcrossing lemma and its proof.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-25.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Martingale convergence theorem and its proof, martingales with bounded increments, Doob's decomposition, Ville's inequality.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-lecture-26.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -3313,6 +3351,16 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2026/AI5090/2026-AI5090-homework-04.pdf",
+                  "badgeDisplayName": "homework"
+                }
+              ]
+            },
+            {
+              "title": "<span>Homework 05 (topics: reversibility of Markov chains, conditional expectations, martingales).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI5090/2026-AI5090-homework-05.pdf",
                   "badgeDisplayName": "homework"
                 }
               ]
@@ -3434,6 +3482,14 @@
       "courseDescription": "This course offers a comprehensive introduction to the fundamentals of programming in Python, tailored for students embarking on their journey into AI and ML. Throughout the course, students will gain hands-on experience by implementing essential AI/ML tasks from scratch. The course is designed to facilitate students who intend to pursue projects in deep learning and/or reinforcement learning in their subsequent semesters.<br />For a previous edition of this course, see <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2025\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
       "courseAnnouncements": [
         {
+          "date": "01 May 2026",
+          "content": "Final presentations scheduled on 04 May 2026 and 05 May 2026.<br />The presentations will be conducted in LHC-14."
+        },
+        {
+          "date": "18 Apr 2026",
+          "content": "Assignment 04 posted, and is due on 27 Apr 2026, 23:59 hrs."
+        },
+        {
           "date": "26 Mar 2026",
           "content": "Assignment 03 posted, and is due on 13 April 2026, 23:59 hrs."
         },
@@ -3531,6 +3587,36 @@
                   "badgeDisplayName": "genAI-codelab"
                 }
               ]
+            },
+            {
+              "title": "<span>Sampling techniques: inverse transform technique, examples, generating IID Gaussian samples using Box-Muller technique.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI1013/2026-AI1013-lecture-2026-04-09.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Rejection sampling, pseudorandom number generation on Python.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI1013/2026-AI1013-lecture-2026-04-13.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Demonstration of strong law of large numbers, weak law of large numbers, and the central limit theorem.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI1013/2026-AI1013-SLLN-WLLN-CLT-demo.ipynb",
+                  "badgeDisplayName": "ipynb"
+                }
+              ]
             }
           ]
         },
@@ -3574,6 +3660,16 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2026/AI1013/2026-AI1013-assignment-03.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Assignment 04 (Sampling techniques, probability and optimization through the lens of Wordle).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI1013/2026-AI1013-assignment-04.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]
@@ -3636,6 +3732,109 @@
             }
           ]
         }
+      ]
+    },
+    "Industry-Lecture-Series-2026":
+    {
+      "isIISc": false,
+      "year": "2026",
+      "courseMonth": "Mar-Apr",
+      "title": "<span>Industry</span> <span>Lecture</span> <span>Series</span>",
+      "noOfInstructors": 1,
+      "courseInstructor": "<span>Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a> </span>",
+      "courseWebsite": "<a href=\"https://karthikpn.com/#/teaching/Industry-Lecture-Series-2026\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">https://ece.iisc.ac.in/~parimal/2018/random/</a>",
+      "term": "Mar-April 2026",
+      "segment": "5-6",
+      "timeTableSlot": "None",
+      "classHours": "Wednesday morning",
+      "venue": "LHC or EE Seminar Hall",
+      "noOfCredits": 1,
+      "courseDescription": "This course offers a chance for budding engineers to interact with industry professionals and gain insights into the latest developments in the field of AI and ML.",
+      "courseAnnouncements": [
+      {
+        "date": "22 Apr 2026",
+        "content": "Hosted <a href=\"https://www.linkedin.com/in/abhishekchopde14/\" target=\"_blank\"  rel=\"noopener noreferrer\">Abhishek Chopde</a>, Research Scientist, Fractal AI Research, and <a href=\"https://www.linkedin.com/in/nimish-devasthali-a6655758/\" target=\"_blank\"  rel=\"noopener noreferrer\">Nimish Devasthali</a>, Principal AI Architect, Fractal AI Client Services.<br />Abhishek and Nimish delivered an engaging talk on the topic <em>From Research to Reality: How Industry AI Research is Shaping the Agentic Era</em>.<br />Many thanks to Abhishek and Nimish for accepting the invitation and visiting IIT Hyderabad.",
+        "badgesData": [
+              {
+                "badgeName": "photo",
+                "link": "./media/2026/04/abhishek-nimish-photo-01.jpeg",
+                "badgeDisplayName": "photo-01"
+              },
+              {
+                "badgeName": "photo",
+                "link": "./media/2026/04/abhishek-nimish-photo-02.jpeg",
+                "badgeDisplayName": "photo-02"
+              },
+              {
+                "badgeName": "photo",
+                "link": "./media/2026/04/abhishek-nimish-photo-03.jpeg",
+                "badgeDisplayName": "photo-03"
+              },
+              {
+                "badgeName": "photo",
+                "link": "./media/2026/04/abhishek-nimish-photo-04.jpeg",
+                "badgeDisplayName": "photo-04"
+              }
+            ]
+      },
+      {
+        "date": "15 Apr 2026",
+        "content": "Hosted <a href=\"https://nihesh.com/\" target=\"_blank\"  rel=\"noopener noreferrer\">Nihesh Rathod</a>, Data Scientist, Strand Life Sciences(Bengaluru).<br />Nihesh delivered an engaging talk on the topic <em>Whispers of Cancer: Listening to Early Signals of Cancer Through Machine Learning</em>.<br />Many thanks to Nihesh for accepting the invitation and visiting IIT Hyderabad.",
+        "badgesData": [
+              {
+                "badgeName": "photo",
+                "link": "./media/2026/04/nihesh-photo-01.jpeg",
+                "badgeDisplayName": "photo-01"
+              },
+              {
+                "badgeName": "photo",
+                "link": "./media/2026/04/nihesh-photo-02.jpeg",
+                "badgeDisplayName": "photo-02"
+              },
+              {
+                "badgeName": "photo",
+                "link": "./media/2026/04/nihesh-photo-03.jpeg",
+                "badgeDisplayName": "photo-03"
+              }
+            ]
+      },
+      {
+        "date": "08 Apr 2026",
+        "content": "Hosted <a href=\"https://sites.google.com/view/karthikeyan-shanmugam/\" target=\"_blank\"  rel=\"noopener noreferrer\">Karthikeyan Shanmugam</a>, Research Scientist, Google DeepMind India (Bengaluru).<br />Karthikeyan delivered an engaging talk on the topic <em>Algorithms for Fine Tuning Diffusion Models through Rewards</em>.<br />Many thanks to Karthikeyan for accepting the invitation and visiting IIT Hyderabad.",
+        "badgesData": [
+              {
+                "badgeName": "photo",
+                "link": "./media/2026/04/karthikeyan-photo-01.jpeg",
+                "badgeDisplayName": "photo-01"
+              },
+              {
+                "badgeName": "photo",
+                "link": "./media/2026/04/karthikeyan-photo-02.jpeg",
+                "badgeDisplayName": "photo-02"
+              }
+            ]
+      },
+      {
+        "date": "01 Apr 2026",
+        "content": "Hosted <a href=\"https://www.linkedin.com/in/vpratik/\" target=\"_blank\"  rel=\"noopener noreferrer\">Pratik Verma</a>, Vice-President of Data Science at Netradyne Technology India Pvt Ltd.<br />Pratik delivered an engaging talk on the topic <em>What It Takes to Make Edge Intelligence Work on Real Roads</em>.<br />Many thanks to Pratik for accepting the invitation and visiting IIT Hyderabad.",
+        "badgesData": [
+              {
+                "badgeName": "photo",
+                "link": "./media/2026/04/pratik-verma-photo-01.jpeg",
+                "badgeDisplayName": "photo-01"
+              },
+              {
+                "badgeName": "photo",
+                "link": "./media/2026/04/pratik-verma-photo-02.jpeg",
+                "badgeDisplayName": "photo-02"
+              },
+              {
+                "badgeName": "photo",
+                "link": "./media/2026/04/pratik-verma-photo-03.jpeg",
+                "badgeDisplayName": "photo-03"
+              }
+            ]
+     }
       ]
     }
 }

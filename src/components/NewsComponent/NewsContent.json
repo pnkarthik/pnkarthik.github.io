@@ -1,24 +1,14 @@
 [
   {
-    "date": "15 Apr 2026",
-    "content": "Hosted <a href=\"https://nihesh.com/\" target=\"_blank\"  rel=\"noopener noreferrer\">Nihesh Rathod</a>, Data Scientist, Strand Life Sciences(Bengaluru).<br />Nihesh delivered an engaging talk on the topic <em>Whispers of Cancer: Listening to Early Signals of Cancer Through Machine Learning</em>.<br />Many thanks to Nihesh for accepting the invitation and visiting IIT Hyderabad.",
+    "date": "01 May 2026",
+    "content": "Paper on <em>Asymptotically Optimal Sequential Testing with Markovian Data</em> accepted to <a href=\"https://icml.cc/Conferences/2026\" target=\"_blank\"  rel=\"noopener noreferrer\">ICML 2026</a>!<br />This is joint work with <a href=\"https://scholar.google.com/citations?user=FsFJ_0gAAAAJ&hl=en\" rel=\"noopener noreferrer\"<strong>Alhad Sethi</strong></a>, <a href=\"https://www.linkedin.com/in/kavali-sofia-sagar-ai-Ph.D./\" rel=\"noopener noreferrer\"<strong>Kavali Sofia Sagar</strong></a>, <a href=\"https://sites.google.com/view/shubhada-agrawal/home?authuser=0\" rel=\"noopener noreferrer\"<strong>Shubhada Agrawal</strong></a>, and <a href=\"https://debabrota-basu.github.io\" rel=\"noopener noreferrer\"<strong>Debabrota Basu</strong></a>.<br />Many congratulations to Sofia and Alhad for their first ICML acceptance!",
     "badgesData": [
-          {
-            "badgeName": "photo",
-            "link": "./media/2026/04/nihesh-photo-01.jpeg",
-            "badgeDisplayName": "photo-01"
-          },
-          {
-            "badgeName": "photo",
-            "link": "./media/2026/04/nihesh-photo-02.jpeg",
-            "badgeDisplayName": "photo-02"
-          },
-          {
-            "badgeName": "photo",
-            "link": "./media/2026/04/nihesh-photo-03.jpeg",
-            "badgeDisplayName": "photo-03"
-          }
-        ],
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2602.17587",
+        "badgeDisplayName": "arxiv"
+      }
+    ],
     "isArchived": false
   },
   {
@@ -27,47 +17,8 @@
     "isArchived": false
   },
   {
-    "date": "08 Apr 2026",
-    "content": "Hosted <a href=\"https://sites.google.com/view/karthikeyan-shanmugam/\" target=\"_blank\"  rel=\"noopener noreferrer\">Karthikeyan Shanmugam</a>, Research Scientist, Google DeepMind India (Bengaluru).<br />Karthikeyan delivered an engaging talk on the topic <em>Algorithms for Fine Tuning Diffusion Models through Rewards</em>.<br />Many thanks to Karthikeyan for accepting the invitation and visiting IIT Hyderabad.",
-    "badgesData": [
-          {
-            "badgeName": "photo",
-            "link": "./media/2026/04/karthikeyan-photo-01.jpeg",
-            "badgeDisplayName": "photo-01"
-          },
-          {
-            "badgeName": "photo",
-            "link": "./media/2026/04/karthikeyan-photo-02.jpeg",
-            "badgeDisplayName": "photo-02"
-          }
-        ],
-    "isArchived": false
-  },
-  {
     "date": "01 Apr 2026",
-    "content": "Hosted <a href=\"https://www.linkedin.com/in/vpratik/\" target=\"_blank\"  rel=\"noopener noreferrer\">Pratik Verma</a>, Vice-President of Data Science at Netradyne Technology India Pvt Ltd.<br />Pratik delivered an engaging talk on the topic <em>What It Takes to Make Edge Intelligence Work on Real Roads</em>.<br />Many thanks to Pratik for accepting the invitation and visiting IIT Hyderabad.",
-    "badgesData": [
-          {
-            "badgeName": "photo",
-            "link": "./media/2026/04/pratik-verma-photo-01.jpeg",
-            "badgeDisplayName": "photo-01"
-          },
-          {
-            "badgeName": "photo",
-            "link": "./media/2026/04/pratik-verma-photo-02.jpeg",
-            "badgeDisplayName": "photo-02"
-          },
-          {
-            "badgeName": "photo",
-            "link": "./media/2026/04/pratik-verma-photo-03.jpeg",
-            "badgeDisplayName": "photo-03"
-          }
-        ],
-    "isArchived": false
-  },
-  {
-    "date": "01 Apr 2026",
-    "content": "Coordinating a 1-credit course on Industry Lecture Series.",
+    "content": "Coordinating a 1-credit course on Industry Lecture Series.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/Industry-Lecture-Series-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
     "isArchived": false
   },
   {
@@ -84,7 +35,7 @@
   },
   {
     "date": "26 Mar 2026",
-    "content": "Received approval for the project <em>AI Based Threat Analysis and Countermeasure Response Module</em> by the Defence Electronics Research Laboratory (DLRL), Hyderabad.<br />Looking forward to working alongside Prof. <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\"  rel=\"noopener noreferrer\">Saketha Nath</a> on this project.<br />Many thanks to DLRL for the support.<br />Hoping to contribute to the country's defence research efforts through this project.",
+    "content": "Received approval for the project <em>AI Based Threat Analysis and Countermeasure Response Module</em> by the Defence Electronics Research Laboratory (DLRL), Hyderabad.<br />Looking forward to working alongside Dr. <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\"  rel=\"noopener noreferrer\">Saketha Nath</a> on this project.<br />Many thanks to DLRL for the support.<br />Hoping to contribute to the country's defence research efforts through this project.",
     "isArchived": false
   },
   {
