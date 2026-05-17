@@ -15,6 +15,7 @@ const Header = () => {
       link: "#/research",
       children: [
         { name: "Group", link: "#/group" },
+        { name: "Lab News", link: "#/labNews" },
         { name: "Publications", link: "#/publications" },
         { name: "Talks", link: "#/talksAndSeminars" },
         { name: "Collaborators", link: "#/collaborators" },

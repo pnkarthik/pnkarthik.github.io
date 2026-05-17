@@ -2,6 +2,7 @@ import React from "react";
 import data from "./Groups.json";
 import StudentProfileComponent from "./StudentProfileComponent";
 import StudentTableComponent from "./StudentTableComponent";
+import LabNewsComponent from "./LabNewsComponent";
 
 const GroupsComponent = () => {
   return (

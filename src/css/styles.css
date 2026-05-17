@@ -450,8 +450,8 @@ tr {
   }
 
   .dropdown {
-    right: 0;
-    position: absolute;
+    /* right: 0; */
+    /* position: absolute; */
   }
 
   .dropdownItem {

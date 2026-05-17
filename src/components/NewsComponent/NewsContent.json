@@ -62,7 +62,7 @@
   },
   {
     "date": "26 Mar 2026",
-    "content": "Received approval for the project <em>AI Based Threat Analysis and Countermeasure Response Module</em> by the Defence Electronics Research Laboratory (DLRL), Hyderabad.<br />Looking forward to working alongside Dr. <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\"  rel=\"noopener noreferrer\">Saketha Nath</a> on this project.<br />Many thanks to DLRL for the support.<br />Hoping to contribute to the country's defence research efforts through this project.",
+    "content": "Received approval for the project <em>AI Based Threat Analysis and Countermeasure Response Module</em> by the Defence Electronics Research Laboratory (DLRL), Hyderabad.<br />Looking forward to working alongside <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\"  rel=\"noopener noreferrer\">Dr. Saketha Nath</a> on this project.<br />Many thanks to DLRL for the support.<br />Hoping to contribute to the country's defence research efforts through this project.",
     "isArchived": false
   },
   {
@@ -75,12 +75,12 @@
         "badgeDisplayName": "arxiv"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "06 Jan 2026",
     "content": "Teaching a 2-credit course on Programming for AI during Feb-Apr 2026.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "06 Feb 2026",
@@ -92,12 +92,12 @@
         "badgeDisplayName": "arxiv"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "06 Jan 2026",
     "content": "Teaching a 3-credit course on Stochastic Processes during Jan-Apr 2026.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/Stochastic-Processes-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "06 Dec 2025",
@@ -190,7 +190,7 @@
         "badgeDisplayName": "video"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "07 Mar 2025",

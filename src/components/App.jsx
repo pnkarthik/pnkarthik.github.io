@@ -25,7 +25,7 @@ import GradingScheme from "./TeachingComponent/GradingScheme";
 import ContactComponent from "./ContactComponent";
 import GroupsComponent from "./GroupsComponent";
 import FundingComponent from "./FundingComponent";
-
+import LabNewsComponent from "./GroupsComponent/LabNewsComponent";
 
 const App = () => {
   const config = {
@@ -93,6 +93,7 @@ const App = () => {
                     <Route path="/contact" element={<ContactComponent />} />
                     <Route path="/group" element={<GroupsComponent />} />
                     <Route path="/funding" element={<FundingComponent />} />
+                    <Route path="/labNews" element={<LabNewsComponent />} />
                   </Routes>
                 </div>
               </div>

@@ -34,9 +34,9 @@ const Profile = () => {
         )}
         {isMobile ? (
           <div>
-          <div class="dropdown">
+          <div class="">
             <button class="btn connectBtn" type="button" id="socialLinks" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Connect
+              Follow
             </button>
             <div class="dropdown-menu" aria-labelledby="socialLinks">
               <div className="dropdownItem row flex-row col-12">

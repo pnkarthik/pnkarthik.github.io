@@ -5,10 +5,10 @@ import parse from 'html-react-parser';
 
 const BlogsComponent = () => {
   return (
-    <>
+    <div className="w-100 d-flex gap-3">
       {data.map((d) => {
         return (
-          <div className="card d-flex flex-column col blogCardMargin cardBorder">
+          <div className="w-50 card d-flex flex-column col blogCardMargin cardBorder">
             <div className="card-body cardContent">
               <div className="headingFontSize">{parse(d.title)}</div>
               <div className="card-subtitle badge dateColor p-1 blogDateMargin">{d.date}</div>
@@ -19,7 +19,7 @@ const BlogsComponent = () => {
           </div>
         );
       })}
-    </>
+    </div>
   );
 };
 
