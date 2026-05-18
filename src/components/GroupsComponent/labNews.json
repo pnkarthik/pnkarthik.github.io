@@ -44,5 +44,17 @@
         "badgeDisplayName": "prantik-certificate-ragpack"
       }
     ]
+  },
+  {
+    "date": "09 Jul 2025",
+    "content": "Our lab's first outing to the <a href=\"https://www.ee.iitb.ac.in/~jtg2025/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">2025 IEEE/JTG ITSoC Summer School</a> at IIT Bombay!",
+    "isArchived": false,
+    "badgesData": [
+      {
+        "badgeName": "pdf",
+        "link": "./media/2025/07/visit-to-jtg-summer-school-2025.JPG",
+        "badgeDisplayName": "group-photo"
+      }
+    ]
   }
 ]
