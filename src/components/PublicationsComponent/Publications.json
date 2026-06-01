@@ -149,18 +149,6 @@
       ]
     },
     {
-      "id": "wcnc2026",
-      "title": "<em>Link Adaptation Using Joint-Thompson Sampling</em>",
-      "authors": "<a href=\"https://in.linkedin.com/in/vignatha-vinjam-57046a195\" rel=\"noopener noreferrer\"<strong>Vignatha Vinjam</strong></a>, <a href=\"https://in.linkedin.com/in/manjunath-kolavennu-4645ab21a\" rel=\"noopener noreferrer\"<strong>Manjunath Kolavennu</strong></a>, <a href=\"https://people.iith.ac.in/mynav/\" rel=\"noopener noreferrer\"<strong>Myna Vajha</strong></a>, and <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>Karthik Periyapattana Narayana Prasad</strong></a>",
-      "status": "Submitted, SPCOM 2026.",
-      "hasAbstract": true,
-      "abstract": "<p>The choice of Modulation and Coding (MCS) type for a particular channel condition is made through link adaptation (LA) algorithms that operate at the MAC layer. These algorithms rely on the ACK/NACK statistics and the channel quality index (CQI) feedback received. Several existing works pose LA as a multi-armed bandit (MAB) problem, both in the context of cellular and Wi-Fi links. In the MAB formulation, each available MCS is assumed to be a Bernoulli arm parameterized by the success probability of transmission associated with the MCS, and the end goal is to design an arm selection strategy (aka algorithm) that accrues maximum reward. Several popular MAB algorithms, such as upper confidence bound (UCB) and Thompson Sampling (TS), have been proposed in the literature. Using the fact that the success probabilities of the MCS values are ordered, we propose the Joint-Thompson Sampling (Joint-TS) algorithm that starts with the multivariate ordered Beta distribution as the prior and preserves the monotonicity property of the success probabilities throughout the algorithm, unlike the classical TS algorithm, which assumes the arms to have independent Beta distributions. Our simulation results show throughput improvements achieved by Joint-TS over TS of up to 20, 19, and 34\\% respectively for Doppler shifts of 3, 20, and 111 Hz, at an average SINR of 10dB.</p>",
-      "badgesData": [
-        {
-        }
-      ]
-    },
-    {
       "id": "pp3",
       "title": "<em>Learning to Detect an Odd Restless Markov Arm with a Trembling Hand</em>",
       "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\"  rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
@@ -309,6 +297,18 @@
     }
   ],
   "conferencePublications": [
+    {
+      "id": "spcom2026",
+      "title": "<em>Link Adaptation Using Joint-Thompson Sampling</em>",
+      "authors": "<a href=\"https://in.linkedin.com/in/vignatha-vinjam-57046a195\" rel=\"noopener noreferrer\"<strong>Vignatha Vinjam</strong></a>, <a href=\"https://in.linkedin.com/in/manjunath-kolavennu-4645ab21a\" rel=\"noopener noreferrer\"<strong>Manjunath Kolavennu</strong></a>, <a href=\"https://people.iith.ac.in/mynav/\" rel=\"noopener noreferrer\"<strong>Myna Vajha</strong></a>, and <a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>Karthik Periyapattana Narayana Prasad</strong></a>",
+      "status": "Accepted, International Conference on Signal Processing and Communications (SPCOM), Jul 2026.",
+      "hasAbstract": true,
+      "abstract": "<p>The choice of Modulation and Coding (MCS) type for a particular channel condition is made through link adaptation (LA) algorithms that operate at the MAC layer. These algorithms rely on the ACK/NACK statistics and the channel quality index (CQI) feedback received. Several existing works pose LA as a multi-armed bandit (MAB) problem, both in the context of cellular and Wi-Fi links. In the MAB formulation, each available MCS is assumed to be a Bernoulli arm parameterized by the success probability of transmission associated with the MCS, and the end goal is to design an arm selection strategy (aka algorithm) that accrues maximum reward. Several popular MAB algorithms, such as upper confidence bound (UCB) and Thompson Sampling (TS), have been proposed in the literature. Using the fact that the success probabilities of the MCS values are ordered, we propose the Joint-Thompson Sampling (Joint-TS) algorithm that starts with the multivariate ordered Beta distribution as the prior and preserves the monotonicity property of the success probabilities throughout the algorithm, unlike the classical TS algorithm, which assumes the arms to have independent Beta distributions. Our simulation results show throughput improvements achieved by Joint-TS over TS of up to 20, 19, and 34\\% respectively for Doppler shifts of 3, 20, and 111 Hz, at an average SINR of 10dB.</p>",
+      "badgesData": [
+        {
+        }
+      ]
+    },
     {
       "id": "icml2026",
       "title": "<em>Asymptotically Optimal Sequential Testing with Markovian Data</em>",
