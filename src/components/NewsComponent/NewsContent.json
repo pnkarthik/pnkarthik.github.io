@@ -1,5 +1,32 @@
 [
   {
+    "date": "18 Jun 2026",
+    "content": "Delivered a podcast for <a href=\"https://www.youtube.com/@ConnectInsideOut\" target=\"_blank\"  rel=\"noopener noreferrer\">Connect InsideOut</a> spearheaded by the talented <a href=\"https://www.linkedin.com/in/manjunath-naik-s/\" target=\"_blank\"  rel=\"noopener noreferrer\">Manjunath Naik</a>, Founder and CEO, <a href=\"https://shankaraonline.com/\" target=\"_blank\"  rel=\"noopener noreferrer\">Shankara Online Solutions</a>.",
+    "badgesData": [
+          {
+            "badgeName": "link",
+            "link": "https://www.youtube.com/watch?v=4_WJ1d16h-o",
+            "badgeDisplayName": "YouTube"
+          },
+          {
+            "badgeName": "link",
+            "link": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7474379678745513984/",
+            "badgeDisplayName": "LinkedIn"
+          }
+        ]
+  },
+  {
+    "date": "11 Jun 2026",
+    "content": "Hosted <a href=\"https://debabrota-basu.github.io/\" target=\"_blank\"  rel=\"noopener noreferrer\">Debabrota Basu</a>, faculty at the Inria Centre at University of Lille, France.<br />Debabrota delivered an engaging talk on the topic <em>When privacy meets partial information: Privacy-Utility Trade-Offs in Sequential Testing and Learning Problems</em>.<br />Many thanks to Debabrota for accepting the invitation and visiting IIT Hyderabad.",
+    "badgesData": [
+          {
+            "badgeName": "photo",
+            "link": "./media/2026/06/debabrota-basu-photo-01.jpeg",
+            "badgeDisplayName": "photo"
+          }
+        ]
+  },
+  {
     "date": "29 May 2026",
     "content": "Paper on <em>Link Adaptation Using Joint-Thompson Sampling</em> accepted to <a href=\"https://ece.iisc.ac.in/~spcom/2026/\" target=\"_blank\"  rel=\"noopener noreferrer\">SPCOM 2026</a>!<br />This paper is an offshoot of a collaboration with <a href=\"https://in.linkedin.com/in/vignatha-vinjam-57046a195\" rel=\"noopener noreferrer\"<strong>Vignatha Vinjam</strong></a> and <a href=\"https://people.iith.ac.in/mynav/\" rel=\"noopener noreferrer\"<strong>Myna Vajha</strong></a>.<br />Many congratulations to my collaborators!",
     "isArchived": false
