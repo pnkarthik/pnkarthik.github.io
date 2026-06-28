@@ -10,10 +10,21 @@ const GroupsComponent = () => {
       <StudentTableComponent 
         title="Current Students"
         studentData={data?.currentStudents}
+        hideInstitute
+      />
+
+      <StudentTableComponent 
+        title="Alumni (Students)"
+        studentData={data?.alumniStudents}
+        showNextHop
+        showDissertation
+        hideInstitute
+        hideDepartment
+        centerEngagementRole
       />
       
       <StudentTableComponent 
-        title="Alumni"
+        title="Alumni (Other)"
         studentData={data?.alumni}
       />
     </>

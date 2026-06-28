@@ -5,7 +5,6 @@
     "department": "AI",
     "batch": "2025",
     "program": "Ph.D. (JRF)",
-    "institute": "IIT Hyderabad",
     "duration": "Dec 2025 -",
     "photo": "deepshikha.jpeg",
     "websiteLink": "https://www.linkedin.com/in/deepshikha-urmaliya-41023019b/",
@@ -17,7 +16,6 @@
     "department": "AI",
     "batch": "2025",
     "program": "Ph.D. (JRF)",
-    "institute": "IIT Hyderabad",
     "duration": "Dec 2025 -",
     "photo": "prantik.jpeg",
     "websiteLink": "https://www.linkedin.com/in/prantik-pramanick-4ba5621b6/",
@@ -28,8 +26,7 @@
     "fullName": "Kavali Sofia Sagar",
     "department": "AI",
     "batch": "2024",
-    "program": "Ph.D. (JRF)",
-    "institute": "IIT Hyderabad",
+    "program": "Ph.D. (SRF)",
     "duration": "Dec 2024 -",
     "photo": "sofia.jpeg",
     "websiteLink": "https://www.linkedin.com/in/kavali-sofia-sagar-ai-Ph.D./",
@@ -41,56 +38,62 @@
     "department": "AI",
     "batch": "2025",
     "program": "MTech (2-Year)",
-    "institute": "IIT Hyderabad",
     "duration": "Dec 2025 -",
-    "photo": "default-student.png",
-    "websiteLink": "",
+    "photo": "bharat.jpeg",
+    "websiteLink": "https://www.linkedin.com/in/bharat-goel-7182a9222",
     "role": "Thesis Student",
     "jointSupervision": ""
   },
   {
-    "fullName": "Anirudh Singh",
+    "fullName": "Sqn Ldr Anirudh Singh",
     "department": "AI",
-    "batch": "2025",
+    "batch": "2025 (Airforce Sponsored)",
     "program": "MTech (2-Year)",
-    "institute": "IIT Hyderabad",
     "duration": "Dec 2025 -",
-    "photo": "default-student.png",
+    "photo": "anirudh.jpeg",
     "websiteLink": "",
     "role": "Thesis Student",
     "jointSupervision": "Jointly with <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\" rel=\"noopener noreferrer\">Dr. Saketha Nath J</a>"
-  },
-  {
-    "fullName": "K A Midhunkumar",
-    "department": "AI",
-    "program": "MTech (2-Year)",
-    "batch": "2024",
-    "institute": "IIT Hyderabad",
-    "duration": "Dec 2024 -",
-    "photo": "midhun.jpg",
-    "websiteLink": "https://www.linkedin.com/in/k-a-midhunkumar",
-    "role": "Thesis Student",
-    "jointSupervision": ""
-  },
-  {
-    "fullName": "Deekshith Rathod K",
-    "department": "AI",
-    "program": "MTech (2-Year)",
-    "batch": "2024",
-    "institute": "IIT Hyderabad",
-    "duration": "Dec 2024 -",
-    "photo": "deekshith.png",
-    "websiteLink": "",
-    "role": "Thesis Student",
-    "jointSupervision": ""
-  },
+  }
+  ],
+
+  "alumniStudents": [
+    {
+      "fullName": "K A Midhunkumar",
+      "program": "MTech (2-Year)",
+      "batch": "2024",
+      "duration": "Dec 2024 - Jun 2026",
+      "photo": "midhun.jpg",
+      "websiteLink": "https://www.linkedin.com/in/k-a-midhunkumar",
+      "dissertationTitle": "Differentially Private Federated Best Arm Identification",
+      "dissertationLink": "",
+      "role": "Thesis Student",
+      "jointSupervision": "",
+      "nextHop": "Ph.D. at IISc"
+    },
+    {
+      "fullName": "Deekshith Rathod K",
+      "program": "MTech (2-Year)",
+      "batch": "2024",
+      "duration": "Dec 2024 - Jun 2026",
+      "photo": "deekshith.png",
+      "websiteLink": "",
+      "dissertationTitle": "Best Arm Identification in Multi-Armed Bandits with Arm Erasures",
+      "dissertationLink": "",
+      "role": "Thesis Student",
+      "jointSupervision": "",
+      "nextHop": "--"
+    }
+  ],
+
+  "alumni": [
   {
     "fullName": "Shresth Sarthak Awasthi",
     "department": "CS",
     "program": "ANRF-PAIR",
     "batch": "2022",
     "institute": "IIIT Raichur",
-    "duration": "Jan 2026 -",
+    "duration": "Jan-May 2026",
     "photo": "shresth.jpeg",
     "websiteLink": "https://www.linkedin.com/in/shresth-sarthak-awasthi-414015186",
     "role": "Intern",
@@ -102,15 +105,12 @@
     "program": "ANRF-PAIR",
     "batch": "2022",
     "institute": "IIIT Raichur",
-    "duration": "Jan 2026 -",
+    "duration": "Jan-May 2026",
     "photo": "default-student.png",
     "websiteLink": "https://www.linkedin.com/in/shauryayadav369/",
     "role": "Intern",
     "jointSupervision": ""
-  }
-  ],
-
-  "alumni": [
+  },
   {
     "fullName": "Sravani Kallumari",
     "department": "CSE (AI)",
