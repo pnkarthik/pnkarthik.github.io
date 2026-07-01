@@ -251,6 +251,69 @@ table {
   border-collapse: collapse;
 }
 
+.group-table-responsive {
+  width: 100%;
+}
+
+.group-student-table {
+  table-layout: fixed;
+}
+
+.group-student-table th,
+.group-student-table td {
+  text-align: center;
+  vertical-align: middle;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  white-space: normal;
+  hyphens: auto;
+  padding: 0.75rem 0.5rem;
+}
+
+.group-student-table th {
+  font-weight: 700;
+}
+
+.group-student-table td > * {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.group-student-photo {
+  display: block;
+  width: clamp(44px, 6vw, 70px);
+  height: clamp(44px, 6vw, 70px);
+  object-fit: cover;
+}
+
+.group-table-primary {
+  font-size: 1rem;
+}
+
+.group-table-secondary {
+  font-size: 0.875rem;
+}
+
+.group-engagement-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.group-duration-badge {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  min-width: 0;
+  padding: 0.25rem 0.35rem;
+  line-height: 1.2;
+  text-align: center;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
 tr { 
   border: solid;
   border-width: 1px 0;
@@ -478,6 +541,32 @@ tr {
   .headingFontSize {
     font-size: calc(1.2em + 1vw);;
   }
+
+  .group-table-responsive {
+    overflow-x: visible;
+  }
+
+  .group-student-table {
+    font-size: 0.72rem;
+  }
+
+  .group-student-table th,
+  .group-student-table td {
+    padding: 0.45rem 0.2rem;
+  }
+
+  .group-table-primary {
+    font-size: 0.82rem;
+  }
+
+  .group-table-secondary {
+    font-size: 0.72rem;
+  }
+
+  .group-duration-badge {
+    font-size: 0.68rem;
+    padding: 0.18rem 0.22rem;
+  }
   
   html {
     font-size: calc(0.5em + 1.5vw);
@@ -491,6 +580,35 @@ tr {
 
   .newsDate {
     width: max-content;
+  }
+}
+
+@media (max-width: 35.9375em) {
+  .group-student-table {
+    font-size: 0.62rem;
+  }
+
+  .group-student-table th,
+  .group-student-table td {
+    padding: 0.35rem 0.12rem;
+  }
+
+  .group-student-photo {
+    width: clamp(32px, 10vw, 48px);
+    height: clamp(32px, 10vw, 48px);
+  }
+
+  .group-table-primary {
+    font-size: 0.7rem;
+  }
+
+  .group-table-secondary {
+    font-size: 0.62rem;
+  }
+
+  .group-duration-badge {
+    border-width: 1px;
+    font-size: 0.58rem;
   }
 }
 

@@ -47,6 +47,15 @@ const StudentTableComponent = ({
       };
     }
 
+    if (hideDepartment && hideInstitute) {
+      return {
+        photo: "14%",
+        name: "32%",
+        program: "27%",
+        engagement: "27%",
+      };
+    }
+
     if (hideInstitute) {
       return {
         photo: "10%",
@@ -87,8 +96,8 @@ const StudentTableComponent = ({
         <p className="headingFontSize bg-blue">
           <span>{title}</span>
         </p>
-        <div className="table-responsive">
-          <table className="table table-bordered text-center align-middle w-100">
+        <div className="table-responsive group-table-responsive">
+          <table className="table table-bordered w-100 group-student-table">
             <thead className="thead-light">
               <tr>
                 <th style={{ width: columnWidths.photo }}>Photo</th>
@@ -106,12 +115,11 @@ const StudentTableComponent = ({
                 <tr key={index}>
 
                   {/* PHOTO COLUMN */}
-                  <td className="align-middle text-center" style={{ wordWrap: "break-word", whiteSpace: "normal" }}>
+                  <td>
                     <img
                       src={process.env.PUBLIC_URL + `/images/StudentPhotos/${person.photo || "default-user.png"}`}
                       alt={person.fullName}
-                      className="rounded-circle"
-                      style={{ width: "70px", height: "70px", objectFit: "cover" }}
+                      className="rounded-circle group-student-photo"
                       onError={(e) => {
                         e.target.onerror = null;
                         e.target.src = process.env.PUBLIC_URL + "/images/StudentPhotos/default-user.png";
@@ -120,8 +128,8 @@ const StudentTableComponent = ({
                   </td>
 
                   {/* NAME COLUMN */}
-                  <td className="align-middle text-center" style={{ wordWrap: "break-word", whiteSpace: "normal" }}>
-                    <div className="font-weight-bold" style={{ fontSize: "1rem" }}>
+                  <td>
+                    <div className="font-weight-bold group-table-primary">
                       {person.websiteLink ? (
                         <a href={person.websiteLink} target="_blank" rel="noopener noreferrer">
                           {person.fullName}
@@ -130,42 +138,39 @@ const StudentTableComponent = ({
                         person.fullName
                       )}
                     </div>
-                    <div className="text-muted" style={{ fontSize: "0.875rem" }} dangerouslySetInnerHTML={{ __html: person.jointSupervision }} />
+                    <div className="text-muted group-table-secondary" dangerouslySetInnerHTML={{ __html: person.jointSupervision }} />
                   </td>
 
                   {!hideDepartment && (
-                    <td className="align-middle text-center" style={{ wordWrap: "break-word", whiteSpace: "normal" }}>
+                    <td>
                       {person.department}
                     </td>
                   )}
 
                   {!hideInstitute && (
-                    <td className="align-middle text-center" style={{ wordWrap: "break-word", whiteSpace: "normal" }}>
+                    <td>
                       {person.institute}
                     </td>
                   )}
 
                   {/* PROGRAM + BATCH COLUMN */}
-                  <td className="align-middle text-center" style={{ wordWrap: "break-word", whiteSpace: "normal" }}>
+                  <td>
                     {person.program}
-                    <div className="text-muted" style={{ fontSize: "0.875rem" }}>
+                    <div className="text-muted group-table-secondary">
                       Batch of {person.batch}
                     </div>
                   </td>
 
                   {/* ENGAGEMENT COLUMN */}
-                  <td className="align-middle text-center" style={{ wordWrap: "break-word", whiteSpace: "normal" }}>
-                    <div className="d-flex justify-content-center align-items-center" style={{ height: "100%" }}>
-                      <div className="talkDate newsDateContainer">
-                        <div className="badge dateColor p-1 newsDate">
-                          {person.duration}
-                        </div>
-                      </div>
+                  <td>
+                    <div className="group-engagement-content">
+                      <span className="badge dateColor group-duration-badge">
+                        {person.duration}
+                      </span>
                     </div>
                     <div
-                      className="text-muted"
+                      className="text-muted group-table-secondary"
                       style={{
-                        fontSize: "0.875rem",
                         textAlign: centerEngagementRole ? "center" : undefined,
                         width: centerEngagementRole ? "100%" : undefined,
                       }}
@@ -175,13 +180,13 @@ const StudentTableComponent = ({
                   </td>
 
                   {showNextHop && (
-                    <td className="align-middle text-center" style={{ wordWrap: "break-word", whiteSpace: "normal" }}>
+                    <td>
                       {person.nextHop}
                     </td>
                   )}
 
                   {showDissertation && (
-                    <td className="align-middle text-center" style={{ wordWrap: "break-word", whiteSpace: "normal" }}>
+                    <td>
                       {person.dissertationLink ? (
                         <a href={person.dissertationLink} target="_blank" rel="noopener noreferrer">
                           {person.dissertationTitle || "Link"}
