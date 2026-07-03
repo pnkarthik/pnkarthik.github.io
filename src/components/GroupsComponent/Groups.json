@@ -66,7 +66,7 @@
       "photo": "midhun.jpg",
       "websiteLink": "https://www.linkedin.com/in/k-a-midhunkumar",
       "dissertationTitle": "Differentially Private Federated Best Arm Identification",
-      "dissertationLink": "",
+      "dissertationLink": "./media/2026/06/midhun-MTech-thesis.pdf",
       "role": "Thesis Student",
       "jointSupervision": "",
       "nextHop": "Ph.D. at IISc"
@@ -79,10 +79,10 @@
       "photo": "deekshith.png",
       "websiteLink": "",
       "dissertationTitle": "Best Arm Identification in Multi-Armed Bandits with Arm Erasures",
-      "dissertationLink": "",
+      "dissertationLink": "./media/2026/06/deekshith-MTech-thesis.pdf",
       "role": "Thesis Student",
       "jointSupervision": "",
-      "nextHop": "--"
+      "nextHop": "Carnicle"
     }
   ],
 

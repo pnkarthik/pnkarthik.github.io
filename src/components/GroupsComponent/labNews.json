@@ -2,12 +2,31 @@
   {
     "date": "22 June 2026",
     "content": "Sofia successfully completed her Research Proposal Seminar (RPS). Congratulations, Sofia!<br />This marks Sofia's successful upgradation from JRF to SRF.",
-    "isArchived": false
+    "isArchived": false,
+    "badgesData": [
+      {
+        "badgeName": "pdf",
+        "link": "./media/2026/06/Sofia-RPS-slides.pdf",
+        "badgeDisplayName": "sofia-RPS-slides"
+      }
+    ]
   },
   {
     "date": "12 June 2026",
     "content": "Midhun and Deekshith successfully completed their MTech thesis final presentations!<br />Congratulations, Midhun and Deekshith!",
-    "isArchived": false
+    "isArchived": false,
+    "badgesData": [
+      {
+        "badgeName": "pdf",
+        "link": "./media/2026/06/midhun-MTech-thesis.pdf",
+        "badgeDisplayName": "midhun-MTech-thesis"
+      },
+      {
+        "badgeName": "pdf",
+        "link": "./media/2026/06/deekshith-MTech-thesis.pdf",
+        "badgeDisplayName": "deekshith-MTech-thesis"
+      }
+    ]
   },
   {
     "date": "14 May 2026",
