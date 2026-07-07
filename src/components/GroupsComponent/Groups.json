@@ -1,6 +1,17 @@
 {
   "currentStudents": [
     {
+    "fullName": "Mahvith Akshintala",
+    "department": "AI",
+    "batch": "2026",
+    "program": "Project Associate - I",
+    "duration": "Jul 2026 -",
+    "photo": "mahvith-akshintala.jpg",
+    "websiteLink": "https://www.linkedin.com/in/akshintala-venkata-mahvith-b425211a5/",
+    "role": "",
+    "jointSupervision": ""
+  },
+    {
     "fullName": "Deepshikha Urmaliya",
     "department": "AI",
     "batch": "2025",
