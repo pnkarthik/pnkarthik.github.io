@@ -1,4 +1,23 @@
 {
+  "2026": [
+    {
+      "date": "Jul 2026",
+      "title": "<em>Active Clustering with Noisy Pairwise Observations</em>",
+      "description": "<span>SPARC Workshop on Distributed Learning and Optimization, IISc Bengaluru</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2026/07/karthik-SPARC-workshop-slides.pdf",
+          "badgeDisplayName": "slides"
+        },
+        {
+          "badgeName": "youtube",
+          "link": "https://youtu.be/BheYcKPTBzQ?t=158",
+          "badgeDisplayName": "YouTube"
+        }
+      ]
+    }
+  ],
   "2025": [
     {
       "date": "Dec 2025",

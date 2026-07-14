@@ -1,5 +1,21 @@
 [
   {
+    "date": "13 Jul 2026",
+    "content": "Delivered an invited talk on the topic <em>Active Clustering with Noisy Pairwise Observations</em> at the <a href=\"https://cni.iisc.ac.in/workshops/2026/SPARC-Workshop/\" target=\"_blank\"  rel=\"noopener noreferrer\">SPARC workshop on Distributed Learning and Optimization</a>, IISc Bengaluru.<br />Many thanks to the organisers for the kind invitation.",
+    "badgesData": [
+          {
+            "badgeName": "slides",
+            "link": "./media/2026/07/karthik-SPARC-workshop-slides.pdf",
+            "badgeDisplayName": "slides"
+          },
+          {
+            "badgeName": "youtube",
+            "link": "https://youtu.be/BheYcKPTBzQ?t=158",
+            "badgeDisplayName": "YouTube"
+          }
+        ]
+  },
+  {
     "date": "25 Jun 2026",
     "content": "Invited to speak at the <a href=\"https://cni.iisc.ac.in/workshops/2026/SPARC-Workshop/\" target=\"_blank\"  rel=\"noopener noreferrer\">SPARC workshop on Distributed Learning and Optimization</a> at IISc Bengaluru on 13 July 2026.<br />The workshop is being organised by the <a href=\"https://ece.iisc.ac.in/\" target=\"_blank\"  rel=\"noopener noreferrer\">Department of ECE</a> in collaboration with the <a href=\"https://cni.iisc.ac.in/\" target=\"_blank\"  rel=\"noopener noreferrer\">Centre for Networked Intelligence (CNI)</a>.<br />Many thanks to the organisers for the kind invitation."
   },
