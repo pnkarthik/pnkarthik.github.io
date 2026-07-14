@@ -12,6 +12,16 @@
             "badgeName": "youtube",
             "link": "https://youtu.be/BheYcKPTBzQ?t=158",
             "badgeDisplayName": "YouTube"
+          },
+          {
+            "badgeName": "photo",
+            "link": "./media/2026/07/SPARC-workshop-group-photo.jpg",
+            "badgeDisplayName": "group-photo"
+          },
+          {
+            "badgeName": "photo",
+            "link": "./media/2026/07/SPARC-workshop-speakers-photo.jpg",
+            "badgeDisplayName": "speakers-photo"
           }
         ]
   },
