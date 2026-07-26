@@ -71,7 +71,7 @@ const IITHCourse = ({ data }) => {
                         <div className="collabImageContainer">
                           <div className="collabImageWrapper">
                             <div className="collabImage">
-                              <img className="" src={process.env.PUBLIC_URL + `/images/TeachingAssistantsPhotos/${d?.profilePhoto}`} alt="" 
+                              <img className="" src={process.env.PUBLIC_URL + (d?.profilePhotoPath || `/images/TeachingAssistantsPhotos/${d?.profilePhoto}`)} alt=""
                                 onError={({ currentTarget }) => {
                                   currentTarget.onerror = null; // prevents looping
                                   currentTarget.src=process.env.PUBLIC_URL + '/images/TeachingAssistantsPhotos/dummy-profile-pic.png';
@@ -81,7 +81,11 @@ const IITHCourse = ({ data }) => {
                           </div>
                         </div>
                         <div className={`text-center ${isMobile ? '' : 'pt-2'}`}>
-                          <a href={d?.link} target="_blank" className="card-title">{d?.name}</a>
+                          {d?.link ? (
+                            <a href={d.link} target="_blank" className="card-title">{d?.name}</a>
+                          ) : (
+                            <span className="card-title">{d?.name}</span>
+                          )}
                         </div>
                       </div>
                     </div>

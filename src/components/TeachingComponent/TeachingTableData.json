@@ -15,6 +15,26 @@
   ],
   "iith": [
     {
+      "term": "Jul-Nov 2026",
+      "courseCode": "AI3000",
+      "courseTitle": "Reinforcement Learning",
+      "courseLink": "#/teaching/Reinforcement-Learning-2026",
+      "noOfStudents": "",
+      "courseRating": "",
+      "instructorRating": "",
+      "feedback": ""
+    },
+    {
+      "term": "Jul-Nov 2026",
+      "courseCode": "AI2200",
+      "courseTitle": "Concentration Inequalities",
+      "courseLink": "#/teaching/Concentration-Inequalities-2026",
+      "noOfStudents": "",
+      "courseRating": "",
+      "instructorRating": "",
+      "feedback": ""
+    },
+    {
       "term": "Mar-Apr 2026",
       "courseCode": "AI5016",
       "courseTitle": "Industry Lecture Series",

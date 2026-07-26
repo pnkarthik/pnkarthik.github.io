@@ -1,5 +1,10 @@
 [
   {
+    "date": "25 Jul 2026",
+    "content": "Teaching <a href=\"https://karthikpn.com/#/teaching/Concentration-Inequalities-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Concentration Inequalities</a> and <a href=\"https://karthikpn.com/#/teaching/Concentration-Inequalities-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Reinforcement Learning</a> during Jul-Nov 2026.<br />Visit the respective course webpages for more details.",
+    "isArchived": false
+  },
+  {
     "date": "13 Jul 2026",
     "content": "Delivered an invited talk on the topic <em>Active Clustering with Noisy Pairwise Observations</em> at the <a href=\"https://cni.iisc.ac.in/workshops/2026/SPARC-Workshop/\" target=\"_blank\"  rel=\"noopener noreferrer\">SPARC workshop on Distributed Learning and Optimization</a>, IISc Bengaluru.<br />Many thanks to the organisers for the kind invitation.",
     "badgesData": [
@@ -23,11 +28,13 @@
             "link": "./media/2026/07/SPARC-workshop-speakers-photo.jpg",
             "badgeDisplayName": "speakers-photo"
           }
-        ]
+        ],
+    "isArchived": false
   },
   {
     "date": "25 Jun 2026",
-    "content": "Invited to speak at the <a href=\"https://cni.iisc.ac.in/workshops/2026/SPARC-Workshop/\" target=\"_blank\"  rel=\"noopener noreferrer\">SPARC workshop on Distributed Learning and Optimization</a> at IISc Bengaluru on 13 July 2026.<br />The workshop is being organised by the <a href=\"https://ece.iisc.ac.in/\" target=\"_blank\"  rel=\"noopener noreferrer\">Department of ECE</a> in collaboration with the <a href=\"https://cni.iisc.ac.in/\" target=\"_blank\"  rel=\"noopener noreferrer\">Centre for Networked Intelligence (CNI)</a>.<br />Many thanks to the organisers for the kind invitation."
+    "content": "Invited to speak at the <a href=\"https://cni.iisc.ac.in/workshops/2026/SPARC-Workshop/\" target=\"_blank\"  rel=\"noopener noreferrer\">SPARC workshop on Distributed Learning and Optimization</a> at IISc Bengaluru on 13 July 2026.<br />The workshop is being organised by the <a href=\"https://ece.iisc.ac.in/\" target=\"_blank\"  rel=\"noopener noreferrer\">Department of ECE</a> in collaboration with the <a href=\"https://cni.iisc.ac.in/\" target=\"_blank\"  rel=\"noopener noreferrer\">Centre for Networked Intelligence (CNI)</a>.<br />Many thanks to the organisers for the kind invitation.",
+    "isArchived": true
   },
   {
     "date": "25 Jun 2026",
@@ -48,7 +55,8 @@
             "link": "./media/2026/06/sayak-photo-03.jpeg",
             "badgeDisplayName": "photo-03"
           }
-        ]
+        ],
+    "isArchived": false
   },
   {
     "date": "18 Jun 2026",
@@ -64,7 +72,8 @@
             "link": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7474379678745513984/",
             "badgeDisplayName": "LinkedIn"
           }
-        ]
+        ],
+    "isArchived": false
   },
   {
     "date": "11 Jun 2026",
@@ -75,17 +84,17 @@
             "link": "./media/2026/06/debabrota-photo-01.jpeg",
             "badgeDisplayName": "photo"
           }
-        ]
+        ],
+    "isArchived": true
   },
   {
     "date": "29 May 2026",
     "content": "Paper on <em>Link Adaptation Using Joint-Thompson Sampling</em> accepted to <a href=\"https://ece.iisc.ac.in/~spcom/2026/\" target=\"_blank\"  rel=\"noopener noreferrer\">SPCOM 2026</a>!<br />This paper is an offshoot of a collaboration with <a href=\"https://in.linkedin.com/in/vignatha-vinjam-57046a195\" rel=\"noopener noreferrer\"<strong>Vignatha Vinjam</strong></a> and <a href=\"https://people.iith.ac.in/mynav/\" rel=\"noopener noreferrer\"<strong>Myna Vajha</strong></a>.<br />Many congratulations to my collaborators!",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "08 May 2026",
     "content": "Received an instructor rating of 4.82/5.0 for the course on <a href=\"https://karthikpn.com/#/teaching/Stochastic-Processes-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Stochastic Processes (AI5090)</a> taught during Jan-Apr 2026.<br />Received an instructor rating of 4.80/5.0 for the course on <a href=\"https://karthikpn.com/#/teaching/Stochastic-Processes-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Stochastic Processes (EE5910)</a> taught during Jan-Apr 2026.<br />Received an instructor rating of 4.54/5.0 for the course on <a href=\"https://karthikpn.com/#/teaching/Programming-for-AI-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Programming for AI (AI1013)</a> taught during Jan-Apr 2026.<br />Received a rating of 4.70/5.0 for coordinating the <a href=\"https://karthikpn.com/#/teaching/Stochastic-Processes-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Industry Lecture Series (AI5016)</a> during Jan-Apr 2026.<br />My sincere thanks to all students who provided generous feedback on my instruction.",
-    "isArchived": false,
     "badgesData": [
       {
         "badgeName": "pdf",
@@ -107,7 +116,8 @@
         "link": "./media/2026/AI5016/2026-AI5016-course-feedback.pdf",
         "badgeDisplayName": "2026-AI5016-course-feedback"
       }
-    ]
+    ],
+    "isArchived": true
   },
   {
     "date": "01 May 2026",
@@ -119,17 +129,17 @@
         "badgeDisplayName": "arxiv"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "11 Apr 2026",
     "content": "Honored to receive the <a href=\"https://anrfonline.in/ANRF/ecrg_anrf?HomePage=New\" target=\"_blank\"  rel=\"noopener noreferrer\">ANRF Prime Minister Early Career Research Grant (PMECRG)</a>.<br />Immensely grateful to ANRF for the kind support.<br />Look forward to the opportunities this grant will bring.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "01 Apr 2026",
     "content": "Coordinating a 1-credit course on Industry Lecture Series.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/Industry-Lecture-Series-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "28 Mar 2026",
@@ -141,12 +151,12 @@
         "badgeDisplayName": "arxiv"
       }
     ],
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "26 Mar 2026",
     "content": "Received approval for the project <em>AI Based Threat Analysis and Countermeasure Response Module</em> by the Defence Electronics Research Laboratory (DLRL), Hyderabad.<br />Looking forward to working alongside <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\"  rel=\"noopener noreferrer\">Dr. Saketha Nath</a> on this project.<br />Many thanks to DLRL for the support.<br />Hoping to contribute to the country's defence research efforts through this project.",
-    "isArchived": false
+    "isArchived": true
   },
   {
     "date": "20 Feb 2026",

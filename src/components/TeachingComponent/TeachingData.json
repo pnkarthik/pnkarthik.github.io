@@ -3836,5 +3836,114 @@
             ]
      }
       ]
+    },
+    "Concentration-Inequalities-2026":
+    {
+      "isIISc": false,
+      "year": "2026",
+      "courseMonth": "Jul-Nov",
+      "title": "<span>Concentration</span> <span>Inequalities</span>",
+      "noOfInstructors": 1,
+      "courseInstructor": "<span>Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a> </span>",
+      "courseWebsite": "<a href=\"https://karthikpn.com/#/teaching/Concentration-Inequalities-2026\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">https://ece.iisc.ac.in/~parimal/2018/random/</a>",
+      "term": "Jul-Nov 2026",
+      "segment": "1-6",
+      "timeTableSlot": "Q",
+      "classHours": "Monday: 16:00 - 17:30, Thursday: 13:00 - 14:30",
+      "venue": "LHC-03",
+      "noOfCredits": 3,
+      "courseDescription": "This course introduces students to some important concentration inequalities that are widely used in probability, statistics, and machine learning. The course will cover classical inequalities such as Markov's inequality, Chebyshev's inequality, and Chernoff bounds, as well as more advanced results like McDiarmid's inequality and the Effron-Stein inequality. Students will learn how to apply these inequalities to analyze the behavior of random variables and stochastic processes, with a focus on applications in machine learning and statistical learning.",
+      "courseAnnouncements": [
+      {
+        "date": "25 Jul 2026",
+        "content": "The first lecture will be conducted on 27 Jul 2026. All lectures will be conducted in LHC-03 in slot Q."
+      }
+      ],
+      "courseContents": [
+        {
+          "title": "Teaching Assistants",
+          "description": "",
+          "isCard": true,
+          "list": [
+            {
+              "name": "Kavali Sofia Sagar",
+              "link": "https://www.linkedin.com/in/kavali-sofia-sagar-ai-phd/",
+              "profilePhoto": "sofia.jpeg"
+            },
+            {
+              "name": "Bharat Goel",
+              "link": "https://www.linkedin.com/in/bharat-goel-7182a9222",
+              "profilePhotoPath": "/images/StudentPhotos/bharat.jpeg"
+            },
+            {
+              "name": "Sqn Ldr Anirudh Singh",
+              "link": "",
+              "profilePhotoPath": "/images/StudentPhotos/anirudh.jpeg"
+            },
+            {
+              "name": "Chiruvella Gagan Chandra",
+              "link": "https://www.linkedin.com/in/gagan-chandra-932bba337/",
+              "profilePhoto": "gagan.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    "Reinforcement-Learning-2026":
+    {
+      "isIISc": false,
+      "year": "2026",
+      "courseMonth": "Jul-Nov",
+      "title": "<span>Reinforcement</span> <span>Learning</span>",
+      "noOfInstructors": 1,
+      "courseInstructor": "<span>Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a> </span>",
+      "courseWebsite": "<a href=\"https://karthikpn.com/#/teaching/Reinforcement-Learning-2026\" target=\"_blank\" rel=\"noopener noreferrer\">https://karthikpn.com/#/teaching/Reinforcement-Learning-2026</a>",
+      "term": "Jul-Nov 2026",
+      "segment": "1-6",
+      "timeTableSlot": "S",
+      "classHours": "Tuesday: 16:00 - 17:25, Friday: 14:30 - 15:55",
+      "venue": "LHC-03",
+      "noOfCredits": 3,
+      "courseDescription": "This course introduces the foundations of reinforcement learning, with emphasis on sequential decision-making under uncertainty. Topics include multi-armed bandits, Markov decision processes, dynamic programming, Monte Carlo methods, temporal-difference learning, value-function approximation, and policy-gradient methods. Students will learn to formulate reinforcement-learning problems, analyze core algorithms, and implement them in practical settings.",
+      "courseAnnouncements": [
+        {
+          "date": "25 Jul 2026",
+          "content": "The first lecture will be conducted on 28 Jul 2026. All lectures will be conducted in LHC-03 in slot S."
+        }
+      ],
+      "courseContents": [
+        {
+          "title": "Teaching Assistants",
+          "description": "",
+          "isCard": true,
+          "list": [
+            {
+              "name": "Mahvith Akshintala",
+              "link": "https://www.linkedin.com/in/akshintala-venkata-mahvith-b425211a5/",
+              "profilePhotoPath": "/images/StudentPhotos/mahvith-akshintala.jpg"
+            },
+            {
+              "name": "Deepshikha Urmaliya",
+              "link": "https://www.linkedin.com/in/deepshikha-urmaliya-41023019b/",
+              "profilePhotoPath": "/images/StudentPhotos/deepshikha.jpeg"
+            },
+            {
+              "name": "Prantik Pramanick",
+              "link": "https://www.linkedin.com/in/prantik-pramanick-4ba5621b6/",
+              "profilePhotoPath": "/images/StudentPhotos/prantik.jpeg"
+            },
+            {
+              "name": "Vedant Prakash Shenoy",
+              "link": "https://vedant-shenoy.github.io/",
+              "profilePhoto": "vedant.jpg"
+            },
+            {
+              "name": "U Adithyan",
+              "link": "https://www.linkedin.com/in/u-adithyan-5528b1225/",
+              "profilePhoto": "adithyan.jpg"
+            }
+          ]
+        }
+      ]
     }
 }
