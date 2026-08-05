@@ -3841,25 +3841,95 @@
     {
       "isIISc": false,
       "year": "2026",
-      "courseMonth": "Jul-Nov",
+      "courseMonth": "Jul-Aug",
       "title": "<span>Concentration</span> <span>Inequalities</span>",
       "noOfInstructors": 1,
       "courseInstructor": "<span>Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a> </span>",
       "courseWebsite": "<a href=\"https://karthikpn.com/#/teaching/Concentration-Inequalities-2026\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">https://ece.iisc.ac.in/~parimal/2018/random/</a>",
-      "term": "Jul-Nov 2026",
-      "segment": "1-6",
+      "term": "Jul-Aug 2026",
+      "segment": "1-2",
       "timeTableSlot": "Q",
-      "classHours": "Monday: 16:00 - 17:30, Thursday: 13:00 - 14:30",
+      "classHours": "Monday: 16:00 - 17:30, Thursday: 14:30 - 16:00",
       "venue": "LHC-03",
-      "noOfCredits": 3,
+      "noOfCredits": 1,
       "courseDescription": "This course introduces students to some important concentration inequalities that are widely used in probability, statistics, and machine learning. The course will cover classical inequalities such as Markov's inequality, Chebyshev's inequality, and Chernoff bounds, as well as more advanced results like McDiarmid's inequality and the Effron-Stein inequality. Students will learn how to apply these inequalities to analyze the behavior of random variables and stochastic processes, with a focus on applications in machine learning and statistical learning.",
       "courseAnnouncements": [
+      {
+        "date": "01 Aug 2026",
+        "content": "Practice Problems 01 posted.<br />The problems are based on the topics of Markov's inequality, Chebyshev's inequality, and Chernoff bounds."
+      },
+      {
+        "date": "27 Jul 2026",
+        "content": "All course materials will be shared on Google classroom.<br />If you have registered for the course and have not been added to the Google classroom, please send me an email."
+      },
       {
         "date": "25 Jul 2026",
         "content": "The first lecture will be conducted on 27 Jul 2026. All lectures will be conducted in LHC-03 in slot Q."
       }
       ],
       "courseContents": [
+        {
+          "title": "Lecture Slides",
+          "description": "",
+          "list": [
+            {
+              "title": "<span>Course logistics.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI2200/2026-AI2200-lecture-00.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Review of concepts from probability theory: Markov's inequality and its proof, Chebyshev's inequality and its proof, Jensen's inequality and its proof for convex, differentiable functions, definition of moment generating function, Cramér-Chernoff bound and its proof.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI2200/2026-AI2200-lecture-01.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Bounds on the upper tail and lower tail probabilities via Cramér-Chernoff technique, an example computation of lower tail probability for a Pareto-distributed random variable, concentration of averages of independent and identically distributed (IID) random variables, moment generating function of the average of IID random variables, comparison of bounds resulting from Markov's inequality, Chebyshev's inequality, and Chernoff bounding technique for the averages of IID Bernoulli random variables, a general Bernoulli averages concentration result.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI2200/2026-AI2200-lecture-02.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>A simplification of the Bernoulli averages concentration result, application of Bernoulli averages concentration result to the analysis of randomized allocation in load balancing, empirical risk minimization in a binary classification setting.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI2200/2026-AI2200-lecture-03.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Practice Problems and Exams",
+          "description": "",
+          "list": [
+            {
+              "title": "<span>Practice Problems 01 (topics: Markov's inequality, Chebyshev's inequality, Chernoff bound).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "pdf",
+                  "link": "./media/2026/AI2200/2026-AI2200-practice-problems-01.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            }
+          ]
+        },
         {
           "title": "Teaching Assistants",
           "description": "",
@@ -3900,9 +3970,9 @@
       "courseWebsite": "<a href=\"https://karthikpn.com/#/teaching/Reinforcement-Learning-2026\" target=\"_blank\" rel=\"noopener noreferrer\">https://karthikpn.com/#/teaching/Reinforcement-Learning-2026</a>",
       "term": "Jul-Nov 2026",
       "segment": "1-6",
-      "timeTableSlot": "S",
-      "classHours": "Tuesday: 16:00 - 17:25, Friday: 14:30 - 15:55",
-      "venue": "LHC-03",
+      "timeTableSlot": "R",
+      "classHours": "Tuesday: 14:30 - 16:00, Friday: 16:00 - 17:30",
+      "venue": "LHC-07",
       "noOfCredits": 3,
       "courseDescription": "This course introduces the foundations of reinforcement learning, with emphasis on sequential decision-making under uncertainty. Topics include multi-armed bandits, Markov decision processes, dynamic programming, Monte Carlo methods, temporal-difference learning, value-function approximation, and policy-gradient methods. Students will learn to formulate reinforcement-learning problems, analyze core algorithms, and implement them in practical settings.",
       "courseAnnouncements": [
@@ -3912,6 +3982,52 @@
         }
       ],
       "courseContents": [
+        {
+          "title": "Lecture Slides",
+          "description": "",
+          "list": [
+            {
+              "title": "<span>Course logistics.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-00.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Recap of discrete-time Markov chains: definition of Markov property, transition probability matrix, time-homogeneous Markov chains, examples: snakes-and-ladders, biased random walk on the integer line, Markov decision processes (MDPs): state space, action space, reward alphabet, Markov property in an MDP, time-homogeneous MDPs.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-01.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>State-action-state (S-A-S) transition probability matrix for an MDP, a toy 2-state MDP example, recycling robot example, agent-environment interaction modeled as MDP, decision rules: definition, types of decision rules (history-dependent and deterministic, history-dependent and randomised, Markov and deterministic, Markov and randomised), policy: definition, types.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-02.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Recap of decision rule and policy, state and state-action trajectories, Markov policy induces Markov state and state-action trajectories, reward process, Markov reward process, utility function, choice of utility function for capturing timing of rewards and risk-sensitivity of agent.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-03.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            }
+          ]
+        },
         {
           "title": "Teaching Assistants",
           "description": "",
