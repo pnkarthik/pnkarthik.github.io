@@ -3855,6 +3855,14 @@
       "courseDescription": "This course introduces students to some important concentration inequalities that are widely used in probability, statistics, and machine learning. The course will cover classical inequalities such as Markov's inequality, Chebyshev's inequality, and Chernoff bounds, as well as more advanced results like McDiarmid's inequality and the Effron-Stein inequality. Students will learn how to apply these inequalities to analyze the behavior of random variables and stochastic processes, with a focus on applications in machine learning and statistical learning.",
       "courseAnnouncements": [
       {
+        "date": "11 Aug 2026",
+        "content": "Mid-Term exam to be conducted on 12 Aug 2026 (Wednesday) from 15:30-17:30 in LHC-06."
+      },
+      {
+        "date": "08 Aug 2026",
+        "content": "Practice Problems 02 posted.<br />The problems are based on the topics of Bernoulli concentrations and basic probability."
+      },
+      {
         "date": "01 Aug 2026",
         "content": "Practice Problems 01 posted.<br />The problems are based on the topics of Markov's inequality, Chebyshev's inequality, and Chernoff bounds."
       },
@@ -3911,6 +3919,46 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Classification (contd.), empirical risk minimisation, PAC learning and PAC learnability of a finite collection of classifiers.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI2200/2026-AI2200-lecture-04.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Gaussian concentration, Rademacher concentration, sub-Gaussian random variables, equivalent characterisations sub-Gaussianity, sub-Gaussian norm of a random variable, properties of sub-Gaussian norms.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI2200/2026-AI2200-lecture-05.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Recap of equivalent characterisations of sub-Gaussianity, proof that a bounded random variable is sub-Gaussian, sub-Gaussian norm properties (contd.), Hoeffding's inequality and its proof, introduction to multi-armed bandits.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI2200/2026-AI2200-lecture-06.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Definition of $\\sigma$-sub-Gaussian random variables, application of exponential concentration inequalities for $\\sigma$-sub-Gaussian random variables to the regret analysis of the upper confidence bound (UCB) algorithm in stochastic multi-armed bandits.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI2200/2026-AI2200-lecture-07.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
             }
           ]
         },
@@ -3924,6 +3972,26 @@
                 {
                   "badgeName": "pdf",
                   "link": "./media/2026/AI2200/2026-AI2200-practice-problems-01.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Practice Problems 02 (topics: Bernoulli concentrations, basic probability).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "pdf",
+                  "link": "./media/2026/AI2200/2026-AI2200-practice-problems-02.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Mid-Term Exam</span>",
+              "badgesData": [
+                {
+                  "badgeName": "pdf",
+                  "link": "./media/2026/AI2200/2026-AI2200-midterm-exam.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]
@@ -4023,6 +4091,46 @@
                   "badgeName": "notes",
                   "link": "./media/2026/AI3000/2026-AI3000-lecture-03.pdf",
                   "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Recap of utility function, a discussion of three optimality criteria (expected total reward, expected discounted reward, expected average reward), a nice interpretation of discounting via Geometric horizon length.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-04.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>An analysis of the expected total reward criterion in finite-horizon MDPs: the one-period problem, backwards induction or dynamic programming, example DP calculations under a Markovian policy, example DP calculations under a history-dependent policy, definition of optimal policy, a note that optimal policy may not always exist (especially if action space is countable or uncountable), defintion of $\\varepsilon$-optimal policy, proof that $\\varepsilon$-optimal policies always exist for any $\\varepsilon>0$.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-05.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>An analysis of the expected total reward criterion in finite-horizon MDPs (contd.), proof that optimal policies exist within the class of Markov, deterministic policies when action space is finite, Bellman's optimality principle, computing the optimal value function and the optimal policy via dynamic programming.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-06.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>An analysis of the expected discounted reward criterion in infinite-horizon MDPs: dynamic programming for the policy-value function, statement of the result that optimal policies exist within the class of Markovian, deterministic policies, evaluating the value function for a Markovian randomised, matrix-vector representation of the fixed-point equation $\\mathbf{v}=\\mathbf{r}_{\\varphi} + \\lambda \\mathbf{P}_{\\varphi} \\mathbf{v}$ for the value function $\\mathbf{v}$ of a stationary, deterministic policy.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-07.pdf",
+                  "badgeDisplayName": "notes"
                 }
               ]
             }
