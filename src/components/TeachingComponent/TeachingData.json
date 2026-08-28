@@ -3855,6 +3855,14 @@
       "courseDescription": "This course introduces students to some important concentration inequalities that are widely used in probability, statistics, and machine learning. The course will cover classical inequalities such as Markov's inequality, Chebyshev's inequality, and Chernoff bounds, as well as more advanced results like McDiarmid's inequality and the Effron-Stein inequality. Students will learn how to apply these inequalities to analyze the behavior of random variables and stochastic processes, with a focus on applications in machine learning and statistical learning.",
       "courseAnnouncements": [
       {
+        "date": "27 Aug 2026",
+        "content": "Lectures for the course come to an end.<br />Final Exam for the course to be conducted on 02 Sep 2026 (Wednesday) from 15:30-17:30."
+      },
+        {
+        "date": "26 Aug 2026",
+        "content": "Practice Problems 03 posted.<br />The problems are based on the topics of sub-Gaussian inequalities and sub-exponential inequalities."
+      },
+        {
         "date": "11 Aug 2026",
         "content": "Mid-Term exam to be conducted on 12 Aug 2026 (Wednesday) from 15:30-17:30 in LHC-06."
       },
@@ -3877,7 +3885,7 @@
       ],
       "courseContents": [
         {
-          "title": "Lecture Slides",
+          "title": "Lecture Slides and Notes",
           "description": "",
           "list": [
             {
@@ -3959,6 +3967,36 @@
                   "badgeDisplayName": "notes"
                 }
               ]
+            },
+            {
+              "title": "<span>Recap of sub-Gaussianity, sub-Gaussian norm of $X \\sim \\mathcal{N}(0, \\sigma^2)$, sub-exponential random variables, definition and properties of sub-exponential norm, statement of Bernstein's inequality, application of Bernstein's inequality to investigate concentration of $\\|\\mathbf{X}\\|_{2}^{2}$ where $\\mathbf{X}$ is a random vector with IID $\\mathcal{N}(0,\\sigma^2)$ components $X_1, \\ldots, X_n$.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI2200/2026-AI2200-lecture-08.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>Proof of Bernstein's inequality, concentration of $\\|\\mathbf{X}\\|_{2}$ where $\\mathbf{X}$ is a random vector with IID sub-Gaussian components $X_1, \\ldots, X_n$, dimensionality reduction, Johnson-Lindenstrauss lemma and its proof.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI2200/2026-AI2200-lecture-09.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>Effron-Stein inequality and its proof, bounded differences property, McDiarmid's inequality and its proof, application to finding the variance of the largest eigenvalue of a random symmetric matrix.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI2200/2026-AI2200-lecture-10.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
             }
           ]
         },
@@ -3992,6 +4030,16 @@
                 {
                   "badgeName": "pdf",
                   "link": "./media/2026/AI2200/2026-AI2200-midterm-exam.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Practice Problems 03 (topics: sub-Gaussian inequalities, sub-exponential inequalities)</span>",
+              "badgesData": [
+                {
+                  "badgeName": "pdf",
+                  "link": "./media/2026/AI2200/2026-AI2200-practice-problems-03.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]
