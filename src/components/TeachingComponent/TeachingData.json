@@ -3856,7 +3856,7 @@
       "courseAnnouncements": [
       {
         "date": "27 Aug 2026",
-        "content": "Lectures for the course come to an end.<br />Final Exam for the course to be conducted on 02 Sep 2026 (Wednesday) from 15:30-17:30."
+        "content": "Lectures for the course come to an end.<br />Final Exam for the course to be conducted on 02 Sep 2026 (Wednesday) from 15:30-17:30 in LHC-13."
       },
         {
         "date": "26 Aug 2026",
@@ -4093,13 +4093,21 @@
       "courseDescription": "This course introduces the foundations of reinforcement learning, with emphasis on sequential decision-making under uncertainty. Topics include multi-armed bandits, Markov decision processes, dynamic programming, Monte Carlo methods, temporal-difference learning, value-function approximation, and policy-gradient methods. Students will learn to formulate reinforcement-learning problems, analyze core algorithms, and implement them in practical settings.",
       "courseAnnouncements": [
         {
+          "date": "28 Aug 2026",
+          "content": "Quiz 01 to be conducted on 29 Aug 2026 (Saturday) from 18:00 hrs to 19:00 hrs in CHE-LH1."
+        },
+        {
+          "date": "20 Aug 2026",
+          "content": "Practice Problems 01 posted.<br />Quiz 01 to be conducted on 29 Aug 2026 (Saturday) will be based on this."
+        },
+        {
           "date": "25 Jul 2026",
           "content": "The first lecture will be conducted on 28 Jul 2026. All lectures will be conducted in LHC-07 in slot R."
         }
       ],
       "courseContents": [
         {
-          "title": "Lecture Slides",
+          "title": "Lecture Slides and Notes",
           "description": "",
           "list": [
             {
@@ -4173,7 +4181,7 @@
               ]
             },
             {
-              "title": "<span>An analysis of the expected discounted reward criterion in infinite-horizon MDPs: dynamic programming for the policy-value function, statement of the result that optimal policies exist within the class of Markovian, deterministic policies, evaluating the value function for a Markovian randomised, matrix-vector representation of the fixed-point equation $\\mathbf{v}=\\mathbf{r}_{\\varphi} + \\lambda \\mathbf{P}_{\\varphi} \\mathbf{v}$ for the value function $\\mathbf{v}$ of a stationary, deterministic policy.</span>",
+              "title": "<span>An analysis of the expected discounted reward criterion in infinite-horizon MDPs: dynamic programming for the policy-value function, statement of the result that optimal policies exist within the class of Markovian, deterministic policies, evaluating the value function for a Markovian randomised, matrix-vector representation of the fixed-point equation $\\mathbf{v}=\\mathbf{r}_{\\varphi} + \\lambda \\mathbf{P}_{\\varphi} \\mathbf{v}$ for the value function $\\mathbf{v}$ of a stationary, deterministic policy $\\varphi$.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
@@ -4181,9 +4189,141 @@
                   "badgeDisplayName": "notes"
                 }
               ]
+            },
+            {
+              "title": "<span>The $L$ operator and the $L_{\\varphi}$ operator, contraction mapping, Banach fixed point theorem and its proof, proof that $L$ is a contraction mapping, proof that the fixed point equation $L\\mathbf{v}=\\mathbf{v}$ has a unique solution, properties of the $L$ operator, existence of an optimal value function, existence of an optimal stationary deterministic policy, example demonstrating that the optimal policy may be a function of the discount factor.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-08.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>Span and span contractions, definition of span, span as a semi-norm, contraction property of span, proof that $L$ operator is a contraction under span, discussion on why span-based stopping criterion in iterative algorithms is better than norm-based stopping criterion, the $B$ operator, convexity-like property of the $B$ operator, stopping criteria and the value iteration algorithm.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-09.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>The value iteration algorithm, convergence guarantees for value iteration, convergence rates for value iteration, Gauss-Siedel value iteration algorithm, the $G$ operator for Gauss-Siedel updates, proof that $G$ is a contraction mapping, properties of the $G$ operator, convergence guarantees for the Gauss-Siedel value iteration algorithm, asynchronous value iteration.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-10.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>The policy iteration algorithm, example in which the policy iteration algorithm converges after $M+1$ iterations, convergence guarantees for policy iteration in MDPs with finite state and action spaces, policy iteration and Newton's method, convergence guarantees for policy iteration in MDPs with general state and action spaces (that guarantee existence of optimal policies).</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-11.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
             }
           ]
         },
+        {
+          "title": "TA Session Notes",
+          "description": "I am greatly indebted to my teaching assistants for diligently leading the TA sessions. The notes are based on the discussions in the TA sessions and are meant to supplement the lecture slides and notes.",
+          "list": [
+            {
+              "title": "<span>TA Session 00</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-tutorial-00.pdf",
+                  "badgeDisplayName": "questions"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-tutorial-00-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>TA Session 01</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-tutorial-01.pdf",
+                  "badgeDisplayName": "questions"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-tutorial-01-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>TA Session 02</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-tutorial-02.pdf",
+                  "badgeDisplayName": "questions"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-tutorial-02-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Practice Problems and Exams",
+          "description": "",
+          "list": [
+            {
+              "title": "<span>Practice Problems 01</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-tutorial-00.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 01.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-quiz-01.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "References",
+          "description": "The following references are recommended for the course. The list is not exhaustive and students are encouraged to explore other references as well. The list of references will be updated as the course progresses.",
+          "list": [
+            {
+              "title": "<em><a href=\"https://github.com/martyput/MDP_book\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Markov Decision Processes and Reinforcement Learning</a></em>, Martin L. Puterman and Timothy C. Y. Chan, 2nd Edition, 2026."
+            },
+            {
+              "title": "<em><a href=\"https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">An Introduction to Reinforcement Learning</a></em>, Richard S. Sutton and Andrew G. Barto, 2nd Edition, 2018."
+            }
+          ]
+        },
+
         {
           "title": "Teaching Assistants",
           "description": "",
@@ -4213,6 +4353,271 @@
               "name": "U Adithyan",
               "link": "https://www.linkedin.com/in/u-adithyan-5528b1225/",
               "profilePhoto": "adithyan.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    "MDS-Probability-2026":
+    {
+      "isIISc": false,
+      "year": "2026",
+      "courseMonth": "Jul-Nov",
+      "title": "<span>Mathematical</span> <span>Foundations</span> <span>of</span> <span>Data</span> <span>Science</span>",
+      "noOfInstructors": 2,
+      "courseInstructor": "<span>Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a> (Probability) and Prof. <a href=\"https://sites.google.com/site/prataprameshwaryadav/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rameshwar Pratap</a> (Linear Algebra)</span>",
+      "courseWebsite": "<a href=\"https://ece.iisc.ac.in/~parimal/2018/random/\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">https://ece.iisc.ac.in/~parimal/2018/random/</a>",
+      "term": "Jul-Nov 2026",
+      "segment": "1-6",
+      "timeTableSlot": "Q",
+      "classHours": "Saturdays, 14:30 - 17:30",
+      "venue": "Google Meet (via Google Classroom)",
+      "noOfCredits": 3,
+      "courseDescription": "Welcome to CS6660! This is a graduate-level course on probability and linear algebra, tailored to professionals working in the industry and enrolled in the online <a href=\"https://cse.iith.ac.in/admissions/mtechInDataScience.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">M.Tech in Data Science</a> program. The first part of the course (handled by Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a>) will deal an introduction to the modern theory of probability as expounded by Andrey Kolmogorov, while the second half (handled by Prof. <a href=\"https://sites.google.com/site/prataprameshwaryadav/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rameshwar Pratap</a>) will introduce the students to the fundamentals of linear algebra underpinning core problems in machine learning. See below for a comprehensive list of topics in probability that will be covered in the course.",
+      "courseAnnouncements": [
+        {
+          "date": "31 Aug 2024",
+          "content": "Practice problems set 1 posted.<br />Quiz 1 will be based on this set."
+        },
+        {
+          "date": "22 Aug 2024",
+          "content": "Classes begin.<br />Practice problems to be distributed during the course, and quizzes based on practice problems to be conducted online via Moodle platform.<br />Mid-term exam 1 to be conducted on 11 Oct 2024.<br />Final exam date to be announced later.<br />All course related announcements will take place over Google Classroom."
+        }
+      ],
+      "courseContents": [
+        {
+          "title": "Course Contents (Probability)",
+          "description": "Sample space, events, algebra, $\\sigma$-algebra, probability measure, properties of probability measures, continuity of probability, conditional probability and Bayes' Theorem, independence of events, random variables and measurability, cumulative distribution function (CDF), discrete random variables, probability mass function (PMF), continuous random variables (PDF), multiple random variables, joint CDF, jointly discrete random variables, joint PMF, conditional PMF, jointly continuous random variables, joint PDF, conditional PDF, independence of random variables, transformations of random variables, computer simulation of random variables, expectations, moments, mean and variance, moment generating function, characteristic function, Markov's inequality, Chebyshev's inequality, Chernoff's bound."
+        },
+        {
+          "title": "Notes",
+          "description": "This section will be updated with the slides used in class. As the classes progress, the notes from previous lectures will be made available accordingly. The slides provided here do not include the handwritten annotations used for in-class explanations. If you wish to access the annotated slides, please contact me directly.",
+          "list": [
+            {
+              "title": "<span>Course logistics.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/CS6660/CS6660-lecture-00.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Motivation for an axiomatic theory of probability -- <a href=\"https://en.wikipedia.org/wiki/Bertrand_paradox_(probability)\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Bertrand's paradox</a>,  sample space, event, algebra, $\\sigma$-algebra, probability measure, properties of probability measures, continuity of probability, union bound, examples of probability assignments to sets in the $\\sigma$-algebra.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/CS6660/CS6660-lecture-01.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Probability measures on discrete (countable) sample spaces, conditional probability, Bayes' theorem, law of total probability, independence of events, self-independent events, random variables as measurable functions, examples of random variables.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/CS6660/CS6660-lecture-02.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Cumulative distribution function (CDF), properties of CDF, discrete random variables, probability mass function (PMF), continuous random variables, probability density function (PDF), multiple random variables, joint CDF and its properties, independence of random variables in terms of joint CDF, self-independence of random variables, example problems.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/CS6660/CS6660-lecture-03.pdf",
+                  "badgeDisplayName": "slides"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/CS6660/CS6660-problems-01.pdf",
+                  "badgeDisplayName": "problems"
+                }
+              ]
+            },
+            {
+              "title": "<span>Implications of the definition of independence of two random variables, jointly discrete random variables, joint PMF, conditional PMF, jointly continuous random variables, joint PDF, conditional PDF, transformations of random variables.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/CS6660/CS6660-lecture-04.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Transformations of random variables, minimum and maximum of random variables, sum of two random variables, derivation of the PMF/PDF of the sum of two jointly discrete/continuous random variables, Jacobi's transformation formula for single variable case, Jacobi's transformation formula for multivariate case, primer on Riemann integration, expectations of simple, non-negative, and arbitrary random variables.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/CS6660/CS6660-lecture-05.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Some simple properties of expectations of random variables, examples on computing expectations, variance, covariance, and correlation, correlation coefficient and the Cauchy--Schwartz inequality, uncorrelatedness and independence, conditional expectations and their computations for the cases of discrete and continuous random variables, preliminary examples on conditional expectations.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/CS6660/CS6660-lecture-06.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Examples on conditional expectations (continued), law of iterated expectations, miscellaneous examples on conditional expectations, Gaussian random vectors.",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2024/CS6660/CS6660-lecture-07.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Practice Problems",
+          "description": "",
+          "list": [
+            {
+              "title": "<span>Practice Problems 1.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/CS6660/CS6660-practice-problems-01.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/CS6660/CS6660-practice-problems-01-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>Practice Problems 2.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/CS6660/CS6660-practice-problems-02.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/CS6660/CS6660-practice-problems-02-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>Practice Problems 3.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/CS6660/CS6660-practice-problems-03.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Practice Problems 4.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/CS6660/CS6660-practice-problems-04.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Quizzes and Mid-Terms",
+          "description": "",
+          "list": [
+            {
+              "title": "<span>Quiz 1.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/CS6660/CS6660-quiz-01.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/CS6660/CS6660-quiz-01-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 2.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/CS6660/CS6660-quiz-02.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/CS6660/CS6660-quiz-02-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 3.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/CS6660/CS6660-quiz-03.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/CS6660/CS6660-quiz-03-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>Mid Term Exam 1.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2024/CS6660/CS6660-midterm-01.pdf",
+                  "badgeDisplayName": "pdf"
+                },
+                {
+                  "link": "./media/2024/CS6660/CS6660-midterm-01-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "References",
+          "description": "",
+          "list": [
+            {
+              "title": "<em><a href=\"https://global.oup.com/academic/product/probability-and-random-processes-9780198572220?cc=in&lang=en&\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Probability and Random Processes</a></em>, Geoffrey Grimmett and David Stirzaker, 3rd Edition, 2001."
+            },
+            {
+              "title": "<em><a href=\"http://www.amazon.in/First-Course-Probability-9e/dp/9332519072\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">A First Course in Probability</a></em>, Sheldon M. Ross, 10th Edition, 2019."
+            },
+            {
+              "title": "<em><a href=\"https://ece.iisc.ac.in/~anurag/books/anurag/spqt.pdf\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Discrete Event Stochastic Processes</a></em>, Anurag Kumar, Department of ECE, IISc."
+            },
+            {
+              "title": "<em><a href=\"http://www.springer.com/in/book/9783540438717\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Probability Essentials</a></em>, Jean Jacod & Philip Protter, Springer, 2004."
+            },
+            {
+              "title": "<em><a href=\"https://www.ee.iitm.ac.in/~krishnaj/EE5110.htm\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">Probability Foundations for Electrical Engineers</a></em>, Krishna Jagannathan, NPTEL video lectures, IIT Madras."
+            }
+          ]
+        },
+        {
+          "title": "Teaching Assistants",
+          "description": "",
+          "isCard": true,
+          "list": [
+            {
+              "name": "Piyushi Manupriya",
+              "link": "https://piyushi-0.github.io/",
+              "profilePhoto": "piyushi-manupriya.jpg"
             }
           ]
         }
