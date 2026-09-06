@@ -1,5 +1,15 @@
 [
   {
+    "date": "03 Sep 2026",
+    "content": "Paper on <em>Almost Asymptotically Optimal Active Clustering Through Pairwise Observations</em> accepted to the IEEE Transactions on Information Theory! <br />Joint work with <a href=\"https://rachtsy.github.io/\" rel=\"noopener noreferrer\"<strong>Rachel S. Y. Teo</strong></a>, <a href=\"https://ramyakv.github.io\" rel=\"noopener noreferrer\"<strong>Ramya Korlakai Vinayak</strong></a>, and <a href=\"https://vyftan.github.io\" rel=\"noopener noreferrer\"<strong>Vincent Y. F. Tan</strong></a>.<br />A talk based on this work that I gave at IISc Bengaluru in July 2026 may be accessed <a href=\"https://youtu.be/BheYcKPTBzQ?t=158\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">here</a>.",
+    "isArchived": false
+  },
+  {
+    "date": "22 Aug 2026",
+    "content": "Co-teaching a 3-credit course on <em>Mathematical Foundations of Data Science</em> with Dr. <a href=\"https://sites.google.com/site/prataprameshwaryadav/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rameshwar Pratap</a>, for the industry professionals enrolled in the online <a href=\"https://cse.iith.ac.in/admissions/mtechInDataScience.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">M.Tech in Data Science</a> program.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/MDS-Probability-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
+    "isArchived": false
+  },
+  {
     "date": "25 Jul 2026",
     "content": "Teaching <a href=\"https://karthikpn.com/#/teaching/Concentration-Inequalities-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Concentration Inequalities</a> during Jul-Aug 2026 and <a href=\"https://karthikpn.com/#/teaching/Reinforcement-Learning-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Reinforcement Learning</a> during Jul-Nov 2026.<br />Visit the respective course webpages for more details.",
     "isArchived": false
@@ -155,7 +165,7 @@
   },
   {
     "date": "26 Mar 2026",
-    "content": "Received approval for the project <em>AI Based Threat Analysis and Countermeasure Response Module</em> by the Defence Electronics Research Laboratory (DLRL), Hyderabad.<br />Looking forward to working alongside <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\"  rel=\"noopener noreferrer\">Dr. Saketha Nath</a> on this project.<br />Many thanks to DLRL for the support.<br />Hoping to contribute to the country's defence research efforts through this project.",
+    "content": "Received approval for the project <em>AI Based Threat Analysis and Countermeasure Response Module</em> by the Defence Electronics Research Laboratory (DLRL), Hyderabad.<br />Looking forward to working alongside Dr. <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\"  rel=\"noopener noreferrer\">Saketha Nath</a> on this project.<br />Many thanks to DLRL for the support.<br />Hoping to contribute to the country's defence research efforts through this project.",
     "isArchived": true
   },
   {
@@ -351,7 +361,7 @@
   },
   {
     "date": "10 Aug 2024",
-    "content": "Co-teaching a 3-credit course on <em>Mathematical Foundations of Data Science</em> with Prof. <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Saketha Nath</a>, for the industry professionals enrolled in the <a href=\"https://cse.iith.ac.in/admissions/mtechInDataScience.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">M.Tech in Data Science</a> program.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/MDS-Probability-2024\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
+    "content": "Co-teaching a 3-credit course on <em>Mathematical Foundations of Data Science</em> with Dr. <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Saketha Nath</a>, for the industry professionals enrolled in the <a href=\"https://cse.iith.ac.in/admissions/mtechInDataScience.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">M.Tech in Data Science</a> program.<br />Visit the <a href=\"https://karthikpn.com/#/teaching/MDS-Probability-2024\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">course webpage</a> for more details.",
     "isArchived": true
   },
   {
@@ -504,7 +514,7 @@
   },
   {
     "date": "24 Aug 2023",
-    "content": "Presented an ongoing work on best arm identification in restless multi-armed bandits at <a href=\"https://iitm.ac.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">IIT Madras</a>.<br />Grateful to Prof. <a href=\"https://www.ee.iitm.ac.in/~krishnaj/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Krishna Jagannathan</a> for hosting me, and to Prof. <a href=\"https://www.ee.iitm.ac.in/~skrishna/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Srikrishna Bhashyam</a> and Prof. <a href=\"http://www.cse.iitm.ac.in/~prashla/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Prashanth L. A.</a> for the insightful questions!",
+    "content": "Presented an ongoing work on best arm identification in restless multi-armed bandits at <a href=\"https://iitm.ac.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">IIT Madras</a>.<br />Grateful to Dr. <a href=\"https://www.ee.iitm.ac.in/~krishnaj/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Krishna Jagannathan</a> for hosting me, and to Dr. <a href=\"https://www.ee.iitm.ac.in/~skrishna/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Srikrishna Bhashyam</a> and Dr. <a href=\"http://www.cse.iitm.ac.in/~prashla/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Prashanth L. A.</a> for the insightful questions!",
     "isArchived": true
   },
   {
@@ -531,12 +541,12 @@
   },
   {
     "date": "14 Aug 2023",
-    "content": "Presented an ongoing work on best arm identification in restless multi-armed bandits at <a href=\"https://www.icts.res.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">ICTS Bengaluru</a>, as part of the <a href=\"https://www.isibang.ac.in/~d.yogesh/BPS.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Bangalore Probability Seminar</a>.<br />Grateful to Prof. <a href=\"https://www.isibang.ac.in/~athreya/index.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Siva Athreya</a> for hosting me.",
+    "content": "Presented an ongoing work on best arm identification in restless multi-armed bandits at <a href=\"https://www.icts.res.in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">ICTS Bengaluru</a>, as part of the <a href=\"https://www.isibang.ac.in/~d.yogesh/BPS.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Bangalore Probability Seminar</a>.<br />Grateful to Dr. <a href=\"https://www.isibang.ac.in/~athreya/index.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Siva Athreya</a> for hosting me.",
     "isArchived": true
   },
   {
     "date": "20 Jun 2023",
-    "content": "Visited the <a href=\"https://www.technion.ac.il\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Technion</a> Israel Institute of Technology between 20 May 2023 and 19 Jun 2023 to engage in research collaboration with Prof. <a href=\"https://sites.google.com/view/nir-weinberger/home?authuser=0\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Nir Weinberger</a>.",
+    "content": "Visited the <a href=\"https://www.technion.ac.il\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Technion</a> Israel Institute of Technology between 20 May 2023 and 19 Jun 2023 to engage in research collaboration with Dr. <a href=\"https://sites.google.com/view/nir-weinberger/home?authuser=0\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Nir Weinberger</a>.",
     "isArchived": true
   },
   {

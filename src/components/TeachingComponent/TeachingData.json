@@ -4043,6 +4043,16 @@
                   "badgeDisplayName": "pdf"
                 }
               ]
+            },
+            {
+              "title": "<span>Final Exam</span>",
+              "badgesData": [
+                {
+                  "badgeName": "pdf",
+                  "link": "./media/2026/AI2200/2026-AI2200-final-exam.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
             }
           ]
         },
@@ -4221,11 +4231,21 @@
               ]
             },
             {
-              "title": "<span>The policy iteration algorithm, example in which the policy iteration algorithm converges after $M+1$ iterations, convergence guarantees for policy iteration in MDPs with finite state and action spaces, policy iteration and Newton's method, convergence guarantees for policy iteration in MDPs with general state and action spaces (that guarantee existence of optimal policies).</span>",
+              "title": "<span>The policy iteration algorithm, example in which the policy iteration algorithm converges after $M+1$ iterations, convergence guarantees for policy iteration in MDPs with finite state and action spaces, policy iteration and Newton's method, convergence guarantees for policy iteration in MDPs with general state and action spaces (that guarantee existence of optimal policies), comparison of value iteration, policy iteration, and policy iteration.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
                   "link": "./media/2026/AI3000/2026-AI3000-lecture-11.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>The modified policy iteration algorithm, convergence guarantees for modified policy iteration, value function approximation, basis functions (features), linear architectures, non-linear architectures, neural network-based architectures.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-12.pdf",
                   "badgeDisplayName": "notes"
                 }
               ]
@@ -4365,7 +4385,7 @@
       "courseMonth": "Jul-Nov",
       "title": "<span>Mathematical</span> <span>Foundations</span> <span>of</span> <span>Data</span> <span>Science</span>",
       "noOfInstructors": 2,
-      "courseInstructor": "<span>Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a> (Probability) and Prof. <a href=\"https://sites.google.com/site/prataprameshwaryadav/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rameshwar Pratap</a> (Linear Algebra)</span>",
+      "courseInstructor": "<span>Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a> (Probability) and Dr. <a href=\"https://sites.google.com/site/prataprameshwaryadav/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rameshwar Pratap</a> (Linear Algebra)</span>",
       "courseWebsite": "<a href=\"https://ece.iisc.ac.in/~parimal/2018/random/\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">https://ece.iisc.ac.in/~parimal/2018/random/</a>",
       "term": "Jul-Nov 2026",
       "segment": "1-6",
@@ -4376,12 +4396,16 @@
       "courseDescription": "Welcome to CS6660! This is a graduate-level course on probability and linear algebra, tailored to professionals working in the industry and enrolled in the online <a href=\"https://cse.iith.ac.in/admissions/mtechInDataScience.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">M.Tech in Data Science</a> program. The first part of the course (handled by Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a>) will deal an introduction to the modern theory of probability as expounded by Andrey Kolmogorov, while the second half (handled by Prof. <a href=\"https://sites.google.com/site/prataprameshwaryadav/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rameshwar Pratap</a>) will introduce the students to the fundamentals of linear algebra underpinning core problems in machine learning. See below for a comprehensive list of topics in probability that will be covered in the course.",
       "courseAnnouncements": [
         {
-          "date": "31 Aug 2024",
-          "content": "Practice problems set 1 posted.<br />Quiz 1 will be based on this set."
+          "date": "05 Sep 2026",
+          "content": "Quiz 01 to be conducted on 12 Sep 2026 via Moodle platform.<br />Use the link <a href=\"https://cse.moodle.iith.ac.in/moodle\" target=\"_blank\" rel=\"noopener noreferrer\">https://cse.moodle.iith.ac.in/moodle/</a> to register on Moodle.<br />After registering on Moodle, use the link <a href=\"https://moodle.cse.iith.ac.in/moodle/course/view.php?id=37\" target=\"_blank\" rel=\"noopener noreferrer\">https://moodle.cse.iith.ac.in/moodle/course/view.php?id=37</a> to self-enrol for the course on Moodle.<br />Use the access code <bf>cs6660</bf> at the time of self-enrollment."
         },
         {
-          "date": "22 Aug 2024",
-          "content": "Classes begin.<br />Practice problems to be distributed during the course, and quizzes based on practice problems to be conducted online via Moodle platform.<br />Mid-term exam 1 to be conducted on 11 Oct 2024.<br />Final exam date to be announced later.<br />All course related announcements will take place over Google Classroom."
+          "date": "31 Aug 2026",
+          "content": "Practice Problems 01 posted.<br />Quiz 01 will be based on this set."
+        },
+        {
+          "date": "22 Aug 2026",
+          "content": "Classes begin.<br />Practice problems to be distributed during the course, and quizzes based on practice problems to be conducted online via Moodle platform.<br />Mid-term exam 1 to be conducted after the Dasara break.<br />Final exam date to be announced later.<br />All course related announcements will take place over Google Classroom."
         }
       ],
       "courseContents": [
@@ -4391,14 +4415,14 @@
         },
         {
           "title": "Notes",
-          "description": "This section will be updated with the slides used in class. As the classes progress, the notes from previous lectures will be made available accordingly. The slides provided here do not include the handwritten annotations used for in-class explanations. If you wish to access the annotated slides, please contact me directly.",
+          "description": "This section will be updated with the slides used in class. As the classes progress, the slides from previous lectures will be made available accordingly. The slides provided here do not include the handwritten annotations used for in-class explanations. If you wish to access the annotated slides, please contact me directly.",
           "list": [
             {
               "title": "<span>Course logistics.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "./media/2024/CS6660/CS6660-lecture-00.pdf",
+                  "link": "./media/2026/CS6660/2026-CS6660-lecture-00.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
@@ -4408,72 +4432,27 @@
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "./media/2024/CS6660/CS6660-lecture-01.pdf",
+                  "link": "./media/2026/CS6660/2026-CS6660-lecture-01.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
             },
             {
-              "title": "<span>Probability measures on discrete (countable) sample spaces, conditional probability, Bayes' theorem, law of total probability, independence of events, self-independent events, random variables as measurable functions, examples of random variables.</span>",
+              "title": "<span>Probability measures on discrete sample spaces, conditional probability, Bayes' theorem, law of total probability, independence of events, self-independent events, random variables as measurable functions, examples of random variables.</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "./media/2024/CS6660/CS6660-lecture-02.pdf",
+                  "link": "./media/2026/CS6660/2026-CS6660-lecture-02.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
             },
             {
-              "title": "<span>Cumulative distribution function (CDF), properties of CDF, discrete random variables, probability mass function (PMF), continuous random variables, probability density function (PDF), multiple random variables, joint CDF and its properties, independence of random variables in terms of joint CDF, self-independence of random variables, example problems.</span>",
+              "title": "<span>Cumulative distribution function (CDF), properties of CDF, discrete random variables, probability mass function (PMF).</span>",
               "badgesData": [
                 {
                   "badgeName": "notes",
-                  "link": "./media/2024/CS6660/CS6660-lecture-03.pdf",
-                  "badgeDisplayName": "slides"
-                },
-                {
-                  "badgeName": "notes",
-                  "link": "./media/2024/CS6660/CS6660-problems-01.pdf",
-                  "badgeDisplayName": "problems"
-                }
-              ]
-            },
-            {
-              "title": "<span>Implications of the definition of independence of two random variables, jointly discrete random variables, joint PMF, conditional PMF, jointly continuous random variables, joint PDF, conditional PDF, transformations of random variables.</span>",
-              "badgesData": [
-                {
-                  "badgeName": "notes",
-                  "link": "./media/2024/CS6660/CS6660-lecture-04.pdf",
-                  "badgeDisplayName": "slides"
-                }
-              ]
-            },
-            {
-              "title": "<span>Transformations of random variables, minimum and maximum of random variables, sum of two random variables, derivation of the PMF/PDF of the sum of two jointly discrete/continuous random variables, Jacobi's transformation formula for single variable case, Jacobi's transformation formula for multivariate case, primer on Riemann integration, expectations of simple, non-negative, and arbitrary random variables.",
-              "badgesData": [
-                {
-                  "badgeName": "notes",
-                  "link": "./media/2024/CS6660/CS6660-lecture-05.pdf",
-                  "badgeDisplayName": "slides"
-                }
-              ]
-            },
-            {
-              "title": "<span>Some simple properties of expectations of random variables, examples on computing expectations, variance, covariance, and correlation, correlation coefficient and the Cauchy--Schwartz inequality, uncorrelatedness and independence, conditional expectations and their computations for the cases of discrete and continuous random variables, preliminary examples on conditional expectations.",
-              "badgesData": [
-                {
-                  "badgeName": "notes",
-                  "link": "./media/2024/CS6660/CS6660-lecture-06.pdf",
-                  "badgeDisplayName": "slides"
-                }
-              ]
-            },
-            {
-              "title": "<span>Examples on conditional expectations (continued), law of iterated expectations, miscellaneous examples on conditional expectations, Gaussian random vectors.",
-              "badgesData": [
-                {
-                  "badgeName": "notes",
-                  "link": "./media/2024/CS6660/CS6660-lecture-07.pdf",
+                  "link": "./media/2026/CS6660/2026-CS6660-lecture-03.pdf",
                   "badgeDisplayName": "slides"
                 }
               ]
@@ -4485,45 +4464,10 @@
           "description": "",
           "list": [
             {
-              "title": "<span>Practice Problems 1.</span>",
+              "title": "<span>Practice Problems 01 (topics: sample space, events, probability measures).</span>",
               "badgesData": [
                 {
-                  "link": "./media/2024/CS6660/CS6660-practice-problems-01.pdf",
-                  "badgeDisplayName": "pdf"
-                },
-                {
-                  "link": "./media/2024/CS6660/CS6660-practice-problems-01-solutions.pdf",
-                  "badgeDisplayName": "solutions"
-                }
-              ]
-            },
-            {
-              "title": "<span>Practice Problems 2.</span>",
-              "badgesData": [
-                {
-                  "link": "./media/2024/CS6660/CS6660-practice-problems-02.pdf",
-                  "badgeDisplayName": "pdf"
-                },
-                {
-                  "link": "./media/2024/CS6660/CS6660-practice-problems-02-solutions.pdf",
-                  "badgeDisplayName": "solutions"
-                }
-              ]
-            },
-            {
-              "title": "<span>Practice Problems 3.</span>",
-              "badgesData": [
-                {
-                  "link": "./media/2024/CS6660/CS6660-practice-problems-03.pdf",
-                  "badgeDisplayName": "pdf"
-                }
-              ]
-            },
-            {
-              "title": "<span>Practice Problems 4.</span>",
-              "badgesData": [
-                {
-                  "link": "./media/2024/CS6660/CS6660-practice-problems-04.pdf",
+                  "link": "./media/2026/CS6660/2026-CS6660-practice-problems-01.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]
@@ -4534,58 +4478,6 @@
           "title": "Quizzes and Mid-Terms",
           "description": "",
           "list": [
-            {
-              "title": "<span>Quiz 1.</span>",
-              "badgesData": [
-                {
-                  "link": "./media/2024/CS6660/CS6660-quiz-01.pdf",
-                  "badgeDisplayName": "pdf"
-                },
-                {
-                  "link": "./media/2024/CS6660/CS6660-quiz-01-solutions.pdf",
-                  "badgeDisplayName": "solutions"
-                }
-              ]
-            },
-            {
-              "title": "<span>Quiz 2.</span>",
-              "badgesData": [
-                {
-                  "link": "./media/2024/CS6660/CS6660-quiz-02.pdf",
-                  "badgeDisplayName": "pdf"
-                },
-                {
-                  "link": "./media/2024/CS6660/CS6660-quiz-02-solutions.pdf",
-                  "badgeDisplayName": "solutions"
-                }
-              ]
-            },
-            {
-              "title": "<span>Quiz 3.</span>",
-              "badgesData": [
-                {
-                  "link": "./media/2024/CS6660/CS6660-quiz-03.pdf",
-                  "badgeDisplayName": "pdf"
-                },
-                {
-                  "link": "./media/2024/CS6660/CS6660-quiz-03-solutions.pdf",
-                  "badgeDisplayName": "solutions"
-                }
-              ]
-            },
-            {
-              "title": "<span>Mid Term Exam 1.</span>",
-              "badgesData": [
-                {
-                  "link": "./media/2024/CS6660/CS6660-midterm-01.pdf",
-                  "badgeDisplayName": "pdf"
-                },
-                {
-                  "link": "./media/2024/CS6660/CS6660-midterm-01-solutions.pdf",
-                  "badgeDisplayName": "solutions"
-                }
-              ]
-            }
           ]
         },
         {
@@ -4614,11 +4506,6 @@
           "description": "",
           "isCard": true,
           "list": [
-            {
-              "name": "Piyushi Manupriya",
-              "link": "https://piyushi-0.github.io/",
-              "profilePhoto": "piyushi-manupriya.jpg"
-            }
           ]
         }
       ]

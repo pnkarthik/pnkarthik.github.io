@@ -16,6 +16,16 @@
   "iith": [
     {
       "term": "Jul-Nov 2026",
+      "courseCode": "CS6660",
+      "courseTitle": "Mathematical Foundations of Data Science",
+      "courseLink": "#/teaching/MDS-Probability-2026",
+      "noOfStudents": "25",
+      "courseRating": "",
+      "instructorRating": "",
+      "feedback": ""
+    },
+    {
+      "term": "Jul-Nov 2026",
       "courseCode": "AI3000",
       "courseTitle": "Reinforcement Learning",
       "courseLink": "#/teaching/Reinforcement-Learning-2026",
@@ -30,9 +40,9 @@
       "courseTitle": "Concentration Inequalities",
       "courseLink": "#/teaching/Concentration-Inequalities-2026",
       "noOfStudents": "59",
-      "courseRating": "",
-      "instructorRating": "",
-      "feedback": ""
+      "courseRating": "4.43",
+      "instructorRating": "4.61",
+      "feedback": "./media/2026/AI2200/2026-AI2200-course-feedback.pdf"
     },
     {
       "term": "Mar-Apr 2026",
