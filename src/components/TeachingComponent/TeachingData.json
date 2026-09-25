@@ -4396,6 +4396,10 @@
       "courseDescription": "Welcome to CS6660! This is a graduate-level course on probability and linear algebra, tailored to professionals working in the industry and enrolled in the online <a href=\"https://cse.iith.ac.in/admissions/mtechInDataScience.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">M.Tech in Data Science</a> program. The first part of the course (handled by Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a>) will deal an introduction to the modern theory of probability as expounded by Andrey Kolmogorov, while the second half (handled by Prof. <a href=\"https://sites.google.com/site/prataprameshwaryadav/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rameshwar Pratap</a>) will introduce the students to the fundamentals of linear algebra underpinning core problems in machine learning. See below for a comprehensive list of topics in probability that will be covered in the course.",
       "courseAnnouncements": [
         {
+          "date": "22 Sep 2026",
+          "content": "Practice Problems 02 posted.<br />Quiz 02 will be based on this set."
+        },
+        {
           "date": "05 Sep 2026",
           "content": "Quiz 01 to be conducted on 12 Sep 2026 via Moodle platform.<br />Use the link <a href=\"https://cse.moodle.iith.ac.in/moodle\" target=\"_blank\" rel=\"noopener noreferrer\">https://cse.moodle.iith.ac.in/moodle/</a> to register on Moodle.<br />After registering on Moodle, use the link <a href=\"https://moodle.cse.iith.ac.in/moodle/course/view.php?id=37\" target=\"_blank\" rel=\"noopener noreferrer\">https://moodle.cse.iith.ac.in/moodle/course/view.php?id=37</a> to self-enrol for the course on Moodle.<br />Use the access code <bf>cs6660</bf> at the time of self-enrollment."
         },
@@ -4456,6 +4460,26 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Continuous random variables, probability density function (PDF), examples of PDFs, emphasising the fact that PDF is not a probability, joint CDF, properties of joint CDF, independence of random variables, self-independent random variables, conditional CDF, jointly discrete random variables, joint PMF, properties of joint PMF, conditional PMF.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/CS6660/2026-CS6660-lecture-04.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Independence of jointly discrete random variables, jointly continuous random variables, joint PDF, properties of joint PDF, conditional PDF, independence and joint continuity, example problems.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/CS6660/2026-CS6660-lecture-05.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -4471,6 +4495,15 @@
                   "badgeDisplayName": "pdf"
                 }
               ]
+            },
+            {
+              "title": "<span>Practice Problems 02 (topics: independence, jointly discrete and jointly continuous random variables).</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2026/CS6660/2026-CS6660-practice-problems-02.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
             }
           ]
         },
@@ -4478,6 +4511,15 @@
           "title": "Quizzes and Mid-Terms",
           "description": "",
           "list": [
+            {
+              "title": "<span>Quiz 01.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2026/CS6660/2026-CS6660-quiz-01.pdf",
+                  "badgeDisplayName": "quiz"
+                }
+              ]
+            }
           ]
         },
         {
@@ -4506,6 +4548,11 @@
           "description": "",
           "isCard": true,
           "list": [
+            {
+              "name": "Kunal Tilaganji",
+              "link": "https://sites.google.com/view/kunaltilaganji/home",
+              "profilePhotoPath": "/images/TeachingAssistantsPhotos/kunal-tilaganji.jpg"
+            }
           ]
         }
       ]
