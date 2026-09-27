@@ -4102,6 +4102,18 @@
       "noOfCredits": 3,
       "courseDescription": "This course introduces the foundations of reinforcement learning, with emphasis on sequential decision-making under uncertainty. Topics include multi-armed bandits, Markov decision processes, dynamic programming, Monte Carlo methods, temporal-difference learning, value-function approximation, and policy-gradient methods. Students will learn to formulate reinforcement-learning problems, analyze core algorithms, and implement them in practical settings.",
       "courseAnnouncements": [
+       {
+          "date": "21 Sep 2026",
+          "content": "Lecture on 25 Sep 2026 (Friday) is cancelled due to OCS Career Fair.<br />As a means of compensating for the lectures lost on 15 Sep 2026 and 25 Sep 2026, all Tuesday lectures starting with the lecture on 29 Sep 2026 will begin early by 30 mins."
+        },
+        {
+          "date": "15 Sep 2026",
+          "content": "Lecture on 15 Sep 2026 (Tuesday) is cancelled due to personal reasons."
+        },
+        {
+          "date": "07 Sep 2026",
+          "content": "Quiz 02 to be conducted on 12 Sep 2026 (Saturday) from 18:00 hrs to 19:00 hrs in CHE-LH1.<br />Mid-Term Exam to be conducted on 16 Sep 2026 (Wednesday) from 18:30-20:40 in CHE-LH1."
+        },
         {
           "date": "28 Aug 2026",
           "content": "Quiz 01 to be conducted on 29 Aug 2026 (Saturday) from 18:00 hrs to 19:00 hrs in CHE-LH1."
@@ -4249,6 +4261,46 @@
                   "badgeDisplayName": "notes"
                 }
               ]
+            },
+            {
+              "title": "<span>Parameter estimation for value function approximation in linear architectures, Bellman residual minimisation, projection error minimisation, the least squares policy evaluation (LSPE) algorithm for linear, non-linear, and neural network architectures.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-13.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>Weighted least squares, the weighted least squares operator $\\Pi_{W}$ with respect to a symmetric, positive definite weight matrix $W$, proof that the operator $\\Pi_{W} L_{\\phi}$ is a contraction under the Mahalanobis norm $\\|\\cdot\\|_{W}$, weighted least sqaures variant of LSPE algorithm, simulation-based weighted least squares LSPE algorithm.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-14.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>Least squared value iteration (LSVI), least squares policy iteration (LSPI), least squares modified policy iteration (LSMPI) algorithms under linear architectures, LSVI and LSPI algorithms for non-linear architectures.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-15.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>Proof of optimality of Markovian policies for the discounted reward criterion, introduction to simulation in tabular models, working of Monte-Carlo method, temporal differencing method, and Q-learning method for the newsvendor problem, introduction to greedy policies, $\\varepsilon$-greedy policies, softmax selection.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-16.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
             }
           ]
         },
@@ -4327,6 +4379,26 @@
                   "badgeDisplayName": "pdf"
                 }
               ]
+            },
+            {
+              "title": "<span>Quiz 02.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-quiz-02.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Mid-Term Exam.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-midterm-exam.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
             }
           ]
         },
@@ -4395,6 +4467,10 @@
       "noOfCredits": 3,
       "courseDescription": "Welcome to CS6660! This is a graduate-level course on probability and linear algebra, tailored to professionals working in the industry and enrolled in the online <a href=\"https://cse.iith.ac.in/admissions/mtechInDataScience.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">M.Tech in Data Science</a> program. The first part of the course (handled by Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a>) will deal an introduction to the modern theory of probability as expounded by Andrey Kolmogorov, while the second half (handled by Prof. <a href=\"https://sites.google.com/site/prataprameshwaryadav/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rameshwar Pratap</a>) will introduce the students to the fundamentals of linear algebra underpinning core problems in machine learning. See below for a comprehensive list of topics in probability that will be covered in the course.",
       "courseAnnouncements": [
+        {
+          "date": "26 Sep 2026",
+          "content": "Extra lecture to be conducted on 02 Oct 2026 (Friday).<br />The final lecture for the probability portion will be conducted on 03 Oct 2026."
+        },
         {
           "date": "22 Sep 2026",
           "content": "Practice Problems 02 posted.<br />Quiz 02 will be based on this set."
@@ -4480,6 +4556,16 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>Independent and identically distributed (IID) random variables, transformations part 1: minimum and maximum of random variables, distribution of the sum of random variables, distribution of the sum of independent random variables, general transformations (introduction), example problems.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/CS6660/2026-CS6660-lecture-06.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -4504,6 +4590,15 @@
                   "badgeDisplayName": "pdf"
                 }
               ]
+            },
+            {
+              "title": "<span>Practice Problems 03.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2026/CS6660/2026-CS6660-practice-problems-03.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
             }
           ]
         },
@@ -4516,6 +4611,15 @@
               "badgesData": [
                 {
                   "link": "./media/2026/CS6660/2026-CS6660-quiz-01.pdf",
+                  "badgeDisplayName": "quiz"
+                }
+              ]
+            },
+            {
+              "title": "<span>Quiz 02.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2026/CS6660/2026-CS6660-quiz-02.pdf",
                   "badgeDisplayName": "quiz"
                 }
               ]
@@ -4552,6 +4656,11 @@
               "name": "Kunal Tilaganji",
               "link": "https://sites.google.com/view/kunaltilaganji/home",
               "profilePhotoPath": "/images/TeachingAssistantsPhotos/kunal-tilaganji.jpg"
+            },
+            {
+              "name": "Lokesh Badisa",
+              "link": "https://www.linkedin.com/in/lokesh-badisa-26633823b/",
+              "profilePhotoPath": "/images/TeachingAssistantsPhotos/lokesh-badisa.jpg"
             }
           ]
         }

@@ -177,6 +177,11 @@
           "badgeName": "arxiv",
           "link": "https://arxiv.org/abs/2602.05690",
           "badgeDisplayName": "arxiv"
+        },
+        {
+          "badgeName": "xplore",
+          "link": "https://ieeexplore.ieee.org/document/11695254",
+          "badgeDisplayName": "xplore"
         }
       ]
     },
