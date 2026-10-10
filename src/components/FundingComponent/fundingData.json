@@ -1,5 +1,14 @@
 [
   {
+    "scheme": "Sponsored Project</a>",
+    "sponsor": "<a href=\"https://www.indiascienceandtechnology.gov.in/organisations/ministry-and-departments/defence-research-and-development-organisation-drdo-govt-india/defence-electronics-research-laboratory-dlrl\" target=\"_blank\" rel=\"noopener noreferrer\">DLRL, Hyderabad</a>",
+    "from": "Sep 2026",
+    "to": "Aug 2029",
+    "amount": "57,26,540",
+    "schemeDetails": "Serving as Co-PI alongside <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\"  rel=\"noopener noreferrer\">Dr. Saketha Nath</a>",
+    "sponsorDetails": "Defence Electronics Research Laboratory"
+  },
+  {
     "scheme": "<a href=\"https://anrfonline.in/ANRF/ecrg_anrf?HomePage=New\" target=\"_blank\"  rel=\"noopener noreferrer\">Prime Minister Early Career Research Grant (PMECRG)</a>",
     "sponsor": "<a href=\"https://www.anrfonline.in/ANRF/HomePage\" target=\"_blank\" rel=\"noopener noreferrer\">ANRF</a>",
     "from": "Jun 2026",
@@ -7,15 +16,6 @@
     "amount": "70,99,200",
     "schemeDetails": "Research support for early career researchers",
     "sponsorDetails": "Anusandhan National Research Foundation"
-  },
-  {
-    "scheme": "Sponsored Project</a>",
-    "sponsor": "<a href=\"https://www.indiascienceandtechnology.gov.in/organisations/ministry-and-departments/defence-research-and-development-organisation-drdo-govt-india/defence-electronics-research-laboratory-dlrl\" target=\"_blank\" rel=\"noopener noreferrer\">DLRL, Hyderabad</a>",
-    "from": "Apr 2026",
-    "to": "Jan 2029",
-    "amount": "57,26,540",
-    "schemeDetails": "Serving as Co-PI alongside <a href=\"https://people.iith.ac.in/saketha/\" target=\"_blank\"  rel=\"noopener noreferrer\">Dr. Saketha Nath</a>",
-    "sponsorDetails": "Defence Electronics Research Laboratory"
   },
   {
     "scheme": "Seed Grant",

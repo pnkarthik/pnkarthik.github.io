@@ -1,5 +1,15 @@
 [
   {
+    "date": "07 Oct 2026",
+    "content": "Attending <a href=\"https://sites.google.com/view/lps-2026\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">LPS 2026</a> at IIT Kanpur during 30 Nov 2026 to 05 Dec 2026.",
+    "isArchived": false
+  },
+  {
+    "date": "08 Sep 2026",
+    "content": "Invited to attend the <a href=\"https://rsvp.withgoogle.com/events/gdmrs26\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Google DeepMind (GDM) APAC Research Symposium</a> at the Google Ananta office in Bengaluru on 28 October 2026.<br />My sincere thanks to Dr. <a href=\"https://sites.google.com/view/karthikeyan-shanmugam\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Karthikeyan Shanmugam</a> and the other organisers for the kind invite.",
+    "isArchived": false
+  },
+  {
     "date": "03 Sep 2026",
     "content": "Paper on <em>Almost Asymptotically Optimal Active Clustering Through Pairwise Observations</em> accepted to the IEEE Transactions on Information Theory! <br />Joint work with <a href=\"https://rachtsy.github.io/\" rel=\"noopener noreferrer\"<strong>Rachel S. Y. Teo</strong></a>, <a href=\"https://ramyakv.github.io\" rel=\"noopener noreferrer\"<strong>Ramya Korlakai Vinayak</strong></a>, and <a href=\"https://vyftan.github.io\" rel=\"noopener noreferrer\"<strong>Vincent Y. F. Tan</strong></a>.<br />A talk based on this work that I gave at IISc Bengaluru in July 2026 may be accessed <a href=\"https://youtu.be/BheYcKPTBzQ?t=158\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">here</a>.",
     "isArchived": false

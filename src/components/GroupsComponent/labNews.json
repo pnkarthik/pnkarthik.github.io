@@ -1,11 +1,16 @@
 [
   {
-    "date": "02 July 2026",
+    "date": "09 Oct 2026",
+    "content": "Sofia invited to attend the <a href=\"https://rsvp.withgoogle.com/events/gdmrs26\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Google DeepMind (GDM) APAC Research Symposium</a> at the Google Ananta office.<br />Hearty congratulations, Sofia!",
+    "isArchived": false
+  },
+  {
+    "date": "02 Jul 2026",
     "content": "Mahvith Akshintala joins the lab as Project Associate-I. Welcome, Mahvith!",
     "isArchived": false
   },
   {
-    "date": "22 June 2026",
+    "date": "22 Jun 2026",
     "content": "Sofia successfully completed her Research Proposal Seminar (RPS). Congratulations, Sofia!<br />This marks Sofia's successful upgradation from JRF to SRF.",
     "isArchived": false,
     "badgesData": [
@@ -17,7 +22,7 @@
     ]
   },
   {
-    "date": "12 June 2026",
+    "date": "12 Jun 2026",
     "content": "Midhun and Deekshith successfully completed their MTech thesis final presentations!<br />Congratulations, Midhun and Deekshith!",
     "isArchived": false,
     "badgesData": [

@@ -4301,6 +4301,36 @@
                   "badgeDisplayName": "notes"
                 }
               ]
+            },
+            {
+              "title": "<span>A recap of Monte-Carlo, TD, and Q-learning methods for the newsvendor problem, a walkthrough the numerical studies on these methods from Chapter 10 of Puterman and Chan, simulation for policy evaluation in episodic models, starting-state Monte-Carlo method, first-visit Monte-Carlo method.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-17.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>Temporal differencing methods for estimating the policy value function in episodic models, stochastic approximation principle, Robbins-Monro step size criterion, offline $\\mathrm{TD}(0)$, online $\\mathrm{TD}(0)$, offline $\\mathrm{TD}(\\gamma)$, online $\\mathrm{TD}(\\gamma)$, eligibility traces: accumulation trace and replacement trace.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-18.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
+            },
+            {
+              "title": "<span>Simulation in infinite horizon discounted reward models, Monte Carlo methods: truncation technique and Geometric stopping time technique, online $\\mathrm{TD}(\\gamma)$, policy optimisation in episodic models and discounted reward models, Q-learning definitions of on-policy (behavioural or learning policy) and off-policy algorithms, greedy sampling, $\\varepsilon$-greedy sampling, softmax (Boltzmann) sampling, Q-learning algorithm and SARSA algorithms for episodic and discounted reward models.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-lecture-19.pdf",
+                  "badgeDisplayName": "notes"
+                }
+              ]
             }
           ]
         },
@@ -4352,12 +4382,42 @@
                   "badgeDisplayName": "solutions"
                 }
               ]
+            },
+            {
+              "title": "<span>TA Sessions 03 and 04: discussion of solutions to quiz and mid-term exam questions.</span>",
+              "badgesData": [
+              ]
+            },
+            {
+              "title": "<span>TA Session 05</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-tutorial-05.pdf",
+                  "badgeDisplayName": "questions"
+                },
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-tutorial-05-solutions.pdf",
+                  "badgeDisplayName": "solutions"
+                }
+              ]
+            },
+            {
+              "title": "<span>TA Session 06</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-tutorial-06.pdf",
+                  "badgeDisplayName": "questions"
+                }
+              ]
             }
           ]
         },
 
         {
-          "title": "Practice Problems and Exams",
+          "title": "Practice Problems, Quizzes, and Exams",
           "description": "",
           "list": [
             {
@@ -4381,6 +4441,16 @@
               ]
             },
             {
+              "title": "<span>Practice Problems 02</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-practice-problems-02.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
               "title": "<span>Quiz 02.</span>",
               "badgesData": [
                 {
@@ -4396,6 +4466,16 @@
                 {
                   "badgeName": "notes",
                   "link": "./media/2026/AI3000/2026-AI3000-midterm-exam.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Practice Problems 03</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/AI3000/2026-AI3000-practice-problems-03.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]
@@ -4467,6 +4547,10 @@
       "noOfCredits": 3,
       "courseDescription": "Welcome to CS6660! This is a graduate-level course on probability and linear algebra, tailored to professionals working in the industry and enrolled in the online <a href=\"https://cse.iith.ac.in/admissions/mtechInDataScience.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">M.Tech in Data Science</a> program. The first part of the course (handled by Dr. <a href=\"https://karthikpn.com\" target=\"_blank\" rel=\"noopener noreferrer\">P. N. Karthik</a>) will deal an introduction to the modern theory of probability as expounded by Andrey Kolmogorov, while the second half (handled by Prof. <a href=\"https://sites.google.com/site/prataprameshwaryadav/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rameshwar Pratap</a>) will introduce the students to the fundamentals of linear algebra underpinning core problems in machine learning. See below for a comprehensive list of topics in probability that will be covered in the course.",
       "courseAnnouncements": [
+        {
+          "date": "03 Oct 2026",
+          "content": "Lectures for the probability portion come to an end.<br />Mid-Term Exam will be conducted in two sessions: one on 18 Oct 2026 and the other on 25 Oct 2026.<br />Students may attend one of these sessions as per their convenience."
+        },
         {
           "date": "26 Sep 2026",
           "content": "Extra lecture to be conducted on 02 Oct 2026 (Friday).<br />The final lecture for the probability portion will be conducted on 03 Oct 2026."
@@ -4566,6 +4650,26 @@
                   "badgeDisplayName": "slides"
                 }
               ]
+            },
+            {
+              "title": "<span>General transformations, Jacobi's transformation formula for transformation of a single random variable, multivariate transformations and Jacobian formula, example problems.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/CS6660/2026-CS6660-lecture-07.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
+            },
+            {
+              "title": "<span>Primer on Riemann integration, expectations, properties of expectations, variance, covariance, correlation, correlation coefficient, Cauchy-Schwarz inequality, conditional expectations, examples.</span>",
+              "badgesData": [
+                {
+                  "badgeName": "notes",
+                  "link": "./media/2026/CS6660/2026-CS6660-lecture-08.pdf",
+                  "badgeDisplayName": "slides"
+                }
+              ]
             }
           ]
         },
@@ -4596,6 +4700,15 @@
               "badgesData": [
                 {
                   "link": "./media/2026/CS6660/2026-CS6660-practice-problems-03.pdf",
+                  "badgeDisplayName": "pdf"
+                }
+              ]
+            },
+            {
+              "title": "<span>Practice Problems 04.</span>",
+              "badgesData": [
+                {
+                  "link": "./media/2026/CS6660/2026-CS6660-practice-problems-04.pdf",
                   "badgeDisplayName": "pdf"
                 }
               ]

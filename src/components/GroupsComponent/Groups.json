@@ -1,6 +1,18 @@
 {
   "currentStudents": [
     {
+    "fullName": "Shresth Sarthak Awasthi",
+    "department": "AI",
+    "program": "Ph.D. (JRF)",
+    "batch": "2026",
+    "institute": "IIT Hyderabad",
+    "duration": "Aug 2026 -",
+    "photo": "shresth.jpeg",
+    "websiteLink": "https://www.linkedin.com/in/shresth-sarthak-awasthi-414015186",
+    "role": "Intern",
+    "jointSupervision": "Jointly with <a href=\"https://people.iith.ac.in/pjampana/\" target=\"_blank\" rel=\"noopener noreferrer\">Dr. Phanindra Jampana</a>"
+  },
+    {
     "fullName": "Mahvith Akshintala",
     "department": "AI",
     "batch": "2026",
